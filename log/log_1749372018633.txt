@@ -1,0 +1,8 @@
+2025-06-08 17:40:17 [OBDHelper] Connected to OBD device
+2025-06-08 17:40:17 [OBDHelper] Response for ATZ: OKELM327 v2.1
+2025-06-08 17:40:17 [OBDHelper] Response for ATE0: OK
+2025-06-08 17:40:17 [OBDHelper] Response for ATL0: OK
+2025-06-08 17:40:18 [OBDHelper] Response for ATS0: OK
+2025-06-08 17:40:18 [OBDHelper] Response for ATH1: OK
+2025-06-08 17:40:18 [OBDHelper] Response for ATSP0: OK
+2025-06-08 17:40:18 [OBDHelper] Response for 010D: SEARCHING...
