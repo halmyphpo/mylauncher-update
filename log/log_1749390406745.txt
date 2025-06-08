@@ -1,0 +1,11 @@
+2025-06-08 22:46:27 [OBDHelper] Bluetooth not available or not enabled
+2025-06-08 22:46:28 [OBDHelper] Bluetooth not available or not enabled
+2025-06-08 22:46:30 [OBDHelper] Bluetooth not available or not enabled
+2025-06-08 22:46:32 [OBDHelper] Bluetooth not available or not enabled
+2025-06-08 22:46:34 [OBDHelper] Bluetooth not available or not enabled
+2025-06-08 22:46:36 [OBDHelper] Bluetooth not available or not enabled
+2025-06-08 22:46:38 [OBDHelper] Bluetooth not available or not enabled
+2025-06-08 22:46:40 [OBDHelper] Bluetooth not available or not enabled
+2025-06-08 22:46:42 [OBDHelper] Bluetooth not available or not enabled
+2025-06-08 22:46:44 [OBDHelper] Bluetooth not available or not enabled
+2025-06-08 22:46:46 [OBDHelper] Bluetooth not available or not enabled
