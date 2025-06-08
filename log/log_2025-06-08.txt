@@ -1,1 +1,0 @@
-2025-06-08 18:44:24 [OBDHelper] Bluetooth not available or not enabled
