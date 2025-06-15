@@ -1,0 +1,1 @@
+2025-06-15 11:46:06 [LogHelper] Upload all log and delete
