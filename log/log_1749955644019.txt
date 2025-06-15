@@ -1,0 +1,71 @@
+2025-06-15 11:46:06 [LogHelper] Upload all log and delete
+2025-06-15 11:46:27 [OBDHelper] Connected to OBD device
+2025-06-15 11:46:27 [OBDHelper] Response for ATZ: OKELM327 v2.1
+2025-06-15 11:46:27 [OBDHelper] Response for ATE0: OK
+2025-06-15 11:46:27 [OBDHelper] Response for ATL0: OK
+2025-06-15 11:46:28 [OBDHelper] Response for ATS0: OK
+2025-06-15 11:46:28 [OBDHelper] Response for ATH1: OK
+2025-06-15 11:46:28 [OBDHelper] Response for ATSP0: OK
+2025-06-15 11:46:28 [OBDHelper] Response for 010D: SEARCHING...18DAF11D03410D0018DAF11103410D00
+2025-06-15 11:46:28 [OBDHelper] Response for 010C: 18DAF11104410C0C8818DAF11D04410C0C84
+2025-06-15 11:46:28 [OBDHelper] Response for 0105: 18DAF1110341057A18DAF11D0341057A
+2025-06-15 11:46:29 [OBDHelper] Response for 0104: 18DAF1110341046318DAF11D03410463
+2025-06-15 11:46:29 [OBDHelper] Response for 012F: NO DATA
+2025-06-15 11:46:29 [OBDHelper] Response for 0111: 18DAF1110341112818DAF11D03411129
+2025-06-15 11:46:29 [OBDHelper] Response for 0142: 18DAF111044142366518DAF11D0441423665
+2025-06-15 11:46:30 [OBDHelper] Response for 010D: 18DAF11103410D0018DAF11D03410D00
+2025-06-15 11:46:30 [OBDHelper] Response for 010C: 18DAF11104410C0C6818DAF11D04410C0C70
+2025-06-15 11:46:30 [OBDHelper] Response for 0105: 18DAF1110341057B18DAF11D0341057B
+2025-06-15 11:46:30 [OBDHelper] Response for 0104: 18DAF1110341046318DAF11D03410463
+2025-06-15 11:46:31 [OBDHelper] Response for 012F: NO DATA
+2025-06-15 11:46:31 [OBDHelper] Response for 0111: 18DAF1110341112818DAF11D03411128
+2025-06-15 11:46:31 [OBDHelper] Response for 0142: 18DAF111044142367E18DAF11D044142367E
+2025-06-15 11:46:32 [OBDHelper] Response for 010D: 18DAF11103410D0018DAF11D03410D00
+2025-06-15 11:46:32 [OBDHelper] Response for 010C: 18DAF11104410C0C8C18DAF11D04410C0C8C
+2025-06-15 11:46:32 [OBDHelper] Response for 0105: 18DAF1110341057A18DAF11D0341057A
+2025-06-15 11:46:32 [OBDHelper] Response for 0104: 18DAF1110341045D18DAF11D03410464
+2025-06-15 11:46:33 [OBDHelper] Response for 012F: NO DATA
+2025-06-15 11:46:33 [OBDHelper] Response for 0111: 18DAF1110341112818DAF11D03411128
+2025-06-15 11:46:33 [OBDHelper] Response for 0142: 18DAF111044142364C18DAF11D04414235E8
+2025-06-15 11:46:34 [OBDHelper] Response for 010D: 18DAF11103410D0018DAF11D03410D00
+2025-06-15 11:46:34 [OBDHelper] Response for 010C: 18DAF11104410C0C7818DAF11D04410C0C78
+2025-06-15 11:46:34 [OBDHelper] Response for 0105: 18DAF1110341057B18DAF11D0341057B
+2025-06-15 11:46:34 [OBDHelper] Response for 0104: 18DAF1110341045F18DAF11D0341045F
+2025-06-15 11:46:34 [OBDHelper] Response for 012F: NO DATA
+2025-06-15 11:46:35 [OBDHelper] Response for 0111: 18DAF1110341112818DAF11D03411128
+2025-06-15 11:46:35 [OBDHelper] Response for 0142: 18DAF111044142367E18DAF11D0441423665
+2025-06-15 11:46:36 [OBDHelper] Response for 010D: 18DAF11103410D0018DAF11D03410D00
+2025-06-15 11:46:36 [OBDHelper] Response for 010C: 18DAF11104410C0C7C18DAF11D04410C0C78
+2025-06-15 11:46:36 [OBDHelper] Response for 0105: 18DAF1110341057B18DAF11D0341057B
+2025-06-15 11:46:36 [OBDHelper] Response for 0104: 18DAF1110341046218DAF11D03410462
+2025-06-15 11:46:36 [OBDHelper] Response for 012F: NO DATA
+2025-06-15 11:46:36 [OBDHelper] Response for 0111: 18DAF1110341112818DAF11D03411128
+2025-06-15 11:46:36 [OBDHelper] Response for 0142: 18DAF11104414235CF18DAF11D044142361A
+2025-06-15 11:46:58 [OBDHelper] java.io.IOException: read failed, socket might closed or timeout, read ret: -1
+	at android.bluetooth.BluetoothSocket.readAll(BluetoothSocket.java:685)
+	at android.bluetooth.BluetoothSocket.waitSocketSignal(BluetoothSocket.java:644)
+	at android.bluetooth.BluetoothSocket.connect(BluetoothSocket.java:378)
+	at com.jewelry.mylauncher.OBDHelper.connectToOBD(OBDHelper.java:51)
+	at com.jewelry.mylauncher.MainActivity.lambda$onCreate$6$com-jewelry-mylauncher-MainActivity(MainActivity.java:341)
+	at com.jewelry.mylauncher.MainActivity$$ExternalSyntheticLambda13.onClick(D8$$SyntheticClass:0)
+	at android.view.View.performClick(View.java:6301)
+	at com.google.android.material.button.MaterialButton.performClick(MaterialButton.java:1213)
+	at android.view.View$PerformClick.run(View.java:24993)
+	at android.os.Handler.handleCallback(Handler.java:790)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at android.os.Looper.loop(Looper.java:164)
+	at android.app.ActivityThread.main(ActivityThread.java:6523)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:438)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:940)
+
+2025-06-15 11:47:22 [OBDHelper] Connected to OBD device
+2025-06-15 11:47:22 [OBDHelper] Response for ATZ: OKELM327 v2.1
+2025-06-15 11:47:22 [OBDHelper] Response for ATE0: OK
+2025-06-15 11:47:22 [OBDHelper] Response for ATL0: OK
+2025-06-15 11:47:23 [OBDHelper] Response for ATS0: OK
+2025-06-15 11:47:23 [OBDHelper] Response for ATH1: OK
+2025-06-15 11:47:23 [OBDHelper] Response for ATSP0: OK
+2025-06-15 11:47:23 [OBDHelper] Response for 010D: SEARCHING...18DAF11103410D1918DAF11D03410D19
+2025-06-15 11:47:23 [OBDHelper] Response for 010C: 18DAF11104410C112C18DAF11D04410C1130
+2025-06-15 11:47:24 [OBDHelper] Response for 0105: 18DAF1110341057A18DAF11D0341057A
