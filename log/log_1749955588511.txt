@@ -1,0 +1,9 @@
+2025-06-15 11:46:06 [LogHelper] Upload all log and delete
+2025-06-15 11:46:27 [OBDHelper] Connected to OBD device
+2025-06-15 11:46:27 [OBDHelper] Response for ATZ: OKELM327 v2.1
+2025-06-15 11:46:27 [OBDHelper] Response for ATE0: OK
+2025-06-15 11:46:27 [OBDHelper] Response for ATL0: OK
+2025-06-15 11:46:28 [OBDHelper] Response for ATS0: OK
+2025-06-15 11:46:28 [OBDHelper] Response for ATH1: OK
+2025-06-15 11:46:28 [OBDHelper] Response for ATSP0: OK
+2025-06-15 11:46:28 [OBDHelper] Response for 010D: SEARCHING...18DAF11D03410D0018DAF11103410D00
