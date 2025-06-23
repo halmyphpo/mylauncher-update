@@ -1,0 +1,19 @@
+2025-06-15 01:18:12 [OBDHelper] Bluetooth not available or not enabled
+2025-06-15 01:18:12 [OBDHelper] Bluetooth not available or not enabled
+2025-06-15 01:18:15 [OBDHelper] Bluetooth not available or not enabled
+2025-06-15 01:18:17 [OBDHelper] Bluetooth not available or not enabled
+2025-06-15 01:18:19 [OBDHelper] Bluetooth not available or not enabled
+2025-06-15 01:18:21 [OBDHelper] Bluetooth not available or not enabled
+2025-06-15 01:18:23 [OBDHelper] Bluetooth not available or not enabled
+2025-06-15 01:18:25 [OBDHelper] Bluetooth not available or not enabled
+2025-06-15 01:18:27 [OBDHelper] Bluetooth not available or not enabled
+2025-06-15 01:18:29 [OBDHelper] Bluetooth not available or not enabled
+2025-06-20 21:13:40 [LogHelper] Upload all log and delete
+2025-06-20 21:18:35 [LogHelper] Upload all log and delete
+2025-06-20 22:08:58 [LogHelper] Upload all log and delete
+2025-06-20 22:10:50 [LogHelper] Upload all log and delete
+2025-06-20 22:12:03 [LogHelper] Upload all log and delete
+2025-06-21 07:58:08 [LogHelper] Upload all log and delete
+2025-06-21 07:58:46 [LogHelper] Upload all log and delete
+2025-06-23 12:45:33 [LogHelper] Upload all log and delete
+2025-06-23 12:50:03 [LogHelper] Upload all log and delete
