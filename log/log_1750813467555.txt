@@ -1,0 +1,294 @@
+2025-06-15 01:18:12 [OBDHelper] Bluetooth not available or not enabled
+2025-06-15 01:18:12 [OBDHelper] Bluetooth not available or not enabled
+2025-06-15 01:18:15 [OBDHelper] Bluetooth not available or not enabled
+2025-06-15 01:18:17 [OBDHelper] Bluetooth not available or not enabled
+2025-06-15 01:18:19 [OBDHelper] Bluetooth not available or not enabled
+2025-06-15 01:18:21 [OBDHelper] Bluetooth not available or not enabled
+2025-06-15 01:18:23 [OBDHelper] Bluetooth not available or not enabled
+2025-06-15 01:18:25 [OBDHelper] Bluetooth not available or not enabled
+2025-06-15 01:18:27 [OBDHelper] Bluetooth not available or not enabled
+2025-06-15 01:18:29 [OBDHelper] Bluetooth not available or not enabled
+2025-06-20 21:13:40 [LogHelper] Upload all log and delete
+2025-06-20 21:18:35 [LogHelper] Upload all log and delete
+2025-06-20 22:08:58 [LogHelper] Upload all log and delete
+2025-06-20 22:10:50 [LogHelper] Upload all log and delete
+2025-06-20 22:12:03 [LogHelper] Upload all log and delete
+2025-06-21 07:58:08 [LogHelper] Upload all log and delete
+2025-06-21 07:58:46 [LogHelper] Upload all log and delete
+2025-06-24 15:08:08 [LogHelper] Upload all log and delete
+2025-06-24 15:08:15 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 15:21:21 [LogHelper] Upload all log and delete
+2025-06-24 15:58:10 [LogHelper] Upload all log and delete
+2025-06-24 16:31:01 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 16:31:02 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 16:31:09 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 17:02:22 [LogHelper] Upload all log and delete
+2025-06-24 17:03:30 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 17:03:30 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 17:03:31 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 17:07:22 [LogHelper] Upload all log and delete
+2025-06-24 17:07:27 [UncaughtException] java.lang.NullPointerException: Attempt to invoke virtual method 'com.mapbox.maps.plugin.annotation.Annotation com.mapbox.maps.plugin.annotation.generated.PointAnnotationManager.create(com.mapbox.maps.plugin.annotation.AnnotationOptions)' on a null object reference
+	at com.jewelry.mylauncher.MainActivity.updateMapLocation(MainActivity.java:963)
+	at com.jewelry.mylauncher.MainActivity.lambda$startLocationHandling$11$com-jewelry-mylauncher-MainActivity(MainActivity.java:740)
+	at com.jewelry.mylauncher.MainActivity$$ExternalSyntheticLambda9.onSuccess(D8$$SyntheticClass:0)
+	at com.google.android.gms.tasks.zzm.run(com.google.android.gms:play-services-tasks@@18.1.0:1)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+2025-06-24 17:07:31 [LogHelper] Upload all log and delete
+2025-06-24 17:07:37 [UncaughtException] java.lang.NullPointerException: Attempt to invoke virtual method 'com.mapbox.maps.plugin.annotation.Annotation com.mapbox.maps.plugin.annotation.generated.PointAnnotationManager.create(com.mapbox.maps.plugin.annotation.AnnotationOptions)' on a null object reference
+	at com.jewelry.mylauncher.MainActivity.updateMapLocation(MainActivity.java:963)
+	at com.jewelry.mylauncher.MainActivity.lambda$startLocationHandling$11$com-jewelry-mylauncher-MainActivity(MainActivity.java:740)
+	at com.jewelry.mylauncher.MainActivity$$ExternalSyntheticLambda9.onSuccess(D8$$SyntheticClass:0)
+	at com.google.android.gms.tasks.zzm.run(com.google.android.gms:play-services-tasks@@18.1.0:1)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+2025-06-24 17:28:09 [LogHelper] Upload all log and delete
+2025-06-24 17:28:16 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 17:29:47 [LogHelper] Upload all log and delete
+2025-06-24 22:11:24 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:11:25 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:11:34 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:11:43 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:11:53 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:12:03 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:12:12 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:12:22 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:12:31 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:12:41 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:12:42 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:12:51 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:13:00 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:13:10 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:13:25 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:13:35 [WeatherHelper] Đã xóa cache thời tiết và địa chỉ thành công.
+2025-06-24 22:13:36 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:13:43 [WeatherHelper] Đã xóa cache thời tiết và địa chỉ thành công.
+2025-06-24 22:13:45 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:13:46 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:14:11 [WeatherHelper] Đã xóa cache thời tiết và địa chỉ thành công.
+2025-06-24 22:14:13 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:14:41 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:14:41 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:22:06 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:23:09 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:36:03 [LogHelper] Upload all log and delete
+2025-06-24 22:36:22 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:36:29 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:36:39 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:36:39 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:36:49 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:36:58 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:39:17 [LogHelper] Upload all log and delete
+2025-06-24 22:39:24 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:40:38 [LogHelper] Upload all log and delete
+2025-06-24 22:40:45 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:40:45 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:41:51 [LogHelper] Upload all log and delete
+2025-06-24 22:42:00 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:42:07 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:42:50 [LogHelper] Upload all log and delete
+2025-06-24 22:43:16 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:44:33 [LogHelper] Upload all log and delete
+2025-06-24 22:45:03 [LogHelper] Upload all log and delete
+2025-06-24 22:45:38 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:53:32 [LogHelper] Upload all log and delete
+2025-06-24 22:59:34 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:59:41 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 22:59:59 [LogHelper] Upload all log and delete
+2025-06-24 23:03:55 [LogHelper] Upload all log and delete
+2025-06-24 23:09:13 [LogHelper] Upload all log and delete
+2025-06-24 23:09:21 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 23:14:11 [LogHelper] Upload all log and delete
+2025-06-24 23:25:07 [LogHelper] Upload all log and delete
+2025-06-24 23:37:50 [LogHelper] Upload all log and delete
+2025-06-24 23:46:41 [LogHelper] Upload all log and delete
+2025-06-24 23:47:12 [LogHelper] Upload all log and delete
+2025-06-24 23:47:18 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-24 23:47:19 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-24 23:47:19 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-24 23:47:20 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-24 23:47:21 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-24 23:47:22 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:18:15 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:18:26 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:18:27 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:18:27 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:18:28 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:18:29 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:18:29 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:18:30 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-25 09:18:30 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-25 09:18:30 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:18:31 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-25 09:18:32 [WeatherHelper] java.net.SocketTimeoutException: timeout
+	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:214)
+	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:263)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:217)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponseCode(HttpURLConnectionImpl.java:542)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getResponseCode(DelegatingHttpsURLConnection.java:106)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:30)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:134)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:919)
+Caused by: java.net.SocketException: socket is closed
+	at com.android.org.conscrypt.ConscryptFileDescriptorSocket$SSLInputStream.read(ConscryptFileDescriptorSocket.java:554)
+	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+	... 15 more
+
+2025-06-25 09:18:40 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:18:44 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:18:48 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:22 [LogHelper] Upload all log and delete
+2025-06-25 09:23:28 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:28 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:29 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-25 09:23:29 [WeatherHelper] Đã lưu địa chỉ và thời tiết online
+2025-06-25 09:23:30 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:31 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:32 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:33 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:34 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:35 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:36 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:37 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:38 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:39 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:40 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:41 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:42 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:43 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:44 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:45 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:46 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:47 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:48 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:49 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:51 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:51 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:23:52 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:40:48 [LogHelper] Upload all log and delete
+2025-06-25 09:40:53 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:40:54 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:40:54 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:40:55 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:40:56 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:40:57 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:40:58 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:40:59 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:41:00 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:41:01 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:41:03 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:45:56 [LogHelper] Upload all log and delete
+2025-06-25 09:46:02 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:46:02 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:46:02 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:46:03 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:46:04 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:46:05 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:46:06 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:46:07 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:46:08 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:46:09 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:46:10 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:46:11 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:46:12 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:46:13 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:46:14 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 09:46:16 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache
+2025-06-25 10:04:21 [LogHelper] Upload all log and delete
+2025-06-25 10:04:26 [WeatherHelper] Load:org.json.JSONException: End of input at character 0 of 
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:460)
+	at org.json.JSONTokener.nextValue(JSONTokener.java:101)
+	at org.json.JSONArray.<init>(JSONArray.java:94)
+	at org.json.JSONArray.<init>(JSONArray.java:110)
+	at com.jewelry.mylauncher.WeatherHelper.loadCache(WeatherHelper.java:301)
+	at com.jewelry.mylauncher.WeatherHelper.findNearestEntry(WeatherHelper.java:277)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:122)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:919)
+
+2025-06-25 10:04:26 [WeatherHelper] Load:org.json.JSONException: End of input at character 0 of 
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:460)
+	at org.json.JSONTokener.nextValue(JSONTokener.java:101)
+	at org.json.JSONArray.<init>(JSONArray.java:94)
+	at org.json.JSONArray.<init>(JSONArray.java:110)
+	at com.jewelry.mylauncher.WeatherHelper.loadCache(WeatherHelper.java:301)
+	at com.jewelry.mylauncher.WeatherHelper.findNearestEntry(WeatherHelper.java:277)
+	at com.jewelry.mylauncher.WeatherHelper.displayNearestWeather(WeatherHelper.java:168)
+	at com.jewelry.mylauncher.MainActivity.updateWeather(MainActivity.java:955)
+	at com.jewelry.mylauncher.MainActivity.lambda$startLocationHandling$11$com-jewelry-mylauncher-MainActivity(MainActivity.java:772)
+	at com.jewelry.mylauncher.MainActivity$$ExternalSyntheticLambda23.onSuccess(D8$$SyntheticClass:0)
+	at com.google.android.gms.tasks.zzm.run(com.google.android.gms:play-services-tasks@@18.1.0:1)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+2025-06-25 10:04:27 [WeatherHelper] Load:org.json.JSONException: End of input at character 0 of 
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:460)
+	at org.json.JSONTokener.nextValue(JSONTokener.java:101)
+	at org.json.JSONArray.<init>(JSONArray.java:94)
+	at org.json.JSONArray.<init>(JSONArray.java:110)
+	at com.jewelry.mylauncher.WeatherHelper.loadCache(WeatherHelper.java:301)
+	at com.jewelry.mylauncher.WeatherHelper.findNearestEntry(WeatherHelper.java:277)
+	at com.jewelry.mylauncher.WeatherHelper.displayNearestWeather(WeatherHelper.java:168)
+	at com.jewelry.mylauncher.MainActivity.updateWeather(MainActivity.java:955)
+	at com.jewelry.mylauncher.MainActivity$6.onLocationResult(MainActivity.java:802)
+	at com.google.android.gms.internal.location.zzds.notifyListener(com.google.android.gms:play-services-location@@21.2.0:2)
+	at com.google.android.gms.common.api.internal.ListenerHolder.zaa(com.google.android.gms:play-services-base@@18.4.0:2)
+	at com.google.android.gms.common.api.internal.zacb.run(com.google.android.gms:play-services-base@@18.4.0:1)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+2025-06-25 10:04:27 [WeatherHelper] Load:org.json.JSONException: End of input at character 0 of 
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:460)
+	at org.json.JSONTokener.nextValue(JSONTokener.java:101)
+	at org.json.JSONArray.<init>(JSONArray.java:94)
+	at org.json.JSONArray.<init>(JSONArray.java:110)
+	at com.jewelry.mylauncher.WeatherHelper.loadCache(WeatherHelper.java:301)
+	at com.jewelry.mylauncher.WeatherHelper.findNearestEntry(WeatherHelper.java:277)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:122)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:919)
+
+2025-06-25 10:04:27 [WeatherHelper] Load:org.json.JSONException: End of input at character 0 of 
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:460)
+	at org.json.JSONTokener.nextValue(JSONTokener.java:101)
+	at org.json.JSONArray.<init>(JSONArray.java:94)
+	at org.json.JSONArray.<init>(JSONArray.java:110)
+	at com.jewelry.mylauncher.WeatherHelper.loadCache(WeatherHelper.java:301)
+	at com.jewelry.mylauncher.WeatherHelper.appendToCache(WeatherHelper.java:320)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:149)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:919)
+
