@@ -1,0 +1,217 @@
+2025-06-26 17:56:44 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 300
+2025-06-26 17:56:44 [WeatherHelper] Load:org.json.JSONException: End of input at character 0 of 
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:449)
+	at org.json.JSONTokener.nextValue(JSONTokener.java:97)
+	at org.json.JSONArray.<init>(JSONArray.java:92)
+	at org.json.JSONArray.<init>(JSONArray.java:108)
+	at com.jewelry.mylauncher.WeatherHelper.loadCache(WeatherHelper.java:301)
+	at com.jewelry.mylauncher.WeatherHelper.cleanOldWeatherCache(WeatherHelper.java:207)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:155)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+
+2025-06-26 17:56:44 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:56:44 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:56:45 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:56:45 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:56:45 [WeatherHelper] Load:org.json.JSONException: End of input at character 0 of 
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:449)
+	at org.json.JSONTokener.nextValue(JSONTokener.java:97)
+	at org.json.JSONArray.<init>(JSONArray.java:92)
+	at org.json.JSONArray.<init>(JSONArray.java:108)
+	at com.jewelry.mylauncher.WeatherHelper.loadCache(WeatherHelper.java:301)
+	at com.jewelry.mylauncher.WeatherHelper.cleanOldWeatherCache(WeatherHelper.java:207)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:155)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+
+2025-06-26 17:56:45 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:56:45 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:56:45 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:56:45 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:56:46 [WeatherHelper] Load:org.json.JSONException: End of input at character 0 of 
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:449)
+	at org.json.JSONTokener.nextValue(JSONTokener.java:97)
+	at org.json.JSONArray.<init>(JSONArray.java:92)
+	at org.json.JSONArray.<init>(JSONArray.java:108)
+	at com.jewelry.mylauncher.WeatherHelper.loadCache(WeatherHelper.java:301)
+	at com.jewelry.mylauncher.WeatherHelper.cleanOldWeatherCache(WeatherHelper.java:207)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:155)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+
+2025-06-26 17:56:46 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:56:46 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:56:47 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:56:47 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:56:48 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:56:48 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:56:49 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:56:49 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:56:50 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 300
+2025-06-26 17:56:50 [WeatherHelper] Load:org.json.JSONException: End of input at character 0 of 
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:449)
+	at org.json.JSONTokener.nextValue(JSONTokener.java:97)
+	at org.json.JSONArray.<init>(JSONArray.java:92)
+	at org.json.JSONArray.<init>(JSONArray.java:108)
+	at com.jewelry.mylauncher.WeatherHelper.loadCache(WeatherHelper.java:301)
+	at com.jewelry.mylauncher.WeatherHelper.cleanOldWeatherCache(WeatherHelper.java:207)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:155)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+
+2025-06-26 17:56:50 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:56:50 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:56:51 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:56:51 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:56:52 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:56:52 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:56:53 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:56:53 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:56:54 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:56:54 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:56:55 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:56:55 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:56:56 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:56:56 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:56:57 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:56:57 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:56:58 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:56:58 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:56:59 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:56:59 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:00 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:00 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:01 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:01 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:02 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:02 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:03 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:03 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:04 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:04 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:05 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:05 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:06 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:06 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:07 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:07 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:08 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:08 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:09 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:09 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:10 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:10 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:11 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:11 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:12 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:12 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:13 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:13 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:14 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:14 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:15 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:15 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:16 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:16 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:17 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:17 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:18 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:18 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:19 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:19 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:20 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:20 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:21 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:21 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:22 [WeatherHelper] Load:org.json.JSONException: End of input at character 0 of 
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:449)
+	at org.json.JSONTokener.nextValue(JSONTokener.java:97)
+	at org.json.JSONArray.<init>(JSONArray.java:92)
+	at org.json.JSONArray.<init>(JSONArray.java:108)
+	at com.jewelry.mylauncher.WeatherHelper.loadCache(WeatherHelper.java:301)
+	at com.jewelry.mylauncher.WeatherHelper.findNearestEntry(WeatherHelper.java:277)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:122)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+
+2025-06-26 17:57:22 [WeatherHelper] Load:org.json.JSONException: End of input at character 0 of 
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:449)
+	at org.json.JSONTokener.nextValue(JSONTokener.java:97)
+	at org.json.JSONArray.<init>(JSONArray.java:92)
+	at org.json.JSONArray.<init>(JSONArray.java:108)
+	at com.jewelry.mylauncher.WeatherHelper.loadCache(WeatherHelper.java:301)
+	at com.jewelry.mylauncher.WeatherHelper.findNearestEntry(WeatherHelper.java:277)
+	at com.jewelry.mylauncher.WeatherHelper.displayNearestWeather(WeatherHelper.java:168)
+	at com.jewelry.mylauncher.MainActivity.updateWeather(MainActivity.java:961)
+	at com.jewelry.mylauncher.MainActivity$6.onLocationResult(MainActivity.java:808)
+	at com.google.android.gms.internal.location.zzds.notifyListener(com.google.android.gms:play-services-location@@21.2.0:2)
+	at com.google.android.gms.common.api.internal.ListenerHolder.zaa(com.google.android.gms:play-services-base@@18.4.0:2)
+	at com.google.android.gms.common.api.internal.zacb.run(com.google.android.gms:play-services-base@@18.4.0:1)
+	at android.os.Handler.handleCallback(Handler.java:790)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at android.os.Looper.loop(Looper.java:164)
+	at android.app.ActivityThread.main(ActivityThread.java:6523)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:438)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:940)
+
+2025-06-26 17:57:23 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:23 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:24 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 300
+2025-06-26 17:57:24 [WeatherHelper] Load:org.json.JSONException: End of input at character 0 of 
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:449)
+	at org.json.JSONTokener.nextValue(JSONTokener.java:97)
+	at org.json.JSONArray.<init>(JSONArray.java:92)
+	at org.json.JSONArray.<init>(JSONArray.java:108)
+	at com.jewelry.mylauncher.WeatherHelper.loadCache(WeatherHelper.java:301)
+	at com.jewelry.mylauncher.WeatherHelper.cleanOldWeatherCache(WeatherHelper.java:207)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:155)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+
+2025-06-26 17:57:24 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:24 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:25 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:25 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:26 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:26 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:27 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:27 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:28 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:28 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:29 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:29 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:30 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:30 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:31 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:31 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:32 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:32 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:33 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:33 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:34 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:34 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:35 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:35 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:36 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:36 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:37 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:37 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:38 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:38 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:39 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:39 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:40 [WeatherHelper] Đã update UI thời tiết theo giờ!
+2025-06-26 17:57:40 [WeatherHelper] Hiển thị điạ chỉ và thời tiết đã cache range: 300
+2025-06-26 17:57:40 [WeatherHelper] Load:org.json.JSONException: End of input at character 0 of 
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:449)
+	at org.json.JSONTokener.nextValue(JSONTokener.java:97)
+	at org.json.JSONArray.<init>(JSONArray.java:92)
+	at org.json.JSONArray.<init>(JSONArray.java:108)
+	at com.jewelry.mylauncher.WeatherHelper.loadCache(WeatherHelper.java:301)
+	at com.jewelry.mylauncher.WeatherHelper.cleanOldWeatherCache(WeatherHelper.java:207)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:155)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+
