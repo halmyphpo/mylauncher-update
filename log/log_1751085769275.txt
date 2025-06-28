@@ -1,0 +1,487 @@
+2025-06-28 11:24:59 [LogHelper] Upload all log and delete
+2025-06-28 11:25:07 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 11:25:08 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 11:25:08 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 11:25:08 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 11:25:09 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 11:25:26 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 11:25:26 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 11:25:26 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 11:25:27 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 11:25:31 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 12:02:26 [LogHelper] Upload all log and delete
+2025-06-28 12:04:58 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 12:04:59 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 12:04:59 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 12:05:41 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 12:05:41 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 12:05:52 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 12:06:07 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 12:06:08 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 12:06:19 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 12:06:46 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 12:06:55 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 12:07:06 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 12:07:06 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 12:07:08 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 12:07:15 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 100
+2025-06-28 12:08:47 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:08:48 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:08:49 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:08:50 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:09:06 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:09:22 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:09:23 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:09:38 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:09:39 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:10:13 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:10:15 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:10:39 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:10:40 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:11:03 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:11:03 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:11:06 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:11:23 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:11:24 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:11:26 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:11:27 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:13:30 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:13:31 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:13:32 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:13:34 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:14:12 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:14:12 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:14:16 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:15:46 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:15:47 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:15:47 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 12:15:48 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 13:13:52 [LogHelper] Upload all log and delete
+2025-06-28 13:24:43 [WeatherHelper] 
+2025-06-28 13:25:11 [WeatherHelper] 
+2025-06-28 13:25:22 [WeatherHelper] 
+2025-06-28 13:25:34 [WeatherHelper] 
+2025-06-28 13:26:54 [WeatherHelper] 
+2025-06-28 13:27:10 [WeatherHelper] 
+2025-06-28 13:31:37 [WeatherHelper] 
+2025-06-28 13:31:49 [WeatherHelper] 
+2025-06-28 13:31:59 [WeatherHelper] 
+2025-06-28 13:32:42 [WeatherHelper] 
+2025-06-28 13:33:08 [WeatherHelper] 
+2025-06-28 13:33:28 [WeatherHelper] 
+2025-06-28 13:33:45 [WeatherHelper] 
+2025-06-28 13:34:00 [WeatherHelper] 
+2025-06-28 13:36:04 [WeatherHelper] 
+2025-06-28 13:36:25 [WeatherHelper] 
+2025-06-28 13:36:43 [WeatherHelper] 
+2025-06-28 13:37:01 [WeatherHelper] 
+2025-06-28 13:38:23 [WeatherHelper] 
+2025-06-28 13:38:45 [WeatherHelper] 
+2025-06-28 13:39:04 [WeatherHelper] 
+2025-06-28 13:40:12 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 13:40:13 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 13:41:29 [WeatherHelper] java.io.FileNotFoundException: https://nominatim.openstreetmap.org/reverse?format=json&lat=34.40909&lon=132.44818
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:251)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getInputStream(DelegatingHttpsURLConnection.java:210)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getInputStream(Unknown Source:0)
+	at com.jewelry.mylauncher.WeatherHelper.getAddressFromLatLon(WeatherHelper.java:269)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:120)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+
+2025-06-28 13:41:29 [WeatherHelper] java.io.FileNotFoundException: https://nominatim.openstreetmap.org/reverse?format=json&lat=34.40847&lon=132.44695
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:251)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getInputStream(DelegatingHttpsURLConnection.java:210)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getInputStream(Unknown Source:0)
+	at com.jewelry.mylauncher.WeatherHelper.getAddressFromLatLon(WeatherHelper.java:269)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:120)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+
+2025-06-28 13:41:29 [WeatherHelper] java.io.FileNotFoundException: https://nominatim.openstreetmap.org/reverse?format=json&lat=34.40908&lon=132.44818
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:251)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getInputStream(DelegatingHttpsURLConnection.java:210)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getInputStream(Unknown Source:0)
+	at com.jewelry.mylauncher.WeatherHelper.getAddressFromLatLon(WeatherHelper.java:269)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:120)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+
+2025-06-28 13:41:29 [WeatherHelper] java.io.FileNotFoundException: https://nominatim.openstreetmap.org/reverse?format=json&lat=34.40911&lon=132.44817
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:251)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getInputStream(DelegatingHttpsURLConnection.java:210)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getInputStream(Unknown Source:0)
+	at com.jewelry.mylauncher.WeatherHelper.getAddressFromLatLon(WeatherHelper.java:269)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:120)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+
+2025-06-28 13:41:29 [WeatherHelper] java.io.FileNotFoundException: https://nominatim.openstreetmap.org/reverse?format=json&lat=34.40828&lon=132.44664
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:251)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getInputStream(DelegatingHttpsURLConnection.java:210)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getInputStream(Unknown Source:0)
+	at com.jewelry.mylauncher.WeatherHelper.getAddressFromLatLon(WeatherHelper.java:269)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:120)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+
+2025-06-28 13:41:29 [WeatherHelper] java.io.FileNotFoundException: https://nominatim.openstreetmap.org/reverse?format=json&lat=34.40911&lon=132.44817
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:251)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getInputStream(DelegatingHttpsURLConnection.java:210)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getInputStream(Unknown Source:0)
+	at com.jewelry.mylauncher.WeatherHelper.getAddressFromLatLon(WeatherHelper.java:269)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:120)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+
+2025-06-28 13:41:30 [WeatherHelper] java.io.FileNotFoundException: https://nominatim.openstreetmap.org/reverse?format=json&lat=34.40834&lon=132.44674
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:251)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getInputStream(DelegatingHttpsURLConnection.java:210)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getInputStream(Unknown Source:0)
+	at com.jewelry.mylauncher.WeatherHelper.getAddressFromLatLon(WeatherHelper.java:269)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:120)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+
+2025-06-28 13:41:31 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 13:41:32 [WeatherHelper] java.io.FileNotFoundException: https://nominatim.openstreetmap.org/reverse?format=json&lat=34.40911&lon=132.44817
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:251)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getInputStream(DelegatingHttpsURLConnection.java:210)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getInputStream(Unknown Source:0)
+	at com.jewelry.mylauncher.WeatherHelper.getAddressFromLatLon(WeatherHelper.java:269)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:120)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+
+2025-06-28 13:41:32 [WeatherHelper] java.io.FileNotFoundException: https://nominatim.openstreetmap.org/reverse?format=json&lat=34.40892&lon=132.44785
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:251)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getInputStream(DelegatingHttpsURLConnection.java:210)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getInputStream(Unknown Source:0)
+	at com.jewelry.mylauncher.WeatherHelper.getAddressFromLatLon(WeatherHelper.java:269)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:120)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+
+2025-06-28 13:41:32 [WeatherHelper] java.io.FileNotFoundException: https://nominatim.openstreetmap.org/reverse?format=json&lat=34.40896&lon=132.44793
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:251)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getInputStream(DelegatingHttpsURLConnection.java:210)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getInputStream(Unknown Source:0)
+	at com.jewelry.mylauncher.WeatherHelper.getAddressFromLatLon(WeatherHelper.java:269)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:120)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+
+2025-06-28 13:41:34 [WeatherHelper] Đã lưu địa chỉ và thời tiết online range: 200
+2025-06-28 13:41:38 [WeatherHelper] java.net.SocketTimeoutException: timeout
+	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:212)
+	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:261)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:215)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:306)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:300)
+	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:196)
+	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:186)
+	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:127)
+	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:762)
+	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:634)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:471)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:407)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:244)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getInputStream(DelegatingHttpsURLConnection.java:210)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getInputStream(Unknown Source:0)
+	at com.jewelry.mylauncher.WeatherHelper.getAddressFromLatLon(WeatherHelper.java:269)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:120)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+Caused by: java.net.SocketException: socket is closed
+	at com.android.org.conscrypt.ConscryptFileDescriptorSocket$SSLInputStream.read(ConscryptFileDescriptorSocket.java:546)
+	at com.android.okhttp.okio.Okio$2.read(Okio.java:136)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:211)
+	... 16 more
+
+2025-06-28 13:41:38 [WeatherHelper] java.net.SocketTimeoutException: timeout
+	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:212)
+	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:261)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:215)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:306)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:300)
+	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:196)
+	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:186)
+	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:127)
+	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:762)
+	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:634)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:471)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:407)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:244)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getInputStream(DelegatingHttpsURLConnection.java:210)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getInputStream(Unknown Source:0)
+	at com.jewelry.mylauncher.WeatherHelper.getAddressFromLatLon(WeatherHelper.java:269)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:120)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+Caused by: java.net.SocketException: socket is closed
+	at com.android.org.conscrypt.ConscryptFileDescriptorSocket$SSLInputStream.read(ConscryptFileDescriptorSocket.java:546)
+	at com.android.okhttp.okio.Okio$2.read(Okio.java:136)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:211)
+	... 16 more
+
+2025-06-28 13:41:39 [WeatherHelper] java.net.SocketTimeoutException: timeout
+	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:212)
+	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:261)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:215)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:306)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:300)
+	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:196)
+	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:186)
+	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:127)
+	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:762)
+	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:634)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:471)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:407)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:244)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getInputStream(DelegatingHttpsURLConnection.java:210)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getInputStream(Unknown Source:0)
+	at com.jewelry.mylauncher.WeatherHelper.getAddressFromLatLon(WeatherHelper.java:269)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:120)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+Caused by: java.net.SocketException: socket is closed
+	at com.android.org.conscrypt.ConscryptFileDescriptorSocket$SSLInputStream.read(ConscryptFileDescriptorSocket.java:546)
+	at com.android.okhttp.okio.Okio$2.read(Okio.java:136)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:211)
+	... 16 more
+
+2025-06-28 13:41:41 [WeatherHelper] java.net.SocketTimeoutException: timeout
+	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:212)
+	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:261)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:215)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:306)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:300)
+	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:196)
+	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:186)
+	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:127)
+	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:762)
+	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:634)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:471)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:407)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:244)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getInputStream(DelegatingHttpsURLConnection.java:210)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getInputStream(Unknown Source:0)
+	at com.jewelry.mylauncher.WeatherHelper.getAddressFromLatLon(WeatherHelper.java:269)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:120)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+Caused by: java.net.SocketException: socket is closed
+	at com.android.org.conscrypt.ConscryptFileDescriptorSocket$SSLInputStream.read(ConscryptFileDescriptorSocket.java:546)
+	at com.android.okhttp.okio.Okio$2.read(Okio.java:136)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:211)
+	... 16 more
+
+2025-06-28 13:41:41 [WeatherHelper] java.net.SocketTimeoutException: timeout
+	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:212)
+	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:261)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:215)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:306)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:300)
+	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:196)
+	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:186)
+	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:127)
+	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:762)
+	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:634)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:471)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:407)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:244)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getInputStream(DelegatingHttpsURLConnection.java:210)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getInputStream(Unknown Source:0)
+	at com.jewelry.mylauncher.WeatherHelper.getAddressFromLatLon(WeatherHelper.java:269)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:120)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+Caused by: java.net.SocketException: socket is closed
+	at com.android.org.conscrypt.ConscryptFileDescriptorSocket$SSLInputStream.read(ConscryptFileDescriptorSocket.java:546)
+	at com.android.okhttp.okio.Okio$2.read(Okio.java:136)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:211)
+	... 16 more
+
+2025-06-28 13:41:42 [WeatherHelper] java.net.SocketTimeoutException: timeout
+	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:212)
+	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:261)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:215)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:306)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:300)
+	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:196)
+	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:186)
+	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:127)
+	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:762)
+	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:634)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:471)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:407)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:244)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getInputStream(DelegatingHttpsURLConnection.java:210)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getInputStream(Unknown Source:0)
+	at com.jewelry.mylauncher.WeatherHelper.getAddressFromLatLon(WeatherHelper.java:269)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:120)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+Caused by: java.net.SocketException: socket is closed
+	at com.android.org.conscrypt.ConscryptFileDescriptorSocket$SSLInputStream.read(ConscryptFileDescriptorSocket.java:546)
+	at com.android.okhttp.okio.Okio$2.read(Okio.java:136)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:211)
+	... 16 more
+
+2025-06-28 13:41:45 [WeatherHelper] java.net.SocketTimeoutException: timeout
+	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:212)
+	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:261)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:215)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:306)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:300)
+	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:196)
+	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:186)
+	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:127)
+	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:762)
+	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:634)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:471)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:407)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:244)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getInputStream(DelegatingHttpsURLConnection.java:210)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getInputStream(Unknown Source:0)
+	at com.jewelry.mylauncher.WeatherHelper.getAddressFromLatLon(WeatherHelper.java:269)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:120)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+Caused by: java.net.SocketException: socket is closed
+	at com.android.org.conscrypt.ConscryptFileDescriptorSocket$SSLInputStream.read(ConscryptFileDescriptorSocket.java:546)
+	at com.android.okhttp.okio.Okio$2.read(Okio.java:136)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:211)
+	... 16 more
+
+2025-06-28 13:42:42 [WeatherHelper] Load:org.json.JSONException: End of input at character 0 of 
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:449)
+	at org.json.JSONTokener.nextValue(JSONTokener.java:97)
+	at org.json.JSONArray.<init>(JSONArray.java:92)
+	at org.json.JSONArray.<init>(JSONArray.java:108)
+	at com.jewelry.mylauncher.WeatherHelper.loadCache(WeatherHelper.java:311)
+	at com.jewelry.mylauncher.WeatherHelper.findNearestEntry(WeatherHelper.java:285)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:128)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+
+2025-06-28 13:42:42 [WeatherHelper] Load:org.json.JSONException: End of input at character 0 of 
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:449)
+	at org.json.JSONTokener.nextValue(JSONTokener.java:97)
+	at org.json.JSONArray.<init>(JSONArray.java:92)
+	at org.json.JSONArray.<init>(JSONArray.java:108)
+	at com.jewelry.mylauncher.WeatherHelper.loadCache(WeatherHelper.java:311)
+	at com.jewelry.mylauncher.WeatherHelper.cleanOldWeatherCache(WeatherHelper.java:215)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:161)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+
+2025-06-28 13:42:42 [UncaughtException] java.lang.OutOfMemoryError: Failed to allocate a 1179656 byte allocation with 658392 free bytes and 642KB until OOM, max allowed footprint 50331648, growth limit 50331648
+	at java.util.Arrays.copyOf(Arrays.java:3260)
+	at java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:125)
+	at java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:660)
+	at java.lang.StringBuilder.append(StringBuilder.java:203)
+	at org.json.JSONStringer.string(JSONStringer.java:344)
+	at org.json.JSONStringer.value(JSONStringer.java:252)
+	at org.json.JSONObject.writeTo(JSONObject.java:723)
+	at org.json.JSONStringer.value(JSONStringer.java:237)
+	at org.json.JSONArray.writeTo(JSONArray.java:613)
+	at org.json.JSONStringer.value(JSONStringer.java:233)
+	at org.json.JSONObject.writeTo(JSONObject.java:723)
+	at org.json.JSONStringer.value(JSONStringer.java:237)
+	at org.json.JSONObject.writeTo(JSONObject.java:723)
+	at org.json.JSONStringer.value(JSONStringer.java:237)
+	at org.json.JSONObject.writeTo(JSONObject.java:723)
+	at org.json.JSONStringer.value(JSONStringer.java:237)
+	at org.json.JSONArray.writeTo(JSONArray.java:613)
+	at org.json.JSONArray.toString(JSONArray.java:585)
+	at com.jewelry.mylauncher.WeatherHelper.saveCache(WeatherHelper.java:325)
+	at com.jewelry.mylauncher.WeatherHelper.cleanOldWeatherCache(WeatherHelper.java:224)
+	at com.jewelry.mylauncher.WeatherHelper.lambda$trySaveWeatherAndAddress$0(WeatherHelper.java:161)
+	at com.jewelry.mylauncher.WeatherHelper$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+	at java.lang.Thread.run(Thread.java:764)
+
+2025-06-28 13:42:45 [LogHelper] Upload all log and delete
+2025-06-28 13:42:48 [WeatherHelper] Load:org.json.JSONException: End of input at character 0 of 
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:449)
+	at org.json.JSONTokener.nextValue(JSONTokener.java:97)
+	at org.json.JSONArray.<init>(JSONArray.java:92)
+	at org.json.JSONArray.<init>(JSONArray.java:108)
+	at com.jewelry.mylauncher.WeatherHelper.loadCache(WeatherHelper.java:311)
+	at com.jewelry.mylauncher.WeatherHelper.findNearestEntry(WeatherHelper.java:285)
+	at com.jewelry.mylauncher.WeatherHelper.displayNearestWeather(WeatherHelper.java:176)
+	at com.jewelry.mylauncher.MainActivity.updateWeather(MainActivity.java:954)
+	at com.jewelry.mylauncher.MainActivity.lambda$startLocationHandling$13$com-jewelry-mylauncher-MainActivity(MainActivity.java:763)
+	at com.jewelry.mylauncher.MainActivity$$ExternalSyntheticLambda27.onSuccess(D8$$SyntheticClass:0)
+	at com.google.android.gms.tasks.zzm.run(com.google.android.gms:play-services-tasks@@18.1.0:1)
+	at android.os.Handler.handleCallback(Handler.java:790)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at android.os.Looper.loop(Looper.java:164)
+	at android.app.ActivityThread.main(ActivityThread.java:6523)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:438)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:940)
+
+2025-06-28 13:42:48 [WeatherHelper] Load:org.json.JSONException: End of input at character 0 of 
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:449)
+	at org.json.JSONTokener.nextValue(JSONTokener.java:97)
+	at org.json.JSONArray.<init>(JSONArray.java:92)
+	at org.json.JSONArray.<init>(JSONArray.java:108)
+	at com.jewelry.mylauncher.WeatherHelper.loadCache(WeatherHelper.java:311)
+	at com.jewelry.mylauncher.WeatherHelper.findNearestEntry(WeatherHelper.java:285)
+	at com.jewelry.mylauncher.WeatherHelper.displayNearestWeather(WeatherHelper.java:176)
+	at com.jewelry.mylauncher.MainActivity.updateWeather(MainActivity.java:954)
+	at com.jewelry.mylauncher.MainActivity$6.onLocationResult(MainActivity.java:793)
+	at com.google.android.gms.internal.location.zzds.notifyListener(com.google.android.gms:play-services-location@@21.2.0:2)
+	at com.google.android.gms.common.api.internal.ListenerHolder.zaa(com.google.android.gms:play-services-base@@18.4.0:2)
+	at com.google.android.gms.common.api.internal.zacb.run(com.google.android.gms:play-services-base@@18.4.0:1)
+	at android.os.Handler.handleCallback(Handler.java:790)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at android.os.Looper.loop(Looper.java:164)
+	at android.app.ActivityThread.main(ActivityThread.java:6523)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:438)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:940)
+
+2025-06-28 13:42:48 [WeatherHelper] Load:org.json.JSONException: End of input at character 0 of 
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:449)
+	at org.json.JSONTokener.nextValue(JSONTokener.java:97)
+	at org.json.JSONArray.<init>(JSONArray.java:92)
+	at org.json.JSONArray.<init>(JSONArray.java:108)
+	at com.jewelry.mylauncher.WeatherHelper.loadCache(WeatherHelper.java:311)
+	at com.jewelry.mylauncher.WeatherHelper.findNearestEntry(WeatherHelper.java:285)
+	at com.jewelry.mylauncher.WeatherHelper.displayNearestWeather(WeatherHelper.java:176)
+	at com.jewelry.mylauncher.MainActivity.updateWeather(MainActivity.java:954)
+	at com.jewelry.mylauncher.MainActivity$6.onLocationResult(MainActivity.java:793)
+	at com.google.android.gms.internal.location.zzds.notifyListener(com.google.android.gms:play-services-location@@21.2.0:2)
+	at com.google.android.gms.common.api.internal.ListenerHolder.zaa(com.google.android.gms:play-services-base@@18.4.0:2)
+	at com.google.android.gms.common.api.internal.zacb.run(com.google.android.gms:play-services-base@@18.4.0:1)
+	at android.os.Handler.handleCallback(Handler.java:790)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at android.os.Looper.loop(Looper.java:164)
+	at android.app.ActivityThread.main(ActivityThread.java:6523)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:438)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:940)
+
+2025-06-28 13:42:49 [WeatherHelper] Load:org.json.JSONException: End of input at character 0 of 
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:449)
+	at org.json.JSONTokener.nextValue(JSONTokener.java:97)
+	at org.json.JSONArray.<init>(JSONArray.java:92)
+	at org.json.JSONArray.<init>(JSONArray.java:108)
+	at com.jewelry.mylauncher.WeatherHelper.loadCache(WeatherHelper.java:311)
+	at com.jewelry.mylauncher.WeatherHelper.findNearestEntry(WeatherHelper.java:285)
+	at com.jewelry.mylauncher.WeatherHelper.displayNearestWeather(WeatherHelper.java:176)
+	at com.jewelry.mylauncher.MainActivity.updateWeather(MainActivity.java:954)
+	at com.jewelry.mylauncher.MainActivity$6.onLocationResult(MainActivity.java:793)
+	at com.google.android.gms.internal.location.zzds.notifyListener(com.google.android.gms:play-services-location@@21.2.0:2)
+	at com.google.android.gms.common.api.internal.ListenerHolder.zaa(com.google.android.gms:play-services-base@@18.4.0:2)
+	at com.google.android.gms.common.api.internal.zacb.run(com.google.android.gms:play-services-base@@18.4.0:1)
+	at android.os.Handler.handleCallback(Handler.java:790)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at android.os.Looper.loop(Looper.java:164)
+	at android.app.ActivityThread.main(ActivityThread.java:6523)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:438)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:940)
+
