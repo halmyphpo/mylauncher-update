@@ -1,8 +1,0 @@
-2025-07-09 14:37:12 [LogHelper] Upload all log and delete
-2025-07-09 14:46:55 [LogHelper] Upload all log and delete
-2025-07-09 14:47:30 [OBDHelper] Bluetooth not available or not enabled
-2025-07-09 14:53:18 [LogHelper] Upload all log and delete
-2025-07-09 14:53:23 [OBDHelper] Bluetooth not available or not enabled
-2025-07-09 14:58:25 [LogHelper] Upload all log and delete
-2025-07-09 22:45:27 [LogHelper] Upload all log and delete
-2025-07-09 22:48:47 [LogHelper] Upload all log and delete
