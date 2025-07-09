@@ -1,0 +1,31 @@
+2025-07-09 13:07:39 [LogHelper] Upload all log and delete
+2025-07-09 13:19:53 [TileStore] Lỗi tải (r=30km): The tile region '34.2591,132.5738' can't be loaded because it would increase the number of Maps tiles to 843, which is beyond the maximum allowed 750 tiles. Please contact Mapbox if your use case requires a larger region size.
+2025-07-09 13:19:53 [TileStore] Giảm bán kính từ 30 xuống 25
+2025-07-09 13:19:53 [TileStore] Lỗi tải (r=25km): The tile region '34.2591,132.5738' can't be loaded because it would increase the number of Maps tiles to 786, which is beyond the maximum allowed 750 tiles. Please contact Mapbox if your use case requires a larger region size.
+2025-07-09 13:19:53 [TileStore] Giảm bán kính từ 25 xuống 20
+2025-07-09 13:20:19 [TileStore] Lỗi tải (r=30km): The tile region '34.4102,132.4410' can't be loaded because it would increase the number of Maps tiles to 849, which is beyond the maximum allowed 750 tiles. Please contact Mapbox if your use case requires a larger region size.
+2025-07-09 13:20:19 [TileStore] Giảm bán kính từ 30 xuống 25
+2025-07-09 13:20:19 [TileStore] Lỗi tải (r=25km): The tile region '34.4102,132.4410' can't be loaded because it would increase the number of Maps tiles to 819, which is beyond the maximum allowed 750 tiles. Please contact Mapbox if your use case requires a larger region size.
+2025-07-09 13:20:19 [TileStore] Giảm bán kính từ 25 xuống 20
+2025-07-09 13:20:20 [TileStore] Lỗi tải (r=20km): The tile region '34.4102,132.4410' can't be loaded because it would increase the number of Maps tiles to 792, which is beyond the maximum allowed 750 tiles. Please contact Mapbox if your use case requires a larger region size.
+2025-07-09 13:20:20 [TileStore] Giảm bán kính từ 20 xuống 15
+2025-07-09 13:20:20 [TileStore] Lỗi tải (r=15km): The tile region '34.4102,132.4410' can't be loaded because it would increase the number of Maps tiles to 771, which is beyond the maximum allowed 750 tiles. Please contact Mapbox if your use case requires a larger region size.
+2025-07-09 13:20:20 [TileStore] Giảm bán kính từ 15 xuống 10
+2025-07-09 13:20:20 [TileStore] Đã xóa vùng xa nhất, thử tải lại với bán kính 30km
+2025-07-09 13:21:03 [TileStore] Lỗi tải (r=30km): The tile region '34.6670,132.7088' can't be loaded because it would increase the number of Maps tiles to 825, which is beyond the maximum allowed 750 tiles. Please contact Mapbox if your use case requires a larger region size.
+2025-07-09 13:21:03 [TileStore] Giảm bán kính từ 30 xuống 25
+2025-07-09 13:21:03 [TileStore] Lỗi tải (r=25km): The tile region '34.6670,132.7088' can't be loaded because it would increase the number of Maps tiles to 798, which is beyond the maximum allowed 750 tiles. Please contact Mapbox if your use case requires a larger region size.
+2025-07-09 13:21:03 [TileStore] Giảm bán kính từ 25 xuống 20
+2025-07-09 13:21:03 [TileStore] Lỗi tải (r=20km): The tile region '34.6670,132.7088' can't be loaded because it would increase the number of Maps tiles to 774, which is beyond the maximum allowed 750 tiles. Please contact Mapbox if your use case requires a larger region size.
+2025-07-09 13:21:03 [TileStore] Giảm bán kính từ 20 xuống 15
+2025-07-09 13:21:13 [TileStore] Lỗi tải (r=30km): The tile region '34.8081,132.8640' can't be loaded because it would increase the number of Maps tiles to 861, which is beyond the maximum allowed 750 tiles. Please contact Mapbox if your use case requires a larger region size.
+2025-07-09 13:21:13 [TileStore] Giảm bán kính từ 30 xuống 25
+2025-07-09 13:21:13 [TileStore] Lỗi tải (r=25km): The tile region '34.8081,132.8640' can't be loaded because it would increase the number of Maps tiles to 834, which is beyond the maximum allowed 750 tiles. Please contact Mapbox if your use case requires a larger region size.
+2025-07-09 13:21:13 [TileStore] Giảm bán kính từ 25 xuống 20
+2025-07-09 13:21:14 [TileStore] Lỗi tải (r=20km): The tile region '34.8081,132.8640' can't be loaded because it would increase the number of Maps tiles to 810, which is beyond the maximum allowed 750 tiles. Please contact Mapbox if your use case requires a larger region size.
+2025-07-09 13:21:14 [TileStore] Giảm bán kính từ 20 xuống 15
+2025-07-09 13:21:14 [TileStore] Lỗi tải (r=15km): The tile region '34.8081,132.8640' can't be loaded because it would increase the number of Maps tiles to 783, which is beyond the maximum allowed 750 tiles. Please contact Mapbox if your use case requires a larger region size.
+2025-07-09 13:21:14 [TileStore] Giảm bán kính từ 15 xuống 10
+2025-07-09 13:21:14 [TileStore] Đã xóa vùng xa nhất, thử tải lại với bán kính 30km
+2025-07-09 13:24:59 [LogHelper] Upload all log and delete
+2025-07-09 13:57:00 [LogHelper] Upload all log and delete
