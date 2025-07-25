@@ -1,169 +1,5 @@
 [
     {
-        "file": "佛系少女.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "體會愛.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "天后.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "摩托.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "生而不凡.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "红尘事.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "微風降落.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "青空.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "自己.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "愛上張無忌.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "流云与风.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "既視感.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "我们之间 - 电视剧《我站在桥上看风景》高甜宠爱插曲.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "做我的英雄.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "祝恶魔好运.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "钩指发誓.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "看到風.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "戀夏記.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "天下有情人 - Live.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "空心 - Live.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "哼.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "至少还有你.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "紅塵事.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "触电.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "光.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "爱上张无忌.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "玻璃糖.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "左手.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "春风十里何时遇.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "送你一朵小红花 - Live.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "何必留下遗憾(电影《曾经相爱的我们》主题曲).mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "再見前任（電影《前任3：再見前任》同名宣傳曲）.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "橘灿女孩.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "沙漠駱駝.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "世间美好与你环环相扣.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "画心 - Live.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "为你铭刻 - 动画《元龙》第二季片尾曲.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "識食物者為俊傑.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "陌生人 - Live.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "我的梦.mp3",
-        "album": "Basic"
-    },
-    {
-        "file": "愛著每天的你.mp3",
-        "album": "Basic"
-    },
-    {
         "file": "Chờ Ngày Cưới Em (Nekko Remix).mp3",
         "album": "Remix"
     },
@@ -209,10 +45,6 @@
     },
     {
         "file": "Vở Kịch Của Em (Qinn Remix).mp3",
-        "album": "Remix"
-    },
-    {
-        "file": "Điệp Khúc Mùa Xuân (Remix).mp3",
         "album": "Remix"
     },
     {
@@ -276,10 +108,6 @@
         "album": "Remix"
     },
     {
-        "file": "girls like me don't cry (remix) ft. MIN.mp3",
-        "album": "Remix"
-    },
-    {
         "file": "Không Biết Phải Làm Sao - Đức Louis Remix.mp3",
         "album": "Remix"
     },
@@ -317,10 +145,6 @@
     },
     {
         "file": "Con Bướm Xuân (Qinn Remix).mp3",
-        "album": "Remix"
-    },
-    {
-        "file": "05 (Không Phai) - Remix.mp3",
         "album": "Remix"
     },
     {
@@ -385,10 +209,6 @@
     },
     {
         "file": "Liều Thuốc Cho Trái Tim (Remix).mp3",
-        "album": "Remix"
-    },
-    {
-        "file": "Là Ai Từ Bỏ Là Ai Vô Tình - Remix.mp3",
         "album": "Remix"
     },
     {
@@ -460,15 +280,7 @@
         "album": "Remix"
     },
     {
-        "file": "Anh Cho Em Mùa Xuân (Remix).mp3",
-        "album": "Remix"
-    },
-    {
         "file": "Cold Don't - Cukak Remix.mp3",
-        "album": "Remix"
-    },
-    {
-        "file": "Đừng Lo Nhé Có Anh Đây Remix.mp3",
         "album": "Remix"
     },
     {
@@ -485,10 +297,6 @@
     },
     {
         "file": "Anh Thương Em Em Thương Ai - Đức Louis Remix.mp3",
-        "album": "Remix"
-    },
-    {
-        "file": "Gió x Đom Đóm (Remix).mp3",
         "album": "Remix"
     },
     {
@@ -513,10 +321,6 @@
     },
     {
         "file": "Anh Yêu Vội Thế (Remix).mp3",
-        "album": "Remix"
-    },
-    {
-        "file": "Con Bướm Xuân (Remix).mp3",
         "album": "Remix"
     },
     {
@@ -569,10 +373,6 @@
     },
     {
         "file": "Nụ Cười Xuân - Đại Mèo Remix.mp3",
-        "album": "Remix"
-    },
-    {
-        "file": "Khi Bạn Cần Có Tôi Đây (Qinn Remix).mp3",
         "album": "Remix"
     },
     {
