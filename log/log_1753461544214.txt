@@ -1,0 +1,546 @@
+2025-07-09 14:37:12 [LogHelper] Upload all log and delete
+2025-07-09 14:46:55 [LogHelper] Upload all log and delete
+2025-07-09 14:47:30 [OBDHelper] Bluetooth not available or not enabled
+2025-07-09 14:53:18 [LogHelper] Upload all log and delete
+2025-07-09 14:53:23 [OBDHelper] Bluetooth not available or not enabled
+2025-07-09 14:58:25 [LogHelper] Upload all log and delete
+2025-07-09 22:45:27 [LogHelper] Upload all log and delete
+2025-07-09 22:48:47 [LogHelper] Upload all log and delete
+2025-07-09 22:50:41 [LogHelper] Upload all log and delete
+2025-07-09 22:57:38 [LogHelper] Upload all log and delete
+2025-07-09 23:10:57 [LogHelper] Upload all log and delete
+2025-07-09 23:17:56 [LogHelper] Upload all log and delete
+2025-07-09 23:18:49 [LogHelper] Upload all log and delete
+2025-07-10 17:09:42 [LogHelper] Upload all log and delete
+2025-07-10 17:22:23 [LogHelper] Upload all log and delete
+2025-07-10 17:37:32 [LogHelper] Upload all log and delete
+2025-07-10 17:42:20 [LogHelper] Upload all log and delete
+2025-07-11 09:18:48 [LogHelper] Upload all log and delete
+2025-07-11 09:29:00 [LogHelper] Upload all log and delete
+2025-07-11 17:02:15 [LogHelper] Upload all log and delete
+2025-07-11 17:05:33 [Map] Hoàn tất tải (r=30km)
+2025-07-11 17:05:33 [TileStore] Lỗi tải (r=30km): The tile region '65.7771,-120.7701' can't be loaded because it would increase the number of Maps tiles to 975, which is beyond the maximum allowed 750 tiles. Please contact Mapbox if your use case requires a larger region size.
+2025-07-11 17:05:33 [TileStore] Giảm bán kính từ 30 xuống 25
+2025-07-11 17:05:34 [TileStore] Lỗi tải (r=25km): The tile region '65.7771,-120.7701' can't be loaded because it would increase the number of Maps tiles to 801, which is beyond the maximum allowed 750 tiles. Please contact Mapbox if your use case requires a larger region size.
+2025-07-11 17:05:34 [TileStore] Giảm bán kính từ 25 xuống 20
+2025-07-11 17:18:19 [LogHelper] Upload all log and delete
+2025-07-11 17:18:45 [LogHelper] Upload all log and delete
+2025-07-11 17:21:49 [LogHelper] Upload all log and delete
+2025-07-11 17:24:20 [LogHelper] Upload all log and delete
+2025-07-11 17:27:16 [LogHelper] Upload all log and delete
+2025-07-11 17:30:01 [LogHelper] Upload all log and delete
+2025-07-11 17:30:25 [LogHelper] Upload all log and delete
+2025-07-11 17:36:43 [LogHelper] Upload all log and delete
+2025-07-11 17:37:04 [LogHelper] Upload all log and delete
+2025-07-11 17:42:04 [LogHelper] Upload all log and delete
+2025-07-11 17:42:24 [LogHelper] Upload all log and delete
+2025-07-11 17:42:47 [LogHelper] Upload all log and delete
+2025-07-11 17:43:05 [LogHelper] Upload all log and delete
+2025-07-14 23:05:47 [LogHelper] Upload all log and delete
+2025-07-14 23:07:34 [LogHelper] Upload all log and delete
+2025-07-15 16:56:58 [LogHelper] Upload all log and delete
+2025-07-26 01:16:20 [LogHelper] Upload all log and delete
+2025-07-26 01:24:23 [MusicDownloader] ❌ Lỗi tải file: 佛系少女.mp3
+2025-07-26 01:24:23 [MusicDownloader] ❌ Lỗi tải file: 體會愛.mp3
+2025-07-26 01:24:23 [MusicDownloader] ❌ Lỗi tải file: 天后.mp3
+2025-07-26 01:24:24 [MusicDownloader] ❌ Lỗi tải file: 摩托.mp3
+2025-07-26 01:24:24 [MusicDownloader] ❌ Lỗi tải file: 生而不凡.mp3
+2025-07-26 01:24:24 [MusicDownloader] ❌ Lỗi tải file: 红尘事.mp3
+2025-07-26 01:24:25 [MusicDownloader] ❌ Lỗi tải file: 微風降落.mp3
+2025-07-26 01:24:25 [MusicDownloader] ❌ Lỗi tải file: 青空.mp3
+2025-07-26 01:24:25 [MusicDownloader] ❌ Lỗi tải file: 自己.mp3
+2025-07-26 01:24:26 [MusicDownloader] ❌ Lỗi tải file: 愛上張無忌.mp3
+2025-07-26 01:24:26 [MusicDownloader] ❌ Lỗi tải file: 流云与风.mp3
+2025-07-26 01:24:26 [MusicDownloader] ❌ Lỗi tải file: 既視感.mp3
+2025-07-26 01:24:27 [MusicDownloader] ❌ Lỗi tải file: 我们之间 - 电视剧《我站在桥上看风景》高甜宠爱插曲.mp3
+2025-07-26 01:24:27 [MusicDownloader] ❌ Lỗi tải file: 做我的英雄.mp3
+2025-07-26 01:24:27 [MusicDownloader] ❌ Lỗi tải file: 祝恶魔好运.mp3
+2025-07-26 01:24:28 [MusicDownloader] ❌ Lỗi tải file: 钩指发誓.mp3
+2025-07-26 01:24:28 [MusicDownloader] ❌ Lỗi tải file: 看到風.mp3
+2025-07-26 01:24:29 [MusicDownloader] ❌ Lỗi tải file: 戀夏記.mp3
+2025-07-26 01:24:29 [MusicDownloader] ❌ Lỗi tải file: 天下有情人 - Live.mp3
+2025-07-26 01:24:29 [MusicDownloader] ❌ Lỗi tải file: 空心 - Live.mp3
+2025-07-26 01:24:29 [MusicDownloader] ❌ Lỗi tải file: 哼.mp3
+2025-07-26 01:24:30 [MusicDownloader] ❌ Lỗi tải file: 至少还有你.mp3
+2025-07-26 01:24:30 [MusicDownloader] ❌ Lỗi tải file: 紅塵事.mp3
+2025-07-26 01:24:30 [MusicDownloader] ❌ Lỗi tải file: 触电.mp3
+2025-07-26 01:24:31 [MusicDownloader] ❌ Lỗi tải file: 光.mp3
+2025-07-26 01:24:31 [MusicDownloader] ❌ Lỗi tải file: 爱上张无忌.mp3
+2025-07-26 01:24:31 [MusicDownloader] ❌ Lỗi tải file: 玻璃糖.mp3
+2025-07-26 01:24:32 [MusicDownloader] ❌ Lỗi tải file: 左手.mp3
+2025-07-26 01:24:32 [MusicDownloader] ❌ Lỗi tải file: 春风十里何时遇.mp3
+2025-07-26 01:24:32 [MusicDownloader] ❌ Lỗi tải file: 送你一朵小红花 - Live.mp3
+2025-07-26 01:24:33 [MusicDownloader] ❌ Lỗi tải file: 何必留下遗憾(电影《曾经相爱的我们》主题曲).mp3
+2025-07-26 01:24:33 [MusicDownloader] ❌ Lỗi tải file: 再見前任（電影《前任3：再見前任》同名宣傳曲）.mp3
+2025-07-26 01:24:33 [MusicDownloader] ❌ Lỗi tải file: 橘灿女孩.mp3
+2025-07-26 01:24:34 [MusicDownloader] ❌ Lỗi tải file: 沙漠駱駝.mp3
+2025-07-26 01:24:34 [MusicDownloader] ❌ Lỗi tải file: 世间美好与你环环相扣.mp3
+2025-07-26 01:24:34 [MusicDownloader] ❌ Lỗi tải file: 画心 - Live.mp3
+2025-07-26 01:24:35 [MusicDownloader] ❌ Lỗi tải file: 为你铭刻 - 动画《元龙》第二季片尾曲.mp3
+2025-07-26 01:24:35 [MusicDownloader] ❌ Lỗi tải file: 識食物者為俊傑.mp3
+2025-07-26 01:24:35 [MusicDownloader] ❌ Lỗi tải file: 陌生人 - Live.mp3
+2025-07-26 01:24:36 [MusicDownloader] ❌ Lỗi tải file: 我的梦.mp3
+2025-07-26 01:24:36 [MusicDownloader] ❌ Lỗi tải file: 愛著每天的你.mp3
+2025-07-26 01:24:36 [MusicDownloader] ❌ Lỗi tải file: Chờ Ngày Cưới Em (Nekko Remix).mp3
+2025-07-26 01:24:37 [MusicDownloader] ❌ Lỗi tải file: Lỡ Yêu Người Đậm Sâu (Remix).mp3
+2025-07-26 01:24:37 [MusicDownloader] ❌ Lỗi tải file: Tình Ca Tình Ta - Cukak Remix.mp3
+2025-07-26 01:24:37 [MusicDownloader] ❌ Lỗi tải file: Ngày Trong Xanh (Remix).mp3
+2025-07-26 01:24:38 [MusicDownloader] ❌ Lỗi tải file: Yêu Là Cưới (Remix).mp3
+2025-07-26 01:24:38 [MusicDownloader] ❌ Lỗi tải file: Đừng Hỏi Em Ổn Không (Remix).mp3
+2025-07-26 01:24:38 [MusicDownloader] ❌ Lỗi tải file: Thế Thái x Cố Giang Tình (Remix).mp3
+2025-07-26 01:24:39 [MusicDownloader] ❌ Lỗi tải file: Vui Lắm Nha (Remix).mp3
+2025-07-26 01:24:39 [MusicDownloader] ❌ Lỗi tải file: Ai Cũng Có Một Mối Tình Buồn (Qinn Remix).mp3
+2025-07-26 01:24:40 [MusicDownloader] ❌ Lỗi tải file: Thê Tử - Phước Lành Remix 140.mp3
+2025-07-26 01:24:40 [MusicDownloader] ❌ Lỗi tải file: Hoa Bất Tử (Remix).mp3
+2025-07-26 01:24:40 [MusicDownloader] ❌ Lỗi tải file: Vở Kịch Của Em (Qinn Remix).mp3
+2025-07-26 01:24:40 [MusicDownloader] ❌ Lỗi tải file: Điệp Khúc Mùa Xuân (Remix).mp3
+2025-07-26 01:24:41 [MusicDownloader] ❌ Lỗi tải file: Mashup Để Anh Lương Thiện - Đừng Hỏi Em Ổn Không - Anh Thôi Nhân Nhượng - HuyPT Remix.mp3
+2025-07-26 01:24:42 [MusicDownloader] ❌ Lỗi tải file: Em và Hoa - Cukak Remix Version.mp3
+2025-07-26 01:24:42 [MusicDownloader] ❌ Lỗi tải file: Em Vội Quên (Qinn Remix).mp3
+2025-07-26 01:24:42 [MusicDownloader] ❌ Lỗi tải file: Mong Một Ngày Anh Nhớ Đến Em Qinn Remix.mp3
+2025-07-26 01:24:43 [MusicDownloader] ❌ Lỗi tải file: Nhân Sinh Quán - Đức Louis Remix.mp3
+2025-07-26 01:24:43 [MusicDownloader] ❌ Lỗi tải file: Thiệp Hồng Em Trao (Qinn Remix).mp3
+2025-07-26 01:24:44 [MusicDownloader] ❌ Lỗi tải file: Cắt Đôi Nỗi Sầu - Cukak Remix.mp3
+2025-07-26 01:24:44 [MusicDownloader] ❌ Lỗi tải file: Giá Như Anh Là Người Vô Tâm - NT Remix.mp3
+2025-07-26 01:24:44 [MusicDownloader] ❌ Lỗi tải file: Trúc Xinh - Ciray Remix.mp3
+2025-07-26 01:24:44 [MusicDownloader] ❌ Lỗi tải file: Giờ Không Cưới Thì Nào Cưới (Remix).mp3
+2025-07-26 01:24:45 [MusicDownloader] ❌ Lỗi tải file: Xuân Này Con Không Về (Remix).mp3
+2025-07-26 01:24:45 [MusicDownloader] ❌ Lỗi tải file: Gõ Cửa Trái Tim - Remix.mp3
+2025-07-26 01:24:45 [MusicDownloader] ❌ Lỗi tải file: Phận Tàn (Remix).mp3
+2025-07-26 01:24:46 [MusicDownloader] ❌ Lỗi tải file: Forget Me Now (Remix).mp3
+2025-07-26 01:24:46 [MusicDownloader] ❌ Lỗi tải file: Cứ Nói Yêu Lần Này (Speed Up) - Cukak Remix.mp3
+2025-07-26 01:24:46 [MusicDownloader] ❌ Lỗi tải file: girls like me don't cry (remix) ft. MIN.mp3
+2025-07-26 01:24:47 [MusicDownloader] ❌ Lỗi tải file: Không Biết Phải Làm Sao - Đức Louis Remix.mp3
+2025-07-26 01:24:47 [MusicDownloader] ❌ Lỗi tải file: Thiên Lý Ơi (Remix).mp3
+2025-07-26 01:24:47 [MusicDownloader] ❌ Lỗi tải file: Em Có Biết (Remix).mp3
+2025-07-26 01:24:47 [MusicDownloader] ❌ Lỗi tải file: Yêu Thật Khó Xoá Thật Đau - Yang Remix.mp3
+2025-07-26 01:24:48 [MusicDownloader] ❌ Lỗi tải file: Ải Hồng Nhan (Qinn Remix).mp3
+2025-07-26 01:24:48 [MusicDownloader] ❌ Lỗi tải file: Em Nắm Anh Buông (Qinn Remix).mp3
+2025-07-26 01:24:48 [MusicDownloader] ❌ Lỗi tải file: Da Key (Remix).mp3
+2025-07-26 01:24:49 [MusicDownloader] ❌ Lỗi tải file: Trách Phận Vô Danh (Qinn Remix).mp3
+2025-07-26 01:24:49 [MusicDownloader] ❌ Lỗi tải file: Trói Em Lại (Remix).mp3
+2025-07-26 01:24:49 [MusicDownloader] ❌ Lỗi tải file: Con Bướm Xuân (Qinn Remix).mp3
+2025-07-26 01:24:50 [MusicDownloader] ❌ Lỗi tải file: 05 (Không Phai) - Remix.mp3
+2025-07-26 01:24:50 [MusicDownloader] ❌ Lỗi tải file: Có Duyên Không Nợ (Qinn Remix).mp3
+2025-07-26 01:24:51 [MusicDownloader] ❌ Lỗi tải file: Chưa Bao Giờ Em Quên - Kendy T Remix.mp3
+2025-07-26 01:24:51 [MusicDownloader] ❌ Lỗi tải file: Lời Nói Điêu Trên Môi Em (Remix).mp3
+2025-07-26 01:24:51 [MusicDownloader] ❌ Lỗi tải file: Bật Tình Yêu Lên - Cukak Remix.mp3
+2025-07-26 01:24:52 [MusicDownloader] ❌ Lỗi tải file: Lý Do Là Gì (Qinn Remix).mp3
+2025-07-26 01:24:52 [MusicDownloader] ❌ Lỗi tải file: Tết Đến Thật Rồi - Remix.mp3
+2025-07-26 01:24:52 [MusicDownloader] ❌ Lỗi tải file: Hoa Sứ Nhà Nàng (Remix).mp3
+2025-07-26 01:24:53 [MusicDownloader] ❌ Lỗi tải file: Có Em Chờ - Masew Remix.mp3
+2025-07-26 01:24:53 [MusicDownloader] ❌ Lỗi tải file: Em Là Con Gái Rượu (Qinn Remix).mp3
+2025-07-26 01:24:54 [MusicDownloader] ❌ Lỗi tải file: Tình Đầu Quá Chén (Remix).mp3
+2025-07-26 01:24:54 [MusicDownloader] ❌ Lỗi tải file: Lỗi Tại Mưa x Ảo Ảnh Remix (ft Vicky Nhung).mp3
+2025-07-26 01:24:54 [MusicDownloader] ❌ Lỗi tải file: Chuyện Cũ Bỏ Qua (Remix).mp3
+2025-07-26 01:24:55 [MusicDownloader] ❌ Lỗi tải file: Kẹo Bông Gòn (Remix).mp3
+2025-07-26 01:24:55 [MusicDownloader] ❌ Lỗi tải file: Người thay thế em (Qinn remix).mp3
+2025-07-26 01:24:55 [MusicDownloader] ❌ Lỗi tải file: Tình Đơn Phương (Cukak Remix).mp3
+2025-07-26 01:24:56 [MusicDownloader] ❌ Lỗi tải file: Liều Thuốc Cho Trái Tim (Remix).mp3
+2025-07-26 01:24:56 [MusicDownloader] ❌ Lỗi tải file: Là Ai Từ Bỏ Là Ai Vô Tình - Remix.mp3
+2025-07-26 01:24:56 [MusicDownloader] ❌ Lỗi tải file: Sự Thật Đã Bỏ Quên - HD Remix.mp3
+2025-07-26 01:24:57 [MusicDownloader] ❌ Lỗi tải file: Hy Vọng Quá Hóa Đau Lòng (Qinn Remix).mp3
+2025-07-26 01:24:57 [MusicDownloader] ❌ Lỗi tải file: Chờ Em Dưới Cơn Mưa (Qinn Remix).mp3
+2025-07-26 01:24:57 [MusicDownloader] ❌ Lỗi tải file: Thay Lòng (Noknha Remix).mp3
+2025-07-26 01:24:58 [MusicDownloader] ❌ Lỗi tải file: Thì Thôi (Remix).mp3
+2025-07-26 01:24:58 [MusicDownloader] ❌ Lỗi tải file: Mashup Ngôi Nhà Hoa Hồng - Remix - Vicky Nhung Version.mp3
+2025-07-26 01:24:58 [MusicDownloader] ❌ Lỗi tải file: Gu - Cukak Remix.mp3
+2025-07-26 01:24:59 [MusicDownloader] ❌ Lỗi tải file: Duyên Trời Lấy 2 (Remix).mp3
+2025-07-26 01:24:59 [MusicDownloader] ❌ Lỗi tải file: Cứ Thế Mong Chờ (Qinn Remix).mp3
+2025-07-26 01:24:59 [MusicDownloader] ❌ Lỗi tải file: Lung Lay - Cukak Remix.mp3
+2025-07-26 01:24:59 [MusicDownloader] ❌ Lỗi tải file: Lệ Lưu Ly - Cukak Remix.mp3
+2025-07-26 01:25:00 [MusicDownloader] ❌ Lỗi tải file: Em Ơi Anh Phải Làm Sao - BT Remix.mp3
+2025-07-26 01:25:00 [MusicDownloader] ❌ Lỗi tải file: Tell Ur Mom II (Cukak Remix).mp3
+2025-07-26 01:25:00 [MusicDownloader] ❌ Lỗi tải file: Khi Yêu Nào Ai Đâu Muốn - Hoàng Đức Remix.mp3
+2025-07-26 01:25:01 [MusicDownloader] ❌ Lỗi tải file: Chờ Ngày Cưới Em - Cukak Remix.mp3
+2025-07-26 01:25:01 [MusicDownloader] ❌ Lỗi tải file: Khuê Mộc Lang (Remix).mp3
+2025-07-26 01:25:01 [MusicDownloader] ❌ Lỗi tải file: Hỏi Vợ Ngoại Thành (Remix).mp3
+2025-07-26 01:25:02 [MusicDownloader] ❌ Lỗi tải file: Anh Cho Em Mùa Xuân (Remix).mp3
+2025-07-26 01:25:02 [MusicDownloader] ❌ Lỗi tải file: Cold Don't - Cukak Remix.mp3
+2025-07-26 01:25:02 [MusicDownloader] ❌ Lỗi tải file: Đừng Lo Nhé Có Anh Đây Remix.mp3
+2025-07-26 01:25:03 [MusicDownloader] ❌ Lỗi tải file: Em Ơi Lên Phố - Tipo Remix 138.mp3
+2025-07-26 01:25:03 [MusicDownloader] ❌ Lỗi tải file: Một Thuở Yêu Người Remix.mp3
+2025-07-26 01:25:03 [MusicDownloader] ❌ Lỗi tải file: Gió - Cukak Remix.mp3
+2025-07-26 01:25:04 [MusicDownloader] ❌ Lỗi tải file: Anh Thương Em Em Thương Ai - Đức Louis Remix.mp3
+2025-07-26 01:25:04 [MusicDownloader] ❌ Lỗi tải file: Gió x Đom Đóm (Remix).mp3
+2025-07-26 01:25:04 [MusicDownloader] ❌ Lỗi tải file: Có Lẽ Bên Nhau Là Sai - Đức Louis Remix.mp3
+2025-07-26 01:25:05 [MusicDownloader] ❌ Lỗi tải file: Mong Một Ngày Anh Nhớ Đến Em Remix.mp3
+2025-07-26 01:25:05 [MusicDownloader] ❌ Lỗi tải file: Cheri Cheri Lady - Cukak Remix.mp3
+2025-07-26 01:25:05 [MusicDownloader] ❌ Lỗi tải file: Ngày Tết Quê Em (Remix).mp3
+2025-07-26 01:25:06 [MusicDownloader] ❌ Lỗi tải file: Em Ngốc Quá - Zero Remix.mp3
+2025-07-26 01:25:06 [MusicDownloader] ❌ Lỗi tải file: Anh Yêu Vội Thế (Remix).mp3
+2025-07-26 01:25:06 [MusicDownloader] ❌ Lỗi tải file: Con Bướm Xuân (Remix).mp3
+2025-07-26 01:25:06 [MusicDownloader] ❌ Lỗi tải file: Áng Mây Vô Tình - Zero Remix.mp3
+2025-07-26 01:25:07 [MusicDownloader] ❌ Lỗi tải file: Không Bằng (Remix).mp3
+2025-07-26 01:25:07 [MusicDownloader] ❌ Lỗi tải file: Nổi Gió Lên (Qinn Remix).mp3
+2025-07-26 01:25:07 [MusicDownloader] ❌ Lỗi tải file: Nhường Hạnh Phúc Cho Anh (Qinn Remix).mp3
+2025-07-26 01:25:08 [MusicDownloader] ❌ Lỗi tải file: Vương Vấn - (Qinn Remix).mp3
+2025-07-26 01:25:08 [MusicDownloader] ❌ Lỗi tải file: Đoản Xuân Ca (Remix).mp3
+2025-07-26 01:25:08 [MusicDownloader] ❌ Lỗi tải file: Đi Bao Xa - Cukak Remix.mp3
+2025-07-26 01:25:09 [MusicDownloader] ❌ Lỗi tải file: Tới Duyên (Qinn Remix).mp3
+2025-07-26 01:25:09 [MusicDownloader] ❌ Lỗi tải file: Dối Lừa (Qinn Remix).mp3
+2025-07-26 01:25:09 [MusicDownloader] ❌ Lỗi tải file: Tình Đẹp Khi Không Có Người Thứ Ba (Qinn Remix).mp3
+2025-07-26 01:25:10 [MusicDownloader] ❌ Lỗi tải file: Ngày Xuân Long Phụng Sum Vầy (Remix).mp3
+2025-07-26 01:25:10 [MusicDownloader] ❌ Lỗi tải file: Bạn Tình Ơi - TVS Remix.mp3
+2025-07-26 01:25:10 [MusicDownloader] ❌ Lỗi tải file: Nụ Cười Xuân - Đại Mèo Remix.mp3
+2025-07-26 01:25:11 [MusicDownloader] ❌ Lỗi tải file: Khi Bạn Cần Có Tôi Đây (Qinn Remix).mp3
+2025-07-26 01:25:11 [MusicDownloader] ❌ Lỗi tải file: Quên Cách Yêu - Remix Version.mp3
+2025-07-26 01:25:11 [MusicDownloader] ❌ Lỗi tải file: Một Ngày Chẳng Nắng (Cukak Remix).mp3
+2025-07-26 01:25:11 [MusicDownloader] ❌ Lỗi tải file: Quên Người Đã Quá Yêu - Qinn Remix.mp3
+2025-07-26 01:25:12 [MusicDownloader] ❌ Lỗi tải file: Quá Khứ Anh Không Thể Quên - Doss Remix.mp3
+2025-07-26 01:25:12 [MusicDownloader] ❌ Lỗi tải file: Thế Giới Trong Em (Remix).mp3
+2025-07-26 01:25:12 [MusicDownloader] 🎵 Tải nhạc hoàn tất
+2025-07-26 01:25:56 [MusicDownloader] ❌ Lỗi tải file: 佛系少女.mp3
+2025-07-26 01:25:57 [MusicDownloader] ❌ Lỗi tải file: 體會愛.mp3
+2025-07-26 01:25:57 [MusicDownloader] ❌ Lỗi tải file: 天后.mp3
+2025-07-26 01:25:57 [MusicDownloader] ❌ Lỗi tải file: 摩托.mp3
+2025-07-26 01:25:58 [MusicDownloader] ❌ Lỗi tải file: 生而不凡.mp3
+2025-07-26 01:25:58 [MusicDownloader] ❌ Lỗi tải file: 红尘事.mp3
+2025-07-26 01:25:58 [MusicDownloader] ❌ Lỗi tải file: 微風降落.mp3
+2025-07-26 01:25:58 [MusicDownloader] ❌ Lỗi tải file: 青空.mp3
+2025-07-26 01:25:59 [MusicDownloader] ❌ Lỗi tải file: 自己.mp3
+2025-07-26 01:25:59 [MusicDownloader] ❌ Lỗi tải file: 愛上張無忌.mp3
+2025-07-26 01:26:00 [MusicDownloader] ❌ Lỗi tải file: 流云与风.mp3
+2025-07-26 01:26:00 [MusicDownloader] ❌ Lỗi tải file: 既視感.mp3
+2025-07-26 01:26:00 [MusicDownloader] ❌ Lỗi tải file: 我们之间 - 电视剧《我站在桥上看风景》高甜宠爱插曲.mp3
+2025-07-26 01:26:01 [MusicDownloader] ❌ Lỗi tải file: 做我的英雄.mp3
+2025-07-26 01:26:01 [MusicDownloader] ❌ Lỗi tải file: 祝恶魔好运.mp3
+2025-07-26 01:26:01 [MusicDownloader] ❌ Lỗi tải file: 钩指发誓.mp3
+2025-07-26 01:26:02 [MusicDownloader] ❌ Lỗi tải file: 看到風.mp3
+2025-07-26 01:26:02 [MusicDownloader] ❌ Lỗi tải file: 戀夏記.mp3
+2025-07-26 01:26:02 [MusicDownloader] ❌ Lỗi tải file: 天下有情人 - Live.mp3
+2025-07-26 01:26:03 [MusicDownloader] ❌ Lỗi tải file: 空心 - Live.mp3
+2025-07-26 01:26:03 [MusicDownloader] ❌ Lỗi tải file: 哼.mp3
+2025-07-26 01:26:03 [MusicDownloader] ❌ Lỗi tải file: 至少还有你.mp3
+2025-07-26 01:26:03 [MusicDownloader] ❌ Lỗi tải file: 紅塵事.mp3
+2025-07-26 01:26:04 [MusicDownloader] ❌ Lỗi tải file: 触电.mp3
+2025-07-26 01:26:04 [MusicDownloader] ❌ Lỗi tải file: 光.mp3
+2025-07-26 01:26:04 [MusicDownloader] ❌ Lỗi tải file: 爱上张无忌.mp3
+2025-07-26 01:26:05 [MusicDownloader] ❌ Lỗi tải file: 玻璃糖.mp3
+2025-07-26 01:26:05 [MusicDownloader] ❌ Lỗi tải file: 左手.mp3
+2025-07-26 01:26:06 [MusicDownloader] ❌ Lỗi tải file: 春风十里何时遇.mp3
+2025-07-26 01:26:06 [MusicDownloader] ❌ Lỗi tải file: 送你一朵小红花 - Live.mp3
+2025-07-26 01:26:06 [MusicDownloader] ❌ Lỗi tải file: 何必留下遗憾(电影《曾经相爱的我们》主题曲).mp3
+2025-07-26 01:26:06 [MusicDownloader] ❌ Lỗi tải file: 再見前任（電影《前任3：再見前任》同名宣傳曲）.mp3
+2025-07-26 01:26:07 [MusicDownloader] ❌ Lỗi tải file: 橘灿女孩.mp3
+2025-07-26 01:26:07 [MusicDownloader] ❌ Lỗi tải file: 沙漠駱駝.mp3
+2025-07-26 01:26:08 [MusicDownloader] ❌ Lỗi tải file: 世间美好与你环环相扣.mp3
+2025-07-26 01:26:08 [MusicDownloader] ❌ Lỗi tải file: 画心 - Live.mp3
+2025-07-26 01:26:08 [MusicDownloader] ❌ Lỗi tải file: 为你铭刻 - 动画《元龙》第二季片尾曲.mp3
+2025-07-26 01:26:09 [MusicDownloader] ❌ Lỗi tải file: 識食物者為俊傑.mp3
+2025-07-26 01:26:09 [MusicDownloader] ❌ Lỗi tải file: 陌生人 - Live.mp3
+2025-07-26 01:26:09 [MusicDownloader] ❌ Lỗi tải file: 我的梦.mp3
+2025-07-26 01:26:10 [MusicDownloader] ❌ Lỗi tải file: 愛著每天的你.mp3
+2025-07-26 01:26:10 [MusicDownloader] ❌ Lỗi tải file: Chờ Ngày Cưới Em (Nekko Remix).mp3
+2025-07-26 01:26:10 [MusicDownloader] ❌ Lỗi tải file: Lỡ Yêu Người Đậm Sâu (Remix).mp3
+2025-07-26 01:26:11 [MusicDownloader] ❌ Lỗi tải file: Tình Ca Tình Ta - Cukak Remix.mp3
+2025-07-26 01:26:11 [MusicDownloader] ❌ Lỗi tải file: Ngày Trong Xanh (Remix).mp3
+2025-07-26 01:26:11 [MusicDownloader] ❌ Lỗi tải file: Yêu Là Cưới (Remix).mp3
+2025-07-26 01:26:11 [MusicDownloader] ❌ Lỗi tải file: Đừng Hỏi Em Ổn Không (Remix).mp3
+2025-07-26 01:26:12 [MusicDownloader] ❌ Lỗi tải file: Thế Thái x Cố Giang Tình (Remix).mp3
+2025-07-26 01:26:12 [MusicDownloader] ❌ Lỗi tải file: Vui Lắm Nha (Remix).mp3
+2025-07-26 01:26:12 [MusicDownloader] ❌ Lỗi tải file: Ai Cũng Có Một Mối Tình Buồn (Qinn Remix).mp3
+2025-07-26 01:26:13 [MusicDownloader] ❌ Lỗi tải file: Thê Tử - Phước Lành Remix 140.mp3
+2025-07-26 01:26:13 [MusicDownloader] ❌ Lỗi tải file: Hoa Bất Tử (Remix).mp3
+2025-07-26 01:26:13 [MusicDownloader] ❌ Lỗi tải file: Vở Kịch Của Em (Qinn Remix).mp3
+2025-07-26 01:26:14 [MusicDownloader] ❌ Lỗi tải file: Điệp Khúc Mùa Xuân (Remix).mp3
+2025-07-26 01:26:14 [MusicDownloader] ❌ Lỗi tải file: Mashup Để Anh Lương Thiện - Đừng Hỏi Em Ổn Không - Anh Thôi Nhân Nhượng - HuyPT Remix.mp3
+2025-07-26 01:26:14 [MusicDownloader] ❌ Lỗi tải file: Em và Hoa - Cukak Remix Version.mp3
+2025-07-26 01:26:15 [MusicDownloader] ❌ Lỗi tải file: Em Vội Quên (Qinn Remix).mp3
+2025-07-26 01:26:15 [MusicDownloader] ❌ Lỗi tải file: Mong Một Ngày Anh Nhớ Đến Em Qinn Remix.mp3
+2025-07-26 01:26:16 [MusicDownloader] ❌ Lỗi tải file: Nhân Sinh Quán - Đức Louis Remix.mp3
+2025-07-26 01:26:16 [MusicDownloader] ❌ Lỗi tải file: Thiệp Hồng Em Trao (Qinn Remix).mp3
+2025-07-26 01:26:16 [MusicDownloader] ❌ Lỗi tải file: Cắt Đôi Nỗi Sầu - Cukak Remix.mp3
+2025-07-26 01:26:17 [MusicDownloader] ❌ Lỗi tải file: Giá Như Anh Là Người Vô Tâm - NT Remix.mp3
+2025-07-26 01:26:17 [MusicDownloader] ❌ Lỗi tải file: Trúc Xinh - Ciray Remix.mp3
+2025-07-26 01:26:17 [MusicDownloader] ❌ Lỗi tải file: Giờ Không Cưới Thì Nào Cưới (Remix).mp3
+2025-07-26 01:26:18 [MusicDownloader] ❌ Lỗi tải file: Xuân Này Con Không Về (Remix).mp3
+2025-07-26 01:26:18 [MusicDownloader] ❌ Lỗi tải file: Gõ Cửa Trái Tim - Remix.mp3
+2025-07-26 01:26:18 [MusicDownloader] ❌ Lỗi tải file: Phận Tàn (Remix).mp3
+2025-07-26 01:26:19 [MusicDownloader] ❌ Lỗi tải file: Forget Me Now (Remix).mp3
+2025-07-26 01:26:19 [MusicDownloader] ❌ Lỗi tải file: Cứ Nói Yêu Lần Này (Speed Up) - Cukak Remix.mp3
+2025-07-26 01:26:19 [MusicDownloader] ❌ Lỗi tải file: girls like me don't cry (remix) ft. MIN.mp3
+2025-07-26 01:26:20 [MusicDownloader] ❌ Lỗi tải file: Không Biết Phải Làm Sao - Đức Louis Remix.mp3
+2025-07-26 01:26:20 [MusicDownloader] ❌ Lỗi tải file: Thiên Lý Ơi (Remix).mp3
+2025-07-26 01:26:20 [MusicDownloader] ❌ Lỗi tải file: Em Có Biết (Remix).mp3
+2025-07-26 01:26:20 [MusicDownloader] ❌ Lỗi tải file: Yêu Thật Khó Xoá Thật Đau - Yang Remix.mp3
+2025-07-26 01:26:21 [MusicDownloader] ❌ Lỗi tải file: Ải Hồng Nhan (Qinn Remix).mp3
+2025-07-26 01:26:21 [MusicDownloader] ❌ Lỗi tải file: Em Nắm Anh Buông (Qinn Remix).mp3
+2025-07-26 01:26:21 [MusicDownloader] ❌ Lỗi tải file: Da Key (Remix).mp3
+2025-07-26 01:26:22 [MusicDownloader] ❌ Lỗi tải file: Trách Phận Vô Danh (Qinn Remix).mp3
+2025-07-26 01:26:22 [MusicDownloader] ❌ Lỗi tải file: Trói Em Lại (Remix).mp3
+2025-07-26 01:26:22 [MusicDownloader] ❌ Lỗi tải file: Con Bướm Xuân (Qinn Remix).mp3
+2025-07-26 01:26:23 [MusicDownloader] ❌ Lỗi tải file: 05 (Không Phai) - Remix.mp3
+2025-07-26 01:26:23 [MusicDownloader] ❌ Lỗi tải file: Có Duyên Không Nợ (Qinn Remix).mp3
+2025-07-26 01:26:23 [MusicDownloader] ❌ Lỗi tải file: Chưa Bao Giờ Em Quên - Kendy T Remix.mp3
+2025-07-26 01:26:24 [MusicDownloader] ❌ Lỗi tải file: Lời Nói Điêu Trên Môi Em (Remix).mp3
+2025-07-26 01:26:24 [MusicDownloader] ❌ Lỗi tải file: Bật Tình Yêu Lên - Cukak Remix.mp3
+2025-07-26 01:26:24 [MusicDownloader] ❌ Lỗi tải file: Lý Do Là Gì (Qinn Remix).mp3
+2025-07-26 01:26:24 [MusicDownloader] ❌ Lỗi tải file: Tết Đến Thật Rồi - Remix.mp3
+2025-07-26 01:26:25 [MusicDownloader] ❌ Lỗi tải file: Hoa Sứ Nhà Nàng (Remix).mp3
+2025-07-26 01:26:25 [MusicDownloader] ❌ Lỗi tải file: Có Em Chờ - Masew Remix.mp3
+2025-07-26 01:26:25 [MusicDownloader] ❌ Lỗi tải file: Em Là Con Gái Rượu (Qinn Remix).mp3
+2025-07-26 01:26:26 [MusicDownloader] ❌ Lỗi tải file: Tình Đầu Quá Chén (Remix).mp3
+2025-07-26 01:26:26 [MusicDownloader] ❌ Lỗi tải file: Lỗi Tại Mưa x Ảo Ảnh Remix (ft Vicky Nhung).mp3
+2025-07-26 01:26:26 [MusicDownloader] ❌ Lỗi tải file: Chuyện Cũ Bỏ Qua (Remix).mp3
+2025-07-26 01:26:27 [MusicDownloader] ❌ Lỗi tải file: Kẹo Bông Gòn (Remix).mp3
+2025-07-26 01:26:27 [MusicDownloader] ❌ Lỗi tải file: Người thay thế em (Qinn remix).mp3
+2025-07-26 01:26:27 [MusicDownloader] ❌ Lỗi tải file: Tình Đơn Phương (Cukak Remix).mp3
+2025-07-26 01:26:28 [MusicDownloader] ❌ Lỗi tải file: Liều Thuốc Cho Trái Tim (Remix).mp3
+2025-07-26 01:26:28 [MusicDownloader] ❌ Lỗi tải file: Là Ai Từ Bỏ Là Ai Vô Tình - Remix.mp3
+2025-07-26 01:26:28 [MusicDownloader] ❌ Lỗi tải file: Sự Thật Đã Bỏ Quên - HD Remix.mp3
+2025-07-26 01:26:28 [MusicDownloader] ❌ Lỗi tải file: Hy Vọng Quá Hóa Đau Lòng (Qinn Remix).mp3
+2025-07-26 01:26:29 [MusicDownloader] ❌ Lỗi tải file: Chờ Em Dưới Cơn Mưa (Qinn Remix).mp3
+2025-07-26 01:26:29 [MusicDownloader] ❌ Lỗi tải file: Thay Lòng (Noknha Remix).mp3
+2025-07-26 01:26:29 [MusicDownloader] ❌ Lỗi tải file: Thì Thôi (Remix).mp3
+2025-07-26 01:26:30 [MusicDownloader] ❌ Lỗi tải file: Mashup Ngôi Nhà Hoa Hồng - Remix - Vicky Nhung Version.mp3
+2025-07-26 01:26:30 [MusicDownloader] ❌ Lỗi tải file: Gu - Cukak Remix.mp3
+2025-07-26 01:26:30 [MusicDownloader] ❌ Lỗi tải file: Duyên Trời Lấy 2 (Remix).mp3
+2025-07-26 01:26:31 [MusicDownloader] ❌ Lỗi tải file: Cứ Thế Mong Chờ (Qinn Remix).mp3
+2025-07-26 01:26:31 [MusicDownloader] ❌ Lỗi tải file: Lung Lay - Cukak Remix.mp3
+2025-07-26 01:26:31 [MusicDownloader] ❌ Lỗi tải file: Lệ Lưu Ly - Cukak Remix.mp3
+2025-07-26 01:26:32 [MusicDownloader] ❌ Lỗi tải file: Em Ơi Anh Phải Làm Sao - BT Remix.mp3
+2025-07-26 01:26:32 [MusicDownloader] ❌ Lỗi tải file: Tell Ur Mom II (Cukak Remix).mp3
+2025-07-26 01:26:32 [MusicDownloader] ❌ Lỗi tải file: Khi Yêu Nào Ai Đâu Muốn - Hoàng Đức Remix.mp3
+2025-07-26 01:26:33 [MusicDownloader] ❌ Lỗi tải file: Chờ Ngày Cưới Em - Cukak Remix.mp3
+2025-07-26 01:26:33 [MusicDownloader] ❌ Lỗi tải file: Khuê Mộc Lang (Remix).mp3
+2025-07-26 01:26:33 [MusicDownloader] ❌ Lỗi tải file: Hỏi Vợ Ngoại Thành (Remix).mp3
+2025-07-26 01:26:34 [MusicDownloader] ❌ Lỗi tải file: Anh Cho Em Mùa Xuân (Remix).mp3
+2025-07-26 01:26:34 [MusicDownloader] ❌ Lỗi tải file: Cold Don't - Cukak Remix.mp3
+2025-07-26 01:26:34 [MusicDownloader] ❌ Lỗi tải file: Đừng Lo Nhé Có Anh Đây Remix.mp3
+2025-07-26 01:26:35 [MusicDownloader] ❌ Lỗi tải file: Em Ơi Lên Phố - Tipo Remix 138.mp3
+2025-07-26 01:26:35 [MusicDownloader] ❌ Lỗi tải file: Một Thuở Yêu Người Remix.mp3
+2025-07-26 01:26:35 [MusicDownloader] ❌ Lỗi tải file: Gió - Cukak Remix.mp3
+2025-07-26 01:26:35 [MusicDownloader] ❌ Lỗi tải file: Anh Thương Em Em Thương Ai - Đức Louis Remix.mp3
+2025-07-26 01:26:36 [MusicDownloader] ❌ Lỗi tải file: Gió x Đom Đóm (Remix).mp3
+2025-07-26 01:26:36 [MusicDownloader] ❌ Lỗi tải file: Có Lẽ Bên Nhau Là Sai - Đức Louis Remix.mp3
+2025-07-26 01:26:36 [MusicDownloader] ❌ Lỗi tải file: Mong Một Ngày Anh Nhớ Đến Em Remix.mp3
+2025-07-26 01:26:37 [MusicDownloader] ❌ Lỗi tải file: Cheri Cheri Lady - Cukak Remix.mp3
+2025-07-26 01:26:37 [MusicDownloader] ❌ Lỗi tải file: Ngày Tết Quê Em (Remix).mp3
+2025-07-26 01:26:37 [MusicDownloader] ❌ Lỗi tải file: Em Ngốc Quá - Zero Remix.mp3
+2025-07-26 01:26:38 [MusicDownloader] ❌ Lỗi tải file: Anh Yêu Vội Thế (Remix).mp3
+2025-07-26 01:26:38 [MusicDownloader] ❌ Lỗi tải file: Con Bướm Xuân (Remix).mp3
+2025-07-26 01:26:38 [MusicDownloader] ❌ Lỗi tải file: Áng Mây Vô Tình - Zero Remix.mp3
+2025-07-26 01:26:39 [MusicDownloader] ❌ Lỗi tải file: Không Bằng (Remix).mp3
+2025-07-26 01:26:39 [MusicDownloader] ❌ Lỗi tải file: Nổi Gió Lên (Qinn Remix).mp3
+2025-07-26 01:26:39 [MusicDownloader] ❌ Lỗi tải file: Nhường Hạnh Phúc Cho Anh (Qinn Remix).mp3
+2025-07-26 01:26:40 [MusicDownloader] ❌ Lỗi tải file: Vương Vấn - (Qinn Remix).mp3
+2025-07-26 01:26:40 [MusicDownloader] ❌ Lỗi tải file: Đoản Xuân Ca (Remix).mp3
+2025-07-26 01:26:40 [MusicDownloader] ❌ Lỗi tải file: Đi Bao Xa - Cukak Remix.mp3
+2025-07-26 01:26:41 [MusicDownloader] ❌ Lỗi tải file: Tới Duyên (Qinn Remix).mp3
+2025-07-26 01:26:41 [MusicDownloader] ❌ Lỗi tải file: Dối Lừa (Qinn Remix).mp3
+2025-07-26 01:26:42 [MusicDownloader] ❌ Lỗi tải file: Tình Đẹp Khi Không Có Người Thứ Ba (Qinn Remix).mp3
+2025-07-26 01:26:42 [MusicDownloader] ❌ Lỗi tải file: Ngày Xuân Long Phụng Sum Vầy (Remix).mp3
+2025-07-26 01:26:42 [MusicDownloader] ❌ Lỗi tải file: Bạn Tình Ơi - TVS Remix.mp3
+2025-07-26 01:26:42 [MusicDownloader] ❌ Lỗi tải file: Nụ Cười Xuân - Đại Mèo Remix.mp3
+2025-07-26 01:26:43 [MusicDownloader] ❌ Lỗi tải file: Khi Bạn Cần Có Tôi Đây (Qinn Remix).mp3
+2025-07-26 01:26:43 [MusicDownloader] ❌ Lỗi tải file: Quên Cách Yêu - Remix Version.mp3
+2025-07-26 01:26:43 [MusicDownloader] ❌ Lỗi tải file: Một Ngày Chẳng Nắng (Cukak Remix).mp3
+2025-07-26 01:26:44 [MusicDownloader] ❌ Lỗi tải file: Quên Người Đã Quá Yêu - Qinn Remix.mp3
+2025-07-26 01:26:44 [MusicDownloader] ❌ Lỗi tải file: Quá Khứ Anh Không Thể Quên - Doss Remix.mp3
+2025-07-26 01:26:45 [MusicDownloader] ❌ Lỗi tải file: Thế Giới Trong Em (Remix).mp3
+2025-07-26 01:26:45 [MusicDownloader] 🎵 Tải nhạc hoàn tất
+2025-07-26 01:33:05 [MusicDownloader] ❌ Lỗi tải file: Chờ Ngày Cưới Em (Nekko Remix).mp3
+2025-07-26 01:33:06 [MusicDownloader] ❌ Lỗi tải file: Lỡ Yêu Người Đậm Sâu (Remix).mp3
+2025-07-26 01:33:06 [MusicDownloader] ❌ Lỗi tải file: Tình Ca Tình Ta - Cukak Remix.mp3
+2025-07-26 01:33:06 [MusicDownloader] ❌ Lỗi tải file: Ngày Trong Xanh (Remix).mp3
+2025-07-26 01:33:07 [MusicDownloader] ❌ Lỗi tải file: Yêu Là Cưới (Remix).mp3
+2025-07-26 01:33:07 [MusicDownloader] ❌ Lỗi tải file: Đừng Hỏi Em Ổn Không (Remix).mp3
+2025-07-26 01:33:07 [MusicDownloader] ❌ Lỗi tải file: Thế Thái x Cố Giang Tình (Remix).mp3
+2025-07-26 01:33:07 [MusicDownloader] ❌ Lỗi tải file: Vui Lắm Nha (Remix).mp3
+2025-07-26 01:33:08 [MusicDownloader] ❌ Lỗi tải file: Ai Cũng Có Một Mối Tình Buồn (Qinn Remix).mp3
+2025-07-26 01:33:08 [MusicDownloader] ❌ Lỗi tải file: Thê Tử - Phước Lành Remix 140.mp3
+2025-07-26 01:33:09 [MusicDownloader] ❌ Lỗi tải file: Hoa Bất Tử (Remix).mp3
+2025-07-26 01:33:09 [MusicDownloader] ❌ Lỗi tải file: Vở Kịch Của Em (Qinn Remix).mp3
+2025-07-26 01:33:09 [MusicDownloader] ❌ Lỗi tải file: Mashup Để Anh Lương Thiện - Đừng Hỏi Em Ổn Không - Anh Thôi Nhân Nhượng - HuyPT Remix.mp3
+2025-07-26 01:33:10 [MusicDownloader] ❌ Lỗi tải file: Em và Hoa - Cukak Remix Version.mp3
+2025-07-26 01:33:10 [MusicDownloader] ❌ Lỗi tải file: Em Vội Quên (Qinn Remix).mp3
+2025-07-26 01:33:10 [MusicDownloader] ❌ Lỗi tải file: Mong Một Ngày Anh Nhớ Đến Em Qinn Remix.mp3
+2025-07-26 01:33:10 [MusicDownloader] ❌ Lỗi tải file: Nhân Sinh Quán - Đức Louis Remix.mp3
+2025-07-26 01:33:11 [MusicDownloader] ❌ Lỗi tải file: Thiệp Hồng Em Trao (Qinn Remix).mp3
+2025-07-26 01:33:11 [MusicDownloader] ❌ Lỗi tải file: Cắt Đôi Nỗi Sầu - Cukak Remix.mp3
+2025-07-26 01:33:11 [MusicDownloader] ❌ Lỗi tải file: Giá Như Anh Là Người Vô Tâm - NT Remix.mp3
+2025-07-26 01:33:12 [MusicDownloader] ❌ Lỗi tải file: Trúc Xinh - Ciray Remix.mp3
+2025-07-26 01:33:12 [MusicDownloader] ❌ Lỗi tải file: Giờ Không Cưới Thì Nào Cưới (Remix).mp3
+2025-07-26 01:33:13 [MusicDownloader] ❌ Lỗi tải file: Xuân Này Con Không Về (Remix).mp3
+2025-07-26 01:33:13 [MusicDownloader] ❌ Lỗi tải file: Gõ Cửa Trái Tim - Remix.mp3
+2025-07-26 01:33:13 [MusicDownloader] ❌ Lỗi tải file: Phận Tàn (Remix).mp3
+2025-07-26 01:33:15 [MusicDownloader] ⬇️ Đã tải: Forget Me Now (Remix).mp3
+2025-07-26 01:33:16 [MusicDownloader] ❌ Lỗi tải file: Cứ Nói Yêu Lần Này (Speed Up) - Cukak Remix.mp3
+2025-07-26 01:33:16 [MusicDownloader] ❌ Lỗi tải file: Không Biết Phải Làm Sao - Đức Louis Remix.mp3
+2025-07-26 01:33:16 [MusicDownloader] ❌ Lỗi tải file: Thiên Lý Ơi (Remix).mp3
+2025-07-26 01:33:17 [MusicDownloader] ❌ Lỗi tải file: Em Có Biết (Remix).mp3
+2025-07-26 01:33:17 [MusicDownloader] ❌ Lỗi tải file: Yêu Thật Khó Xoá Thật Đau - Yang Remix.mp3
+2025-07-26 01:33:18 [MusicDownloader] ❌ Lỗi tải file: Ải Hồng Nhan (Qinn Remix).mp3
+2025-07-26 01:33:18 [MusicDownloader] ❌ Lỗi tải file: Em Nắm Anh Buông (Qinn Remix).mp3
+2025-07-26 01:33:22 [MusicDownloader] ⬇️ Đã tải: Da Key (Remix).mp3
+2025-07-26 01:33:22 [MusicDownloader] ❌ Lỗi tải file: Trách Phận Vô Danh (Qinn Remix).mp3
+2025-07-26 01:33:23 [MusicDownloader] ❌ Lỗi tải file: Trói Em Lại (Remix).mp3
+2025-07-26 01:33:23 [MusicDownloader] ❌ Lỗi tải file: Con Bướm Xuân (Qinn Remix).mp3
+2025-07-26 01:33:23 [MusicDownloader] ❌ Lỗi tải file: Có Duyên Không Nợ (Qinn Remix).mp3
+2025-07-26 01:33:24 [MusicDownloader] ❌ Lỗi tải file: Chưa Bao Giờ Em Quên - Kendy T Remix.mp3
+2025-07-26 01:33:24 [MusicDownloader] ❌ Lỗi tải file: Lời Nói Điêu Trên Môi Em (Remix).mp3
+2025-07-26 01:33:24 [MusicDownloader] ❌ Lỗi tải file: Bật Tình Yêu Lên - Cukak Remix.mp3
+2025-07-26 01:33:25 [MusicDownloader] ❌ Lỗi tải file: Lý Do Là Gì (Qinn Remix).mp3
+2025-07-26 01:33:25 [MusicDownloader] ❌ Lỗi tải file: Tết Đến Thật Rồi - Remix.mp3
+2025-07-26 01:33:25 [MusicDownloader] ❌ Lỗi tải file: Hoa Sứ Nhà Nàng (Remix).mp3
+2025-07-26 01:33:26 [MusicDownloader] ❌ Lỗi tải file: Có Em Chờ - Masew Remix.mp3
+2025-07-26 01:33:26 [MusicDownloader] ❌ Lỗi tải file: Em Là Con Gái Rượu (Qinn Remix).mp3
+2025-07-26 01:33:26 [MusicDownloader] ❌ Lỗi tải file: Tình Đầu Quá Chén (Remix).mp3
+2025-07-26 01:33:27 [MusicDownloader] ❌ Lỗi tải file: Lỗi Tại Mưa x Ảo Ảnh Remix (ft Vicky Nhung).mp3
+2025-07-26 01:33:27 [MusicDownloader] ❌ Lỗi tải file: Chuyện Cũ Bỏ Qua (Remix).mp3
+2025-07-26 01:33:27 [MusicDownloader] ❌ Lỗi tải file: Kẹo Bông Gòn (Remix).mp3
+2025-07-26 01:33:27 [MusicDownloader] ❌ Lỗi tải file: Người thay thế em (Qinn remix).mp3
+2025-07-26 01:33:28 [MusicDownloader] ❌ Lỗi tải file: Tình Đơn Phương (Cukak Remix).mp3
+2025-07-26 01:33:28 [MusicDownloader] ❌ Lỗi tải file: Liều Thuốc Cho Trái Tim (Remix).mp3
+2025-07-26 01:33:28 [MusicDownloader] ❌ Lỗi tải file: Sự Thật Đã Bỏ Quên - HD Remix.mp3
+2025-07-26 01:33:29 [MusicDownloader] ❌ Lỗi tải file: Hy Vọng Quá Hóa Đau Lòng (Qinn Remix).mp3
+2025-07-26 01:33:29 [MusicDownloader] ❌ Lỗi tải file: Chờ Em Dưới Cơn Mưa (Qinn Remix).mp3
+2025-07-26 01:33:29 [MusicDownloader] ❌ Lỗi tải file: Thay Lòng (Noknha Remix).mp3
+2025-07-26 01:33:30 [MusicDownloader] ❌ Lỗi tải file: Thì Thôi (Remix).mp3
+2025-07-26 01:33:30 [MusicDownloader] ❌ Lỗi tải file: Mashup Ngôi Nhà Hoa Hồng - Remix - Vicky Nhung Version.mp3
+2025-07-26 01:33:33 [MusicDownloader] ⬇️ Đã tải: Gu - Cukak Remix.mp3
+2025-07-26 01:33:33 [MusicDownloader] ❌ Lỗi tải file: Duyên Trời Lấy 2 (Remix).mp3
+2025-07-26 01:33:34 [MusicDownloader] ❌ Lỗi tải file: Cứ Thế Mong Chờ (Qinn Remix).mp3
+2025-07-26 01:33:37 [MusicDownloader] ⬇️ Đã tải: Lung Lay - Cukak Remix.mp3
+2025-07-26 01:33:37 [MusicDownloader] ❌ Lỗi tải file: Lệ Lưu Ly - Cukak Remix.mp3
+2025-07-26 01:33:38 [MusicDownloader] ❌ Lỗi tải file: Em Ơi Anh Phải Làm Sao - BT Remix.mp3
+2025-07-26 01:33:42 [MusicDownloader] ⬇️ Đã tải: Tell Ur Mom II (Cukak Remix).mp3
+2025-07-26 01:33:42 [MusicDownloader] ❌ Lỗi tải file: Khi Yêu Nào Ai Đâu Muốn - Hoàng Đức Remix.mp3
+2025-07-26 01:33:42 [MusicDownloader] ❌ Lỗi tải file: Chờ Ngày Cưới Em - Cukak Remix.mp3
+2025-07-26 01:33:43 [MusicDownloader] ❌ Lỗi tải file: Khuê Mộc Lang (Remix).mp3
+2025-07-26 01:33:43 [MusicDownloader] ❌ Lỗi tải file: Hỏi Vợ Ngoại Thành (Remix).mp3
+2025-07-26 01:33:46 [MusicDownloader] ⬇️ Đã tải: Cold Don't - Cukak Remix.mp3
+2025-07-26 01:33:46 [MusicDownloader] ❌ Lỗi tải file: Em Ơi Lên Phố - Tipo Remix 138.mp3
+2025-07-26 01:33:46 [MusicDownloader] ❌ Lỗi tải file: Một Thuở Yêu Người Remix.mp3
+2025-07-26 01:33:47 [MusicDownloader] ❌ Lỗi tải file: Gió - Cukak Remix.mp3
+2025-07-26 01:33:47 [MusicDownloader] ❌ Lỗi tải file: Anh Thương Em Em Thương Ai - Đức Louis Remix.mp3
+2025-07-26 01:33:47 [MusicDownloader] ❌ Lỗi tải file: Có Lẽ Bên Nhau Là Sai - Đức Louis Remix.mp3
+2025-07-26 01:33:48 [MusicDownloader] ❌ Lỗi tải file: Mong Một Ngày Anh Nhớ Đến Em Remix.mp3
+2025-07-26 01:33:49 [MusicDownloader] ⬇️ Đã tải: Cheri Cheri Lady - Cukak Remix.mp3
+2025-07-26 01:33:49 [MusicDownloader] ❌ Lỗi tải file: Ngày Tết Quê Em (Remix).mp3
+2025-07-26 01:33:50 [MusicDownloader] ❌ Lỗi tải file: Em Ngốc Quá - Zero Remix.mp3
+2025-07-26 01:33:50 [MusicDownloader] ❌ Lỗi tải file: Anh Yêu Vội Thế (Remix).mp3
+2025-07-26 01:33:51 [MusicDownloader] ❌ Lỗi tải file: Áng Mây Vô Tình - Zero Remix.mp3
+2025-07-26 01:33:51 [MusicDownloader] ❌ Lỗi tải file: Không Bằng (Remix).mp3
+2025-07-26 01:33:51 [MusicDownloader] ❌ Lỗi tải file: Nổi Gió Lên (Qinn Remix).mp3
+2025-07-26 01:33:51 [MusicDownloader] ❌ Lỗi tải file: Nhường Hạnh Phúc Cho Anh (Qinn Remix).mp3
+2025-07-26 01:33:52 [MusicDownloader] ❌ Lỗi tải file: Vương Vấn - (Qinn Remix).mp3
+2025-07-26 01:33:52 [MusicDownloader] ❌ Lỗi tải file: Đoản Xuân Ca (Remix).mp3
+2025-07-26 01:33:55 [MusicDownloader] ⬇️ Đã tải: Đi Bao Xa - Cukak Remix.mp3
+2025-07-26 01:33:55 [MusicDownloader] ❌ Lỗi tải file: Tới Duyên (Qinn Remix).mp3
+2025-07-26 01:33:56 [MusicDownloader] ❌ Lỗi tải file: Dối Lừa (Qinn Remix).mp3
+2025-07-26 01:33:56 [MusicDownloader] ❌ Lỗi tải file: Tình Đẹp Khi Không Có Người Thứ Ba (Qinn Remix).mp3
+2025-07-26 01:33:56 [MusicDownloader] ❌ Lỗi tải file: Ngày Xuân Long Phụng Sum Vầy (Remix).mp3
+2025-07-26 01:33:57 [MusicDownloader] ❌ Lỗi tải file: Bạn Tình Ơi - TVS Remix.mp3
+2025-07-26 01:33:57 [MusicDownloader] ❌ Lỗi tải file: Nụ Cười Xuân - Đại Mèo Remix.mp3
+2025-07-26 01:33:57 [MusicDownloader] ❌ Lỗi tải file: Quên Cách Yêu - Remix Version.mp3
+2025-07-26 01:33:58 [MusicDownloader] ❌ Lỗi tải file: Một Ngày Chẳng Nắng (Cukak Remix).mp3
+2025-07-26 01:33:58 [MusicDownloader] ❌ Lỗi tải file: Quên Người Đã Quá Yêu - Qinn Remix.mp3
+2025-07-26 01:33:58 [MusicDownloader] ❌ Lỗi tải file: Quá Khứ Anh Không Thể Quên - Doss Remix.mp3
+2025-07-26 01:33:59 [MusicDownloader] ❌ Lỗi tải file: Thế Giới Trong Em (Remix).mp3
+2025-07-26 01:33:59 [MusicDownloader] 🎵 Tải nhạc hoàn tất
+2025-07-26 01:36:21 [MusicDownloader] ❌ Lỗi tải file: Chờ Ngày Cưới Em (Nekko Remix).mp3
+2025-07-26 01:36:21 [MusicDownloader] ❌ Lỗi tải file: Lỡ Yêu Người Đậm Sâu (Remix).mp3
+2025-07-26 01:36:21 [MusicDownloader] ❌ Lỗi tải file: Tình Ca Tình Ta - Cukak Remix.mp3
+2025-07-26 01:36:22 [MusicDownloader] ❌ Lỗi tải file: Ngày Trong Xanh (Remix).mp3
+2025-07-26 01:36:22 [MusicDownloader] ❌ Lỗi tải file: Yêu Là Cưới (Remix).mp3
+2025-07-26 01:36:22 [MusicDownloader] ❌ Lỗi tải file: Đừng Hỏi Em Ổn Không (Remix).mp3
+2025-07-26 01:36:23 [MusicDownloader] ❌ Lỗi tải file: Thế Thái x Cố Giang Tình (Remix).mp3
+2025-07-26 01:36:23 [MusicDownloader] ❌ Lỗi tải file: Vui Lắm Nha (Remix).mp3
+2025-07-26 01:36:23 [MusicDownloader] ❌ Lỗi tải file: Ai Cũng Có Một Mối Tình Buồn (Qinn Remix).mp3
+2025-07-26 01:36:24 [MusicDownloader] ❌ Lỗi tải file: Thê Tử - Phước Lành Remix 140.mp3
+2025-07-26 01:36:24 [MusicDownloader] ❌ Lỗi tải file: Hoa Bất Tử (Remix).mp3
+2025-07-26 01:36:24 [MusicDownloader] ❌ Lỗi tải file: Vở Kịch Của Em (Qinn Remix).mp3
+2025-07-26 01:36:24 [MusicDownloader] ❌ Lỗi tải file: Mashup Để Anh Lương Thiện - Đừng Hỏi Em Ổn Không - Anh Thôi Nhân Nhượng - HuyPT Remix.mp3
+2025-07-26 01:36:25 [MusicDownloader] ❌ Lỗi tải file: Em và Hoa - Cukak Remix Version.mp3
+2025-07-26 01:36:25 [MusicDownloader] ❌ Lỗi tải file: Em Vội Quên (Qinn Remix).mp3
+2025-07-26 01:36:25 [MusicDownloader] ❌ Lỗi tải file: Mong Một Ngày Anh Nhớ Đến Em Qinn Remix.mp3
+2025-07-26 01:36:26 [MusicDownloader] ❌ Lỗi tải file: Nhân Sinh Quán - Đức Louis Remix.mp3
+2025-07-26 01:36:26 [MusicDownloader] ❌ Lỗi tải file: Thiệp Hồng Em Trao (Qinn Remix).mp3
+2025-07-26 01:36:26 [MusicDownloader] ❌ Lỗi tải file: Cắt Đôi Nỗi Sầu - Cukak Remix.mp3
+2025-07-26 01:36:27 [MusicDownloader] ❌ Lỗi tải file: Giá Như Anh Là Người Vô Tâm - NT Remix.mp3
+2025-07-26 01:36:27 [MusicDownloader] ❌ Lỗi tải file: Trúc Xinh - Ciray Remix.mp3
+2025-07-26 01:36:27 [MusicDownloader] ❌ Lỗi tải file: Giờ Không Cưới Thì Nào Cưới (Remix).mp3
+2025-07-26 01:36:27 [MusicDownloader] ❌ Lỗi tải file: Xuân Này Con Không Về (Remix).mp3
+2025-07-26 01:36:28 [MusicDownloader] ❌ Lỗi tải file: Gõ Cửa Trái Tim - Remix.mp3
+2025-07-26 01:36:28 [MusicDownloader] ❌ Lỗi tải file: Phận Tàn (Remix).mp3
+2025-07-26 01:36:28 [MusicDownloader] ✅ Đã có, bỏ qua: Forget Me Now (Remix).mp3
+2025-07-26 01:36:29 [MusicDownloader] ❌ Lỗi tải file: Cứ Nói Yêu Lần Này (Speed Up) - Cukak Remix.mp3
+2025-07-26 01:36:29 [MusicDownloader] ❌ Lỗi tải file: Không Biết Phải Làm Sao - Đức Louis Remix.mp3
+2025-07-26 01:36:29 [MusicDownloader] ❌ Lỗi tải file: Thiên Lý Ơi (Remix).mp3
+2025-07-26 01:36:30 [MusicDownloader] ❌ Lỗi tải file: Em Có Biết (Remix).mp3
+2025-07-26 01:36:30 [MusicDownloader] ❌ Lỗi tải file: Yêu Thật Khó Xoá Thật Đau - Yang Remix.mp3
+2025-07-26 01:36:30 [MusicDownloader] ❌ Lỗi tải file: Ải Hồng Nhan (Qinn Remix).mp3
+2025-07-26 01:36:30 [MusicDownloader] ❌ Lỗi tải file: Em Nắm Anh Buông (Qinn Remix).mp3
+2025-07-26 01:36:30 [MusicDownloader] ✅ Đã có, bỏ qua: Da Key (Remix).mp3
+2025-07-26 01:36:31 [MusicDownloader] ❌ Lỗi tải file: Trách Phận Vô Danh (Qinn Remix).mp3
+2025-07-26 01:36:31 [MusicDownloader] ❌ Lỗi tải file: Trói Em Lại (Remix).mp3
+2025-07-26 01:36:31 [MusicDownloader] ❌ Lỗi tải file: Con Bướm Xuân (Qinn Remix).mp3
+2025-07-26 01:36:32 [MusicDownloader] ❌ Lỗi tải file: Có Duyên Không Nợ (Qinn Remix).mp3
+2025-07-26 01:36:32 [MusicDownloader] ❌ Lỗi tải file: Chưa Bao Giờ Em Quên - Kendy T Remix.mp3
+2025-07-26 01:36:32 [MusicDownloader] ❌ Lỗi tải file: Lời Nói Điêu Trên Môi Em (Remix).mp3
+2025-07-26 01:36:33 [MusicDownloader] ❌ Lỗi tải file: Bật Tình Yêu Lên - Cukak Remix.mp3
+2025-07-26 01:36:33 [MusicDownloader] ❌ Lỗi tải file: Lý Do Là Gì (Qinn Remix).mp3
+2025-07-26 01:36:33 [MusicDownloader] ❌ Lỗi tải file: Tết Đến Thật Rồi - Remix.mp3
+2025-07-26 01:36:34 [MusicDownloader] ❌ Lỗi tải file: Hoa Sứ Nhà Nàng (Remix).mp3
+2025-07-26 01:36:34 [MusicDownloader] ❌ Lỗi tải file: Có Em Chờ - Masew Remix.mp3
+2025-07-26 01:36:34 [MusicDownloader] ❌ Lỗi tải file: Em Là Con Gái Rượu (Qinn Remix).mp3
+2025-07-26 01:36:34 [MusicDownloader] ❌ Lỗi tải file: Tình Đầu Quá Chén (Remix).mp3
+2025-07-26 01:36:35 [MusicDownloader] ❌ Lỗi tải file: Lỗi Tại Mưa x Ảo Ảnh Remix (ft Vicky Nhung).mp3
+2025-07-26 01:36:35 [MusicDownloader] ❌ Lỗi tải file: Chuyện Cũ Bỏ Qua (Remix).mp3
+2025-07-26 01:36:35 [MusicDownloader] ❌ Lỗi tải file: Kẹo Bông Gòn (Remix).mp3
+2025-07-26 01:36:36 [MusicDownloader] ❌ Lỗi tải file: Người thay thế em (Qinn remix).mp3
+2025-07-26 01:36:36 [MusicDownloader] ❌ Lỗi tải file: Tình Đơn Phương (Cukak Remix).mp3
+2025-07-26 01:36:36 [MusicDownloader] ❌ Lỗi tải file: Liều Thuốc Cho Trái Tim (Remix).mp3
+2025-07-26 01:36:37 [MusicDownloader] ❌ Lỗi tải file: Sự Thật Đã Bỏ Quên - HD Remix.mp3
+2025-07-26 01:36:37 [MusicDownloader] ❌ Lỗi tải file: Hy Vọng Quá Hóa Đau Lòng (Qinn Remix).mp3
+2025-07-26 01:36:37 [MusicDownloader] ❌ Lỗi tải file: Chờ Em Dưới Cơn Mưa (Qinn Remix).mp3
+2025-07-26 01:36:38 [MusicDownloader] ❌ Lỗi tải file: Thay Lòng (Noknha Remix).mp3
+2025-07-26 01:36:38 [MusicDownloader] ❌ Lỗi tải file: Thì Thôi (Remix).mp3
+2025-07-26 01:36:38 [MusicDownloader] ❌ Lỗi tải file: Mashup Ngôi Nhà Hoa Hồng - Remix - Vicky Nhung Version.mp3
+2025-07-26 01:36:38 [MusicDownloader] ✅ Đã có, bỏ qua: Gu - Cukak Remix.mp3
+2025-07-26 01:36:38 [MusicDownloader] ❌ Lỗi tải file: Duyên Trời Lấy 2 (Remix).mp3
+2025-07-26 01:36:39 [MusicDownloader] ❌ Lỗi tải file: Cứ Thế Mong Chờ (Qinn Remix).mp3
+2025-07-26 01:36:39 [MusicDownloader] ✅ Đã có, bỏ qua: Lung Lay - Cukak Remix.mp3
+2025-07-26 01:36:39 [MusicDownloader] ❌ Lỗi tải file: Lệ Lưu Ly - Cukak Remix.mp3
+2025-07-26 01:36:39 [MusicDownloader] ❌ Lỗi tải file: Em Ơi Anh Phải Làm Sao - BT Remix.mp3
+2025-07-26 01:36:39 [MusicDownloader] ✅ Đã có, bỏ qua: Tell Ur Mom II (Cukak Remix).mp3
+2025-07-26 01:36:40 [MusicDownloader] ❌ Lỗi tải file: Khi Yêu Nào Ai Đâu Muốn - Hoàng Đức Remix.mp3
+2025-07-26 01:36:40 [MusicDownloader] ❌ Lỗi tải file: Chờ Ngày Cưới Em - Cukak Remix.mp3
+2025-07-26 01:36:40 [MusicDownloader] ❌ Lỗi tải file: Khuê Mộc Lang (Remix).mp3
+2025-07-26 01:36:41 [MusicDownloader] ❌ Lỗi tải file: Hỏi Vợ Ngoại Thành (Remix).mp3
+2025-07-26 01:36:41 [MusicDownloader] ✅ Đã có, bỏ qua: Cold Don't - Cukak Remix.mp3
+2025-07-26 01:36:41 [MusicDownloader] ❌ Lỗi tải file: Em Ơi Lên Phố - Tipo Remix 138.mp3
+2025-07-26 01:36:41 [MusicDownloader] ❌ Lỗi tải file: Một Thuở Yêu Người Remix.mp3
+2025-07-26 01:36:42 [MusicDownloader] ❌ Lỗi tải file: Gió - Cukak Remix.mp3
+2025-07-26 01:36:42 [MusicDownloader] ❌ Lỗi tải file: Anh Thương Em Em Thương Ai - Đức Louis Remix.mp3
+2025-07-26 01:36:42 [MusicDownloader] ❌ Lỗi tải file: Có Lẽ Bên Nhau Là Sai - Đức Louis Remix.mp3
+2025-07-26 01:36:42 [MusicDownloader] ❌ Lỗi tải file: Mong Một Ngày Anh Nhớ Đến Em Remix.mp3
+2025-07-26 01:36:42 [MusicDownloader] ✅ Đã có, bỏ qua: Cheri Cheri Lady - Cukak Remix.mp3
+2025-07-26 01:36:43 [MusicDownloader] ❌ Lỗi tải file: Ngày Tết Quê Em (Remix).mp3
+2025-07-26 01:36:43 [MusicDownloader] ❌ Lỗi tải file: Em Ngốc Quá - Zero Remix.mp3
+2025-07-26 01:36:43 [MusicDownloader] ❌ Lỗi tải file: Anh Yêu Vội Thế (Remix).mp3
+2025-07-26 01:36:44 [MusicDownloader] ❌ Lỗi tải file: Áng Mây Vô Tình - Zero Remix.mp3
+2025-07-26 01:36:44 [MusicDownloader] ❌ Lỗi tải file: Không Bằng (Remix).mp3
+2025-07-26 01:36:44 [MusicDownloader] ❌ Lỗi tải file: Nổi Gió Lên (Qinn Remix).mp3
+2025-07-26 01:36:45 [MusicDownloader] ❌ Lỗi tải file: Nhường Hạnh Phúc Cho Anh (Qinn Remix).mp3
+2025-07-26 01:36:45 [MusicDownloader] ❌ Lỗi tải file: Vương Vấn - (Qinn Remix).mp3
+2025-07-26 01:36:45 [MusicDownloader] ❌ Lỗi tải file: Đoản Xuân Ca (Remix).mp3
+2025-07-26 01:36:45 [MusicDownloader] ✅ Đã có, bỏ qua: Đi Bao Xa - Cukak Remix.mp3
+2025-07-26 01:36:46 [MusicDownloader] ❌ Lỗi tải file: Tới Duyên (Qinn Remix).mp3
+2025-07-26 01:36:46 [MusicDownloader] ❌ Lỗi tải file: Dối Lừa (Qinn Remix).mp3
+2025-07-26 01:36:46 [MusicDownloader] ❌ Lỗi tải file: Tình Đẹp Khi Không Có Người Thứ Ba (Qinn Remix).mp3
+2025-07-26 01:36:47 [MusicDownloader] ❌ Lỗi tải file: Ngày Xuân Long Phụng Sum Vầy (Remix).mp3
+2025-07-26 01:36:47 [MusicDownloader] ❌ Lỗi tải file: Bạn Tình Ơi - TVS Remix.mp3
+2025-07-26 01:36:47 [MusicDownloader] ❌ Lỗi tải file: Nụ Cười Xuân - Đại Mèo Remix.mp3
+2025-07-26 01:36:47 [MusicDownloader] ❌ Lỗi tải file: Quên Cách Yêu - Remix Version.mp3
+2025-07-26 01:36:48 [MusicDownloader] ❌ Lỗi tải file: Một Ngày Chẳng Nắng (Cukak Remix).mp3
+2025-07-26 01:36:48 [MusicDownloader] ❌ Lỗi tải file: Quên Người Đã Quá Yêu - Qinn Remix.mp3
+2025-07-26 01:36:48 [MusicDownloader] ❌ Lỗi tải file: Quá Khứ Anh Không Thể Quên - Doss Remix.mp3
+2025-07-26 01:36:49 [MusicDownloader] ❌ Lỗi tải file: Thế Giới Trong Em (Remix).mp3
+2025-07-26 01:36:49 [MusicDownloader] 🎵 Tải nhạc hoàn tất
+2025-07-26 01:39:03 [MusicDownloader] ❌ Lỗi tải file: Chờ Ngày Cưới Em (Nekko Remix).mp3
+2025-07-26 01:39:03 [MusicDownloader] ❌ Lỗi tải file: Lỡ Yêu Người Đậm Sâu (Remix).mp3
+2025-07-26 01:39:03 [MusicDownloader] ❌ Lỗi tải file: Tình Ca Tình Ta - Cukak Remix.mp3
+2025-07-26 01:39:04 [MusicDownloader] ❌ Lỗi tải file: Ngày Trong Xanh (Remix).mp3
