@@ -1,0 +1,106 @@
+2025-07-09 14:37:12 [LogHelper] Upload all log and delete
+2025-07-09 14:46:55 [LogHelper] Upload all log and delete
+2025-07-09 14:47:30 [OBDHelper] Bluetooth not available or not enabled
+2025-07-09 14:53:18 [LogHelper] Upload all log and delete
+2025-07-09 14:53:23 [OBDHelper] Bluetooth not available or not enabled
+2025-07-09 14:58:25 [LogHelper] Upload all log and delete
+2025-07-09 22:45:27 [LogHelper] Upload all log and delete
+2025-07-09 22:48:47 [LogHelper] Upload all log and delete
+2025-07-09 22:50:41 [LogHelper] Upload all log and delete
+2025-07-09 22:57:38 [LogHelper] Upload all log and delete
+2025-07-09 23:10:57 [LogHelper] Upload all log and delete
+2025-07-09 23:17:56 [LogHelper] Upload all log and delete
+2025-07-09 23:18:49 [LogHelper] Upload all log and delete
+2025-07-10 17:09:42 [LogHelper] Upload all log and delete
+2025-07-10 17:22:23 [LogHelper] Upload all log and delete
+2025-07-10 17:37:32 [LogHelper] Upload all log and delete
+2025-07-10 17:42:20 [LogHelper] Upload all log and delete
+2025-07-11 09:18:48 [LogHelper] Upload all log and delete
+2025-07-11 09:29:00 [LogHelper] Upload all log and delete
+2025-07-11 17:02:15 [LogHelper] Upload all log and delete
+2025-07-11 17:05:33 [Map] Hoàn tất tải (r=30km)
+2025-07-11 17:05:33 [TileStore] Lỗi tải (r=30km): The tile region '65.7771,-120.7701' can't be loaded because it would increase the number of Maps tiles to 975, which is beyond the maximum allowed 750 tiles. Please contact Mapbox if your use case requires a larger region size.
+2025-07-11 17:05:33 [TileStore] Giảm bán kính từ 30 xuống 25
+2025-07-11 17:05:34 [TileStore] Lỗi tải (r=25km): The tile region '65.7771,-120.7701' can't be loaded because it would increase the number of Maps tiles to 801, which is beyond the maximum allowed 750 tiles. Please contact Mapbox if your use case requires a larger region size.
+2025-07-11 17:05:34 [TileStore] Giảm bán kính từ 25 xuống 20
+2025-07-11 17:18:19 [LogHelper] Upload all log and delete
+2025-07-11 17:18:45 [LogHelper] Upload all log and delete
+2025-07-11 17:21:49 [LogHelper] Upload all log and delete
+2025-07-11 17:24:20 [LogHelper] Upload all log and delete
+2025-07-11 17:27:16 [LogHelper] Upload all log and delete
+2025-07-11 17:30:01 [LogHelper] Upload all log and delete
+2025-07-11 17:30:25 [LogHelper] Upload all log and delete
+2025-07-11 17:36:43 [LogHelper] Upload all log and delete
+2025-07-11 17:37:04 [LogHelper] Upload all log and delete
+2025-07-11 17:42:04 [LogHelper] Upload all log and delete
+2025-07-11 17:42:24 [LogHelper] Upload all log and delete
+2025-07-11 17:42:47 [LogHelper] Upload all log and delete
+2025-07-11 17:43:05 [LogHelper] Upload all log and delete
+2025-07-14 23:05:47 [LogHelper] Upload all log and delete
+2025-07-14 23:07:34 [LogHelper] Upload all log and delete
+2025-07-15 16:56:58 [LogHelper] Upload all log and delete
+2025-07-26 01:16:20 [LogHelper] Upload all log and delete
+2025-07-26 01:24:23 [MusicDownloader] ❌ Lỗi tải file: 佛系少女.mp3
+2025-07-26 01:24:23 [MusicDownloader] ❌ Lỗi tải file: 體會愛.mp3
+2025-07-26 01:24:23 [MusicDownloader] ❌ Lỗi tải file: 天后.mp3
+2025-07-26 01:24:24 [MusicDownloader] ❌ Lỗi tải file: 摩托.mp3
+2025-07-26 01:24:24 [MusicDownloader] ❌ Lỗi tải file: 生而不凡.mp3
+2025-07-26 01:24:24 [MusicDownloader] ❌ Lỗi tải file: 红尘事.mp3
+2025-07-26 01:24:25 [MusicDownloader] ❌ Lỗi tải file: 微風降落.mp3
+2025-07-26 01:24:25 [MusicDownloader] ❌ Lỗi tải file: 青空.mp3
+2025-07-26 01:24:25 [MusicDownloader] ❌ Lỗi tải file: 自己.mp3
+2025-07-26 01:24:26 [MusicDownloader] ❌ Lỗi tải file: 愛上張無忌.mp3
+2025-07-26 01:24:26 [MusicDownloader] ❌ Lỗi tải file: 流云与风.mp3
+2025-07-26 01:24:26 [MusicDownloader] ❌ Lỗi tải file: 既視感.mp3
+2025-07-26 01:24:27 [MusicDownloader] ❌ Lỗi tải file: 我们之间 - 电视剧《我站在桥上看风景》高甜宠爱插曲.mp3
+2025-07-26 01:24:27 [MusicDownloader] ❌ Lỗi tải file: 做我的英雄.mp3
+2025-07-26 01:24:27 [MusicDownloader] ❌ Lỗi tải file: 祝恶魔好运.mp3
+2025-07-26 01:24:28 [MusicDownloader] ❌ Lỗi tải file: 钩指发誓.mp3
+2025-07-26 01:24:28 [MusicDownloader] ❌ Lỗi tải file: 看到風.mp3
+2025-07-26 01:24:29 [MusicDownloader] ❌ Lỗi tải file: 戀夏記.mp3
+2025-07-26 01:24:29 [MusicDownloader] ❌ Lỗi tải file: 天下有情人 - Live.mp3
+2025-07-26 01:24:29 [MusicDownloader] ❌ Lỗi tải file: 空心 - Live.mp3
+2025-07-26 01:24:29 [MusicDownloader] ❌ Lỗi tải file: 哼.mp3
+2025-07-26 01:24:30 [MusicDownloader] ❌ Lỗi tải file: 至少还有你.mp3
+2025-07-26 01:24:30 [MusicDownloader] ❌ Lỗi tải file: 紅塵事.mp3
+2025-07-26 01:24:30 [MusicDownloader] ❌ Lỗi tải file: 触电.mp3
+2025-07-26 01:24:31 [MusicDownloader] ❌ Lỗi tải file: 光.mp3
+2025-07-26 01:24:31 [MusicDownloader] ❌ Lỗi tải file: 爱上张无忌.mp3
+2025-07-26 01:24:31 [MusicDownloader] ❌ Lỗi tải file: 玻璃糖.mp3
+2025-07-26 01:24:32 [MusicDownloader] ❌ Lỗi tải file: 左手.mp3
+2025-07-26 01:24:32 [MusicDownloader] ❌ Lỗi tải file: 春风十里何时遇.mp3
+2025-07-26 01:24:32 [MusicDownloader] ❌ Lỗi tải file: 送你一朵小红花 - Live.mp3
+2025-07-26 01:24:33 [MusicDownloader] ❌ Lỗi tải file: 何必留下遗憾(电影《曾经相爱的我们》主题曲).mp3
+2025-07-26 01:24:33 [MusicDownloader] ❌ Lỗi tải file: 再見前任（電影《前任3：再見前任》同名宣傳曲）.mp3
+2025-07-26 01:24:33 [MusicDownloader] ❌ Lỗi tải file: 橘灿女孩.mp3
+2025-07-26 01:24:34 [MusicDownloader] ❌ Lỗi tải file: 沙漠駱駝.mp3
+2025-07-26 01:24:34 [MusicDownloader] ❌ Lỗi tải file: 世间美好与你环环相扣.mp3
+2025-07-26 01:24:34 [MusicDownloader] ❌ Lỗi tải file: 画心 - Live.mp3
+2025-07-26 01:24:35 [MusicDownloader] ❌ Lỗi tải file: 为你铭刻 - 动画《元龙》第二季片尾曲.mp3
+2025-07-26 01:24:35 [MusicDownloader] ❌ Lỗi tải file: 識食物者為俊傑.mp3
+2025-07-26 01:24:35 [MusicDownloader] ❌ Lỗi tải file: 陌生人 - Live.mp3
+2025-07-26 01:24:36 [MusicDownloader] ❌ Lỗi tải file: 我的梦.mp3
+2025-07-26 01:24:36 [MusicDownloader] ❌ Lỗi tải file: 愛著每天的你.mp3
+2025-07-26 01:24:36 [MusicDownloader] ❌ Lỗi tải file: Chờ Ngày Cưới Em (Nekko Remix).mp3
+2025-07-26 01:24:37 [MusicDownloader] ❌ Lỗi tải file: Lỡ Yêu Người Đậm Sâu (Remix).mp3
+2025-07-26 01:24:37 [MusicDownloader] ❌ Lỗi tải file: Tình Ca Tình Ta - Cukak Remix.mp3
+2025-07-26 01:24:37 [MusicDownloader] ❌ Lỗi tải file: Ngày Trong Xanh (Remix).mp3
+2025-07-26 01:24:38 [MusicDownloader] ❌ Lỗi tải file: Yêu Là Cưới (Remix).mp3
+2025-07-26 01:24:38 [MusicDownloader] ❌ Lỗi tải file: Đừng Hỏi Em Ổn Không (Remix).mp3
+2025-07-26 01:24:38 [MusicDownloader] ❌ Lỗi tải file: Thế Thái x Cố Giang Tình (Remix).mp3
+2025-07-26 01:24:39 [MusicDownloader] ❌ Lỗi tải file: Vui Lắm Nha (Remix).mp3
+2025-07-26 01:24:39 [MusicDownloader] ❌ Lỗi tải file: Ai Cũng Có Một Mối Tình Buồn (Qinn Remix).mp3
+2025-07-26 01:24:40 [MusicDownloader] ❌ Lỗi tải file: Thê Tử - Phước Lành Remix 140.mp3
+2025-07-26 01:24:40 [MusicDownloader] ❌ Lỗi tải file: Hoa Bất Tử (Remix).mp3
+2025-07-26 01:24:40 [MusicDownloader] ❌ Lỗi tải file: Vở Kịch Của Em (Qinn Remix).mp3
+2025-07-26 01:24:40 [MusicDownloader] ❌ Lỗi tải file: Điệp Khúc Mùa Xuân (Remix).mp3
+2025-07-26 01:24:41 [MusicDownloader] ❌ Lỗi tải file: Mashup Để Anh Lương Thiện - Đừng Hỏi Em Ổn Không - Anh Thôi Nhân Nhượng - HuyPT Remix.mp3
+2025-07-26 01:24:42 [MusicDownloader] ❌ Lỗi tải file: Em và Hoa - Cukak Remix Version.mp3
+2025-07-26 01:24:42 [MusicDownloader] ❌ Lỗi tải file: Em Vội Quên (Qinn Remix).mp3
+2025-07-26 01:24:42 [MusicDownloader] ❌ Lỗi tải file: Mong Một Ngày Anh Nhớ Đến Em Qinn Remix.mp3
+2025-07-26 01:24:43 [MusicDownloader] ❌ Lỗi tải file: Nhân Sinh Quán - Đức Louis Remix.mp3
+2025-07-26 01:24:43 [MusicDownloader] ❌ Lỗi tải file: Thiệp Hồng Em Trao (Qinn Remix).mp3
+2025-07-26 01:24:44 [MusicDownloader] ❌ Lỗi tải file: Cắt Đôi Nỗi Sầu - Cukak Remix.mp3
+2025-07-26 01:24:44 [MusicDownloader] ❌ Lỗi tải file: Giá Như Anh Là Người Vô Tâm - NT Remix.mp3
+2025-07-26 01:24:44 [MusicDownloader] ❌ Lỗi tải file: Trúc Xinh - Ciray Remix.mp3
+2025-07-26 01:24:44 [MusicDownloader] ❌ Lỗi tải file: Giờ Không Cưới Thì Nào Cưới (Remix).mp3
