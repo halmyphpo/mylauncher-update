@@ -1,0 +1,1463 @@
+2025-07-26 02:20:36 [LogHelper] Upload all log and delete
+2025-07-26 02:21:08 [MusicDownloader] ⬇️ Đã tải: Cho_Ngay_Cuoi_Em_Nekko_Remix.mp3
+2025-07-26 02:21:09 [MusicDownloader] ⬇️ Đã tải: Lo_Yeu_Nguoi_am_Sau_Remix.mp3
+2025-07-26 02:21:11 [MusicDownloader] ⬇️ Đã tải: Tinh_Ca_Tinh_Ta_-_Cukak_Remix.mp3
+2025-07-26 02:21:13 [MusicDownloader] ⬇️ Đã tải: Ngay_Trong_Xanh_Remix.mp3
+2025-07-26 02:21:15 [MusicDownloader] ⬇️ Đã tải: Yeu_La_Cuoi_Remix.mp3
+2025-07-26 02:21:17 [MusicDownloader] ⬇️ Đã tải: ung_Hoi_Em_On_Khong_Remix.mp3
+2025-07-26 02:21:20 [MusicDownloader] ⬇️ Đã tải: The_Thai_x_Co_Giang_Tinh_Remix.mp3
+2025-07-26 02:21:22 [MusicDownloader] ⬇️ Đã tải: Vui_Lam_Nha_Remix.mp3
+2025-07-26 02:21:24 [MusicDownloader] ⬇️ Đã tải: Ai_Cung_Co_Mot_Moi_Tinh_Buon_Qinn_Remix.mp3
+2025-07-26 02:21:26 [MusicDownloader] ⬇️ Đã tải: The_Tu_-_Phuoc_Lanh_Remix_140.mp3
+2025-07-26 02:21:27 [MusicDownloader] ⬇️ Đã tải: Hoa_Bat_Tu_Remix.mp3
+2025-07-26 02:21:31 [MusicDownloader] ⬇️ Đã tải: Vo_Kich_Cua_Em_Qinn_Remix.mp3
+2025-07-26 02:21:35 [MusicDownloader] ⬇️ Đã tải: Mashup_e_Anh_Luong_Thien_-_ung_Hoi_Em_On_Khong_-_Anh_Thoi_Nhan_Nhuong_-_HuyPT_Remix.mp3
+2025-07-26 02:21:37 [MusicDownloader] ⬇️ Đã tải: Em_va_Hoa_-_Cukak_Remix_Version.mp3
+2025-07-26 02:21:40 [MusicDownloader] ⬇️ Đã tải: Em_Voi_Quen_Qinn_Remix.mp3
+2025-07-26 02:21:41 [MusicDownloader] ⬇️ Đã tải: Mong_Mot_Ngay_Anh_Nho_en_Em_Qinn_Remix.mp3
+2025-07-26 02:21:44 [MusicDownloader] ⬇️ Đã tải: Nhan_Sinh_Quan_-_uc_Louis_Remix.mp3
+2025-07-26 02:21:46 [MusicDownloader] ⬇️ Đã tải: Thiep_Hong_Em_Trao_Qinn_Remix.mp3
+2025-07-26 02:21:47 [MusicDownloader] ⬇️ Đã tải: Cat_oi_Noi_Sau_-_Cukak_Remix.mp3
+2025-07-26 02:21:49 [MusicDownloader] ⬇️ Đã tải: Gia_Nhu_Anh_La_Nguoi_Vo_Tam_-_NT_Remix.mp3
+2025-07-26 02:21:51 [MusicDownloader] ⬇️ Đã tải: Truc_Xinh_-_Ciray_Remix.mp3
+2025-07-26 02:21:53 [MusicDownloader] ⬇️ Đã tải: Gio_Khong_Cuoi_Thi_Nao_Cuoi_Remix.mp3
+2025-07-26 02:21:56 [MusicDownloader] ⬇️ Đã tải: Xuan_Nay_Con_Khong_Ve_Remix.mp3
+2025-07-26 02:22:00 [MusicDownloader] ⬇️ Đã tải: Go_Cua_Trai_Tim_-_Remix.mp3
+2025-07-26 02:22:02 [MusicDownloader] ⬇️ Đã tải: Phan_Tan_Remix.mp3
+2025-07-26 02:22:04 [MusicDownloader] ⬇️ Đã tải: Forget_Me_Now_Remix.mp3
+2025-07-26 02:22:06 [MusicDownloader] ⬇️ Đã tải: Cu_Noi_Yeu_Lan_Nay_Speed_Up_-_Cukak_Remix.mp3
+2025-07-26 02:22:08 [MusicDownloader] ⬇️ Đã tải: Khong_Biet_Phai_Lam_Sao_-_uc_Louis_Remix.mp3
+2025-07-26 02:22:10 [MusicDownloader] ⬇️ Đã tải: Thien_Ly_Oi_Remix.mp3
+2025-07-26 02:22:12 [MusicDownloader] ⬇️ Đã tải: Em_Co_Biet_Remix.mp3
+2025-07-26 02:22:14 [MusicDownloader] ⬇️ Đã tải: Yeu_That_Kho_Xoa_That_au_-_Yang_Remix.mp3
+2025-07-26 02:22:17 [MusicDownloader] ⬇️ Đã tải: Ai_Hong_Nhan_Qinn_Remix.mp3
+2025-07-26 02:22:19 [MusicDownloader] ⬇️ Đã tải: Em_Nam_Anh_Buong_Qinn_Remix.mp3
+2025-07-26 02:22:21 [MusicDownloader] ⬇️ Đã tải: Da_Key_Remix.mp3
+2025-07-26 02:22:23 [MusicDownloader] ⬇️ Đã tải: Trach_Phan_Vo_Danh_Qinn_Remix.mp3
+2025-07-26 02:22:26 [MusicDownloader] ⬇️ Đã tải: Troi_Em_Lai_Remix.mp3
+2025-07-26 02:22:29 [MusicDownloader] ⬇️ Đã tải: Con_Buom_Xuan_Qinn_Remix.mp3
+2025-07-26 02:22:33 [MusicDownloader] ⬇️ Đã tải: Co_Duyen_Khong_No_Qinn_Remix.mp3
+2025-07-26 02:22:36 [MusicDownloader] ⬇️ Đã tải: Chua_Bao_Gio_Em_Quen_-_Kendy_T_Remix.mp3
+2025-07-26 02:22:39 [MusicDownloader] ⬇️ Đã tải: Loi_Noi_ieu_Tren_Moi_Em_Remix.mp3
+2025-07-26 02:22:42 [MusicDownloader] ⬇️ Đã tải: Bat_Tinh_Yeu_Len_-_Cukak_Remix.mp3
+2025-07-26 02:22:46 [MusicDownloader] ⬇️ Đã tải: Ly_Do_La_Gi_Qinn_Remix.mp3
+2025-07-26 02:22:49 [MusicDownloader] ⬇️ Đã tải: Tet_en_That_Roi_-_Remix.mp3
+2025-07-26 02:22:51 [MusicDownloader] ⬇️ Đã tải: Hoa_Su_Nha_Nang_Remix.mp3
+2025-07-26 02:22:55 [MusicDownloader] ⬇️ Đã tải: Co_Em_Cho_-_Masew_Remix.mp3
+2025-07-26 02:23:01 [MusicDownloader] ⬇️ Đã tải: Em_La_Con_Gai_Ruou_Qinn_Remix.mp3
+2025-07-26 02:23:05 [MusicDownloader] ⬇️ Đã tải: Tinh_au_Qua_Chen_Remix.mp3
+2025-07-26 02:23:10 [MusicDownloader] ⬇️ Đã tải: Loi_Tai_Mua_x_Ao_Anh_Remix_ft_Vicky_Nhung.mp3
+2025-07-26 02:23:11 [MusicDownloader] ⬇️ Đã tải: Chuyen_Cu_Bo_Qua_Remix.mp3
+2025-07-26 02:23:13 [MusicDownloader] ⬇️ Đã tải: Keo_Bong_Gon_Remix.mp3
+2025-07-26 02:23:16 [MusicDownloader] ⬇️ Đã tải: Nguoi_thay_the_em_Qinn_remix.mp3
+2025-07-26 02:23:19 [MusicDownloader] ⬇️ Đã tải: Tinh_on_Phuong_Cukak_Remix.mp3
+2025-07-26 02:23:28 [MusicDownloader] ⬇️ Đã tải: Lieu_Thuoc_Cho_Trai_Tim_Remix.mp3
+2025-07-26 02:23:35 [MusicDownloader] ⬇️ Đã tải: Su_That_a_Bo_Quen_-_HD_Remix.mp3
+2025-07-26 02:23:39 [MusicDownloader] ⬇️ Đã tải: Hy_Vong_Qua_Hoa_au_Long_Qinn_Remix.mp3
+2025-07-26 02:23:46 [MusicDownloader] ⬇️ Đã tải: Cho_Em_Duoi_Con_Mua_Qinn_Remix.mp3
+2025-07-26 02:24:03 [MusicDownloader] ⬇️ Đã tải: Thay_Long_Noknha_Remix.mp3
+2025-07-26 02:24:03 [MusicDownloader] ⬇️ Đã tải: Thi_Thoi_Remix.mp3
+2025-07-26 02:24:06 [MusicDownloader] ⬇️ Đã tải: Mashup_Ngoi_Nha_Hoa_Hong_-_Remix_-_Vicky_Nhung_Version.mp3
+2025-07-26 02:24:08 [MusicDownloader] ⬇️ Đã tải: Gu_-_Cukak_Remix.mp3
+2025-07-26 02:24:11 [MusicDownloader] ⬇️ Đã tải: Duyen_Troi_Lay_2_Remix.mp3
+2025-07-26 02:24:15 [MusicDownloader] ⬇️ Đã tải: Cu_The_Mong_Cho_Qinn_Remix.mp3
+2025-07-26 02:24:17 [MusicDownloader] ⬇️ Đã tải: Lung_Lay_-_Cukak_Remix.mp3
+2025-07-26 02:24:19 [MusicDownloader] ⬇️ Đã tải: Le_Luu_Ly_-_Cukak_Remix.mp3
+2025-07-26 02:24:23 [MusicDownloader] ⬇️ Đã tải: Em_Oi_Anh_Phai_Lam_Sao_-_BT_Remix.mp3
+2025-07-26 02:24:25 [MusicDownloader] ⬇️ Đã tải: Tell_Ur_Mom_II_Cukak_Remix.mp3
+2025-07-26 02:24:27 [MusicDownloader] ⬇️ Đã tải: Khi_Yeu_Nao_Ai_au_Muon_-_Hoang_uc_Remix.mp3
+2025-07-26 02:24:30 [MusicDownloader] ⬇️ Đã tải: Cho_Ngay_Cuoi_Em_-_Cukak_Remix.mp3
+2025-07-26 02:24:31 [MusicDownloader] ⬇️ Đã tải: Khue_Moc_Lang_Remix.mp3
+2025-07-26 02:24:33 [MusicDownloader] ⬇️ Đã tải: Hoi_Vo_Ngoai_Thanh_Remix.mp3
+2025-07-26 02:24:35 [MusicDownloader] ⬇️ Đã tải: Cold_Dont_-_Cukak_Remix.mp3
+2025-07-26 02:24:39 [MusicDownloader] ⬇️ Đã tải: Em_Oi_Len_Pho_-_Tipo_Remix_138.mp3
+2025-07-26 02:24:41 [MusicDownloader] ⬇️ Đã tải: Mot_Thuo_Yeu_Nguoi_Remix.mp3
+2025-07-26 02:24:44 [MusicDownloader] ⬇️ Đã tải: Gio_-_Cukak_Remix.mp3
+2025-07-26 02:24:47 [MusicDownloader] ⬇️ Đã tải: Anh_Thuong_Em_Em_Thuong_Ai_-_uc_Louis_Remix.mp3
+2025-07-26 02:24:50 [MusicDownloader] ⬇️ Đã tải: Co_Le_Ben_Nhau_La_Sai_-_uc_Louis_Remix.mp3
+2025-07-26 02:24:52 [MusicDownloader] ⬇️ Đã tải: Mong_Mot_Ngay_Anh_Nho_en_Em_Remix.mp3
+2025-07-26 02:24:54 [MusicDownloader] ⬇️ Đã tải: Cheri_Cheri_Lady_-_Cukak_Remix.mp3
+2025-07-26 02:24:57 [MusicDownloader] ⬇️ Đã tải: Ngay_Tet_Que_Em_Remix.mp3
+2025-07-26 02:25:01 [MusicDownloader] ⬇️ Đã tải: Em_Ngoc_Qua_-_Zero_Remix.mp3
+2025-07-26 02:25:04 [MusicDownloader] ⬇️ Đã tải: Anh_Yeu_Voi_The_Remix.mp3
+2025-07-26 02:25:07 [MusicDownloader] ⬇️ Đã tải: Ang_May_Vo_Tinh_-_Zero_Remix.mp3
+2025-07-26 02:25:10 [MusicDownloader] ⬇️ Đã tải: Khong_Bang_Remix.mp3
+2025-07-26 02:25:13 [MusicDownloader] ⬇️ Đã tải: Noi_Gio_Len_Qinn_Remix.mp3
+2025-07-26 02:25:16 [MusicDownloader] ⬇️ Đã tải: Nhuong_Hanh_Phuc_Cho_Anh_Qinn_Remix.mp3
+2025-07-26 02:25:19 [MusicDownloader] ⬇️ Đã tải: Vuong_Van_-_Qinn_Remix.mp3
+2025-07-26 02:25:20 [MusicDownloader] ⬇️ Đã tải: oan_Xuan_Ca_Remix.mp3
+2025-07-26 02:25:23 [MusicDownloader] ⬇️ Đã tải: i_Bao_Xa_-_Cukak_Remix.mp3
+2025-07-26 02:25:26 [MusicDownloader] ⬇️ Đã tải: Toi_Duyen_Qinn_Remix.mp3
+2025-07-26 02:25:31 [MusicDownloader] ⬇️ Đã tải: Doi_Lua_Qinn_Remix.mp3
+2025-07-26 02:25:34 [MusicDownloader] ⬇️ Đã tải: Tinh_ep_Khi_Khong_Co_Nguoi_Thu_Ba_Qinn_Remix.mp3
+2025-07-26 02:25:36 [MusicDownloader] ⬇️ Đã tải: Ngay_Xuan_Long_Phung_Sum_Vay_Remix.mp3
+2025-07-26 02:25:39 [MusicDownloader] ⬇️ Đã tải: Ban_Tinh_Oi_-_TVS_Remix.mp3
+2025-07-26 02:25:41 [MusicDownloader] ⬇️ Đã tải: Nu_Cuoi_Xuan_-_ai_Meo_Remix.mp3
+2025-07-26 02:25:43 [MusicDownloader] ⬇️ Đã tải: Quen_Cach_Yeu_-_Remix_Version.mp3
+2025-07-26 02:25:45 [MusicDownloader] ⬇️ Đã tải: Mot_Ngay_Chang_Nang_Cukak_Remix.mp3
+2025-07-26 02:25:48 [MusicDownloader] ⬇️ Đã tải: Quen_Nguoi_a_Qua_Yeu_-_Qinn_Remix.mp3
+2025-07-26 02:25:50 [MusicDownloader] ⬇️ Đã tải: Qua_Khu_Anh_Khong_The_Quen_-_Doss_Remix.mp3
+2025-07-26 02:25:51 [MusicDownloader] ⬇️ Đã tải: The_Gioi_Trong_Em_Remix.mp3
+2025-07-26 02:25:51 [MusicDownloader] 🎵 Tải nhạc hoàn tất
+2025-07-26 02:25:54 [Map] Hoàn tất tải (r=50km)
+2025-07-26 15:04:19 [LogHelper] Upload all log and delete
+2025-07-26 15:22:02 [LogHelper] Upload all log and delete
+2025-07-26 15:23:52 [MusicDownloader] 🎵 Tải hoàn tất. Mới: 0, Bỏ qua: 99
+2025-07-26 15:23:52 [MusicDownloader] 🎵 Tải hoàn tất. Mới: 0, Bỏ qua: 99
+2025-07-26 15:23:52 [MusicDownloader] 🎵 Tải hoàn tất. Mới: 0, Bỏ qua: 99
+2025-07-26 15:23:52 [MusicDownloader] 🎵 Tải hoàn tất. Mới: 0, Bỏ qua: 99
+2025-07-26 15:23:52 [MusicDownloader] 🎵 Tải hoàn tất. Mới: 0, Bỏ qua: 99
+2025-07-26 15:23:52 [MusicDownloader] 🎵 Tải hoàn tất. Mới: 0, Bỏ qua: 99
+2025-07-26 15:23:52 [MusicDownloader] 🎵 Tải hoàn tất. Mới: 0, Bỏ qua: 99
+2025-07-26 15:23:52 [MusicDownloader] 🎵 Tải hoàn tất. Mới: 0, Bỏ qua: 99
+2025-07-26 15:23:52 [MusicDownloader] 🎵 Tải hoàn tất. Mới: 0, Bỏ qua: 99
+2025-07-26 15:26:11 [LogHelper] Upload all log and delete
+2025-07-26 15:27:24 [MusicDownloader] ⚠️ File đã có bỏ qua: Cho_Ngay_Cuoi_Em_Nekko_Remix.mp3
+2025-07-26 15:27:25 [MusicDownloader] ⚠️ File đã có bỏ qua: Lo_Yeu_Nguoi_am_Sau_Remix.mp3
+2025-07-26 15:27:25 [MusicDownloader] ⚠️ File đã có bỏ qua: Tinh_Ca_Tinh_Ta_-_Cukak_Remix.mp3
+2025-07-26 15:27:25 [MusicDownloader] ⚠️ File đã có bỏ qua: Ngay_Trong_Xanh_Remix.mp3
+2025-07-26 15:27:26 [MusicDownloader] ⚠️ File đã có bỏ qua: Yeu_La_Cuoi_Remix.mp3
+2025-07-26 15:27:26 [MusicDownloader] ⚠️ File đã có bỏ qua: ung_Hoi_Em_On_Khong_Remix.mp3
+2025-07-26 15:27:26 [MusicDownloader] ⚠️ File đã có bỏ qua: The_Thai_x_Co_Giang_Tinh_Remix.mp3
+2025-07-26 15:27:27 [MusicDownloader] ⚠️ File đã có bỏ qua: Vui_Lam_Nha_Remix.mp3
+2025-07-26 15:27:27 [MusicDownloader] ⚠️ File đã có bỏ qua: Ai_Cung_Co_Mot_Moi_Tinh_Buon_Qinn_Remix.mp3
+2025-07-26 15:27:28 [MusicDownloader] ⚠️ File đã có bỏ qua: The_Tu_-_Phuoc_Lanh_Remix_140.mp3
+2025-07-26 15:27:28 [MusicDownloader] ⚠️ File đã có bỏ qua: Hoa_Bat_Tu_Remix.mp3
+2025-07-26 15:27:28 [MusicDownloader] ⚠️ File đã có bỏ qua: Vo_Kich_Cua_Em_Qinn_Remix.mp3
+2025-07-26 15:27:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Mashup_e_Anh_Luong_Thien_-_ung_Hoi_Em_On_Khong_-_Anh_Thoi_Nhan_Nhuong_-_HuyPT_Remix.mp3
+2025-07-26 15:27:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_va_Hoa_-_Cukak_Remix_Version.mp3
+2025-07-26 15:27:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Voi_Quen_Qinn_Remix.mp3
+2025-07-26 15:27:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Mong_Mot_Ngay_Anh_Nho_en_Em_Qinn_Remix.mp3
+2025-07-26 15:27:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Nhan_Sinh_Quan_-_uc_Louis_Remix.mp3
+2025-07-26 15:27:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Thiep_Hong_Em_Trao_Qinn_Remix.mp3
+2025-07-26 15:27:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Cat_oi_Noi_Sau_-_Cukak_Remix.mp3
+2025-07-26 15:27:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Gia_Nhu_Anh_La_Nguoi_Vo_Tam_-_NT_Remix.mp3
+2025-07-26 15:27:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Truc_Xinh_-_Ciray_Remix.mp3
+2025-07-26 15:27:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Gio_Khong_Cuoi_Thi_Nao_Cuoi_Remix.mp3
+2025-07-26 15:27:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Xuan_Nay_Con_Khong_Ve_Remix.mp3
+2025-07-26 15:27:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Go_Cua_Trai_Tim_-_Remix.mp3
+2025-07-26 15:27:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Phan_Tan_Remix.mp3
+2025-07-26 15:27:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Forget_Me_Now_Remix.mp3
+2025-07-26 15:27:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Cu_Noi_Yeu_Lan_Nay_Speed_Up_-_Cukak_Remix.mp3
+2025-07-26 15:27:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Khong_Biet_Phai_Lam_Sao_-_uc_Louis_Remix.mp3
+2025-07-26 15:27:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Thien_Ly_Oi_Remix.mp3
+2025-07-26 15:27:30 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Co_Biet_Remix.mp3
+2025-07-26 15:27:30 [MusicDownloader] ⚠️ File đã có bỏ qua: Yeu_That_Kho_Xoa_That_au_-_Yang_Remix.mp3
+2025-07-26 15:27:30 [MusicDownloader] ⚠️ File đã có bỏ qua: Ai_Hong_Nhan_Qinn_Remix.mp3
+2025-07-26 15:27:30 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Nam_Anh_Buong_Qinn_Remix.mp3
+2025-07-26 15:27:30 [MusicDownloader] ⚠️ File đã có bỏ qua: Da_Key_Remix.mp3
+2025-07-26 15:27:30 [MusicDownloader] ⚠️ File đã có bỏ qua: Trach_Phan_Vo_Danh_Qinn_Remix.mp3
+2025-07-26 15:27:30 [MusicDownloader] ⚠️ File đã có bỏ qua: Troi_Em_Lai_Remix.mp3
+2025-07-26 15:27:30 [MusicDownloader] ⚠️ File đã có bỏ qua: Con_Buom_Xuan_Qinn_Remix.mp3
+2025-07-26 15:27:30 [MusicDownloader] ⚠️ File đã có bỏ qua: Co_Duyen_Khong_No_Qinn_Remix.mp3
+2025-07-26 15:27:30 [MusicDownloader] ⚠️ File đã có bỏ qua: Chua_Bao_Gio_Em_Quen_-_Kendy_T_Remix.mp3
+2025-07-26 15:27:30 [MusicDownloader] ⚠️ File đã có bỏ qua: Loi_Noi_ieu_Tren_Moi_Em_Remix.mp3
+2025-07-26 15:27:30 [MusicDownloader] ⚠️ File đã có bỏ qua: Bat_Tinh_Yeu_Len_-_Cukak_Remix.mp3
+2025-07-26 15:27:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Ly_Do_La_Gi_Qinn_Remix.mp3
+2025-07-26 15:27:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Tet_en_That_Roi_-_Remix.mp3
+2025-07-26 15:27:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Hoa_Su_Nha_Nang_Remix.mp3
+2025-07-26 15:27:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Co_Em_Cho_-_Masew_Remix.mp3
+2025-07-26 15:27:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_La_Con_Gai_Ruou_Qinn_Remix.mp3
+2025-07-26 15:27:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Tinh_au_Qua_Chen_Remix.mp3
+2025-07-26 15:27:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Loi_Tai_Mua_x_Ao_Anh_Remix_ft_Vicky_Nhung.mp3
+2025-07-26 15:27:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Chuyen_Cu_Bo_Qua_Remix.mp3
+2025-07-26 15:27:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Keo_Bong_Gon_Remix.mp3
+2025-07-26 15:27:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Nguoi_thay_the_em_Qinn_remix.mp3
+2025-07-26 15:27:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Tinh_on_Phuong_Cukak_Remix.mp3
+2025-07-26 15:27:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Lieu_Thuoc_Cho_Trai_Tim_Remix.mp3
+2025-07-26 15:27:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Su_That_a_Bo_Quen_-_HD_Remix.mp3
+2025-07-26 15:27:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Hy_Vong_Qua_Hoa_au_Long_Qinn_Remix.mp3
+2025-07-26 15:27:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Cho_Em_Duoi_Con_Mua_Qinn_Remix.mp3
+2025-07-26 15:27:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Thay_Long_Noknha_Remix.mp3
+2025-07-26 15:27:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Thi_Thoi_Remix.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Mashup_Ngoi_Nha_Hoa_Hong_-_Remix_-_Vicky_Nhung_Version.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Gu_-_Cukak_Remix.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Duyen_Troi_Lay_2_Remix.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Cu_The_Mong_Cho_Qinn_Remix.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Lung_Lay_-_Cukak_Remix.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Le_Luu_Ly_-_Cukak_Remix.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Oi_Anh_Phai_Lam_Sao_-_BT_Remix.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Tell_Ur_Mom_II_Cukak_Remix.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Khi_Yeu_Nao_Ai_au_Muon_-_Hoang_uc_Remix.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Cho_Ngay_Cuoi_Em_-_Cukak_Remix.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Khue_Moc_Lang_Remix.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Hoi_Vo_Ngoai_Thanh_Remix.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Cold_Dont_-_Cukak_Remix.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Oi_Len_Pho_-_Tipo_Remix_138.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Mot_Thuo_Yeu_Nguoi_Remix.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Gio_-_Cukak_Remix.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Anh_Thuong_Em_Em_Thuong_Ai_-_uc_Louis_Remix.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Co_Le_Ben_Nhau_La_Sai_-_uc_Louis_Remix.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Mong_Mot_Ngay_Anh_Nho_en_Em_Remix.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Cheri_Cheri_Lady_-_Cukak_Remix.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Ngay_Tet_Que_Em_Remix.mp3
+2025-07-26 15:27:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Ngoc_Qua_-_Zero_Remix.mp3
+2025-07-26 15:27:33 [MusicDownloader] ⚠️ File đã có bỏ qua: Anh_Yeu_Voi_The_Remix.mp3
+2025-07-26 15:27:33 [MusicDownloader] ⚠️ File đã có bỏ qua: Ang_May_Vo_Tinh_-_Zero_Remix.mp3
+2025-07-26 15:27:33 [MusicDownloader] ⚠️ File đã có bỏ qua: Khong_Bang_Remix.mp3
+2025-07-26 15:27:33 [MusicDownloader] ⚠️ File đã có bỏ qua: Noi_Gio_Len_Qinn_Remix.mp3
+2025-07-26 15:27:33 [MusicDownloader] ⚠️ File đã có bỏ qua: Nhuong_Hanh_Phuc_Cho_Anh_Qinn_Remix.mp3
+2025-07-26 15:27:33 [MusicDownloader] ⚠️ File đã có bỏ qua: Vuong_Van_-_Qinn_Remix.mp3
+2025-07-26 15:27:33 [MusicDownloader] ⚠️ File đã có bỏ qua: oan_Xuan_Ca_Remix.mp3
+2025-07-26 15:27:33 [MusicDownloader] ⚠️ File đã có bỏ qua: i_Bao_Xa_-_Cukak_Remix.mp3
+2025-07-26 15:27:33 [MusicDownloader] ⚠️ File đã có bỏ qua: Toi_Duyen_Qinn_Remix.mp3
+2025-07-26 15:27:33 [MusicDownloader] ⚠️ File đã có bỏ qua: Doi_Lua_Qinn_Remix.mp3
+2025-07-26 15:27:33 [MusicDownloader] ⚠️ File đã có bỏ qua: Tinh_ep_Khi_Khong_Co_Nguoi_Thu_Ba_Qinn_Remix.mp3
+2025-07-26 15:27:33 [MusicDownloader] ⚠️ File đã có bỏ qua: Ngay_Xuan_Long_Phung_Sum_Vay_Remix.mp3
+2025-07-26 15:27:33 [MusicDownloader] ⚠️ File đã có bỏ qua: Ban_Tinh_Oi_-_TVS_Remix.mp3
+2025-07-26 15:27:33 [MusicDownloader] ⚠️ File đã có bỏ qua: Nu_Cuoi_Xuan_-_ai_Meo_Remix.mp3
+2025-07-26 15:27:33 [MusicDownloader] ⚠️ File đã có bỏ qua: Quen_Cach_Yeu_-_Remix_Version.mp3
+2025-07-26 15:27:33 [MusicDownloader] ⚠️ File đã có bỏ qua: Mot_Ngay_Chang_Nang_Cukak_Remix.mp3
+2025-07-26 15:27:33 [MusicDownloader] ⚠️ File đã có bỏ qua: Quen_Nguoi_a_Qua_Yeu_-_Qinn_Remix.mp3
+2025-07-26 15:27:33 [MusicDownloader] ⚠️ File đã có bỏ qua: Qua_Khu_Anh_Khong_The_Quen_-_Doss_Remix.mp3
+2025-07-26 15:27:33 [MusicDownloader] ⚠️ File đã có bỏ qua: The_Gioi_Trong_Em_Remix.mp3
+2025-07-26 15:27:33 [MusicDownloader] 🎵 Tải hoàn tất. Mới: 0, Bỏ qua: 99
+2025-07-26 15:38:07 [LogHelper] Upload all log and delete
+2025-07-27 13:55:09 [LogHelper] Upload all log and delete
+2025-07-27 13:55:43 [LogHelper] Upload all log and delete
+2025-07-27 13:58:53 [LogHelper] Upload all log and delete
+2025-07-27 14:03:50 [LogHelper] Upload all log and delete
+2025-07-27 14:10:02 [LogHelper] Upload all log and delete
+2025-07-27 14:16:11 [LogHelper] Upload all log and delete
+2025-07-27 14:16:49 [LogHelper] Upload all log and delete
+2025-07-28 09:42:53 [LogHelper] Upload all log and delete
+2025-07-28 09:43:19 [LogHelper] Upload all log and delete
+2025-07-28 15:48:20 [LogHelper] Upload all log and delete
+2025-07-28 15:48:26 [MusicDownloader] 🎧 Đang tải file 1/137. Tiến trình 0%.
+2025-07-28 15:48:27 [MusicDownloader] 🎧 Đang tải file 1/137. Tiến trình 5%.
+2025-07-28 15:48:27 [MusicDownloader] 🎧 Đang tải file 1/137. Tiến trình 10%.
+2025-07-28 15:48:27 [MusicDownloader] 🎧 Đang tải file 1/137. Tiến trình 15%.
+2025-07-28 15:48:27 [MusicDownloader] 🎧 Đang tải file 1/137. Tiến trình 20%.
+2025-07-28 15:48:27 [MusicDownloader] 🎧 Đang tải file 1/137. Tiến trình 25%.
+2025-07-28 15:48:27 [MusicDownloader] 🎧 Đang tải file 1/137. Tiến trình 30%.
+2025-07-28 15:48:27 [MusicDownloader] 🎧 Đang tải file 1/137. Tiến trình 35%.
+2025-07-28 15:48:27 [MusicDownloader] 🎧 Đang tải file 1/137. Tiến trình 40%.
+2025-07-28 15:48:27 [MusicDownloader] 🎧 Đang tải file 1/137. Tiến trình 45%.
+2025-07-28 15:48:28 [MusicDownloader] 🎧 Đang tải file 1/137. Tiến trình 50%.
+2025-07-28 15:48:28 [MusicDownloader] 🎧 Đang tải file 1/137. Tiến trình 55%.
+2025-07-28 15:48:28 [MusicDownloader] 🎧 Đang tải file 1/137. Tiến trình 60%.
+2025-07-28 15:48:28 [MusicDownloader] 🎧 Đang tải file 1/137. Tiến trình 65%.
+2025-07-28 15:48:29 [MusicDownloader] 🎧 Đang tải file 1/137. Tiến trình 70%.
+2025-07-28 15:48:29 [MusicDownloader] 🎧 Đang tải file 1/137. Tiến trình 75%.
+2025-07-28 15:48:29 [MusicDownloader] 🎧 Đang tải file 1/137. Tiến trình 80%.
+2025-07-28 15:48:29 [MusicDownloader] 🎧 Đang tải file 1/137. Tiến trình 85%.
+2025-07-28 15:48:29 [MusicDownloader] 🎧 Đang tải file 1/137. Tiến trình 90%.
+2025-07-28 15:48:29 [MusicDownloader] 🎧 Đang tải file 1/137. Tiến trình 95%.
+2025-07-28 15:48:29 [MusicDownloader] 🎧 Đang tải file 1/137. Tiến trình 100%.
+2025-07-28 15:48:29 [MusicDownloader] ⬇️ Đã tải xong: Phep_La_Hang_Ngay.mp3
+2025-07-28 15:48:30 [MusicDownloader] 🎧 Đang tải file 2/137. Tiến trình 0%.
+2025-07-28 15:48:30 [MusicDownloader] 🎧 Đang tải file 2/137. Tiến trình 5%.
+2025-07-28 15:48:30 [MusicDownloader] 🎧 Đang tải file 2/137. Tiến trình 10%.
+2025-07-28 15:48:30 [MusicDownloader] 🎧 Đang tải file 2/137. Tiến trình 15%.
+2025-07-28 15:48:30 [MusicDownloader] 🎧 Đang tải file 2/137. Tiến trình 20%.
+2025-07-28 15:48:30 [MusicDownloader] 🎧 Đang tải file 2/137. Tiến trình 25%.
+2025-07-28 15:48:30 [MusicDownloader] 🎧 Đang tải file 2/137. Tiến trình 30%.
+2025-07-28 15:48:30 [MusicDownloader] 🎧 Đang tải file 2/137. Tiến trình 35%.
+2025-07-28 15:48:30 [MusicDownloader] 🎧 Đang tải file 2/137. Tiến trình 40%.
+2025-07-28 15:48:30 [MusicDownloader] 🎧 Đang tải file 2/137. Tiến trình 45%.
+2025-07-28 15:48:30 [MusicDownloader] 🎧 Đang tải file 2/137. Tiến trình 50%.
+2025-07-28 15:48:30 [MusicDownloader] 🎧 Đang tải file 2/137. Tiến trình 55%.
+2025-07-28 15:48:31 [MusicDownloader] 🎧 Đang tải file 2/137. Tiến trình 60%.
+2025-07-28 15:48:31 [MusicDownloader] 🎧 Đang tải file 2/137. Tiến trình 65%.
+2025-07-28 15:48:31 [MusicDownloader] 🎧 Đang tải file 2/137. Tiến trình 70%.
+2025-07-28 15:48:31 [MusicDownloader] 🎧 Đang tải file 2/137. Tiến trình 75%.
+2025-07-28 15:48:31 [MusicDownloader] 🎧 Đang tải file 2/137. Tiến trình 80%.
+2025-07-28 15:48:31 [MusicDownloader] 🎧 Đang tải file 2/137. Tiến trình 85%.
+2025-07-28 15:48:31 [MusicDownloader] 🎧 Đang tải file 2/137. Tiến trình 90%.
+2025-07-28 15:48:32 [MusicDownloader] 🎧 Đang tải file 2/137. Tiến trình 95%.
+2025-07-28 15:48:32 [MusicDownloader] 🎧 Đang tải file 2/137. Tiến trình 100%.
+2025-07-28 15:48:32 [MusicDownloader] ⬇️ Đã tải xong: Chu_Ech_Con.mp3
+2025-07-28 15:48:32 [MusicDownloader] 🎧 Đang tải file 3/137. Tiến trình 0%.
+2025-07-28 15:48:32 [MusicDownloader] 🎧 Đang tải file 3/137. Tiến trình 5%.
+2025-07-28 15:48:32 [MusicDownloader] 🎧 Đang tải file 3/137. Tiến trình 10%.
+2025-07-28 15:48:32 [MusicDownloader] 🎧 Đang tải file 3/137. Tiến trình 15%.
+2025-07-28 15:48:32 [MusicDownloader] 🎧 Đang tải file 3/137. Tiến trình 20%.
+2025-07-28 15:48:32 [MusicDownloader] 🎧 Đang tải file 3/137. Tiến trình 25%.
+2025-07-28 15:48:32 [MusicDownloader] 🎧 Đang tải file 3/137. Tiến trình 30%.
+2025-07-28 15:48:32 [MusicDownloader] 🎧 Đang tải file 3/137. Tiến trình 35%.
+2025-07-28 15:48:32 [MusicDownloader] 🎧 Đang tải file 3/137. Tiến trình 40%.
+2025-07-28 15:48:32 [MusicDownloader] 🎧 Đang tải file 3/137. Tiến trình 45%.
+2025-07-28 15:48:32 [MusicDownloader] 🎧 Đang tải file 3/137. Tiến trình 50%.
+2025-07-28 15:48:32 [MusicDownloader] 🎧 Đang tải file 3/137. Tiến trình 55%.
+2025-07-28 15:48:32 [MusicDownloader] 🎧 Đang tải file 3/137. Tiến trình 60%.
+2025-07-28 15:48:32 [MusicDownloader] 🎧 Đang tải file 3/137. Tiến trình 65%.
+2025-07-28 15:48:32 [MusicDownloader] 🎧 Đang tải file 3/137. Tiến trình 70%.
+2025-07-28 15:48:32 [MusicDownloader] 🎧 Đang tải file 3/137. Tiến trình 75%.
+2025-07-28 15:48:32 [MusicDownloader] 🎧 Đang tải file 3/137. Tiến trình 80%.
+2025-07-28 15:48:32 [MusicDownloader] 🎧 Đang tải file 3/137. Tiến trình 85%.
+2025-07-28 15:48:32 [MusicDownloader] 🎧 Đang tải file 3/137. Tiến trình 90%.
+2025-07-28 15:48:33 [MusicDownloader] 🎧 Đang tải file 3/137. Tiến trình 95%.
+2025-07-28 15:48:33 [MusicDownloader] 🎧 Đang tải file 3/137. Tiến trình 100%.
+2025-07-28 15:48:33 [MusicDownloader] ⬇️ Đã tải xong: Rua_Mat_Nhu_Meo.mp3
+2025-07-28 15:48:33 [MusicDownloader] 🎧 Đang tải file 4/137. Tiến trình 0%.
+2025-07-28 15:48:33 [MusicDownloader] 🎧 Đang tải file 4/137. Tiến trình 5%.
+2025-07-28 15:48:33 [MusicDownloader] 🎧 Đang tải file 4/137. Tiến trình 10%.
+2025-07-28 15:48:33 [MusicDownloader] 🎧 Đang tải file 4/137. Tiến trình 15%.
+2025-07-28 15:48:33 [MusicDownloader] 🎧 Đang tải file 4/137. Tiến trình 20%.
+2025-07-28 15:48:33 [MusicDownloader] 🎧 Đang tải file 4/137. Tiến trình 25%.
+2025-07-28 15:48:33 [MusicDownloader] 🎧 Đang tải file 4/137. Tiến trình 30%.
+2025-07-28 15:48:34 [MusicDownloader] 🎧 Đang tải file 4/137. Tiến trình 35%.
+2025-07-28 15:48:34 [MusicDownloader] 🎧 Đang tải file 4/137. Tiến trình 40%.
+2025-07-28 15:48:34 [MusicDownloader] 🎧 Đang tải file 4/137. Tiến trình 45%.
+2025-07-28 15:48:34 [MusicDownloader] 🎧 Đang tải file 4/137. Tiến trình 50%.
+2025-07-28 15:48:34 [MusicDownloader] 🎧 Đang tải file 4/137. Tiến trình 55%.
+2025-07-28 15:48:34 [MusicDownloader] 🎧 Đang tải file 4/137. Tiến trình 60%.
+2025-07-28 15:48:34 [MusicDownloader] 🎧 Đang tải file 4/137. Tiến trình 65%.
+2025-07-28 15:48:34 [MusicDownloader] 🎧 Đang tải file 4/137. Tiến trình 70%.
+2025-07-28 15:48:34 [MusicDownloader] 🎧 Đang tải file 4/137. Tiến trình 75%.
+2025-07-28 15:48:34 [MusicDownloader] 🎧 Đang tải file 4/137. Tiến trình 80%.
+2025-07-28 15:48:34 [MusicDownloader] 🎧 Đang tải file 4/137. Tiến trình 85%.
+2025-07-28 15:48:34 [MusicDownloader] 🎧 Đang tải file 4/137. Tiến trình 90%.
+2025-07-28 15:48:34 [MusicDownloader] 🎧 Đang tải file 4/137. Tiến trình 95%.
+2025-07-28 15:48:34 [MusicDownloader] 🎧 Đang tải file 4/137. Tiến trình 100%.
+2025-07-28 15:48:34 [MusicDownloader] ⬇️ Đã tải xong: Qua_Gi.mp3
+2025-07-28 15:48:35 [MusicDownloader] 🎧 Đang tải file 5/137. Tiến trình 0%.
+2025-07-28 15:48:35 [MusicDownloader] 🎧 Đang tải file 5/137. Tiến trình 5%.
+2025-07-28 15:48:35 [MusicDownloader] 🎧 Đang tải file 5/137. Tiến trình 10%.
+2025-07-28 15:48:35 [MusicDownloader] 🎧 Đang tải file 5/137. Tiến trình 15%.
+2025-07-28 15:48:35 [MusicDownloader] 🎧 Đang tải file 5/137. Tiến trình 20%.
+2025-07-28 15:48:35 [MusicDownloader] 🎧 Đang tải file 5/137. Tiến trình 25%.
+2025-07-28 15:48:35 [MusicDownloader] 🎧 Đang tải file 5/137. Tiến trình 30%.
+2025-07-28 15:48:35 [MusicDownloader] 🎧 Đang tải file 5/137. Tiến trình 35%.
+2025-07-28 15:48:35 [MusicDownloader] 🎧 Đang tải file 5/137. Tiến trình 40%.
+2025-07-28 15:48:35 [MusicDownloader] 🎧 Đang tải file 5/137. Tiến trình 45%.
+2025-07-28 15:48:36 [MusicDownloader] 🎧 Đang tải file 5/137. Tiến trình 50%.
+2025-07-28 15:48:36 [MusicDownloader] 🎧 Đang tải file 5/137. Tiến trình 55%.
+2025-07-28 15:48:36 [MusicDownloader] 🎧 Đang tải file 5/137. Tiến trình 60%.
+2025-07-28 15:48:36 [MusicDownloader] 🎧 Đang tải file 5/137. Tiến trình 65%.
+2025-07-28 15:48:36 [MusicDownloader] 🎧 Đang tải file 5/137. Tiến trình 70%.
+2025-07-28 15:48:36 [MusicDownloader] 🎧 Đang tải file 5/137. Tiến trình 75%.
+2025-07-28 15:48:36 [MusicDownloader] 🎧 Đang tải file 5/137. Tiến trình 80%.
+2025-07-28 15:48:36 [MusicDownloader] 🎧 Đang tải file 5/137. Tiến trình 85%.
+2025-07-28 15:48:36 [MusicDownloader] 🎧 Đang tải file 5/137. Tiến trình 90%.
+2025-07-28 15:48:36 [MusicDownloader] 🎧 Đang tải file 5/137. Tiến trình 95%.
+2025-07-28 15:48:36 [MusicDownloader] 🎧 Đang tải file 5/137. Tiến trình 100%.
+2025-07-28 15:48:36 [MusicDownloader] ⬇️ Đã tải xong: Up_La_Khoai.mp3
+2025-07-28 15:48:37 [MusicDownloader] 🎧 Đang tải file 6/137. Tiến trình 0%.
+2025-07-28 15:48:37 [MusicDownloader] 🎧 Đang tải file 6/137. Tiến trình 5%.
+2025-07-28 15:48:37 [MusicDownloader] 🎧 Đang tải file 6/137. Tiến trình 10%.
+2025-07-28 15:48:37 [MusicDownloader] 🎧 Đang tải file 6/137. Tiến trình 15%.
+2025-07-28 15:48:38 [MusicDownloader] 🎧 Đang tải file 6/137. Tiến trình 20%.
+2025-07-28 15:48:38 [MusicDownloader] 🎧 Đang tải file 6/137. Tiến trình 25%.
+2025-07-28 15:48:38 [MusicDownloader] 🎧 Đang tải file 6/137. Tiến trình 30%.
+2025-07-28 15:48:38 [MusicDownloader] 🎧 Đang tải file 6/137. Tiến trình 35%.
+2025-07-28 15:48:38 [MusicDownloader] 🎧 Đang tải file 6/137. Tiến trình 40%.
+2025-07-28 15:48:38 [MusicDownloader] 🎧 Đang tải file 6/137. Tiến trình 45%.
+2025-07-28 15:48:38 [MusicDownloader] 🎧 Đang tải file 6/137. Tiến trình 50%.
+2025-07-28 15:48:39 [MusicDownloader] 🎧 Đang tải file 6/137. Tiến trình 55%.
+2025-07-28 15:48:39 [MusicDownloader] 🎧 Đang tải file 6/137. Tiến trình 60%.
+2025-07-28 15:48:39 [MusicDownloader] 🎧 Đang tải file 6/137. Tiến trình 65%.
+2025-07-28 15:48:39 [MusicDownloader] 🎧 Đang tải file 6/137. Tiến trình 70%.
+2025-07-28 15:48:39 [MusicDownloader] 🎧 Đang tải file 6/137. Tiến trình 75%.
+2025-07-28 15:48:39 [MusicDownloader] 🎧 Đang tải file 6/137. Tiến trình 80%.
+2025-07-28 15:48:39 [MusicDownloader] 🎧 Đang tải file 6/137. Tiến trình 85%.
+2025-07-28 15:48:39 [MusicDownloader] 🎧 Đang tải file 6/137. Tiến trình 90%.
+2025-07-28 15:48:40 [MusicDownloader] 🎧 Đang tải file 6/137. Tiến trình 95%.
+2025-07-28 15:48:40 [MusicDownloader] 🎧 Đang tải file 6/137. Tiến trình 100%.
+2025-07-28 15:48:40 [MusicDownloader] ⬇️ Đã tải xong: oi_Ken_Ti_Hon.mp3
+2025-07-28 15:48:41 [MusicDownloader] 🎧 Đang tải file 7/137. Tiến trình 0%.
+2025-07-28 15:48:41 [MusicDownloader] 🎧 Đang tải file 7/137. Tiến trình 5%.
+2025-07-28 15:48:41 [MusicDownloader] 🎧 Đang tải file 7/137. Tiến trình 10%.
+2025-07-28 15:48:41 [MusicDownloader] 🎧 Đang tải file 7/137. Tiến trình 15%.
+2025-07-28 15:48:41 [MusicDownloader] 🎧 Đang tải file 7/137. Tiến trình 20%.
+2025-07-28 15:48:41 [MusicDownloader] 🎧 Đang tải file 7/137. Tiến trình 25%.
+2025-07-28 15:48:41 [MusicDownloader] 🎧 Đang tải file 7/137. Tiến trình 30%.
+2025-07-28 15:48:41 [MusicDownloader] 🎧 Đang tải file 7/137. Tiến trình 35%.
+2025-07-28 15:48:41 [MusicDownloader] 🎧 Đang tải file 7/137. Tiến trình 40%.
+2025-07-28 15:48:42 [MusicDownloader] 🎧 Đang tải file 7/137. Tiến trình 45%.
+2025-07-28 15:48:42 [MusicDownloader] 🎧 Đang tải file 7/137. Tiến trình 50%.
+2025-07-28 15:48:42 [MusicDownloader] 🎧 Đang tải file 7/137. Tiến trình 55%.
+2025-07-28 15:48:42 [MusicDownloader] 🎧 Đang tải file 7/137. Tiến trình 60%.
+2025-07-28 15:48:42 [MusicDownloader] 🎧 Đang tải file 7/137. Tiến trình 65%.
+2025-07-28 15:48:42 [MusicDownloader] 🎧 Đang tải file 7/137. Tiến trình 70%.
+2025-07-28 15:48:42 [MusicDownloader] 🎧 Đang tải file 7/137. Tiến trình 75%.
+2025-07-28 15:48:42 [MusicDownloader] 🎧 Đang tải file 7/137. Tiến trình 80%.
+2025-07-28 15:48:42 [MusicDownloader] 🎧 Đang tải file 7/137. Tiến trình 85%.
+2025-07-28 15:48:42 [MusicDownloader] 🎧 Đang tải file 7/137. Tiến trình 90%.
+2025-07-28 15:48:42 [MusicDownloader] 🎧 Đang tải file 7/137. Tiến trình 95%.
+2025-07-28 15:48:42 [MusicDownloader] 🎧 Đang tải file 7/137. Tiến trình 100%.
+2025-07-28 15:48:42 [MusicDownloader] ⬇️ Đã tải xong: Chi_Ong_Nau_Va_Em_Be.mp3
+2025-07-28 15:48:44 [MusicDownloader] 🎧 Đang tải file 8/137. Tiến trình 0%.
+2025-07-28 15:48:44 [MusicDownloader] 🎧 Đang tải file 8/137. Tiến trình 5%.
+2025-07-28 15:48:44 [MusicDownloader] 🎧 Đang tải file 8/137. Tiến trình 10%.
+2025-07-28 15:48:44 [MusicDownloader] 🎧 Đang tải file 8/137. Tiến trình 15%.
+2025-07-28 15:48:44 [MusicDownloader] 🎧 Đang tải file 8/137. Tiến trình 20%.
+2025-07-28 15:48:44 [MusicDownloader] 🎧 Đang tải file 8/137. Tiến trình 25%.
+2025-07-28 15:48:44 [MusicDownloader] 🎧 Đang tải file 8/137. Tiến trình 30%.
+2025-07-28 15:48:44 [MusicDownloader] 🎧 Đang tải file 8/137. Tiến trình 35%.
+2025-07-28 15:48:44 [MusicDownloader] 🎧 Đang tải file 8/137. Tiến trình 40%.
+2025-07-28 15:48:44 [MusicDownloader] 🎧 Đang tải file 8/137. Tiến trình 45%.
+2025-07-28 15:48:44 [MusicDownloader] 🎧 Đang tải file 8/137. Tiến trình 50%.
+2025-07-28 15:48:44 [MusicDownloader] 🎧 Đang tải file 8/137. Tiến trình 55%.
+2025-07-28 15:48:45 [MusicDownloader] 🎧 Đang tải file 8/137. Tiến trình 60%.
+2025-07-28 15:48:45 [MusicDownloader] 🎧 Đang tải file 8/137. Tiến trình 65%.
+2025-07-28 15:48:45 [MusicDownloader] 🎧 Đang tải file 8/137. Tiến trình 70%.
+2025-07-28 15:48:45 [MusicDownloader] 🎧 Đang tải file 8/137. Tiến trình 75%.
+2025-07-28 15:48:45 [MusicDownloader] 🎧 Đang tải file 8/137. Tiến trình 80%.
+2025-07-28 15:48:45 [MusicDownloader] 🎧 Đang tải file 8/137. Tiến trình 85%.
+2025-07-28 15:48:45 [MusicDownloader] 🎧 Đang tải file 8/137. Tiến trình 90%.
+2025-07-28 15:48:45 [MusicDownloader] 🎧 Đang tải file 8/137. Tiến trình 95%.
+2025-07-28 15:48:45 [MusicDownloader] 🎧 Đang tải file 8/137. Tiến trình 100%.
+2025-07-28 15:48:45 [MusicDownloader] ⬇️ Đã tải xong: Bac_Kim_Thang.mp3
+2025-07-28 15:48:46 [MusicDownloader] 🎧 Đang tải file 9/137. Tiến trình 0%.
+2025-07-28 15:48:46 [MusicDownloader] 🎧 Đang tải file 9/137. Tiến trình 5%.
+2025-07-28 15:48:46 [MusicDownloader] 🎧 Đang tải file 9/137. Tiến trình 10%.
+2025-07-28 15:48:46 [MusicDownloader] 🎧 Đang tải file 9/137. Tiến trình 15%.
+2025-07-28 15:48:46 [MusicDownloader] 🎧 Đang tải file 9/137. Tiến trình 20%.
+2025-07-28 15:48:46 [MusicDownloader] 🎧 Đang tải file 9/137. Tiến trình 25%.
+2025-07-28 15:48:46 [MusicDownloader] 🎧 Đang tải file 9/137. Tiến trình 30%.
+2025-07-28 15:48:46 [MusicDownloader] 🎧 Đang tải file 9/137. Tiến trình 35%.
+2025-07-28 15:48:47 [MusicDownloader] 🎧 Đang tải file 9/137. Tiến trình 40%.
+2025-07-28 15:48:47 [MusicDownloader] 🎧 Đang tải file 9/137. Tiến trình 45%.
+2025-07-28 15:48:47 [MusicDownloader] 🎧 Đang tải file 9/137. Tiến trình 50%.
+2025-07-28 15:48:47 [MusicDownloader] 🎧 Đang tải file 9/137. Tiến trình 55%.
+2025-07-28 15:48:47 [MusicDownloader] 🎧 Đang tải file 9/137. Tiến trình 60%.
+2025-07-28 15:48:47 [MusicDownloader] 🎧 Đang tải file 9/137. Tiến trình 65%.
+2025-07-28 15:48:47 [MusicDownloader] 🎧 Đang tải file 9/137. Tiến trình 70%.
+2025-07-28 15:48:47 [MusicDownloader] 🎧 Đang tải file 9/137. Tiến trình 75%.
+2025-07-28 15:48:47 [MusicDownloader] 🎧 Đang tải file 9/137. Tiến trình 80%.
+2025-07-28 15:48:47 [MusicDownloader] 🎧 Đang tải file 9/137. Tiến trình 85%.
+2025-07-28 15:48:47 [MusicDownloader] 🎧 Đang tải file 9/137. Tiến trình 90%.
+2025-07-28 15:48:47 [MusicDownloader] 🎧 Đang tải file 9/137. Tiến trình 95%.
+2025-07-28 15:48:47 [MusicDownloader] 🎧 Đang tải file 9/137. Tiến trình 100%.
+2025-07-28 15:48:47 [MusicDownloader] ⬇️ Đã tải xong: Con_Co_Be_Be.mp3
+2025-07-28 15:48:48 [MusicDownloader] 🎧 Đang tải file 10/137. Tiến trình 0%.
+2025-07-28 15:48:48 [MusicDownloader] 🎧 Đang tải file 10/137. Tiến trình 5%.
+2025-07-28 15:48:48 [MusicDownloader] 🎧 Đang tải file 10/137. Tiến trình 10%.
+2025-07-28 15:48:48 [MusicDownloader] 🎧 Đang tải file 10/137. Tiến trình 15%.
+2025-07-28 15:48:48 [MusicDownloader] 🎧 Đang tải file 10/137. Tiến trình 20%.
+2025-07-28 15:48:48 [MusicDownloader] 🎧 Đang tải file 10/137. Tiến trình 25%.
+2025-07-28 15:48:49 [MusicDownloader] 🎧 Đang tải file 10/137. Tiến trình 30%.
+2025-07-28 15:48:49 [MusicDownloader] 🎧 Đang tải file 10/137. Tiến trình 35%.
+2025-07-28 15:48:49 [MusicDownloader] 🎧 Đang tải file 10/137. Tiến trình 40%.
+2025-07-28 15:48:49 [MusicDownloader] 🎧 Đang tải file 10/137. Tiến trình 45%.
+2025-07-28 15:48:49 [MusicDownloader] 🎧 Đang tải file 10/137. Tiến trình 50%.
+2025-07-28 15:48:49 [MusicDownloader] 🎧 Đang tải file 10/137. Tiến trình 55%.
+2025-07-28 15:48:49 [MusicDownloader] 🎧 Đang tải file 10/137. Tiến trình 60%.
+2025-07-28 15:48:49 [MusicDownloader] 🎧 Đang tải file 10/137. Tiến trình 65%.
+2025-07-28 15:48:49 [MusicDownloader] 🎧 Đang tải file 10/137. Tiến trình 70%.
+2025-07-28 15:48:49 [MusicDownloader] 🎧 Đang tải file 10/137. Tiến trình 75%.
+2025-07-28 15:48:49 [MusicDownloader] 🎧 Đang tải file 10/137. Tiến trình 80%.
+2025-07-28 15:48:49 [MusicDownloader] 🎧 Đang tải file 10/137. Tiến trình 85%.
+2025-07-28 15:48:49 [MusicDownloader] 🎧 Đang tải file 10/137. Tiến trình 90%.
+2025-07-28 15:48:49 [MusicDownloader] 🎧 Đang tải file 10/137. Tiến trình 95%.
+2025-07-28 15:48:49 [MusicDownloader] 🎧 Đang tải file 10/137. Tiến trình 100%.
+2025-07-28 15:48:49 [MusicDownloader] ⬇️ Đã tải xong: Tap_The_Duc_Buoi_Sang.mp3
+2025-07-28 15:48:50 [MusicDownloader] 🎧 Đang tải file 11/137. Tiến trình 0%.
+2025-07-28 15:48:50 [MusicDownloader] 🎧 Đang tải file 11/137. Tiến trình 5%.
+2025-07-28 15:48:50 [MusicDownloader] 🎧 Đang tải file 11/137. Tiến trình 10%.
+2025-07-28 15:48:51 [MusicDownloader] 🎧 Đang tải file 11/137. Tiến trình 15%.
+2025-07-28 15:48:51 [MusicDownloader] 🎧 Đang tải file 11/137. Tiến trình 20%.
+2025-07-28 15:48:51 [MusicDownloader] 🎧 Đang tải file 11/137. Tiến trình 25%.
+2025-07-28 15:48:52 [MusicDownloader] 🎧 Đang tải file 11/137. Tiến trình 30%.
+2025-07-28 15:48:52 [MusicDownloader] 🎧 Đang tải file 11/137. Tiến trình 35%.
+2025-07-28 15:48:52 [MusicDownloader] 🎧 Đang tải file 11/137. Tiến trình 40%.
+2025-07-28 15:48:52 [MusicDownloader] 🎧 Đang tải file 11/137. Tiến trình 45%.
+2025-07-28 15:48:52 [MusicDownloader] 🎧 Đang tải file 11/137. Tiến trình 50%.
+2025-07-28 15:48:52 [MusicDownloader] 🎧 Đang tải file 11/137. Tiến trình 55%.
+2025-07-28 15:48:52 [MusicDownloader] 🎧 Đang tải file 11/137. Tiến trình 60%.
+2025-07-28 15:48:52 [MusicDownloader] 🎧 Đang tải file 11/137. Tiến trình 65%.
+2025-07-28 15:48:52 [MusicDownloader] 🎧 Đang tải file 11/137. Tiến trình 70%.
+2025-07-28 15:48:52 [MusicDownloader] 🎧 Đang tải file 11/137. Tiến trình 75%.
+2025-07-28 15:48:53 [MusicDownloader] 🎧 Đang tải file 11/137. Tiến trình 80%.
+2025-07-28 15:48:53 [MusicDownloader] 🎧 Đang tải file 11/137. Tiến trình 85%.
+2025-07-28 15:48:53 [MusicDownloader] 🎧 Đang tải file 11/137. Tiến trình 90%.
+2025-07-28 15:48:53 [MusicDownloader] 🎧 Đang tải file 11/137. Tiến trình 95%.
+2025-07-28 15:48:53 [MusicDownloader] 🎧 Đang tải file 11/137. Tiến trình 100%.
+2025-07-28 15:48:53 [MusicDownloader] ⬇️ Đã tải xong: Lien_khuc_Mot_Con_Vit_Kia_Con_Buom_Vang_Con_Cao_Cao.mp3
+2025-07-28 15:48:54 [MusicDownloader] 🎧 Đang tải file 12/137. Tiến trình 0%.
+2025-07-28 15:48:54 [MusicDownloader] 🎧 Đang tải file 12/137. Tiến trình 5%.
+2025-07-28 15:48:54 [MusicDownloader] 🎧 Đang tải file 12/137. Tiến trình 10%.
+2025-07-28 15:48:54 [MusicDownloader] 🎧 Đang tải file 12/137. Tiến trình 15%.
+2025-07-28 15:48:54 [MusicDownloader] 🎧 Đang tải file 12/137. Tiến trình 20%.
+2025-07-28 15:48:54 [MusicDownloader] 🎧 Đang tải file 12/137. Tiến trình 25%.
+2025-07-28 15:48:54 [MusicDownloader] 🎧 Đang tải file 12/137. Tiến trình 30%.
+2025-07-28 15:48:54 [MusicDownloader] 🎧 Đang tải file 12/137. Tiến trình 35%.
+2025-07-28 15:48:54 [MusicDownloader] 🎧 Đang tải file 12/137. Tiến trình 40%.
+2025-07-28 15:48:54 [MusicDownloader] 🎧 Đang tải file 12/137. Tiến trình 45%.
+2025-07-28 15:48:54 [MusicDownloader] 🎧 Đang tải file 12/137. Tiến trình 50%.
+2025-07-28 15:48:54 [MusicDownloader] 🎧 Đang tải file 12/137. Tiến trình 55%.
+2025-07-28 15:48:54 [MusicDownloader] 🎧 Đang tải file 12/137. Tiến trình 60%.
+2025-07-28 15:48:54 [MusicDownloader] 🎧 Đang tải file 12/137. Tiến trình 65%.
+2025-07-28 15:48:54 [MusicDownloader] 🎧 Đang tải file 12/137. Tiến trình 70%.
+2025-07-28 15:48:54 [MusicDownloader] 🎧 Đang tải file 12/137. Tiến trình 75%.
+2025-07-28 15:48:54 [MusicDownloader] 🎧 Đang tải file 12/137. Tiến trình 80%.
+2025-07-28 15:48:54 [MusicDownloader] 🎧 Đang tải file 12/137. Tiến trình 85%.
+2025-07-28 15:48:54 [MusicDownloader] 🎧 Đang tải file 12/137. Tiến trình 90%.
+2025-07-28 15:48:54 [MusicDownloader] 🎧 Đang tải file 12/137. Tiến trình 95%.
+2025-07-28 15:48:54 [MusicDownloader] 🎧 Đang tải file 12/137. Tiến trình 100%.
+2025-07-28 15:48:54 [MusicDownloader] ⬇️ Đã tải xong: Me_Oi_Tai_Sao.mp3
+2025-07-28 15:48:55 [MusicDownloader] 🎧 Đang tải file 13/137. Tiến trình 0%.
+2025-07-28 15:48:55 [MusicDownloader] 🎧 Đang tải file 13/137. Tiến trình 5%.
+2025-07-28 15:48:55 [MusicDownloader] 🎧 Đang tải file 13/137. Tiến trình 10%.
+2025-07-28 15:48:56 [MusicDownloader] 🎧 Đang tải file 13/137. Tiến trình 15%.
+2025-07-28 15:48:56 [MusicDownloader] 🎧 Đang tải file 13/137. Tiến trình 20%.
+2025-07-28 15:48:56 [MusicDownloader] 🎧 Đang tải file 13/137. Tiến trình 25%.
+2025-07-28 15:48:56 [MusicDownloader] 🎧 Đang tải file 13/137. Tiến trình 30%.
+2025-07-28 15:48:56 [MusicDownloader] 🎧 Đang tải file 13/137. Tiến trình 35%.
+2025-07-28 15:48:56 [MusicDownloader] 🎧 Đang tải file 13/137. Tiến trình 40%.
+2025-07-28 15:48:56 [MusicDownloader] 🎧 Đang tải file 13/137. Tiến trình 45%.
+2025-07-28 15:48:56 [MusicDownloader] 🎧 Đang tải file 13/137. Tiến trình 50%.
+2025-07-28 15:48:56 [MusicDownloader] 🎧 Đang tải file 13/137. Tiến trình 55%.
+2025-07-28 15:48:56 [MusicDownloader] 🎧 Đang tải file 13/137. Tiến trình 60%.
+2025-07-28 15:48:56 [MusicDownloader] 🎧 Đang tải file 13/137. Tiến trình 65%.
+2025-07-28 15:48:56 [MusicDownloader] 🎧 Đang tải file 13/137. Tiến trình 70%.
+2025-07-28 15:48:56 [MusicDownloader] 🎧 Đang tải file 13/137. Tiến trình 75%.
+2025-07-28 15:48:56 [MusicDownloader] 🎧 Đang tải file 13/137. Tiến trình 80%.
+2025-07-28 15:48:56 [MusicDownloader] 🎧 Đang tải file 13/137. Tiến trình 85%.
+2025-07-28 15:48:56 [MusicDownloader] 🎧 Đang tải file 13/137. Tiến trình 90%.
+2025-07-28 15:48:57 [MusicDownloader] 🎧 Đang tải file 13/137. Tiến trình 95%.
+2025-07-28 15:48:57 [MusicDownloader] 🎧 Đang tải file 13/137. Tiến trình 100%.
+2025-07-28 15:48:57 [MusicDownloader] ⬇️ Đã tải xong: Em_Di_Choi_Thuyen.mp3
+2025-07-28 15:48:57 [MusicDownloader] 🎧 Đang tải file 14/137. Tiến trình 0%.
+2025-07-28 15:48:57 [MusicDownloader] 🎧 Đang tải file 14/137. Tiến trình 5%.
+2025-07-28 15:48:57 [MusicDownloader] 🎧 Đang tải file 14/137. Tiến trình 10%.
+2025-07-28 15:48:57 [MusicDownloader] 🎧 Đang tải file 14/137. Tiến trình 15%.
+2025-07-28 15:48:57 [MusicDownloader] 🎧 Đang tải file 14/137. Tiến trình 20%.
+2025-07-28 15:48:58 [MusicDownloader] 🎧 Đang tải file 14/137. Tiến trình 25%.
+2025-07-28 15:48:58 [MusicDownloader] 🎧 Đang tải file 14/137. Tiến trình 30%.
+2025-07-28 15:48:58 [MusicDownloader] 🎧 Đang tải file 14/137. Tiến trình 35%.
+2025-07-28 15:48:58 [MusicDownloader] 🎧 Đang tải file 14/137. Tiến trình 40%.
+2025-07-28 15:48:58 [MusicDownloader] 🎧 Đang tải file 14/137. Tiến trình 45%.
+2025-07-28 15:48:58 [MusicDownloader] 🎧 Đang tải file 14/137. Tiến trình 50%.
+2025-07-28 15:48:58 [MusicDownloader] 🎧 Đang tải file 14/137. Tiến trình 55%.
+2025-07-28 15:48:58 [MusicDownloader] 🎧 Đang tải file 14/137. Tiến trình 60%.
+2025-07-28 15:48:58 [MusicDownloader] 🎧 Đang tải file 14/137. Tiến trình 65%.
+2025-07-28 15:48:58 [MusicDownloader] 🎧 Đang tải file 14/137. Tiến trình 70%.
+2025-07-28 15:48:58 [MusicDownloader] 🎧 Đang tải file 14/137. Tiến trình 75%.
+2025-07-28 15:48:58 [MusicDownloader] 🎧 Đang tải file 14/137. Tiến trình 80%.
+2025-07-28 15:48:58 [MusicDownloader] 🎧 Đang tải file 14/137. Tiến trình 85%.
+2025-07-28 15:48:58 [MusicDownloader] 🎧 Đang tải file 14/137. Tiến trình 90%.
+2025-07-28 15:48:58 [MusicDownloader] 🎧 Đang tải file 14/137. Tiến trình 95%.
+2025-07-28 15:48:58 [MusicDownloader] 🎧 Đang tải file 14/137. Tiến trình 100%.
+2025-07-28 15:48:58 [MusicDownloader] ⬇️ Đã tải xong: Chau_Yeu_Ba.mp3
+2025-07-28 15:48:59 [MusicDownloader] 🎧 Đang tải file 15/137. Tiến trình 0%.
+2025-07-28 15:48:59 [MusicDownloader] 🎧 Đang tải file 15/137. Tiến trình 5%.
+2025-07-28 15:48:59 [MusicDownloader] 🎧 Đang tải file 15/137. Tiến trình 10%.
+2025-07-28 15:48:59 [MusicDownloader] 🎧 Đang tải file 15/137. Tiến trình 15%.
+2025-07-28 15:48:59 [MusicDownloader] 🎧 Đang tải file 15/137. Tiến trình 20%.
+2025-07-28 15:48:59 [MusicDownloader] 🎧 Đang tải file 15/137. Tiến trình 25%.
+2025-07-28 15:48:59 [MusicDownloader] 🎧 Đang tải file 15/137. Tiến trình 30%.
+2025-07-28 15:48:59 [MusicDownloader] 🎧 Đang tải file 15/137. Tiến trình 35%.
+2025-07-28 15:48:59 [MusicDownloader] 🎧 Đang tải file 15/137. Tiến trình 40%.
+2025-07-28 15:49:00 [MusicDownloader] 🎧 Đang tải file 15/137. Tiến trình 45%.
+2025-07-28 15:49:00 [MusicDownloader] 🎧 Đang tải file 15/137. Tiến trình 50%.
+2025-07-28 15:49:00 [MusicDownloader] 🎧 Đang tải file 15/137. Tiến trình 55%.
+2025-07-28 15:49:00 [MusicDownloader] 🎧 Đang tải file 15/137. Tiến trình 60%.
+2025-07-28 15:49:00 [MusicDownloader] 🎧 Đang tải file 15/137. Tiến trình 65%.
+2025-07-28 15:49:00 [MusicDownloader] 🎧 Đang tải file 15/137. Tiến trình 70%.
+2025-07-28 15:49:00 [MusicDownloader] 🎧 Đang tải file 15/137. Tiến trình 75%.
+2025-07-28 15:49:00 [MusicDownloader] 🎧 Đang tải file 15/137. Tiến trình 80%.
+2025-07-28 15:49:00 [MusicDownloader] 🎧 Đang tải file 15/137. Tiến trình 85%.
+2025-07-28 15:49:00 [MusicDownloader] 🎧 Đang tải file 15/137. Tiến trình 90%.
+2025-07-28 15:49:00 [MusicDownloader] 🎧 Đang tải file 15/137. Tiến trình 95%.
+2025-07-28 15:49:00 [MusicDownloader] 🎧 Đang tải file 15/137. Tiến trình 100%.
+2025-07-28 15:49:00 [MusicDownloader] ⬇️ Đã tải xong: Chau_Len_Ba.mp3
+2025-07-28 15:49:01 [MusicDownloader] 🎧 Đang tải file 16/137. Tiến trình 0%.
+2025-07-28 15:49:01 [MusicDownloader] 🎧 Đang tải file 16/137. Tiến trình 5%.
+2025-07-28 15:49:01 [MusicDownloader] 🎧 Đang tải file 16/137. Tiến trình 10%.
+2025-07-28 15:49:01 [MusicDownloader] 🎧 Đang tải file 16/137. Tiến trình 15%.
+2025-07-28 15:49:01 [MusicDownloader] 🎧 Đang tải file 16/137. Tiến trình 20%.
+2025-07-28 15:49:01 [MusicDownloader] 🎧 Đang tải file 16/137. Tiến trình 25%.
+2025-07-28 15:49:02 [MusicDownloader] 🎧 Đang tải file 16/137. Tiến trình 30%.
+2025-07-28 15:49:02 [MusicDownloader] 🎧 Đang tải file 16/137. Tiến trình 35%.
+2025-07-28 15:49:02 [MusicDownloader] 🎧 Đang tải file 16/137. Tiến trình 40%.
+2025-07-28 15:49:02 [MusicDownloader] 🎧 Đang tải file 16/137. Tiến trình 45%.
+2025-07-28 15:49:02 [MusicDownloader] 🎧 Đang tải file 16/137. Tiến trình 50%.
+2025-07-28 15:49:02 [MusicDownloader] 🎧 Đang tải file 16/137. Tiến trình 55%.
+2025-07-28 15:49:02 [MusicDownloader] 🎧 Đang tải file 16/137. Tiến trình 60%.
+2025-07-28 15:49:02 [MusicDownloader] 🎧 Đang tải file 16/137. Tiến trình 65%.
+2025-07-28 15:49:02 [MusicDownloader] 🎧 Đang tải file 16/137. Tiến trình 70%.
+2025-07-28 15:49:02 [MusicDownloader] 🎧 Đang tải file 16/137. Tiến trình 75%.
+2025-07-28 15:49:02 [MusicDownloader] 🎧 Đang tải file 16/137. Tiến trình 80%.
+2025-07-28 15:49:02 [MusicDownloader] 🎧 Đang tải file 16/137. Tiến trình 85%.
+2025-07-28 15:49:02 [MusicDownloader] 🎧 Đang tải file 16/137. Tiến trình 90%.
+2025-07-28 15:49:03 [MusicDownloader] 🎧 Đang tải file 16/137. Tiến trình 95%.
+2025-07-28 15:49:03 [MusicDownloader] 🎧 Đang tải file 16/137. Tiến trình 100%.
+2025-07-28 15:49:03 [MusicDownloader] ⬇️ Đã tải xong: Con_Chim_Non.mp3
+2025-07-28 15:49:05 [MusicDownloader] 🎧 Đang tải file 17/137. Tiến trình 0%.
+2025-07-28 15:49:05 [MusicDownloader] 🎧 Đang tải file 17/137. Tiến trình 5%.
+2025-07-28 15:49:05 [MusicDownloader] 🎧 Đang tải file 17/137. Tiến trình 10%.
+2025-07-28 15:49:05 [MusicDownloader] 🎧 Đang tải file 17/137. Tiến trình 15%.
+2025-07-28 15:49:06 [MusicDownloader] 🎧 Đang tải file 17/137. Tiến trình 20%.
+2025-07-28 15:49:06 [MusicDownloader] 🎧 Đang tải file 17/137. Tiến trình 25%.
+2025-07-28 15:49:07 [MusicDownloader] 🎧 Đang tải file 17/137. Tiến trình 30%.
+2025-07-28 15:49:07 [MusicDownloader] 🎧 Đang tải file 17/137. Tiến trình 35%.
+2025-07-28 15:49:08 [MusicDownloader] 🎧 Đang tải file 17/137. Tiến trình 40%.
+2025-07-28 15:49:08 [MusicDownloader] 🎧 Đang tải file 17/137. Tiến trình 45%.
+2025-07-28 15:49:08 [MusicDownloader] 🎧 Đang tải file 17/137. Tiến trình 50%.
+2025-07-28 15:49:08 [MusicDownloader] 🎧 Đang tải file 17/137. Tiến trình 55%.
+2025-07-28 15:49:09 [MusicDownloader] 🎧 Đang tải file 17/137. Tiến trình 60%.
+2025-07-28 15:49:09 [MusicDownloader] 🎧 Đang tải file 17/137. Tiến trình 65%.
+2025-07-28 15:49:09 [MusicDownloader] 🎧 Đang tải file 17/137. Tiến trình 70%.
+2025-07-28 15:49:09 [MusicDownloader] 🎧 Đang tải file 17/137. Tiến trình 75%.
+2025-07-28 15:49:10 [MusicDownloader] 🎧 Đang tải file 17/137. Tiến trình 80%.
+2025-07-28 15:49:10 [MusicDownloader] 🎧 Đang tải file 17/137. Tiến trình 85%.
+2025-07-28 15:49:10 [MusicDownloader] 🎧 Đang tải file 17/137. Tiến trình 90%.
+2025-07-28 15:49:10 [MusicDownloader] 🎧 Đang tải file 17/137. Tiến trình 95%.
+2025-07-28 15:49:11 [MusicDownloader] 🎧 Đang tải file 17/137. Tiến trình 100%.
+2025-07-28 15:49:11 [MusicDownloader] ⬇️ Đã tải xong: an_Ga_Trong_San.mp3
+2025-07-28 15:49:12 [MusicDownloader] 🎧 Đang tải file 18/137. Tiến trình 0%.
+2025-07-28 15:49:12 [MusicDownloader] 🎧 Đang tải file 18/137. Tiến trình 5%.
+2025-07-28 15:49:12 [MusicDownloader] 🎧 Đang tải file 18/137. Tiến trình 10%.
+2025-07-28 15:49:12 [MusicDownloader] 🎧 Đang tải file 18/137. Tiến trình 15%.
+2025-07-28 15:49:12 [MusicDownloader] 🎧 Đang tải file 18/137. Tiến trình 20%.
+2025-07-28 15:49:12 [MusicDownloader] 🎧 Đang tải file 18/137. Tiến trình 25%.
+2025-07-28 15:49:12 [MusicDownloader] 🎧 Đang tải file 18/137. Tiến trình 30%.
+2025-07-28 15:49:12 [MusicDownloader] 🎧 Đang tải file 18/137. Tiến trình 35%.
+2025-07-28 15:49:12 [MusicDownloader] 🎧 Đang tải file 18/137. Tiến trình 40%.
+2025-07-28 15:49:12 [MusicDownloader] 🎧 Đang tải file 18/137. Tiến trình 45%.
+2025-07-28 15:49:12 [MusicDownloader] 🎧 Đang tải file 18/137. Tiến trình 50%.
+2025-07-28 15:49:12 [MusicDownloader] 🎧 Đang tải file 18/137. Tiến trình 55%.
+2025-07-28 15:49:12 [MusicDownloader] 🎧 Đang tải file 18/137. Tiến trình 60%.
+2025-07-28 15:49:12 [MusicDownloader] 🎧 Đang tải file 18/137. Tiến trình 65%.
+2025-07-28 15:49:13 [MusicDownloader] 🎧 Đang tải file 18/137. Tiến trình 70%.
+2025-07-28 15:49:13 [MusicDownloader] 🎧 Đang tải file 18/137. Tiến trình 75%.
+2025-07-28 15:49:13 [MusicDownloader] 🎧 Đang tải file 18/137. Tiến trình 80%.
+2025-07-28 15:49:13 [MusicDownloader] 🎧 Đang tải file 18/137. Tiến trình 85%.
+2025-07-28 15:49:13 [MusicDownloader] 🎧 Đang tải file 18/137. Tiến trình 90%.
+2025-07-28 15:49:13 [MusicDownloader] 🎧 Đang tải file 18/137. Tiến trình 95%.
+2025-07-28 15:49:13 [MusicDownloader] 🎧 Đang tải file 18/137. Tiến trình 100%.
+2025-07-28 15:49:13 [MusicDownloader] ⬇️ Đã tải xong: Hoa_Co_Lau_-_Official_Remix.mp3
+2025-07-28 15:49:14 [MusicDownloader] ⚠️ File đã có bỏ qua: Chua_Bao_Gio_Em_Quen_-_Kendy_T_Remix.mp3
+2025-07-28 15:49:15 [MusicDownloader] ⚠️ File đã có bỏ qua: Xuan_Nay_Con_Khong_Ve_Remix.mp3
+2025-07-28 15:49:17 [MusicDownloader] ⚠️ File đã có bỏ qua: Cu_Noi_Yeu_Lan_Nay_Speed_Up_-_Cukak_Remix.mp3
+2025-07-28 15:49:19 [MusicDownloader] ⚠️ File đã có bỏ qua: Tell_Ur_Mom_II_Cukak_Remix.mp3
+2025-07-28 15:49:19 [MusicDownloader] ⚠️ File đã có bỏ qua: Troi_Em_Lai_Remix.mp3
+2025-07-28 15:49:21 [MusicDownloader] ⚠️ File đã có bỏ qua: Co_Duyen_Khong_No_Qinn_Remix.mp3
+2025-07-28 15:49:22 [MusicDownloader] ⚠️ File đã có bỏ qua: Cho_Em_Duoi_Con_Mua_Qinn_Remix.mp3
+2025-07-28 15:49:23 [MusicDownloader] ⚠️ File đã có bỏ qua: Vuong_Van_-_Qinn_Remix.mp3
+2025-07-28 15:49:25 [MusicDownloader] 🎧 Đang tải file 27/137. Tiến trình 0%.
+2025-07-28 15:49:25 [MusicDownloader] 🎧 Đang tải file 27/137. Tiến trình 5%.
+2025-07-28 15:49:25 [MusicDownloader] 🎧 Đang tải file 27/137. Tiến trình 10%.
+2025-07-28 15:49:25 [MusicDownloader] 🎧 Đang tải file 27/137. Tiến trình 15%.
+2025-07-28 15:49:25 [MusicDownloader] 🎧 Đang tải file 27/137. Tiến trình 20%.
+2025-07-28 15:49:25 [MusicDownloader] 🎧 Đang tải file 27/137. Tiến trình 25%.
+2025-07-28 15:49:26 [MusicDownloader] 🎧 Đang tải file 27/137. Tiến trình 30%.
+2025-07-28 15:49:26 [MusicDownloader] 🎧 Đang tải file 27/137. Tiến trình 35%.
+2025-07-28 15:49:26 [MusicDownloader] 🎧 Đang tải file 27/137. Tiến trình 40%.
+2025-07-28 15:49:26 [MusicDownloader] 🎧 Đang tải file 27/137. Tiến trình 45%.
+2025-07-28 15:49:26 [MusicDownloader] 🎧 Đang tải file 27/137. Tiến trình 50%.
+2025-07-28 15:49:26 [MusicDownloader] 🎧 Đang tải file 27/137. Tiến trình 55%.
+2025-07-28 15:49:26 [MusicDownloader] 🎧 Đang tải file 27/137. Tiến trình 60%.
+2025-07-28 15:49:26 [MusicDownloader] 🎧 Đang tải file 27/137. Tiến trình 65%.
+2025-07-28 15:49:26 [MusicDownloader] 🎧 Đang tải file 27/137. Tiến trình 70%.
+2025-07-28 15:49:26 [MusicDownloader] 🎧 Đang tải file 27/137. Tiến trình 75%.
+2025-07-28 15:49:26 [MusicDownloader] 🎧 Đang tải file 27/137. Tiến trình 80%.
+2025-07-28 15:49:26 [MusicDownloader] 🎧 Đang tải file 27/137. Tiến trình 85%.
+2025-07-28 15:49:26 [MusicDownloader] 🎧 Đang tải file 27/137. Tiến trình 90%.
+2025-07-28 15:49:26 [MusicDownloader] 🎧 Đang tải file 27/137. Tiến trình 95%.
+2025-07-28 15:49:27 [MusicDownloader] 🎧 Đang tải file 27/137. Tiến trình 100%.
+2025-07-28 15:49:27 [MusicDownloader] ⬇️ Đã tải xong: Manh_Ba_-_SS_Remix.mp3
+2025-07-28 15:49:28 [MusicDownloader] ⚠️ File đã có bỏ qua: Con_Buom_Xuan_Qinn_Remix.mp3
+2025-07-28 15:49:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Forget_Me_Now_Remix.mp3
+2025-07-28 15:49:30 [MusicDownloader] ⚠️ File đã có bỏ qua: Cu_The_Mong_Cho_Qinn_Remix.mp3
+2025-07-28 15:49:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Vo_Kich_Cua_Em_Qinn_Remix.mp3
+2025-07-28 15:49:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Ngay_Tet_Que_Em_Remix.mp3
+2025-07-28 15:49:33 [MusicDownloader] 🎧 Đang tải file 33/137. Tiến trình 0%.
+2025-07-28 15:49:33 [MusicDownloader] 🎧 Đang tải file 33/137. Tiến trình 5%.
+2025-07-28 15:49:33 [MusicDownloader] 🎧 Đang tải file 33/137. Tiến trình 10%.
+2025-07-28 15:49:33 [MusicDownloader] 🎧 Đang tải file 33/137. Tiến trình 15%.
+2025-07-28 15:49:33 [MusicDownloader] 🎧 Đang tải file 33/137. Tiến trình 20%.
+2025-07-28 15:49:34 [MusicDownloader] 🎧 Đang tải file 33/137. Tiến trình 25%.
+2025-07-28 15:49:34 [MusicDownloader] 🎧 Đang tải file 33/137. Tiến trình 30%.
+2025-07-28 15:49:34 [MusicDownloader] 🎧 Đang tải file 33/137. Tiến trình 35%.
+2025-07-28 15:49:34 [MusicDownloader] 🎧 Đang tải file 33/137. Tiến trình 40%.
+2025-07-28 15:49:34 [MusicDownloader] 🎧 Đang tải file 33/137. Tiến trình 45%.
+2025-07-28 15:49:34 [MusicDownloader] 🎧 Đang tải file 33/137. Tiến trình 50%.
+2025-07-28 15:49:34 [MusicDownloader] 🎧 Đang tải file 33/137. Tiến trình 55%.
+2025-07-28 15:49:34 [MusicDownloader] 🎧 Đang tải file 33/137. Tiến trình 60%.
+2025-07-28 15:49:34 [MusicDownloader] 🎧 Đang tải file 33/137. Tiến trình 65%.
+2025-07-28 15:49:34 [MusicDownloader] 🎧 Đang tải file 33/137. Tiến trình 70%.
+2025-07-28 15:49:34 [MusicDownloader] 🎧 Đang tải file 33/137. Tiến trình 75%.
+2025-07-28 15:49:34 [MusicDownloader] 🎧 Đang tải file 33/137. Tiến trình 80%.
+2025-07-28 15:49:34 [MusicDownloader] 🎧 Đang tải file 33/137. Tiến trình 85%.
+2025-07-28 15:49:34 [MusicDownloader] 🎧 Đang tải file 33/137. Tiến trình 90%.
+2025-07-28 15:49:34 [MusicDownloader] 🎧 Đang tải file 33/137. Tiến trình 95%.
+2025-07-28 15:49:34 [MusicDownloader] 🎧 Đang tải file 33/137. Tiến trình 100%.
+2025-07-28 15:49:34 [MusicDownloader] ⬇️ Đã tải xong: Thuyen_Quyen_Remix.mp3
+2025-07-28 15:49:35 [MusicDownloader] ⚠️ File đã có bỏ qua: Gia_Nhu_Anh_La_Nguoi_Vo_Tam_-_NT_Remix.mp3
+2025-07-28 15:49:36 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Oi_Len_Pho_-_Tipo_Remix_138.mp3
+2025-07-28 15:49:37 [MusicDownloader] ⚠️ File đã có bỏ qua: Loi_Noi_ieu_Tren_Moi_Em_Remix.mp3
+2025-07-28 15:49:39 [MusicDownloader] ⚠️ File đã có bỏ qua: Anh_Yeu_Voi_The_Remix.mp3
+2025-07-28 15:49:40 [MusicDownloader] ⚠️ File đã có bỏ qua: Mashup_Ngoi_Nha_Hoa_Hong_-_Remix_-_Vicky_Nhung_Version.mp3
+2025-07-28 15:49:41 [MusicDownloader] ⚠️ File đã có bỏ qua: Nguoi_thay_the_em_Qinn_remix.mp3
+2025-07-28 15:49:42 [MusicDownloader] ⚠️ File đã có bỏ qua: Khong_Bang_Remix.mp3
+2025-07-28 15:49:43 [MusicDownloader] 🎧 Đang tải file 41/137. Tiến trình 0%.
+2025-07-28 15:49:43 [MusicDownloader] 🎧 Đang tải file 41/137. Tiến trình 5%.
+2025-07-28 15:49:43 [MusicDownloader] 🎧 Đang tải file 41/137. Tiến trình 10%.
+2025-07-28 15:49:43 [MusicDownloader] 🎧 Đang tải file 41/137. Tiến trình 15%.
+2025-07-28 15:49:43 [MusicDownloader] 🎧 Đang tải file 41/137. Tiến trình 20%.
+2025-07-28 15:49:43 [MusicDownloader] 🎧 Đang tải file 41/137. Tiến trình 25%.
+2025-07-28 15:49:43 [MusicDownloader] 🎧 Đang tải file 41/137. Tiến trình 30%.
+2025-07-28 15:49:43 [MusicDownloader] 🎧 Đang tải file 41/137. Tiến trình 35%.
+2025-07-28 15:49:43 [MusicDownloader] 🎧 Đang tải file 41/137. Tiến trình 40%.
+2025-07-28 15:49:43 [MusicDownloader] 🎧 Đang tải file 41/137. Tiến trình 45%.
+2025-07-28 15:49:43 [MusicDownloader] 🎧 Đang tải file 41/137. Tiến trình 50%.
+2025-07-28 15:49:43 [MusicDownloader] 🎧 Đang tải file 41/137. Tiến trình 55%.
+2025-07-28 15:49:43 [MusicDownloader] 🎧 Đang tải file 41/137. Tiến trình 60%.
+2025-07-28 15:49:43 [MusicDownloader] 🎧 Đang tải file 41/137. Tiến trình 65%.
+2025-07-28 15:49:43 [MusicDownloader] 🎧 Đang tải file 41/137. Tiến trình 70%.
+2025-07-28 15:49:43 [MusicDownloader] 🎧 Đang tải file 41/137. Tiến trình 75%.
+2025-07-28 15:49:43 [MusicDownloader] 🎧 Đang tải file 41/137. Tiến trình 80%.
+2025-07-28 15:49:43 [MusicDownloader] 🎧 Đang tải file 41/137. Tiến trình 85%.
+2025-07-28 15:49:44 [MusicDownloader] 🎧 Đang tải file 41/137. Tiến trình 90%.
+2025-07-28 15:49:44 [MusicDownloader] 🎧 Đang tải file 41/137. Tiến trình 95%.
+2025-07-28 15:49:44 [MusicDownloader] 🎧 Đang tải file 41/137. Tiến trình 100%.
+2025-07-28 15:49:44 [MusicDownloader] ⬇️ Đã tải xong: Moi_Trau_feat._Tuan_Cry.mp3
+2025-07-28 15:49:45 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_va_Hoa_-_Cukak_Remix_Version.mp3
+2025-07-28 15:49:46 [MusicDownloader] ⚠️ File đã có bỏ qua: Keo_Bong_Gon_Remix.mp3
+2025-07-28 15:49:47 [MusicDownloader] ⚠️ File đã có bỏ qua: Vui_Lam_Nha_Remix.mp3
+2025-07-28 15:49:49 [MusicDownloader] ⚠️ File đã có bỏ qua: Thay_Long_Noknha_Remix.mp3
+2025-07-28 15:49:49 [MusicDownloader] ⚠️ File đã có bỏ qua: Thi_Thoi_Remix.mp3
+2025-07-28 15:49:51 [MusicDownloader] ⚠️ File đã có bỏ qua: Mashup_e_Anh_Luong_Thien_-_ung_Hoi_Em_On_Khong_-_Anh_Thoi_Nhan_Nhuong_-_HuyPT_Remix.mp3
+2025-07-28 15:49:51 [MusicDownloader] ⚠️ File đã có bỏ qua: Nu_Cuoi_Xuan_-_ai_Meo_Remix.mp3
+2025-07-28 15:49:52 [MusicDownloader] ⚠️ File đã có bỏ qua: Yeu_La_Cuoi_Remix.mp3
+2025-07-28 15:49:53 [MusicDownloader] ⚠️ File đã có bỏ qua: Mot_Ngay_Chang_Nang_Cukak_Remix.mp3
+2025-07-28 15:49:53 [MusicDownloader] 🎧 Đang tải file 51/137. Tiến trình 0%.
+2025-07-28 15:49:54 [MusicDownloader] 🎧 Đang tải file 51/137. Tiến trình 5%.
+2025-07-28 15:49:54 [MusicDownloader] 🎧 Đang tải file 51/137. Tiến trình 10%.
+2025-07-28 15:49:54 [MusicDownloader] 🎧 Đang tải file 51/137. Tiến trình 15%.
+2025-07-28 15:49:54 [MusicDownloader] 🎧 Đang tải file 51/137. Tiến trình 20%.
+2025-07-28 15:49:54 [MusicDownloader] 🎧 Đang tải file 51/137. Tiến trình 25%.
+2025-07-28 15:49:54 [MusicDownloader] 🎧 Đang tải file 51/137. Tiến trình 30%.
+2025-07-28 15:49:54 [MusicDownloader] 🎧 Đang tải file 51/137. Tiến trình 35%.
+2025-07-28 15:49:54 [MusicDownloader] 🎧 Đang tải file 51/137. Tiến trình 40%.
+2025-07-28 15:49:54 [MusicDownloader] 🎧 Đang tải file 51/137. Tiến trình 45%.
+2025-07-28 15:49:54 [MusicDownloader] 🎧 Đang tải file 51/137. Tiến trình 50%.
+2025-07-28 15:49:54 [MusicDownloader] 🎧 Đang tải file 51/137. Tiến trình 55%.
+2025-07-28 15:49:54 [MusicDownloader] 🎧 Đang tải file 51/137. Tiến trình 60%.
+2025-07-28 15:49:54 [MusicDownloader] 🎧 Đang tải file 51/137. Tiến trình 65%.
+2025-07-28 15:49:54 [MusicDownloader] 🎧 Đang tải file 51/137. Tiến trình 70%.
+2025-07-28 15:49:54 [MusicDownloader] 🎧 Đang tải file 51/137. Tiến trình 75%.
+2025-07-28 15:49:54 [MusicDownloader] 🎧 Đang tải file 51/137. Tiến trình 80%.
+2025-07-28 15:49:54 [MusicDownloader] 🎧 Đang tải file 51/137. Tiến trình 85%.
+2025-07-28 15:49:54 [MusicDownloader] 🎧 Đang tải file 51/137. Tiến trình 90%.
+2025-07-28 15:49:54 [MusicDownloader] 🎧 Đang tải file 51/137. Tiến trình 95%.
+2025-07-28 15:49:54 [MusicDownloader] 🎧 Đang tải file 51/137. Tiến trình 100%.
+2025-07-28 15:49:54 [MusicDownloader] ⬇️ Đã tải xong: Tinh_Sau_Thien_Thu_Muon_Loi_-_ChillKe_Remix.mp3
+2025-07-28 15:49:55 [MusicDownloader] ⚠️ File đã có bỏ qua: Hy_Vong_Qua_Hoa_au_Long_Qinn_Remix.mp3
+2025-07-28 15:49:56 [MusicDownloader] 🎧 Đang tải file 53/137. Tiến trình 0%.
+2025-07-28 15:49:56 [MusicDownloader] 🎧 Đang tải file 53/137. Tiến trình 5%.
+2025-07-28 15:49:56 [MusicDownloader] 🎧 Đang tải file 53/137. Tiến trình 10%.
+2025-07-28 15:49:56 [MusicDownloader] 🎧 Đang tải file 53/137. Tiến trình 15%.
+2025-07-28 15:49:56 [MusicDownloader] 🎧 Đang tải file 53/137. Tiến trình 20%.
+2025-07-28 15:49:57 [MusicDownloader] 🎧 Đang tải file 53/137. Tiến trình 25%.
+2025-07-28 15:49:57 [MusicDownloader] 🎧 Đang tải file 53/137. Tiến trình 30%.
+2025-07-28 15:49:57 [MusicDownloader] 🎧 Đang tải file 53/137. Tiến trình 35%.
+2025-07-28 15:49:57 [MusicDownloader] 🎧 Đang tải file 53/137. Tiến trình 40%.
+2025-07-28 15:49:57 [MusicDownloader] 🎧 Đang tải file 53/137. Tiến trình 45%.
+2025-07-28 15:49:57 [MusicDownloader] 🎧 Đang tải file 53/137. Tiến trình 50%.
+2025-07-28 15:49:57 [MusicDownloader] 🎧 Đang tải file 53/137. Tiến trình 55%.
+2025-07-28 15:49:57 [MusicDownloader] 🎧 Đang tải file 53/137. Tiến trình 60%.
+2025-07-28 15:49:57 [MusicDownloader] 🎧 Đang tải file 53/137. Tiến trình 65%.
+2025-07-28 15:49:57 [MusicDownloader] 🎧 Đang tải file 53/137. Tiến trình 70%.
+2025-07-28 15:49:57 [MusicDownloader] 🎧 Đang tải file 53/137. Tiến trình 75%.
+2025-07-28 15:49:57 [MusicDownloader] 🎧 Đang tải file 53/137. Tiến trình 80%.
+2025-07-28 15:49:57 [MusicDownloader] 🎧 Đang tải file 53/137. Tiến trình 85%.
+2025-07-28 15:49:57 [MusicDownloader] 🎧 Đang tải file 53/137. Tiến trình 90%.
+2025-07-28 15:49:57 [MusicDownloader] 🎧 Đang tải file 53/137. Tiến trình 95%.
+2025-07-28 15:49:57 [MusicDownloader] 🎧 Đang tải file 53/137. Tiến trình 100%.
+2025-07-28 15:49:57 [MusicDownloader] ⬇️ Đã tải xong: Tuong_Quan_-_Remix_Deep_House.mp3
+2025-07-28 15:49:58 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_La_Con_Gai_Ruou_Qinn_Remix.mp3
+2025-07-28 15:49:59 [MusicDownloader] ⚠️ File đã có bỏ qua: Gu_-_Cukak_Remix.mp3
+2025-07-28 15:50:00 [MusicDownloader] ⚠️ File đã có bỏ qua: Hoa_Su_Nha_Nang_Remix.mp3
+2025-07-28 15:50:00 [MusicDownloader] 🎧 Đang tải file 57/137. Tiến trình 0%.
+2025-07-28 15:50:00 [MusicDownloader] 🎧 Đang tải file 57/137. Tiến trình 5%.
+2025-07-28 15:50:01 [MusicDownloader] 🎧 Đang tải file 57/137. Tiến trình 10%.
+2025-07-28 15:50:01 [MusicDownloader] 🎧 Đang tải file 57/137. Tiến trình 15%.
+2025-07-28 15:50:01 [MusicDownloader] 🎧 Đang tải file 57/137. Tiến trình 20%.
+2025-07-28 15:50:01 [MusicDownloader] 🎧 Đang tải file 57/137. Tiến trình 25%.
+2025-07-28 15:50:01 [MusicDownloader] 🎧 Đang tải file 57/137. Tiến trình 30%.
+2025-07-28 15:50:01 [MusicDownloader] 🎧 Đang tải file 57/137. Tiến trình 35%.
+2025-07-28 15:50:01 [MusicDownloader] 🎧 Đang tải file 57/137. Tiến trình 40%.
+2025-07-28 15:50:01 [MusicDownloader] 🎧 Đang tải file 57/137. Tiến trình 45%.
+2025-07-28 15:50:01 [MusicDownloader] 🎧 Đang tải file 57/137. Tiến trình 50%.
+2025-07-28 15:50:01 [MusicDownloader] 🎧 Đang tải file 57/137. Tiến trình 55%.
+2025-07-28 15:50:01 [MusicDownloader] 🎧 Đang tải file 57/137. Tiến trình 60%.
+2025-07-28 15:50:01 [MusicDownloader] 🎧 Đang tải file 57/137. Tiến trình 65%.
+2025-07-28 15:50:01 [MusicDownloader] 🎧 Đang tải file 57/137. Tiến trình 70%.
+2025-07-28 15:50:01 [MusicDownloader] 🎧 Đang tải file 57/137. Tiến trình 75%.
+2025-07-28 15:50:01 [MusicDownloader] 🎧 Đang tải file 57/137. Tiến trình 80%.
+2025-07-28 15:50:01 [MusicDownloader] 🎧 Đang tải file 57/137. Tiến trình 85%.
+2025-07-28 15:50:01 [MusicDownloader] 🎧 Đang tải file 57/137. Tiến trình 90%.
+2025-07-28 15:50:02 [MusicDownloader] 🎧 Đang tải file 57/137. Tiến trình 95%.
+2025-07-28 15:50:02 [MusicDownloader] 🎧 Đang tải file 57/137. Tiến trình 100%.
+2025-07-28 15:50:02 [MusicDownloader] ⬇️ Đã tải xong: Co_Duyen_Khong_No_Remix_House.mp3
+2025-07-28 15:50:02 [MusicDownloader] ⚠️ File đã có bỏ qua: Ngay_Xuan_Long_Phung_Sum_Vay_Remix.mp3
+2025-07-28 15:50:03 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Co_Biet_Remix.mp3
+2025-07-28 15:50:04 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Oi_Anh_Phai_Lam_Sao_-_BT_Remix.mp3
+2025-07-28 15:50:05 [MusicDownloader] ⚠️ File đã có bỏ qua: Ban_Tinh_Oi_-_TVS_Remix.mp3
+2025-07-28 15:50:06 [MusicDownloader] ⚠️ File đã có bỏ qua: Le_Luu_Ly_-_Cukak_Remix.mp3
+2025-07-28 15:50:07 [MusicDownloader] ⚠️ File đã có bỏ qua: Khi_Yeu_Nao_Ai_au_Muon_-_Hoang_uc_Remix.mp3
+2025-07-28 15:50:08 [MusicDownloader] ⚠️ File đã có bỏ qua: Cold_Dont_-_Cukak_Remix.mp3
+2025-07-28 15:50:09 [MusicDownloader] 🎧 Đang tải file 65/137. Tiến trình 0%.
+2025-07-28 15:50:09 [MusicDownloader] 🎧 Đang tải file 65/137. Tiến trình 5%.
+2025-07-28 15:50:09 [MusicDownloader] 🎧 Đang tải file 65/137. Tiến trình 10%.
+2025-07-28 15:50:09 [MusicDownloader] 🎧 Đang tải file 65/137. Tiến trình 15%.
+2025-07-28 15:50:09 [MusicDownloader] 🎧 Đang tải file 65/137. Tiến trình 20%.
+2025-07-28 15:50:09 [MusicDownloader] 🎧 Đang tải file 65/137. Tiến trình 25%.
+2025-07-28 15:50:09 [MusicDownloader] 🎧 Đang tải file 65/137. Tiến trình 30%.
+2025-07-28 15:50:09 [MusicDownloader] 🎧 Đang tải file 65/137. Tiến trình 35%.
+2025-07-28 15:50:09 [MusicDownloader] 🎧 Đang tải file 65/137. Tiến trình 40%.
+2025-07-28 15:50:09 [MusicDownloader] 🎧 Đang tải file 65/137. Tiến trình 45%.
+2025-07-28 15:50:09 [MusicDownloader] 🎧 Đang tải file 65/137. Tiến trình 50%.
+2025-07-28 15:50:09 [MusicDownloader] 🎧 Đang tải file 65/137. Tiến trình 55%.
+2025-07-28 15:50:10 [MusicDownloader] 🎧 Đang tải file 65/137. Tiến trình 60%.
+2025-07-28 15:50:10 [MusicDownloader] 🎧 Đang tải file 65/137. Tiến trình 65%.
+2025-07-28 15:50:10 [MusicDownloader] 🎧 Đang tải file 65/137. Tiến trình 70%.
+2025-07-28 15:50:10 [MusicDownloader] 🎧 Đang tải file 65/137. Tiến trình 75%.
+2025-07-28 15:50:10 [MusicDownloader] 🎧 Đang tải file 65/137. Tiến trình 80%.
+2025-07-28 15:50:10 [MusicDownloader] 🎧 Đang tải file 65/137. Tiến trình 85%.
+2025-07-28 15:50:10 [MusicDownloader] 🎧 Đang tải file 65/137. Tiến trình 90%.
+2025-07-28 15:50:10 [MusicDownloader] 🎧 Đang tải file 65/137. Tiến trình 95%.
+2025-07-28 15:50:10 [MusicDownloader] 🎧 Đang tải file 65/137. Tiến trình 100%.
+2025-07-28 15:50:10 [MusicDownloader] ⬇️ Đã tải xong: Hoa_Bang_Lang_Remix_House.mp3
+2025-07-28 15:50:11 [MusicDownloader] ⚠️ File đã có bỏ qua: ung_Hoi_Em_On_Khong_Remix.mp3
+2025-07-28 15:50:12 [MusicDownloader] ⚠️ File đã có bỏ qua: Cat_oi_Noi_Sau_-_Cukak_Remix.mp3
+2025-07-28 15:50:13 [MusicDownloader] ⚠️ File đã có bỏ qua: Trach_Phan_Vo_Danh_Qinn_Remix.mp3
+2025-07-28 15:50:14 [MusicDownloader] ⚠️ File đã có bỏ qua: Mong_Mot_Ngay_Anh_Nho_en_Em_Remix.mp3
+2025-07-28 15:50:15 [MusicDownloader] ⚠️ File đã có bỏ qua: Doi_Lua_Qinn_Remix.mp3
+2025-07-28 15:50:16 [MusicDownloader] 🎧 Đang tải file 71/137. Tiến trình 0%.
+2025-07-28 15:50:16 [MusicDownloader] 🎧 Đang tải file 71/137. Tiến trình 5%.
+2025-07-28 15:50:16 [MusicDownloader] 🎧 Đang tải file 71/137. Tiến trình 10%.
+2025-07-28 15:50:16 [MusicDownloader] 🎧 Đang tải file 71/137. Tiến trình 15%.
+2025-07-28 15:50:16 [MusicDownloader] 🎧 Đang tải file 71/137. Tiến trình 20%.
+2025-07-28 15:50:16 [MusicDownloader] 🎧 Đang tải file 71/137. Tiến trình 25%.
+2025-07-28 15:50:16 [MusicDownloader] 🎧 Đang tải file 71/137. Tiến trình 30%.
+2025-07-28 15:50:16 [MusicDownloader] 🎧 Đang tải file 71/137. Tiến trình 35%.
+2025-07-28 15:50:17 [MusicDownloader] 🎧 Đang tải file 71/137. Tiến trình 40%.
+2025-07-28 15:50:17 [MusicDownloader] 🎧 Đang tải file 71/137. Tiến trình 45%.
+2025-07-28 15:50:17 [MusicDownloader] 🎧 Đang tải file 71/137. Tiến trình 50%.
+2025-07-28 15:50:17 [MusicDownloader] 🎧 Đang tải file 71/137. Tiến trình 55%.
+2025-07-28 15:50:17 [MusicDownloader] 🎧 Đang tải file 71/137. Tiến trình 60%.
+2025-07-28 15:50:17 [MusicDownloader] 🎧 Đang tải file 71/137. Tiến trình 65%.
+2025-07-28 15:50:17 [MusicDownloader] 🎧 Đang tải file 71/137. Tiến trình 70%.
+2025-07-28 15:50:17 [MusicDownloader] 🎧 Đang tải file 71/137. Tiến trình 75%.
+2025-07-28 15:50:17 [MusicDownloader] 🎧 Đang tải file 71/137. Tiến trình 80%.
+2025-07-28 15:50:17 [MusicDownloader] 🎧 Đang tải file 71/137. Tiến trình 85%.
+2025-07-28 15:50:17 [MusicDownloader] 🎧 Đang tải file 71/137. Tiến trình 90%.
+2025-07-28 15:50:17 [MusicDownloader] 🎧 Đang tải file 71/137. Tiến trình 95%.
+2025-07-28 15:50:17 [MusicDownloader] 🎧 Đang tải file 71/137. Tiến trình 100%.
+2025-07-28 15:50:17 [MusicDownloader] ⬇️ Đã tải xong: Thang_Hau_-_Remix_Deep_House.mp3
+2025-07-28 15:50:18 [MusicDownloader] ⚠️ File đã có bỏ qua: Duyen_Troi_Lay_2_Remix.mp3
+2025-07-28 15:50:19 [MusicDownloader] ⚠️ File đã có bỏ qua: Tet_en_That_Roi_-_Remix.mp3
+2025-07-28 15:50:19 [MusicDownloader] ⚠️ File đã có bỏ qua: Phan_Tan_Remix.mp3
+2025-07-28 15:50:20 [MusicDownloader] ⚠️ File đã có bỏ qua: Loi_Tai_Mua_x_Ao_Anh_Remix_ft_Vicky_Nhung.mp3
+2025-07-28 15:50:21 [MusicDownloader] ⚠️ File đã có bỏ qua: Ai_Cung_Co_Mot_Moi_Tinh_Buon_Qinn_Remix.mp3
+2025-07-28 15:50:22 [MusicDownloader] ⚠️ File đã có bỏ qua: The_Tu_-_Phuoc_Lanh_Remix_140.mp3
+2025-07-28 15:50:23 [MusicDownloader] ⚠️ File đã có bỏ qua: Co_Em_Cho_-_Masew_Remix.mp3
+2025-07-28 15:50:24 [MusicDownloader] ⚠️ File đã có bỏ qua: Co_Le_Ben_Nhau_La_Sai_-_uc_Louis_Remix.mp3
+2025-07-28 15:50:25 [MusicDownloader] 🎧 Đang tải file 80/137. Tiến trình 0%.
+2025-07-28 15:50:25 [MusicDownloader] 🎧 Đang tải file 80/137. Tiến trình 5%.
+2025-07-28 15:50:25 [MusicDownloader] 🎧 Đang tải file 80/137. Tiến trình 10%.
+2025-07-28 15:50:25 [MusicDownloader] 🎧 Đang tải file 80/137. Tiến trình 15%.
+2025-07-28 15:50:25 [MusicDownloader] 🎧 Đang tải file 80/137. Tiến trình 20%.
+2025-07-28 15:50:25 [MusicDownloader] 🎧 Đang tải file 80/137. Tiến trình 25%.
+2025-07-28 15:50:25 [MusicDownloader] 🎧 Đang tải file 80/137. Tiến trình 30%.
+2025-07-28 15:50:25 [MusicDownloader] 🎧 Đang tải file 80/137. Tiến trình 35%.
+2025-07-28 15:50:25 [MusicDownloader] 🎧 Đang tải file 80/137. Tiến trình 40%.
+2025-07-28 15:50:25 [MusicDownloader] 🎧 Đang tải file 80/137. Tiến trình 45%.
+2025-07-28 15:50:26 [MusicDownloader] 🎧 Đang tải file 80/137. Tiến trình 50%.
+2025-07-28 15:50:26 [MusicDownloader] 🎧 Đang tải file 80/137. Tiến trình 55%.
+2025-07-28 15:50:26 [MusicDownloader] 🎧 Đang tải file 80/137. Tiến trình 60%.
+2025-07-28 15:50:26 [MusicDownloader] 🎧 Đang tải file 80/137. Tiến trình 65%.
+2025-07-28 15:50:26 [MusicDownloader] 🎧 Đang tải file 80/137. Tiến trình 70%.
+2025-07-28 15:50:26 [MusicDownloader] 🎧 Đang tải file 80/137. Tiến trình 75%.
+2025-07-28 15:50:26 [MusicDownloader] 🎧 Đang tải file 80/137. Tiến trình 80%.
+2025-07-28 15:50:26 [MusicDownloader] 🎧 Đang tải file 80/137. Tiến trình 85%.
+2025-07-28 15:50:26 [MusicDownloader] 🎧 Đang tải file 80/137. Tiến trình 90%.
+2025-07-28 15:50:26 [MusicDownloader] 🎧 Đang tải file 80/137. Tiến trình 95%.
+2025-07-28 15:50:26 [MusicDownloader] 🎧 Đang tải file 80/137. Tiến trình 100%.
+2025-07-28 15:50:26 [MusicDownloader] ⬇️ Đã tải xong: Mong_Hoa_Sim_-_EDM_Remix.mp3
+2025-07-28 15:50:27 [MusicDownloader] ⚠️ File đã có bỏ qua: Lung_Lay_-_Cukak_Remix.mp3
+2025-07-28 15:50:28 [MusicDownloader] 🎧 Đang tải file 82/137. Tiến trình 0%.
+2025-07-28 15:50:28 [MusicDownloader] 🎧 Đang tải file 82/137. Tiến trình 5%.
+2025-07-28 15:50:28 [MusicDownloader] 🎧 Đang tải file 82/137. Tiến trình 10%.
+2025-07-28 15:50:28 [MusicDownloader] 🎧 Đang tải file 82/137. Tiến trình 15%.
+2025-07-28 15:50:28 [MusicDownloader] 🎧 Đang tải file 82/137. Tiến trình 20%.
+2025-07-28 15:50:28 [MusicDownloader] 🎧 Đang tải file 82/137. Tiến trình 25%.
+2025-07-28 15:50:28 [MusicDownloader] 🎧 Đang tải file 82/137. Tiến trình 30%.
+2025-07-28 15:50:28 [MusicDownloader] 🎧 Đang tải file 82/137. Tiến trình 35%.
+2025-07-28 15:50:28 [MusicDownloader] 🎧 Đang tải file 82/137. Tiến trình 40%.
+2025-07-28 15:50:28 [MusicDownloader] 🎧 Đang tải file 82/137. Tiến trình 45%.
+2025-07-28 15:50:28 [MusicDownloader] 🎧 Đang tải file 82/137. Tiến trình 50%.
+2025-07-28 15:50:28 [MusicDownloader] 🎧 Đang tải file 82/137. Tiến trình 55%.
+2025-07-28 15:50:28 [MusicDownloader] 🎧 Đang tải file 82/137. Tiến trình 60%.
+2025-07-28 15:50:28 [MusicDownloader] 🎧 Đang tải file 82/137. Tiến trình 65%.
+2025-07-28 15:50:29 [MusicDownloader] 🎧 Đang tải file 82/137. Tiến trình 70%.
+2025-07-28 15:50:29 [MusicDownloader] 🎧 Đang tải file 82/137. Tiến trình 75%.
+2025-07-28 15:50:29 [MusicDownloader] 🎧 Đang tải file 82/137. Tiến trình 80%.
+2025-07-28 15:50:29 [MusicDownloader] 🎧 Đang tải file 82/137. Tiến trình 85%.
+2025-07-28 15:50:29 [MusicDownloader] 🎧 Đang tải file 82/137. Tiến trình 90%.
+2025-07-28 15:50:29 [MusicDownloader] 🎧 Đang tải file 82/137. Tiến trình 95%.
+2025-07-28 15:50:29 [MusicDownloader] 🎧 Đang tải file 82/137. Tiến trình 100%.
+2025-07-28 15:50:29 [MusicDownloader] ⬇️ Đã tải xong: Mua_Tuyet_Remix.mp3
+2025-07-28 15:50:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Anh_Thuong_Em_Em_Thuong_Ai_-_uc_Louis_Remix.mp3
+2025-07-28 15:50:32 [MusicDownloader] 🎧 Đang tải file 84/137. Tiến trình 0%.
+2025-07-28 15:50:32 [MusicDownloader] 🎧 Đang tải file 84/137. Tiến trình 5%.
+2025-07-28 15:50:32 [MusicDownloader] 🎧 Đang tải file 84/137. Tiến trình 10%.
+2025-07-28 15:50:32 [MusicDownloader] 🎧 Đang tải file 84/137. Tiến trình 15%.
+2025-07-28 15:50:32 [MusicDownloader] 🎧 Đang tải file 84/137. Tiến trình 20%.
+2025-07-28 15:50:32 [MusicDownloader] 🎧 Đang tải file 84/137. Tiến trình 25%.
+2025-07-28 15:50:32 [MusicDownloader] 🎧 Đang tải file 84/137. Tiến trình 30%.
+2025-07-28 15:50:32 [MusicDownloader] 🎧 Đang tải file 84/137. Tiến trình 35%.
+2025-07-28 15:50:32 [MusicDownloader] 🎧 Đang tải file 84/137. Tiến trình 40%.
+2025-07-28 15:50:32 [MusicDownloader] 🎧 Đang tải file 84/137. Tiến trình 45%.
+2025-07-28 15:50:33 [MusicDownloader] 🎧 Đang tải file 84/137. Tiến trình 50%.
+2025-07-28 15:50:33 [MusicDownloader] 🎧 Đang tải file 84/137. Tiến trình 55%.
+2025-07-28 15:50:33 [MusicDownloader] 🎧 Đang tải file 84/137. Tiến trình 60%.
+2025-07-28 15:50:33 [MusicDownloader] 🎧 Đang tải file 84/137. Tiến trình 65%.
+2025-07-28 15:50:33 [MusicDownloader] 🎧 Đang tải file 84/137. Tiến trình 70%.
+2025-07-28 15:50:33 [MusicDownloader] 🎧 Đang tải file 84/137. Tiến trình 75%.
+2025-07-28 15:50:33 [MusicDownloader] 🎧 Đang tải file 84/137. Tiến trình 80%.
+2025-07-28 15:50:33 [MusicDownloader] 🎧 Đang tải file 84/137. Tiến trình 85%.
+2025-07-28 15:50:33 [MusicDownloader] 🎧 Đang tải file 84/137. Tiến trình 90%.
+2025-07-28 15:50:33 [MusicDownloader] 🎧 Đang tải file 84/137. Tiến trình 95%.
+2025-07-28 15:50:33 [MusicDownloader] 🎧 Đang tải file 84/137. Tiến trình 100%.
+2025-07-28 15:50:33 [MusicDownloader] ⬇️ Đã tải xong: o_Ta_Khong_o_Nang_Remix.mp3
+2025-07-28 15:50:34 [MusicDownloader] ⚠️ File đã có bỏ qua: Noi_Gio_Len_Qinn_Remix.mp3
+2025-07-28 15:50:35 [MusicDownloader] ⚠️ File đã có bỏ qua: Hoi_Vo_Ngoai_Thanh_Remix.mp3
+2025-07-28 15:50:36 [MusicDownloader] ⚠️ File đã có bỏ qua: Cho_Ngay_Cuoi_Em_-_Cukak_Remix.mp3
+2025-07-28 15:50:37 [MusicDownloader] ⚠️ File đã có bỏ qua: Cheri_Cheri_Lady_-_Cukak_Remix.mp3
+2025-07-28 15:50:38 [MusicDownloader] ⚠️ File đã có bỏ qua: Gio_Khong_Cuoi_Thi_Nao_Cuoi_Remix.mp3
+2025-07-28 15:50:39 [MusicDownloader] ⚠️ File đã có bỏ qua: Gio_-_Cukak_Remix.mp3
+2025-07-28 15:50:39 [MusicDownloader] 🎧 Đang tải file 91/137. Tiến trình 0%.
+2025-07-28 15:50:39 [MusicDownloader] 🎧 Đang tải file 91/137. Tiến trình 5%.
+2025-07-28 15:50:40 [MusicDownloader] 🎧 Đang tải file 91/137. Tiến trình 10%.
+2025-07-28 15:50:40 [MusicDownloader] 🎧 Đang tải file 91/137. Tiến trình 15%.
+2025-07-28 15:50:40 [MusicDownloader] 🎧 Đang tải file 91/137. Tiến trình 20%.
+2025-07-28 15:50:40 [MusicDownloader] 🎧 Đang tải file 91/137. Tiến trình 25%.
+2025-07-28 15:50:40 [MusicDownloader] 🎧 Đang tải file 91/137. Tiến trình 30%.
+2025-07-28 15:50:40 [MusicDownloader] 🎧 Đang tải file 91/137. Tiến trình 35%.
+2025-07-28 15:50:40 [MusicDownloader] 🎧 Đang tải file 91/137. Tiến trình 40%.
+2025-07-28 15:50:40 [MusicDownloader] 🎧 Đang tải file 91/137. Tiến trình 45%.
+2025-07-28 15:50:40 [MusicDownloader] 🎧 Đang tải file 91/137. Tiến trình 50%.
+2025-07-28 15:50:40 [MusicDownloader] 🎧 Đang tải file 91/137. Tiến trình 55%.
+2025-07-28 15:50:41 [MusicDownloader] 🎧 Đang tải file 91/137. Tiến trình 60%.
+2025-07-28 15:50:41 [MusicDownloader] 🎧 Đang tải file 91/137. Tiến trình 65%.
+2025-07-28 15:50:41 [MusicDownloader] 🎧 Đang tải file 91/137. Tiến trình 70%.
+2025-07-28 15:50:41 [MusicDownloader] 🎧 Đang tải file 91/137. Tiến trình 75%.
+2025-07-28 15:50:41 [MusicDownloader] 🎧 Đang tải file 91/137. Tiến trình 80%.
+2025-07-28 15:50:42 [MusicDownloader] 🎧 Đang tải file 91/137. Tiến trình 85%.
+2025-07-28 15:50:42 [MusicDownloader] 🎧 Đang tải file 91/137. Tiến trình 90%.
+2025-07-28 15:50:42 [MusicDownloader] 🎧 Đang tải file 91/137. Tiến trình 95%.
+2025-07-28 15:50:42 [MusicDownloader] 🎧 Đang tải file 91/137. Tiến trình 100%.
+2025-07-28 15:50:42 [MusicDownloader] ⬇️ Đã tải xong: Mot_em_Say_Remix.mp3
+2025-07-28 15:50:43 [MusicDownloader] ⚠️ File đã có bỏ qua: Go_Cua_Trai_Tim_-_Remix.mp3
+2025-07-28 15:50:44 [MusicDownloader] ⚠️ File đã có bỏ qua: Quen_Nguoi_a_Qua_Yeu_-_Qinn_Remix.mp3
+2025-07-28 15:50:45 [MusicDownloader] ⚠️ File đã có bỏ qua: Tinh_on_Phuong_Cukak_Remix.mp3
+2025-07-28 15:50:46 [MusicDownloader] ⚠️ File đã có bỏ qua: The_Thai_x_Co_Giang_Tinh_Remix.mp3
+2025-07-28 15:50:46 [MusicDownloader] ⚠️ File đã có bỏ qua: Hoa_Bat_Tu_Remix.mp3
+2025-07-28 15:50:47 [MusicDownloader] ⚠️ File đã có bỏ qua: Ang_May_Vo_Tinh_-_Zero_Remix.mp3
+2025-07-28 15:50:48 [MusicDownloader] ⚠️ File đã có bỏ qua: Mot_Thuo_Yeu_Nguoi_Remix.mp3
+2025-07-28 15:50:49 [MusicDownloader] ⚠️ File đã có bỏ qua: The_Gioi_Trong_Em_Remix.mp3
+2025-07-28 15:50:49 [MusicDownloader] ⚠️ File đã có bỏ qua: Yeu_That_Kho_Xoa_That_au_-_Yang_Remix.mp3
+2025-07-28 15:50:50 [MusicDownloader] ⚠️ File đã có bỏ qua: Lo_Yeu_Nguoi_am_Sau_Remix.mp3
+2025-07-28 15:50:51 [MusicDownloader] 🎧 Đang tải file 102/137. Tiến trình 0%.
+2025-07-28 15:50:51 [MusicDownloader] 🎧 Đang tải file 102/137. Tiến trình 5%.
+2025-07-28 15:50:51 [MusicDownloader] 🎧 Đang tải file 102/137. Tiến trình 10%.
+2025-07-28 15:50:51 [MusicDownloader] 🎧 Đang tải file 102/137. Tiến trình 15%.
+2025-07-28 15:50:51 [MusicDownloader] 🎧 Đang tải file 102/137. Tiến trình 20%.
+2025-07-28 15:50:51 [MusicDownloader] 🎧 Đang tải file 102/137. Tiến trình 25%.
+2025-07-28 15:50:51 [MusicDownloader] 🎧 Đang tải file 102/137. Tiến trình 30%.
+2025-07-28 15:50:51 [MusicDownloader] 🎧 Đang tải file 102/137. Tiến trình 35%.
+2025-07-28 15:50:51 [MusicDownloader] 🎧 Đang tải file 102/137. Tiến trình 40%.
+2025-07-28 15:50:51 [MusicDownloader] 🎧 Đang tải file 102/137. Tiến trình 45%.
+2025-07-28 15:50:51 [MusicDownloader] 🎧 Đang tải file 102/137. Tiến trình 50%.
+2025-07-28 15:50:51 [MusicDownloader] 🎧 Đang tải file 102/137. Tiến trình 55%.
+2025-07-28 15:50:51 [MusicDownloader] 🎧 Đang tải file 102/137. Tiến trình 60%.
+2025-07-28 15:50:51 [MusicDownloader] 🎧 Đang tải file 102/137. Tiến trình 65%.
+2025-07-28 15:50:52 [MusicDownloader] 🎧 Đang tải file 102/137. Tiến trình 70%.
+2025-07-28 15:50:52 [MusicDownloader] 🎧 Đang tải file 102/137. Tiến trình 75%.
+2025-07-28 15:50:52 [MusicDownloader] 🎧 Đang tải file 102/137. Tiến trình 80%.
+2025-07-28 15:50:52 [MusicDownloader] 🎧 Đang tải file 102/137. Tiến trình 85%.
+2025-07-28 15:50:52 [MusicDownloader] 🎧 Đang tải file 102/137. Tiến trình 90%.
+2025-07-28 15:50:52 [MusicDownloader] 🎧 Đang tải file 102/137. Tiến trình 95%.
+2025-07-28 15:50:52 [MusicDownloader] 🎧 Đang tải file 102/137. Tiến trình 100%.
+2025-07-28 15:50:52 [MusicDownloader] ⬇️ Đã tải xong: Vuong_Van_-_Remix.mp3
+2025-07-28 15:50:53 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Ngoc_Qua_-_Zero_Remix.mp3
+2025-07-28 15:50:54 [MusicDownloader] 🎧 Đang tải file 104/137. Tiến trình 0%.
+2025-07-28 15:50:54 [MusicDownloader] 🎧 Đang tải file 104/137. Tiến trình 5%.
+2025-07-28 15:50:54 [MusicDownloader] 🎧 Đang tải file 104/137. Tiến trình 10%.
+2025-07-28 15:50:54 [MusicDownloader] 🎧 Đang tải file 104/137. Tiến trình 15%.
+2025-07-28 15:50:54 [MusicDownloader] 🎧 Đang tải file 104/137. Tiến trình 20%.
+2025-07-28 15:50:54 [MusicDownloader] 🎧 Đang tải file 104/137. Tiến trình 25%.
+2025-07-28 15:50:54 [MusicDownloader] 🎧 Đang tải file 104/137. Tiến trình 30%.
+2025-07-28 15:50:54 [MusicDownloader] 🎧 Đang tải file 104/137. Tiến trình 35%.
+2025-07-28 15:50:54 [MusicDownloader] 🎧 Đang tải file 104/137. Tiến trình 40%.
+2025-07-28 15:50:54 [MusicDownloader] 🎧 Đang tải file 104/137. Tiến trình 45%.
+2025-07-28 15:50:54 [MusicDownloader] 🎧 Đang tải file 104/137. Tiến trình 50%.
+2025-07-28 15:50:54 [MusicDownloader] 🎧 Đang tải file 104/137. Tiến trình 55%.
+2025-07-28 15:50:54 [MusicDownloader] 🎧 Đang tải file 104/137. Tiến trình 60%.
+2025-07-28 15:50:55 [MusicDownloader] 🎧 Đang tải file 104/137. Tiến trình 65%.
+2025-07-28 15:50:55 [MusicDownloader] 🎧 Đang tải file 104/137. Tiến trình 70%.
+2025-07-28 15:50:55 [MusicDownloader] 🎧 Đang tải file 104/137. Tiến trình 75%.
+2025-07-28 15:50:55 [MusicDownloader] 🎧 Đang tải file 104/137. Tiến trình 80%.
+2025-07-28 15:50:55 [MusicDownloader] 🎧 Đang tải file 104/137. Tiến trình 85%.
+2025-07-28 15:50:55 [MusicDownloader] 🎧 Đang tải file 104/137. Tiến trình 90%.
+2025-07-28 15:50:55 [MusicDownloader] 🎧 Đang tải file 104/137. Tiến trình 95%.
+2025-07-28 15:50:55 [MusicDownloader] 🎧 Đang tải file 104/137. Tiến trình 100%.
+2025-07-28 15:50:55 [MusicDownloader] ⬇️ Đã tải xong: Tuy_Am_-_CM1X_Remix.mp3
+2025-07-28 15:50:56 [MusicDownloader] 🎧 Đang tải file 105/137. Tiến trình 0%.
+2025-07-28 15:50:56 [MusicDownloader] 🎧 Đang tải file 105/137. Tiến trình 5%.
+2025-07-28 15:50:56 [MusicDownloader] 🎧 Đang tải file 105/137. Tiến trình 10%.
+2025-07-28 15:50:56 [MusicDownloader] 🎧 Đang tải file 105/137. Tiến trình 15%.
+2025-07-28 15:50:56 [MusicDownloader] 🎧 Đang tải file 105/137. Tiến trình 20%.
+2025-07-28 15:50:56 [MusicDownloader] 🎧 Đang tải file 105/137. Tiến trình 25%.
+2025-07-28 15:50:56 [MusicDownloader] 🎧 Đang tải file 105/137. Tiến trình 30%.
+2025-07-28 15:50:56 [MusicDownloader] 🎧 Đang tải file 105/137. Tiến trình 35%.
+2025-07-28 15:50:56 [MusicDownloader] 🎧 Đang tải file 105/137. Tiến trình 40%.
+2025-07-28 15:50:56 [MusicDownloader] 🎧 Đang tải file 105/137. Tiến trình 45%.
+2025-07-28 15:50:56 [MusicDownloader] 🎧 Đang tải file 105/137. Tiến trình 50%.
+2025-07-28 15:50:56 [MusicDownloader] 🎧 Đang tải file 105/137. Tiến trình 55%.
+2025-07-28 15:50:57 [MusicDownloader] 🎧 Đang tải file 105/137. Tiến trình 60%.
+2025-07-28 15:50:57 [MusicDownloader] 🎧 Đang tải file 105/137. Tiến trình 65%.
+2025-07-28 15:50:57 [MusicDownloader] 🎧 Đang tải file 105/137. Tiến trình 70%.
+2025-07-28 15:50:57 [MusicDownloader] 🎧 Đang tải file 105/137. Tiến trình 75%.
+2025-07-28 15:50:57 [MusicDownloader] 🎧 Đang tải file 105/137. Tiến trình 80%.
+2025-07-28 15:50:57 [MusicDownloader] 🎧 Đang tải file 105/137. Tiến trình 85%.
+2025-07-28 15:50:57 [MusicDownloader] 🎧 Đang tải file 105/137. Tiến trình 90%.
+2025-07-28 15:50:57 [MusicDownloader] 🎧 Đang tải file 105/137. Tiến trình 95%.
+2025-07-28 15:50:57 [MusicDownloader] 🎧 Đang tải file 105/137. Tiến trình 100%.
+2025-07-28 15:50:57 [MusicDownloader] ⬇️ Đã tải xong: Phai_Dau_Cuoc_Tinh.mp3
+2025-07-28 15:50:58 [MusicDownloader] ⚠️ File đã có bỏ qua: Tinh_au_Qua_Chen_Remix.mp3
+2025-07-28 15:50:59 [MusicDownloader] ⚠️ File đã có bỏ qua: oan_Xuan_Ca_Remix.mp3
+2025-07-28 15:51:00 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Nam_Anh_Buong_Qinn_Remix.mp3
+2025-07-28 15:51:02 [MusicDownloader] ⚠️ File đã có bỏ qua: Bat_Tinh_Yeu_Len_-_Cukak_Remix.mp3
+2025-07-28 15:51:03 [MusicDownloader] ⚠️ File đã có bỏ qua: Toi_Duyen_Qinn_Remix.mp3
+2025-07-28 15:51:04 [MusicDownloader] 🎧 Đang tải file 111/137. Tiến trình 0%.
+2025-07-28 15:51:04 [MusicDownloader] 🎧 Đang tải file 111/137. Tiến trình 5%.
+2025-07-28 15:51:04 [MusicDownloader] 🎧 Đang tải file 111/137. Tiến trình 10%.
+2025-07-28 15:51:04 [MusicDownloader] 🎧 Đang tải file 111/137. Tiến trình 15%.
+2025-07-28 15:51:04 [MusicDownloader] 🎧 Đang tải file 111/137. Tiến trình 20%.
+2025-07-28 15:51:04 [MusicDownloader] 🎧 Đang tải file 111/137. Tiến trình 25%.
+2025-07-28 15:51:05 [MusicDownloader] 🎧 Đang tải file 111/137. Tiến trình 30%.
+2025-07-28 15:51:05 [MusicDownloader] 🎧 Đang tải file 111/137. Tiến trình 35%.
+2025-07-28 15:51:05 [MusicDownloader] 🎧 Đang tải file 111/137. Tiến trình 40%.
+2025-07-28 15:51:05 [MusicDownloader] 🎧 Đang tải file 111/137. Tiến trình 45%.
+2025-07-28 15:51:05 [MusicDownloader] 🎧 Đang tải file 111/137. Tiến trình 50%.
+2025-07-28 15:51:05 [MusicDownloader] 🎧 Đang tải file 111/137. Tiến trình 55%.
+2025-07-28 15:51:05 [MusicDownloader] 🎧 Đang tải file 111/137. Tiến trình 60%.
+2025-07-28 15:51:05 [MusicDownloader] 🎧 Đang tải file 111/137. Tiến trình 65%.
+2025-07-28 15:51:05 [MusicDownloader] 🎧 Đang tải file 111/137. Tiến trình 70%.
+2025-07-28 15:51:06 [MusicDownloader] 🎧 Đang tải file 111/137. Tiến trình 75%.
+2025-07-28 15:51:06 [MusicDownloader] 🎧 Đang tải file 111/137. Tiến trình 80%.
+2025-07-28 15:51:06 [MusicDownloader] 🎧 Đang tải file 111/137. Tiến trình 85%.
+2025-07-28 15:51:06 [MusicDownloader] 🎧 Đang tải file 111/137. Tiến trình 90%.
+2025-07-28 15:51:06 [MusicDownloader] 🎧 Đang tải file 111/137. Tiến trình 95%.
+2025-07-28 15:51:06 [MusicDownloader] 🎧 Đang tải file 111/137. Tiến trình 100%.
+2025-07-28 15:51:06 [MusicDownloader] ⬇️ Đã tải xong: Anh_au_Tu_Luc_Em_i_Remix.mp3
+2025-07-28 15:51:07 [MusicDownloader] ⚠️ File đã có bỏ qua: Cho_Ngay_Cuoi_Em_Nekko_Remix.mp3
+2025-07-28 15:51:08 [MusicDownloader] ⚠️ File đã có bỏ qua: Nhan_Sinh_Quan_-_uc_Louis_Remix.mp3
+2025-07-28 15:51:09 [MusicDownloader] ⚠️ File đã có bỏ qua: Chuyen_Cu_Bo_Qua_Remix.mp3
+2025-07-28 15:51:10 [MusicDownloader] ⚠️ File đã có bỏ qua: Ly_Do_La_Gi_Qinn_Remix.mp3
+2025-07-28 15:51:11 [MusicDownloader] ⚠️ File đã có bỏ qua: Mong_Mot_Ngay_Anh_Nho_en_Em_Qinn_Remix.mp3
+2025-07-28 15:51:12 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Voi_Quen_Qinn_Remix.mp3
+2025-07-28 15:51:12 [MusicDownloader] ⚠️ File đã có bỏ qua: Thien_Ly_Oi_Remix.mp3
+2025-07-28 15:51:13 [MusicDownloader] ⚠️ File đã có bỏ qua: Lieu_Thuoc_Cho_Trai_Tim_Remix.mp3
+2025-07-28 15:51:14 [MusicDownloader] ⚠️ File đã có bỏ qua: Nhuong_Hanh_Phuc_Cho_Anh_Qinn_Remix.mp3
+2025-07-28 15:51:15 [MusicDownloader] ⚠️ File đã có bỏ qua: Ngay_Trong_Xanh_Remix.mp3
+2025-07-28 15:51:16 [MusicDownloader] ⚠️ File đã có bỏ qua: Ai_Hong_Nhan_Qinn_Remix.mp3
+2025-07-28 15:51:18 [MusicDownloader] ⚠️ File đã có bỏ qua: Qua_Khu_Anh_Khong_The_Quen_-_Doss_Remix.mp3
+2025-07-28 15:51:18 [MusicDownloader] ⚠️ File đã có bỏ qua: i_Bao_Xa_-_Cukak_Remix.mp3
+2025-07-28 15:51:19 [MusicDownloader] ⚠️ File đã có bỏ qua: Tinh_ep_Khi_Khong_Co_Nguoi_Thu_Ba_Qinn_Remix.mp3
+2025-07-28 15:51:20 [MusicDownloader] ⚠️ File đã có bỏ qua: Khong_Biet_Phai_Lam_Sao_-_uc_Louis_Remix.mp3
+2025-07-28 15:51:21 [MusicDownloader] ⚠️ File đã có bỏ qua: Tinh_Ca_Tinh_Ta_-_Cukak_Remix.mp3
+2025-07-28 15:51:22 [MusicDownloader] 🎧 Đang tải file 128/137. Tiến trình 0%.
+2025-07-28 15:51:22 [MusicDownloader] 🎧 Đang tải file 128/137. Tiến trình 5%.
+2025-07-28 15:51:22 [MusicDownloader] 🎧 Đang tải file 128/137. Tiến trình 10%.
+2025-07-28 15:51:22 [MusicDownloader] 🎧 Đang tải file 128/137. Tiến trình 15%.
+2025-07-28 15:51:22 [MusicDownloader] 🎧 Đang tải file 128/137. Tiến trình 20%.
+2025-07-28 15:51:22 [MusicDownloader] 🎧 Đang tải file 128/137. Tiến trình 25%.
+2025-07-28 15:51:22 [MusicDownloader] 🎧 Đang tải file 128/137. Tiến trình 30%.
+2025-07-28 15:51:22 [MusicDownloader] 🎧 Đang tải file 128/137. Tiến trình 35%.
+2025-07-28 15:51:22 [MusicDownloader] 🎧 Đang tải file 128/137. Tiến trình 40%.
+2025-07-28 15:51:22 [MusicDownloader] 🎧 Đang tải file 128/137. Tiến trình 45%.
+2025-07-28 15:51:22 [MusicDownloader] 🎧 Đang tải file 128/137. Tiến trình 50%.
+2025-07-28 15:51:23 [MusicDownloader] 🎧 Đang tải file 128/137. Tiến trình 55%.
+2025-07-28 15:51:23 [MusicDownloader] 🎧 Đang tải file 128/137. Tiến trình 60%.
+2025-07-28 15:51:23 [MusicDownloader] 🎧 Đang tải file 128/137. Tiến trình 65%.
+2025-07-28 15:51:23 [MusicDownloader] 🎧 Đang tải file 128/137. Tiến trình 70%.
+2025-07-28 15:51:23 [MusicDownloader] 🎧 Đang tải file 128/137. Tiến trình 75%.
+2025-07-28 15:51:23 [MusicDownloader] 🎧 Đang tải file 128/137. Tiến trình 80%.
+2025-07-28 15:51:23 [MusicDownloader] 🎧 Đang tải file 128/137. Tiến trình 85%.
+2025-07-28 15:51:23 [MusicDownloader] 🎧 Đang tải file 128/137. Tiến trình 90%.
+2025-07-28 15:51:23 [MusicDownloader] 🎧 Đang tải file 128/137. Tiến trình 95%.
+2025-07-28 15:51:24 [MusicDownloader] 🎧 Đang tải file 128/137. Tiến trình 100%.
+2025-07-28 15:51:24 [MusicDownloader] ⬇️ Đã tải xong: Chanh_Long_Thuong_Co_2_-_Remix_EDM.mp3
+2025-07-28 15:51:25 [MusicDownloader] 🎧 Đang tải file 129/137. Tiến trình 0%.
+2025-07-28 15:51:25 [MusicDownloader] 🎧 Đang tải file 129/137. Tiến trình 5%.
+2025-07-28 15:51:25 [MusicDownloader] 🎧 Đang tải file 129/137. Tiến trình 10%.
+2025-07-28 15:51:25 [MusicDownloader] 🎧 Đang tải file 129/137. Tiến trình 15%.
+2025-07-28 15:51:25 [MusicDownloader] 🎧 Đang tải file 129/137. Tiến trình 20%.
+2025-07-28 15:51:25 [MusicDownloader] 🎧 Đang tải file 129/137. Tiến trình 25%.
+2025-07-28 15:51:25 [MusicDownloader] 🎧 Đang tải file 129/137. Tiến trình 30%.
+2025-07-28 15:51:25 [MusicDownloader] 🎧 Đang tải file 129/137. Tiến trình 35%.
+2025-07-28 15:51:26 [MusicDownloader] 🎧 Đang tải file 129/137. Tiến trình 40%.
+2025-07-28 15:51:26 [MusicDownloader] 🎧 Đang tải file 129/137. Tiến trình 45%.
+2025-07-28 15:51:26 [MusicDownloader] 🎧 Đang tải file 129/137. Tiến trình 50%.
+2025-07-28 15:51:26 [MusicDownloader] 🎧 Đang tải file 129/137. Tiến trình 55%.
+2025-07-28 15:51:26 [MusicDownloader] 🎧 Đang tải file 129/137. Tiến trình 60%.
+2025-07-28 15:51:26 [MusicDownloader] 🎧 Đang tải file 129/137. Tiến trình 65%.
+2025-07-28 15:51:26 [MusicDownloader] 🎧 Đang tải file 129/137. Tiến trình 70%.
+2025-07-28 15:51:26 [MusicDownloader] 🎧 Đang tải file 129/137. Tiến trình 75%.
+2025-07-28 15:51:26 [MusicDownloader] 🎧 Đang tải file 129/137. Tiến trình 80%.
+2025-07-28 15:51:26 [MusicDownloader] 🎧 Đang tải file 129/137. Tiến trình 85%.
+2025-07-28 15:51:26 [MusicDownloader] 🎧 Đang tải file 129/137. Tiến trình 90%.
+2025-07-28 15:51:26 [MusicDownloader] 🎧 Đang tải file 129/137. Tiến trình 95%.
+2025-07-28 15:51:26 [MusicDownloader] 🎧 Đang tải file 129/137. Tiến trình 100%.
+2025-07-28 15:51:26 [MusicDownloader] ⬇️ Đã tải xong: Authentic_x_Hai_The_Gioi_Nam_Duck_Remix.mp3
+2025-07-28 15:51:27 [MusicDownloader] ⚠️ File đã có bỏ qua: Khue_Moc_Lang_Remix.mp3
+2025-07-28 15:51:27 [MusicDownloader] ⚠️ File đã có bỏ qua: Thiep_Hong_Em_Trao_Qinn_Remix.mp3
+2025-07-28 15:51:28 [MusicDownloader] 🎧 Đang tải file 132/137. Tiến trình 0%.
+2025-07-28 15:51:28 [MusicDownloader] 🎧 Đang tải file 132/137. Tiến trình 5%.
+2025-07-28 15:51:28 [MusicDownloader] 🎧 Đang tải file 132/137. Tiến trình 10%.
+2025-07-28 15:51:28 [MusicDownloader] 🎧 Đang tải file 132/137. Tiến trình 15%.
+2025-07-28 15:51:29 [MusicDownloader] 🎧 Đang tải file 132/137. Tiến trình 20%.
+2025-07-28 15:51:29 [MusicDownloader] 🎧 Đang tải file 132/137. Tiến trình 25%.
+2025-07-28 15:51:29 [MusicDownloader] 🎧 Đang tải file 132/137. Tiến trình 30%.
+2025-07-28 15:51:29 [MusicDownloader] 🎧 Đang tải file 132/137. Tiến trình 35%.
+2025-07-28 15:51:29 [MusicDownloader] 🎧 Đang tải file 132/137. Tiến trình 40%.
+2025-07-28 15:51:29 [MusicDownloader] 🎧 Đang tải file 132/137. Tiến trình 45%.
+2025-07-28 15:51:29 [MusicDownloader] 🎧 Đang tải file 132/137. Tiến trình 50%.
+2025-07-28 15:51:30 [MusicDownloader] 🎧 Đang tải file 132/137. Tiến trình 55%.
+2025-07-28 15:51:30 [MusicDownloader] 🎧 Đang tải file 132/137. Tiến trình 60%.
+2025-07-28 15:51:30 [MusicDownloader] 🎧 Đang tải file 132/137. Tiến trình 65%.
+2025-07-28 15:51:30 [MusicDownloader] 🎧 Đang tải file 132/137. Tiến trình 70%.
+2025-07-28 15:51:30 [MusicDownloader] 🎧 Đang tải file 132/137. Tiến trình 75%.
+2025-07-28 15:51:30 [MusicDownloader] 🎧 Đang tải file 132/137. Tiến trình 80%.
+2025-07-28 15:51:30 [MusicDownloader] 🎧 Đang tải file 132/137. Tiến trình 85%.
+2025-07-28 15:51:30 [MusicDownloader] 🎧 Đang tải file 132/137. Tiến trình 90%.
+2025-07-28 15:51:30 [MusicDownloader] 🎧 Đang tải file 132/137. Tiến trình 95%.
+2025-07-28 15:51:31 [MusicDownloader] 🎧 Đang tải file 132/137. Tiến trình 100%.
+2025-07-28 15:51:31 [MusicDownloader] ⬇️ Đã tải xong: e_Vuong_-_Ciray_Vinahouse_Remix.mp3
+2025-07-28 15:51:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Quen_Cach_Yeu_-_Remix_Version.mp3
+2025-07-28 15:51:32 [MusicDownloader] 🎧 Đang tải file 134/137. Tiến trình 0%.
+2025-07-28 15:51:32 [MusicDownloader] 🎧 Đang tải file 134/137. Tiến trình 5%.
+2025-07-28 15:51:32 [MusicDownloader] 🎧 Đang tải file 134/137. Tiến trình 10%.
+2025-07-28 15:51:32 [MusicDownloader] 🎧 Đang tải file 134/137. Tiến trình 15%.
+2025-07-28 15:51:32 [MusicDownloader] 🎧 Đang tải file 134/137. Tiến trình 20%.
+2025-07-28 15:51:32 [MusicDownloader] 🎧 Đang tải file 134/137. Tiến trình 25%.
+2025-07-28 15:51:32 [MusicDownloader] 🎧 Đang tải file 134/137. Tiến trình 30%.
+2025-07-28 15:51:32 [MusicDownloader] 🎧 Đang tải file 134/137. Tiến trình 35%.
+2025-07-28 15:51:32 [MusicDownloader] 🎧 Đang tải file 134/137. Tiến trình 40%.
+2025-07-28 15:51:33 [MusicDownloader] 🎧 Đang tải file 134/137. Tiến trình 45%.
+2025-07-28 15:51:33 [MusicDownloader] 🎧 Đang tải file 134/137. Tiến trình 50%.
+2025-07-28 15:51:33 [MusicDownloader] 🎧 Đang tải file 134/137. Tiến trình 55%.
+2025-07-28 15:51:33 [MusicDownloader] 🎧 Đang tải file 134/137. Tiến trình 60%.
+2025-07-28 15:51:33 [MusicDownloader] 🎧 Đang tải file 134/137. Tiến trình 65%.
+2025-07-28 15:51:33 [MusicDownloader] 🎧 Đang tải file 134/137. Tiến trình 70%.
+2025-07-28 15:51:33 [MusicDownloader] 🎧 Đang tải file 134/137. Tiến trình 75%.
+2025-07-28 15:51:33 [MusicDownloader] 🎧 Đang tải file 134/137. Tiến trình 80%.
+2025-07-28 15:51:33 [MusicDownloader] 🎧 Đang tải file 134/137. Tiến trình 85%.
+2025-07-28 15:51:33 [MusicDownloader] 🎧 Đang tải file 134/137. Tiến trình 90%.
+2025-07-28 15:51:33 [MusicDownloader] 🎧 Đang tải file 134/137. Tiến trình 95%.
+2025-07-28 15:51:33 [MusicDownloader] 🎧 Đang tải file 134/137. Tiến trình 100%.
+2025-07-28 15:51:33 [MusicDownloader] ⬇️ Đã tải xong: Giang_Hai_Khong_o_Nang_Remix.mp3
+2025-07-28 15:51:34 [MusicDownloader] ⚠️ File đã có bỏ qua: Truc_Xinh_-_Ciray_Remix.mp3
+2025-07-28 15:51:35 [MusicDownloader] ⚠️ File đã có bỏ qua: Su_That_a_Bo_Quen_-_HD_Remix.mp3
+2025-07-28 15:51:35 [MusicDownloader] ⚠️ File đã có bỏ qua: Da_Key_Remix.mp3
+2025-07-28 15:51:35 [MusicDownloader] 🎵 Tải hoàn tất. Mới: 38, Bỏ qua: 99
+2025-07-28 15:52:27 [LogHelper] Upload all log and delete
+2025-07-28 15:58:25 [LogHelper] Upload all log and delete
+2025-07-28 15:58:42 [MusicDownloader] ⚠️ File đã có bỏ qua: Phep_La_Hang_Ngay.mp3
+2025-07-28 15:58:42 [MusicDownloader] ⚠️ File đã có bỏ qua: Chu_Ech_Con.mp3
+2025-07-28 15:58:43 [MusicDownloader] ⚠️ File đã có bỏ qua: Rua_Mat_Nhu_Meo.mp3
+2025-07-28 15:58:43 [MusicDownloader] ⚠️ File đã có bỏ qua: Qua_Gi.mp3
+2025-07-28 15:58:44 [MusicDownloader] ⚠️ File đã có bỏ qua: Up_La_Khoai.mp3
+2025-07-28 15:58:44 [MusicDownloader] ⚠️ File đã có bỏ qua: oi_Ken_Ti_Hon.mp3
+2025-07-28 15:58:44 [MusicDownloader] ⚠️ File đã có bỏ qua: Chi_Ong_Nau_Va_Em_Be.mp3
+2025-07-28 15:58:45 [MusicDownloader] ⚠️ File đã có bỏ qua: Bac_Kim_Thang.mp3
+2025-07-28 15:58:45 [MusicDownloader] ⚠️ File đã có bỏ qua: Con_Co_Be_Be.mp3
+2025-07-28 15:58:46 [MusicDownloader] ⚠️ File đã có bỏ qua: Tap_The_Duc_Buoi_Sang.mp3
+2025-07-28 15:58:46 [MusicDownloader] ⚠️ File đã có bỏ qua: Lien_khuc_Mot_Con_Vit_Kia_Con_Buom_Vang_Con_Cao_Cao.mp3
+2025-07-28 15:58:46 [MusicDownloader] ⚠️ File đã có bỏ qua: Me_Oi_Tai_Sao.mp3
+2025-07-28 15:58:47 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Di_Choi_Thuyen.mp3
+2025-07-28 15:58:47 [MusicDownloader] ⚠️ File đã có bỏ qua: Chau_Yeu_Ba.mp3
+2025-07-28 15:58:48 [MusicDownloader] ⚠️ File đã có bỏ qua: Chau_Len_Ba.mp3
+2025-07-28 15:58:48 [MusicDownloader] ⚠️ File đã có bỏ qua: Con_Chim_Non.mp3
+2025-07-28 15:58:48 [MusicDownloader] ⚠️ File đã có bỏ qua: an_Ga_Trong_San.mp3
+2025-07-28 15:58:49 [MusicDownloader] ⚠️ File đã có bỏ qua: Hoa_Co_Lau_-_Official_Remix.mp3
+2025-07-28 15:58:49 [MusicDownloader] ⚠️ File đã có bỏ qua: Chua_Bao_Gio_Em_Quen_-_Kendy_T_Remix.mp3
+2025-07-28 15:58:50 [MusicDownloader] ⚠️ File đã có bỏ qua: Xuan_Nay_Con_Khong_Ve_Remix.mp3
+2025-07-28 15:58:50 [MusicDownloader] ⚠️ File đã có bỏ qua: Cu_Noi_Yeu_Lan_Nay_Speed_Up_-_Cukak_Remix.mp3
+2025-07-28 15:58:50 [MusicDownloader] ⚠️ File đã có bỏ qua: Tell_Ur_Mom_II_Cukak_Remix.mp3
+2025-07-28 15:58:51 [MusicDownloader] ⚠️ File đã có bỏ qua: Troi_Em_Lai_Remix.mp3
+2025-07-28 15:58:51 [MusicDownloader] ⚠️ File đã có bỏ qua: Co_Duyen_Khong_No_Qinn_Remix.mp3
+2025-07-28 15:58:51 [MusicDownloader] ⚠️ File đã có bỏ qua: Cho_Em_Duoi_Con_Mua_Qinn_Remix.mp3
+2025-07-28 15:58:52 [MusicDownloader] ⚠️ File đã có bỏ qua: Vuong_Van_-_Qinn_Remix.mp3
+2025-07-28 15:58:52 [MusicDownloader] ⚠️ File đã có bỏ qua: Manh_Ba_-_SS_Remix.mp3
+2025-07-28 15:58:52 [MusicDownloader] ⚠️ File đã có bỏ qua: Con_Buom_Xuan_Qinn_Remix.mp3
+2025-07-28 15:58:53 [MusicDownloader] ⚠️ File đã có bỏ qua: Forget_Me_Now_Remix.mp3
+2025-07-28 15:58:53 [MusicDownloader] ⚠️ File đã có bỏ qua: Cu_The_Mong_Cho_Qinn_Remix.mp3
+2025-07-28 15:58:54 [MusicDownloader] ⚠️ File đã có bỏ qua: Vo_Kich_Cua_Em_Qinn_Remix.mp3
+2025-07-28 15:58:54 [MusicDownloader] ⚠️ File đã có bỏ qua: Ngay_Tet_Que_Em_Remix.mp3
+2025-07-28 15:58:55 [MusicDownloader] ⚠️ File đã có bỏ qua: Thuyen_Quyen_Remix.mp3
+2025-07-28 15:58:55 [MusicDownloader] ⚠️ File đã có bỏ qua: Gia_Nhu_Anh_La_Nguoi_Vo_Tam_-_NT_Remix.mp3
+2025-07-28 15:58:56 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Oi_Len_Pho_-_Tipo_Remix_138.mp3
+2025-07-28 15:58:56 [MusicDownloader] ⚠️ File đã có bỏ qua: Loi_Noi_ieu_Tren_Moi_Em_Remix.mp3
+2025-07-28 15:58:57 [MusicDownloader] ⚠️ File đã có bỏ qua: Anh_Yeu_Voi_The_Remix.mp3
+2025-07-28 15:58:57 [MusicDownloader] ⚠️ File đã có bỏ qua: Mashup_Ngoi_Nha_Hoa_Hong_-_Remix_-_Vicky_Nhung_Version.mp3
+2025-07-28 15:58:58 [MusicDownloader] ⚠️ File đã có bỏ qua: Nguoi_thay_the_em_Qinn_remix.mp3
+2025-07-28 15:58:58 [MusicDownloader] ⚠️ File đã có bỏ qua: Khong_Bang_Remix.mp3
+2025-07-28 15:58:58 [MusicDownloader] ⚠️ File đã có bỏ qua: Moi_Trau_feat._Tuan_Cry.mp3
+2025-07-28 15:58:59 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_va_Hoa_-_Cukak_Remix_Version.mp3
+2025-07-28 15:58:59 [MusicDownloader] ⚠️ File đã có bỏ qua: Keo_Bong_Gon_Remix.mp3
+2025-07-28 15:59:00 [MusicDownloader] ⚠️ File đã có bỏ qua: Vui_Lam_Nha_Remix.mp3
+2025-07-28 15:59:00 [MusicDownloader] ⚠️ File đã có bỏ qua: Thay_Long_Noknha_Remix.mp3
+2025-07-28 15:59:00 [MusicDownloader] ⚠️ File đã có bỏ qua: Thi_Thoi_Remix.mp3
+2025-07-28 15:59:01 [MusicDownloader] ⚠️ File đã có bỏ qua: Mashup_e_Anh_Luong_Thien_-_ung_Hoi_Em_On_Khong_-_Anh_Thoi_Nhan_Nhuong_-_HuyPT_Remix.mp3
+2025-07-28 15:59:02 [MusicDownloader] ⚠️ File đã có bỏ qua: Nu_Cuoi_Xuan_-_ai_Meo_Remix.mp3
+2025-07-28 15:59:02 [MusicDownloader] ⚠️ File đã có bỏ qua: Yeu_La_Cuoi_Remix.mp3
+2025-07-28 15:59:03 [MusicDownloader] ⚠️ File đã có bỏ qua: Mot_Ngay_Chang_Nang_Cukak_Remix.mp3
+2025-07-28 15:59:03 [MusicDownloader] ⚠️ File đã có bỏ qua: Tinh_Sau_Thien_Thu_Muon_Loi_-_ChillKe_Remix.mp3
+2025-07-28 15:59:04 [MusicDownloader] ⚠️ File đã có bỏ qua: Hy_Vong_Qua_Hoa_au_Long_Qinn_Remix.mp3
+2025-07-28 15:59:04 [MusicDownloader] ⚠️ File đã có bỏ qua: Tuong_Quan_-_Remix_Deep_House.mp3
+2025-07-28 15:59:04 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_La_Con_Gai_Ruou_Qinn_Remix.mp3
+2025-07-28 15:59:05 [MusicDownloader] ⚠️ File đã có bỏ qua: Gu_-_Cukak_Remix.mp3
+2025-07-28 15:59:05 [MusicDownloader] ⚠️ File đã có bỏ qua: Hoa_Su_Nha_Nang_Remix.mp3
+2025-07-28 15:59:06 [MusicDownloader] ⚠️ File đã có bỏ qua: Co_Duyen_Khong_No_Remix_House.mp3
+2025-07-28 15:59:06 [MusicDownloader] ⚠️ File đã có bỏ qua: Ngay_Xuan_Long_Phung_Sum_Vay_Remix.mp3
+2025-07-28 15:59:07 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Co_Biet_Remix.mp3
+2025-07-28 15:59:07 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Oi_Anh_Phai_Lam_Sao_-_BT_Remix.mp3
+2025-07-28 15:59:07 [MusicDownloader] ⚠️ File đã có bỏ qua: Ban_Tinh_Oi_-_TVS_Remix.mp3
+2025-07-28 15:59:08 [MusicDownloader] ⚠️ File đã có bỏ qua: Le_Luu_Ly_-_Cukak_Remix.mp3
+2025-07-28 15:59:08 [MusicDownloader] ⚠️ File đã có bỏ qua: Khi_Yeu_Nao_Ai_au_Muon_-_Hoang_uc_Remix.mp3
+2025-07-28 15:59:08 [MusicDownloader] ⚠️ File đã có bỏ qua: Cold_Dont_-_Cukak_Remix.mp3
+2025-07-28 15:59:09 [MusicDownloader] ⚠️ File đã có bỏ qua: Hoa_Bang_Lang_Remix_House.mp3
+2025-07-28 15:59:09 [MusicDownloader] ⚠️ File đã có bỏ qua: ung_Hoi_Em_On_Khong_Remix.mp3
+2025-07-28 15:59:09 [MusicDownloader] ⚠️ File đã có bỏ qua: Cat_oi_Noi_Sau_-_Cukak_Remix.mp3
+2025-07-28 15:59:10 [MusicDownloader] ⚠️ File đã có bỏ qua: Trach_Phan_Vo_Danh_Qinn_Remix.mp3
+2025-07-28 15:59:10 [MusicDownloader] ⚠️ File đã có bỏ qua: Mong_Mot_Ngay_Anh_Nho_en_Em_Remix.mp3
+2025-07-28 15:59:11 [MusicDownloader] ⚠️ File đã có bỏ qua: Doi_Lua_Qinn_Remix.mp3
+2025-07-28 15:59:11 [MusicDownloader] ⚠️ File đã có bỏ qua: Thang_Hau_-_Remix_Deep_House.mp3
+2025-07-28 15:59:11 [MusicDownloader] ⚠️ File đã có bỏ qua: Duyen_Troi_Lay_2_Remix.mp3
+2025-07-28 15:59:12 [MusicDownloader] ⚠️ File đã có bỏ qua: Tet_en_That_Roi_-_Remix.mp3
+2025-07-28 15:59:12 [MusicDownloader] ⚠️ File đã có bỏ qua: Phan_Tan_Remix.mp3
+2025-07-28 15:59:13 [MusicDownloader] ⚠️ File đã có bỏ qua: Loi_Tai_Mua_x_Ao_Anh_Remix_ft_Vicky_Nhung.mp3
+2025-07-28 15:59:13 [MusicDownloader] ⚠️ File đã có bỏ qua: Ai_Cung_Co_Mot_Moi_Tinh_Buon_Qinn_Remix.mp3
+2025-07-28 15:59:13 [MusicDownloader] ⚠️ File đã có bỏ qua: The_Tu_-_Phuoc_Lanh_Remix_140.mp3
+2025-07-28 15:59:14 [MusicDownloader] ⚠️ File đã có bỏ qua: Co_Em_Cho_-_Masew_Remix.mp3
+2025-07-28 15:59:14 [MusicDownloader] ⚠️ File đã có bỏ qua: Co_Le_Ben_Nhau_La_Sai_-_uc_Louis_Remix.mp3
+2025-07-28 15:59:15 [MusicDownloader] ⚠️ File đã có bỏ qua: Mong_Hoa_Sim_-_EDM_Remix.mp3
+2025-07-28 15:59:15 [MusicDownloader] ⚠️ File đã có bỏ qua: Lung_Lay_-_Cukak_Remix.mp3
+2025-07-28 15:59:16 [MusicDownloader] ⚠️ File đã có bỏ qua: Mua_Tuyet_Remix.mp3
+2025-07-28 15:59:16 [MusicDownloader] ⚠️ File đã có bỏ qua: Anh_Thuong_Em_Em_Thuong_Ai_-_uc_Louis_Remix.mp3
+2025-07-28 15:59:17 [MusicDownloader] ⚠️ File đã có bỏ qua: o_Ta_Khong_o_Nang_Remix.mp3
+2025-07-28 15:59:17 [MusicDownloader] ⚠️ File đã có bỏ qua: Noi_Gio_Len_Qinn_Remix.mp3
+2025-07-28 15:59:18 [MusicDownloader] ⚠️ File đã có bỏ qua: Hoi_Vo_Ngoai_Thanh_Remix.mp3
+2025-07-28 15:59:18 [MusicDownloader] ⚠️ File đã có bỏ qua: Cho_Ngay_Cuoi_Em_-_Cukak_Remix.mp3
+2025-07-28 15:59:18 [MusicDownloader] ⚠️ File đã có bỏ qua: Cheri_Cheri_Lady_-_Cukak_Remix.mp3
+2025-07-28 15:59:19 [MusicDownloader] ⚠️ File đã có bỏ qua: Gio_Khong_Cuoi_Thi_Nao_Cuoi_Remix.mp3
+2025-07-28 15:59:19 [MusicDownloader] ⚠️ File đã có bỏ qua: Gio_-_Cukak_Remix.mp3
+2025-07-28 15:59:20 [MusicDownloader] ⚠️ File đã có bỏ qua: Mot_em_Say_Remix.mp3
+2025-07-28 15:59:20 [MusicDownloader] ⚠️ File đã có bỏ qua: Go_Cua_Trai_Tim_-_Remix.mp3
+2025-07-28 15:59:21 [MusicDownloader] ⚠️ File đã có bỏ qua: Quen_Nguoi_a_Qua_Yeu_-_Qinn_Remix.mp3
+2025-07-28 15:59:21 [MusicDownloader] ⚠️ File đã có bỏ qua: Tinh_on_Phuong_Cukak_Remix.mp3
+2025-07-28 15:59:22 [MusicDownloader] ⚠️ File đã có bỏ qua: The_Thai_x_Co_Giang_Tinh_Remix.mp3
+2025-07-28 15:59:22 [MusicDownloader] ⚠️ File đã có bỏ qua: Hoa_Bat_Tu_Remix.mp3
+2025-07-28 15:59:22 [MusicDownloader] ⚠️ File đã có bỏ qua: Ang_May_Vo_Tinh_-_Zero_Remix.mp3
+2025-07-28 15:59:23 [MusicDownloader] ⚠️ File đã có bỏ qua: Mot_Thuo_Yeu_Nguoi_Remix.mp3
+2025-07-28 15:59:23 [MusicDownloader] ⚠️ File đã có bỏ qua: The_Gioi_Trong_Em_Remix.mp3
+2025-07-28 15:59:23 [MusicDownloader] ⚠️ File đã có bỏ qua: Yeu_That_Kho_Xoa_That_au_-_Yang_Remix.mp3
+2025-07-28 15:59:24 [MusicDownloader] ⚠️ File đã có bỏ qua: Lo_Yeu_Nguoi_am_Sau_Remix.mp3
+2025-07-28 15:59:24 [MusicDownloader] ⚠️ File đã có bỏ qua: Vuong_Van_-_Remix.mp3
+2025-07-28 15:59:25 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Ngoc_Qua_-_Zero_Remix.mp3
+2025-07-28 15:59:25 [MusicDownloader] ⚠️ File đã có bỏ qua: Tuy_Am_-_CM1X_Remix.mp3
+2025-07-28 15:59:25 [MusicDownloader] ⚠️ File đã có bỏ qua: Phai_Dau_Cuoc_Tinh.mp3
+2025-07-28 15:59:26 [MusicDownloader] ⚠️ File đã có bỏ qua: Tinh_au_Qua_Chen_Remix.mp3
+2025-07-28 15:59:26 [MusicDownloader] ⚠️ File đã có bỏ qua: oan_Xuan_Ca_Remix.mp3
+2025-07-28 15:59:26 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Nam_Anh_Buong_Qinn_Remix.mp3
+2025-07-28 15:59:27 [MusicDownloader] ⚠️ File đã có bỏ qua: Bat_Tinh_Yeu_Len_-_Cukak_Remix.mp3
+2025-07-28 15:59:27 [MusicDownloader] ⚠️ File đã có bỏ qua: Toi_Duyen_Qinn_Remix.mp3
+2025-07-28 15:59:27 [MusicDownloader] ⚠️ File đã có bỏ qua: Anh_au_Tu_Luc_Em_i_Remix.mp3
+2025-07-28 15:59:28 [MusicDownloader] ⚠️ File đã có bỏ qua: Cho_Ngay_Cuoi_Em_Nekko_Remix.mp3
+2025-07-28 15:59:28 [MusicDownloader] ⚠️ File đã có bỏ qua: Nhan_Sinh_Quan_-_uc_Louis_Remix.mp3
+2025-07-28 15:59:28 [MusicDownloader] ⚠️ File đã có bỏ qua: Chuyen_Cu_Bo_Qua_Remix.mp3
+2025-07-28 15:59:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Ly_Do_La_Gi_Qinn_Remix.mp3
+2025-07-28 15:59:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Mong_Mot_Ngay_Anh_Nho_en_Em_Qinn_Remix.mp3
+2025-07-28 15:59:30 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Voi_Quen_Qinn_Remix.mp3
+2025-07-28 15:59:30 [MusicDownloader] ⚠️ File đã có bỏ qua: Thien_Ly_Oi_Remix.mp3
+2025-07-28 15:59:30 [MusicDownloader] ⚠️ File đã có bỏ qua: Lieu_Thuoc_Cho_Trai_Tim_Remix.mp3
+2025-07-28 15:59:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Nhuong_Hanh_Phuc_Cho_Anh_Qinn_Remix.mp3
+2025-07-28 15:59:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Ngay_Trong_Xanh_Remix.mp3
+2025-07-28 15:59:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Ai_Hong_Nhan_Qinn_Remix.mp3
+2025-07-28 15:59:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Qua_Khu_Anh_Khong_The_Quen_-_Doss_Remix.mp3
+2025-07-28 15:59:32 [MusicDownloader] ⚠️ File đã có bỏ qua: i_Bao_Xa_-_Cukak_Remix.mp3
+2025-07-28 15:59:33 [MusicDownloader] ⚠️ File đã có bỏ qua: Tinh_ep_Khi_Khong_Co_Nguoi_Thu_Ba_Qinn_Remix.mp3
+2025-07-28 15:59:33 [MusicDownloader] ⚠️ File đã có bỏ qua: Khong_Biet_Phai_Lam_Sao_-_uc_Louis_Remix.mp3
+2025-07-28 15:59:34 [MusicDownloader] ⚠️ File đã có bỏ qua: Tinh_Ca_Tinh_Ta_-_Cukak_Remix.mp3
+2025-07-28 15:59:34 [MusicDownloader] ⚠️ File đã có bỏ qua: Chanh_Long_Thuong_Co_2_-_Remix_EDM.mp3
+2025-07-28 15:59:35 [MusicDownloader] ⚠️ File đã có bỏ qua: Authentic_x_Hai_The_Gioi_Nam_Duck_Remix.mp3
+2025-07-28 15:59:35 [MusicDownloader] ⚠️ File đã có bỏ qua: Khue_Moc_Lang_Remix.mp3
+2025-07-28 15:59:35 [MusicDownloader] ⚠️ File đã có bỏ qua: Thiep_Hong_Em_Trao_Qinn_Remix.mp3
+2025-07-28 15:59:36 [MusicDownloader] ⚠️ File đã có bỏ qua: e_Vuong_-_Ciray_Vinahouse_Remix.mp3
+2025-07-28 15:59:36 [MusicDownloader] ⚠️ File đã có bỏ qua: Quen_Cach_Yeu_-_Remix_Version.mp3
+2025-07-28 15:59:37 [MusicDownloader] ⚠️ File đã có bỏ qua: Giang_Hai_Khong_o_Nang_Remix.mp3
+2025-07-28 15:59:37 [MusicDownloader] ⚠️ File đã có bỏ qua: Truc_Xinh_-_Ciray_Remix.mp3
+2025-07-28 15:59:37 [MusicDownloader] ⚠️ File đã có bỏ qua: Su_That_a_Bo_Quen_-_HD_Remix.mp3
+2025-07-28 15:59:38 [MusicDownloader] ⚠️ File đã có bỏ qua: Da_Key_Remix.mp3
+2025-07-28 15:59:38 [MusicDownloader] 🎵 Tải hoàn tất. Mới: 0, Bỏ qua: 137
+2025-07-29 11:03:03 [LogHelper] Upload all log and delete
+2025-07-29 11:03:15 [MusicDownloader] ❌ Lỗi khi tải danh sách nhạc: Value at 136 is null.
+2025-07-29 11:03:58 [MusicDownloader] ❌ Lỗi khi tải danh sách nhạc: Value at 136 is null.
+2025-07-29 11:04:01 [MusicDownloader] ❌ Lỗi khi tải danh sách nhạc: Value at 136 is null.
+2025-07-29 11:04:03 [MusicDownloader] ❌ Lỗi khi tải danh sách nhạc: Value at 136 is null.
+2025-07-29 11:04:07 [MusicDownloader] ❌ Lỗi khi tải danh sách nhạc: Value at 136 is null.
+2025-07-29 11:05:15 [MusicDownloader] ❌ Lỗi khi tải danh sách nhạc: Value at 136 is null.
+2025-07-29 11:05:19 [MusicDownloader] ❌ Lỗi khi tải danh sách nhạc: Value at 136 is null.
+2025-07-29 11:05:21 [MusicDownloader] ❌ Lỗi khi tải danh sách nhạc: Value at 136 is null.
+2025-07-29 11:05:25 [MusicDownloader] ❌ Lỗi khi tải danh sách nhạc: Value at 136 is null.
+2025-07-29 11:05:28 [MusicDownloader] ❌ Lỗi khi tải danh sách nhạc: Value at 136 is null.
+2025-07-29 11:05:31 [MusicDownloader] ❌ Lỗi khi tải danh sách nhạc: Value at 136 is null.
+2025-07-29 11:05:34 [MusicDownloader] ❌ Lỗi khi tải danh sách nhạc: Value at 136 is null.
+2025-07-29 11:05:37 [MusicDownloader] ❌ Lỗi khi tải danh sách nhạc: Value at 136 is null.
+2025-07-29 11:05:41 [MusicDownloader] ❌ Lỗi khi tải danh sách nhạc: Value at 136 is null.
+2025-07-29 11:05:46 [MusicDownloader] ❌ Lỗi khi tải danh sách nhạc: Value at 136 is null.
+2025-07-29 11:05:52 [MusicDownloader] ❌ Lỗi khi tải danh sách nhạc: Value at 136 is null.
+2025-07-29 11:05:57 [MusicDownloader] ❌ Lỗi khi tải danh sách nhạc: Value at 136 is null.
+2025-07-29 11:09:08 [MusicDownloader] ⚠️ File đã có bỏ qua: Phep_La_Hang_Ngay.mp3
+2025-07-29 11:09:09 [MusicDownloader] ⚠️ File đã có bỏ qua: Chu_Ech_Con.mp3
+2025-07-29 11:09:10 [MusicDownloader] ⚠️ File đã có bỏ qua: Rua_Mat_Nhu_Meo.mp3
+2025-07-29 11:09:10 [MusicDownloader] ⚠️ File đã có bỏ qua: Qua_Gi.mp3
+2025-07-29 11:09:11 [MusicDownloader] ⚠️ File đã có bỏ qua: Up_La_Khoai.mp3
+2025-07-29 11:09:12 [MusicDownloader] ⚠️ File đã có bỏ qua: oi_Ken_Ti_Hon.mp3
+2025-07-29 11:09:13 [MusicDownloader] ⚠️ File đã có bỏ qua: Chi_Ong_Nau_Va_Em_Be.mp3
+2025-07-29 11:09:14 [MusicDownloader] ⚠️ File đã có bỏ qua: Bac_Kim_Thang.mp3
+2025-07-29 11:09:15 [MusicDownloader] ⚠️ File đã có bỏ qua: Con_Co_Be_Be.mp3
+2025-07-29 11:09:16 [MusicDownloader] ⚠️ File đã có bỏ qua: Tap_The_Duc_Buoi_Sang.mp3
+2025-07-29 11:09:16 [MusicDownloader] ⚠️ File đã có bỏ qua: Lien_khuc_Mot_Con_Vit_Kia_Con_Buom_Vang_Con_Cao_Cao.mp3
+2025-07-29 11:09:18 [MusicDownloader] ⚠️ File đã có bỏ qua: Me_Oi_Tai_Sao.mp3
+2025-07-29 11:09:18 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Di_Choi_Thuyen.mp3
+2025-07-29 11:09:19 [MusicDownloader] ⚠️ File đã có bỏ qua: Chau_Yeu_Ba.mp3
+2025-07-29 11:09:19 [MusicDownloader] ⚠️ File đã có bỏ qua: Chau_Len_Ba.mp3
+2025-07-29 11:09:20 [MusicDownloader] ⚠️ File đã có bỏ qua: Con_Chim_Non.mp3
+2025-07-29 11:09:22 [MusicDownloader] ⚠️ File đã có bỏ qua: an_Ga_Trong_San.mp3
+2025-07-29 11:09:23 [MusicDownloader] ⚠️ File đã có bỏ qua: Cho_Ngay_Cuoi_Em_Nekko_Remix.mp3
+2025-07-29 11:09:23 [MusicDownloader] ⚠️ File đã có bỏ qua: Lo_Yeu_Nguoi_am_Sau_Remix.mp3
+2025-07-29 11:09:24 [MusicDownloader] ⚠️ File đã có bỏ qua: Thuyen_Quyen_Remix.mp3
+2025-07-29 11:09:25 [MusicDownloader] ⚠️ File đã có bỏ qua: Authentic_x_Hai_The_Gioi_Nam_Duck_Remix.mp3
+2025-07-29 11:09:26 [MusicDownloader] ⚠️ File đã có bỏ qua: Manh_Ba_-_SS_Remix.mp3
+2025-07-29 11:09:27 [MusicDownloader] ⚠️ File đã có bỏ qua: Tinh_Ca_Tinh_Ta_-_Cukak_Remix.mp3
+2025-07-29 11:09:27 [MusicDownloader] ⚠️ File đã có bỏ qua: Ngay_Trong_Xanh_Remix.mp3
+2025-07-29 11:09:28 [MusicDownloader] ⚠️ File đã có bỏ qua: Anh_au_Tu_Luc_Em_i_Remix.mp3
+2025-07-29 11:09:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Yeu_La_Cuoi_Remix.mp3
+2025-07-29 11:09:30 [MusicDownloader] ⚠️ File đã có bỏ qua: ung_Hoi_Em_On_Khong_Remix.mp3
+2025-07-29 11:09:31 [MusicDownloader] ⚠️ File đã có bỏ qua: The_Thai_x_Co_Giang_Tinh_Remix.mp3
+2025-07-29 11:09:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Vui_Lam_Nha_Remix.mp3
+2025-07-29 11:09:33 [MusicDownloader] ⚠️ File đã có bỏ qua: Ai_Cung_Co_Mot_Moi_Tinh_Buon_Qinn_Remix.mp3
+2025-07-29 11:09:34 [MusicDownloader] ⚠️ File đã có bỏ qua: The_Tu_-_Phuoc_Lanh_Remix_140.mp3
+2025-07-29 11:09:35 [MusicDownloader] ⚠️ File đã có bỏ qua: Vo_Kich_Cua_Em_Qinn_Remix.mp3
+2025-07-29 11:09:36 [MusicDownloader] ⚠️ File đã có bỏ qua: Mashup_e_Anh_Luong_Thien_-_ung_Hoi_Em_On_Khong_-_Anh_Thoi_Nhan_Nhuong_-_HuyPT_Remix.mp3
+2025-07-29 11:09:37 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_va_Hoa_-_Cukak_Remix_Version.mp3
+2025-07-29 11:09:38 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Voi_Quen_Qinn_Remix.mp3
+2025-07-29 11:09:39 [MusicDownloader] ⚠️ File đã có bỏ qua: Mong_Mot_Ngay_Anh_Nho_en_Em_Qinn_Remix.mp3
+2025-07-29 11:09:41 [MusicDownloader] ⚠️ File đã có bỏ qua: Nhan_Sinh_Quan_-_uc_Louis_Remix.mp3
+2025-07-29 11:09:41 [MusicDownloader] ⚠️ File đã có bỏ qua: Thiep_Hong_Em_Trao_Qinn_Remix.mp3
+2025-07-29 11:09:42 [MusicDownloader] ⚠️ File đã có bỏ qua: Cat_oi_Noi_Sau_-_Cukak_Remix.mp3
+2025-07-29 11:09:43 [MusicDownloader] ⚠️ File đã có bỏ qua: Gia_Nhu_Anh_La_Nguoi_Vo_Tam_-_NT_Remix.mp3
+2025-07-29 11:09:44 [MusicDownloader] ⚠️ File đã có bỏ qua: Truc_Xinh_-_Ciray_Remix.mp3
+2025-07-29 11:09:45 [MusicDownloader] ⚠️ File đã có bỏ qua: Gio_Khong_Cuoi_Thi_Nao_Cuoi_Remix.mp3
+2025-07-29 11:09:46 [MusicDownloader] ⚠️ File đã có bỏ qua: Xuan_Nay_Con_Khong_Ve_Remix.mp3
+2025-07-29 11:09:47 [MusicDownloader] ⚠️ File đã có bỏ qua: Go_Cua_Trai_Tim_-_Remix.mp3
+2025-07-29 11:09:47 [MusicDownloader] ⚠️ File đã có bỏ qua: Phan_Tan_Remix.mp3
+2025-07-29 11:09:48 [MusicDownloader] ⚠️ File đã có bỏ qua: Forget_Me_Now_Remix.mp3
+2025-07-29 11:09:49 [MusicDownloader] ⚠️ File đã có bỏ qua: Cu_Noi_Yeu_Lan_Nay_Speed_Up_-_Cukak_Remix.mp3
+2025-07-29 11:09:50 [MusicDownloader] ⚠️ File đã có bỏ qua: Mot_em_Say_Remix.mp3
+2025-07-29 11:09:50 [MusicDownloader] ⚠️ File đã có bỏ qua: Moi_Trau_feat._Tuan_Cry.mp3
+2025-07-29 11:09:51 [MusicDownloader] ⚠️ File đã có bỏ qua: Tinh_Sau_Thien_Thu_Muon_Loi_-_ChillKe_Remix.mp3
+2025-07-29 11:09:51 [MusicDownloader] ⚠️ File đã có bỏ qua: Tuong_Quan_-_Remix_Deep_House.mp3
+2025-07-29 11:09:52 [MusicDownloader] ⚠️ File đã có bỏ qua: Co_Duyen_Khong_No_Remix_House.mp3
+2025-07-29 11:09:52 [MusicDownloader] ⚠️ File đã có bỏ qua: Hoa_Bang_Lang_Remix_House.mp3
+2025-07-29 11:09:53 [MusicDownloader] ⚠️ File đã có bỏ qua: Thang_Hau_-_Remix_Deep_House.mp3
+2025-07-29 11:09:54 [MusicDownloader] ⚠️ File đã có bỏ qua: Mong_Hoa_Sim_-_EDM_Remix.mp3
+2025-07-29 11:09:54 [MusicDownloader] ⚠️ File đã có bỏ qua: Mua_Tuyet_Remix.mp3
+2025-07-29 11:09:55 [MusicDownloader] ⚠️ File đã có bỏ qua: o_Ta_Khong_o_Nang_Remix.mp3
+2025-07-29 11:09:55 [MusicDownloader] ⚠️ File đã có bỏ qua: Tuy_Am_-_CM1X_Remix.mp3
+2025-07-29 11:09:56 [MusicDownloader] ⚠️ File đã có bỏ qua: Vuong_Van_-_Remix.mp3
+2025-07-29 11:09:57 [MusicDownloader] ⚠️ File đã có bỏ qua: Phai_Dau_Cuoc_Tinh.mp3
+2025-07-29 11:09:58 [MusicDownloader] ⚠️ File đã có bỏ qua: Khong_Biet_Phai_Lam_Sao_-_uc_Louis_Remix.mp3
+2025-07-29 11:09:59 [MusicDownloader] ⚠️ File đã có bỏ qua: Thien_Ly_Oi_Remix.mp3
+2025-07-29 11:09:59 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Co_Biet_Remix.mp3
+2025-07-29 11:10:00 [MusicDownloader] ⚠️ File đã có bỏ qua: Yeu_That_Kho_Xoa_That_au_-_Yang_Remix.mp3
+2025-07-29 11:10:01 [MusicDownloader] ⚠️ File đã có bỏ qua: Ai_Hong_Nhan_Qinn_Remix.mp3
+2025-07-29 11:10:02 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Nam_Anh_Buong_Qinn_Remix.mp3
+2025-07-29 11:10:03 [MusicDownloader] ⚠️ File đã có bỏ qua: Da_Key_Remix.mp3
+2025-07-29 11:10:04 [MusicDownloader] ⚠️ File đã có bỏ qua: Trach_Phan_Vo_Danh_Qinn_Remix.mp3
+2025-07-29 11:10:05 [MusicDownloader] ⚠️ File đã có bỏ qua: Troi_Em_Lai_Remix.mp3
+2025-07-29 11:10:06 [MusicDownloader] ⚠️ File đã có bỏ qua: Con_Buom_Xuan_Qinn_Remix.mp3
+2025-07-29 11:10:07 [MusicDownloader] ⚠️ File đã có bỏ qua: Co_Duyen_Khong_No_Qinn_Remix.mp3
+2025-07-29 11:10:08 [MusicDownloader] ⚠️ File đã có bỏ qua: Chua_Bao_Gio_Em_Quen_-_Kendy_T_Remix.mp3
+2025-07-29 11:10:08 [MusicDownloader] ⚠️ File đã có bỏ qua: Loi_Noi_ieu_Tren_Moi_Em_Remix.mp3
+2025-07-29 11:10:09 [MusicDownloader] ⚠️ File đã có bỏ qua: Bat_Tinh_Yeu_Len_-_Cukak_Remix.mp3
+2025-07-29 11:10:10 [MusicDownloader] ⚠️ File đã có bỏ qua: Ly_Do_La_Gi_Qinn_Remix.mp3
+2025-07-29 11:10:11 [MusicDownloader] ⚠️ File đã có bỏ qua: Tet_en_That_Roi_-_Remix.mp3
+2025-07-29 11:10:11 [MusicDownloader] ⚠️ File đã có bỏ qua: Hoa_Su_Nha_Nang_Remix.mp3
+2025-07-29 11:10:12 [MusicDownloader] ⚠️ File đã có bỏ qua: Co_Em_Cho_-_Masew_Remix.mp3
+2025-07-29 11:10:13 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_La_Con_Gai_Ruou_Qinn_Remix.mp3
+2025-07-29 11:10:14 [MusicDownloader] ⚠️ File đã có bỏ qua: Tinh_au_Qua_Chen_Remix.mp3
+2025-07-29 11:10:15 [MusicDownloader] ⚠️ File đã có bỏ qua: Loi_Tai_Mua_x_Ao_Anh_Remix_ft_Vicky_Nhung.mp3
+2025-07-29 11:10:16 [MusicDownloader] ⚠️ File đã có bỏ qua: Chuyen_Cu_Bo_Qua_Remix.mp3
+2025-07-29 11:10:17 [MusicDownloader] ⚠️ File đã có bỏ qua: Keo_Bong_Gon_Remix.mp3
+2025-07-29 11:10:17 [MusicDownloader] ⚠️ File đã có bỏ qua: Nguoi_thay_the_em_Qinn_remix.mp3
+2025-07-29 11:10:18 [MusicDownloader] ⚠️ File đã có bỏ qua: Tinh_on_Phuong_Cukak_Remix.mp3
+2025-07-29 11:10:19 [MusicDownloader] ⚠️ File đã có bỏ qua: Lieu_Thuoc_Cho_Trai_Tim_Remix.mp3
+2025-07-29 11:10:20 [MusicDownloader] ⚠️ File đã có bỏ qua: Su_That_a_Bo_Quen_-_HD_Remix.mp3
+2025-07-29 11:10:21 [MusicDownloader] ⚠️ File đã có bỏ qua: Hy_Vong_Qua_Hoa_au_Long_Qinn_Remix.mp3
+2025-07-29 11:10:22 [MusicDownloader] ⚠️ File đã có bỏ qua: Cho_Em_Duoi_Con_Mua_Qinn_Remix.mp3
+2025-07-29 11:10:23 [MusicDownloader] ⚠️ File đã có bỏ qua: Thay_Long_Noknha_Remix.mp3
+2025-07-29 11:10:24 [MusicDownloader] ⚠️ File đã có bỏ qua: Mashup_Ngoi_Nha_Hoa_Hong_-_Remix_-_Vicky_Nhung_Version.mp3
+2025-07-29 11:10:24 [MusicDownloader] ⚠️ File đã có bỏ qua: Gu_-_Cukak_Remix.mp3
+2025-07-29 11:10:25 [MusicDownloader] ⚠️ File đã có bỏ qua: Duyen_Troi_Lay_2_Remix.mp3
+2025-07-29 11:10:26 [MusicDownloader] ⚠️ File đã có bỏ qua: Cu_The_Mong_Cho_Qinn_Remix.mp3
+2025-07-29 11:10:27 [MusicDownloader] ⚠️ File đã có bỏ qua: Lung_Lay_-_Cukak_Remix.mp3
+2025-07-29 11:10:27 [MusicDownloader] ⚠️ File đã có bỏ qua: Le_Luu_Ly_-_Cukak_Remix.mp3
+2025-07-29 11:10:28 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Oi_Anh_Phai_Lam_Sao_-_BT_Remix.mp3
+2025-07-29 11:10:29 [MusicDownloader] ⚠️ File đã có bỏ qua: Tell_Ur_Mom_II_Cukak_Remix.mp3
+2025-07-29 11:10:31 [MusicDownloader] ⚠️ File đã có bỏ qua: Khi_Yeu_Nao_Ai_au_Muon_-_Hoang_uc_Remix.mp3
+2025-07-29 11:10:32 [MusicDownloader] ⚠️ File đã có bỏ qua: Cho_Ngay_Cuoi_Em_-_Cukak_Remix.mp3
+2025-07-29 11:10:33 [MusicDownloader] ⚠️ File đã có bỏ qua: Hoi_Vo_Ngoai_Thanh_Remix.mp3
+2025-07-29 11:10:33 [MusicDownloader] ⚠️ File đã có bỏ qua: Cold_Dont_-_Cukak_Remix.mp3
+2025-07-29 11:10:34 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Oi_Len_Pho_-_Tipo_Remix_138.mp3
+2025-07-29 11:10:35 [MusicDownloader] ⚠️ File đã có bỏ qua: Mot_Thuo_Yeu_Nguoi_Remix.mp3
+2025-07-29 11:10:36 [MusicDownloader] ⚠️ File đã có bỏ qua: Gio_-_Cukak_Remix.mp3
+2025-07-29 11:10:37 [MusicDownloader] ⚠️ File đã có bỏ qua: Anh_Thuong_Em_Em_Thuong_Ai_-_uc_Louis_Remix.mp3
+2025-07-29 11:10:38 [MusicDownloader] ⚠️ File đã có bỏ qua: Co_Le_Ben_Nhau_La_Sai_-_uc_Louis_Remix.mp3
+2025-07-29 11:10:38 [MusicDownloader] ⚠️ File đã có bỏ qua: Mong_Mot_Ngay_Anh_Nho_en_Em_Remix.mp3
+2025-07-29 11:10:39 [MusicDownloader] ⚠️ File đã có bỏ qua: Cheri_Cheri_Lady_-_Cukak_Remix.mp3
+2025-07-29 11:10:40 [MusicDownloader] ⚠️ File đã có bỏ qua: Ngay_Tet_Que_Em_Remix.mp3
+2025-07-29 11:10:41 [MusicDownloader] ⚠️ File đã có bỏ qua: Em_Ngoc_Qua_-_Zero_Remix.mp3
+2025-07-29 11:10:41 [MusicDownloader] ⚠️ File đã có bỏ qua: Anh_Yeu_Voi_The_Remix.mp3
+2025-07-29 11:10:42 [MusicDownloader] ⚠️ File đã có bỏ qua: Ang_May_Vo_Tinh_-_Zero_Remix.mp3
+2025-07-29 11:10:44 [MusicDownloader] ⚠️ File đã có bỏ qua: Khong_Bang_Remix.mp3
+2025-07-29 11:10:45 [MusicDownloader] ⚠️ File đã có bỏ qua: Noi_Gio_Len_Qinn_Remix.mp3
+2025-07-29 11:10:47 [MusicDownloader] ⚠️ File đã có bỏ qua: Nhuong_Hanh_Phuc_Cho_Anh_Qinn_Remix.mp3
+2025-07-29 11:10:48 [MusicDownloader] ⚠️ File đã có bỏ qua: Vuong_Van_-_Qinn_Remix.mp3
+2025-07-29 11:10:48 [MusicDownloader] ⚠️ File đã có bỏ qua: oan_Xuan_Ca_Remix.mp3
+2025-07-29 11:10:49 [MusicDownloader] ⚠️ File đã có bỏ qua: i_Bao_Xa_-_Cukak_Remix.mp3
+2025-07-29 11:10:50 [MusicDownloader] ⚠️ File đã có bỏ qua: Toi_Duyen_Qinn_Remix.mp3
+2025-07-29 11:10:51 [MusicDownloader] ⚠️ File đã có bỏ qua: Doi_Lua_Qinn_Remix.mp3
+2025-07-29 11:10:52 [MusicDownloader] ⚠️ File đã có bỏ qua: Tinh_ep_Khi_Khong_Co_Nguoi_Thu_Ba_Qinn_Remix.mp3
+2025-07-29 11:10:53 [MusicDownloader] ⚠️ File đã có bỏ qua: Ngay_Xuan_Long_Phung_Sum_Vay_Remix.mp3
+2025-07-29 11:10:53 [MusicDownloader] ⚠️ File đã có bỏ qua: Ban_Tinh_Oi_-_TVS_Remix.mp3
+2025-07-29 11:10:54 [MusicDownloader] ⚠️ File đã có bỏ qua: Nu_Cuoi_Xuan_-_ai_Meo_Remix.mp3
+2025-07-29 11:10:55 [MusicDownloader] ⚠️ File đã có bỏ qua: Quen_Cach_Yeu_-_Remix_Version.mp3
+2025-07-29 11:10:56 [MusicDownloader] ⚠️ File đã có bỏ qua: Mot_Ngay_Chang_Nang_Cukak_Remix.mp3
+2025-07-29 11:10:57 [MusicDownloader] ⚠️ File đã có bỏ qua: Quen_Nguoi_a_Qua_Yeu_-_Qinn_Remix.mp3
+2025-07-29 11:10:57 [MusicDownloader] ⚠️ File đã có bỏ qua: Qua_Khu_Anh_Khong_The_Quen_-_Doss_Remix.mp3
+2025-07-29 11:10:58 [MusicDownloader] ⚠️ File đã có bỏ qua: Chanh_Long_Thuong_Co_2_-_Remix_EDM.mp3
+2025-07-29 11:10:59 [MusicDownloader] ⚠️ File đã có bỏ qua: The_Gioi_Trong_Em_Remix.mp3
+2025-07-29 11:10:59 [MusicDownloader] ⚠️ File đã có bỏ qua: e_Vuong_-_Ciray_Vinahouse_Remix.mp3
+2025-07-29 11:11:00 [MusicDownloader] ⚠️ File đã có bỏ qua: Giang_Hai_Khong_o_Nang_Remix.mp3
+2025-07-29 11:11:00 [MusicCleaner] 🗑️ Xóa file không nằm trong danh sách: Hoa_Bat_Tu_Remix.mp3
+2025-07-29 11:11:00 [MusicCleaner] 🗑️ Xóa file không nằm trong danh sách: Thi_Thoi_Remix.mp3
+2025-07-29 11:11:00 [MusicCleaner] 🗑️ Xóa file không nằm trong danh sách: Khue_Moc_Lang_Remix.mp3
+2025-07-29 11:11:00 [MusicCleaner] 🗑️ Xóa file không nằm trong danh sách: Hoa_Co_Lau_-_Official_Remix.mp3
+2025-07-29 11:11:00 [MusicDownloader] 🎵 Tải hoàn tất. Mới: 0, Bỏ qua: 133
+2025-07-29 11:21:18 [LogHelper] Upload all log and delete
+2025-07-29 11:51:45 [LogHelper] Upload all log and delete
+2025-07-29 12:01:45 [LogHelper] Upload all log and delete
+2025-07-29 12:19:11 [LogHelper] Upload all log and delete
+2025-07-29 12:20:36 [LogHelper] Upload all log and delete
+2025-07-29 12:24:19 [LogHelper] Upload all log and delete
