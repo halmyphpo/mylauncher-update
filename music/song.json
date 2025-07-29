@@ -7,12 +7,12 @@
     {
         "file": "Chu_Ech_Con.mp3",
         "album": "Tre em",
-        "title": "Chu Ech Con"
+        "title": "Chú Ếch Con"
     },
     {
         "file": "Rua_Mat_Nhu_Meo.mp3",
         "album": "Tre em",
-        "title": "Rua Mat Nhu Meo"
+        "title": "Rửa Mặt Như Mèo"
     },
     {
         "file": "Qua_Gi.mp3",
@@ -57,12 +57,12 @@
     {
         "file": "Me_Oi_Tai_Sao.mp3",
         "album": "Tre em",
-        "title": "Me Oi Tai Sao"
+        "title": "Mẹ Ơi Tại Sao"
     },
     {
         "file": "Em_Di_Choi_Thuyen.mp3",
         "album": "Tre em",
-        "title": "Em Di Choi Thuyen"
+        "title": "Em Đi Chơi Thuyền"
     },
     {
         "file": "Chau_Yeu_Ba.mp3",
@@ -72,7 +72,7 @@
     {
         "file": "Chau_Len_Ba.mp3",
         "album": "Tre em",
-        "title": "Chau Len Ba"
+        "title": "Cháu Lên Ba"
     },
     {
         "file": "Con_Chim_Non.mp3",
@@ -102,7 +102,7 @@
     {
         "file": "Authentic_x_Hai_The_Gioi_Nam_Duck_Remix.mp3",
         "album": "Remix",
-        "title": "Authentic x Hai The Gioi (Nam Duck Remix)"
+        "title": "Authentic x Hai Thế Giới (Nam Duck Remix)"
     },
     {
         "file": "Manh_Ba_-_SS_Remix.mp3",
@@ -153,11 +153,6 @@
         "file": "The_Tu_-_Phuoc_Lanh_Remix_140.mp3",
         "album": "Remix",
         "title": "Thê Tử - Phước Lành Remix 140"
-    },
-    {
-        "file": "Hoa_Bat_Tu_Remix.mp3",
-        "album": "Remix",
-        "title": "Hoa Bất Tử (Remix)"
     },
     {
         "file": "Vo_Kich_Cua_Em_Qinn_Remix.mp3",
@@ -455,11 +450,6 @@
         "title": "Thay Lòng (Noknha Remix)"
     },
     {
-        "file": "Thi_Thoi_Remix.mp3",
-        "album": "Remix",
-        "title": "Thì Thôi (Remix)"
-    },
-    {
         "file": "Mashup_Ngoi_Nha_Hoa_Hong_-_Remix_-_Vicky_Nhung_Version.mp3",
         "album": "Remix",
         "title": "Mashup Ngôi Nhà Hoa Hồng - Remix - Vicky Nhung Version"
@@ -508,11 +498,6 @@
         "file": "Cho_Ngay_Cuoi_Em_-_Cukak_Remix.mp3",
         "album": "Remix",
         "title": "Chờ Ngày Cưới Em - Cukak Remix"
-    },
-    {
-        "file": "Khue_Moc_Lang_Remix.mp3",
-        "album": "Remix",
-        "title": "Khuê Mộc Lang (Remix)"
     },
     {
         "file": "Hoi_Vo_Ngoai_Thanh_Remix.mp3",
