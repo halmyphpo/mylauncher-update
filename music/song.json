@@ -1,5 +1,185 @@
 [
-     {
+        {
+        "file": "_Em_Re_Trai_Anh_Re_Phai.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Em Rẽ Trái Anh Rẽ Phải"
+    },
+    {
+        "file": "_Ky_Niem_Bo_Quen.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Kỷ Niệm Bỏ Quên"
+    },
+    {
+        "file": "_Can_Gac_Trong_-_RB.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Can Gac Trong - R&B"
+    },
+    {
+        "file": "_Giac_Mo_Mot_Cuoc_Tinh.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Giấc Mơ Một Cuộc Tình"
+    },
+    {
+        "file": "_Can_Rut.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Cắn Rứt"
+    },
+    {
+        "file": "_Oanh.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Oanh"
+    },
+    {
+        "file": "_Buoc_Qua_The_Gioi.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Bước Qua Thế Giới"
+    },
+    {
+        "file": "_Noi_Nho_Noi_Con_Tim_Mo_Coi.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Nỗi Nhớ Nơi Con Tim Mồ Côi"
+    },
+    {
+        "file": "_Toi_Khong_Tin.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Toi Khong Tin"
+    },
+    {
+        "file": "_Hua_That_Nhieu_That_Hua_That_Nhieu.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Hứa Thật Nhiều Thất Hứa Thật Nhiều"
+    },
+    {
+        "file": "_Tai_Sao.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Tại Sao"
+    },
+    {
+        "file": "_Phia_Cuoi_Me_Cung.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Phía Cuối Mê Cung"
+    },
+    {
+        "file": "_Buoc_Qua_Niem_au.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Bước Qua Niềm Đau"
+    },
+    {
+        "file": "_Giai_ieu_Mua_Xuan.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Giai Điệu Mùa Xuân"
+    },
+    {
+        "file": "_Chac_Anh_Thua_Nguoi_Ay.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Chắc Anh Thua Người Ấy"
+    },
+    {
+        "file": "_Nguoi_i_Ngang_oi_Toi.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Người Đi Ngang Đời Tôi"
+    },
+    {
+        "file": "_Cho_Vua_Long_Em.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Cho Vừa Lòng Em"
+    },
+    {
+        "file": "_Toi_au_Muon_Khoc.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Tối Đâu Muốn Khóc"
+    },
+    {
+        "file": "_Vi_Mot_Nguoi_Ra_i.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Vì Một Người Ra Đi"
+    },
+    {
+        "file": "_Nuoc_Co_Em_Chon_Ong_Trum_Bui_Vien_OST.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Nước Cờ Em Chọn (Ông Trùm Bùi Viện OST)"
+    },
+    {
+        "file": "_Vang_Trang_Co_on.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Vầng Trăng Cô Đơn"
+    },
+    {
+        "file": "_oa_Hong_Cho_Em.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Đóa Hồng Cho Em"
+    },
+    {
+        "file": "_LK_Ai_Kho_Vi_Ai.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "LK Ai Khổ Vì Ai"
+    },
+    {
+        "file": "Anh_So.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Anh Sợ"
+    },
+    {
+        "file": "_an_Ong_Khong_uoc_Quen_Het_Tinh_Con_Nghia.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Đàn Ông Không Được Quên Hết Tình Còn Nghĩa"
+    },
+    {
+        "file": "_Chay_Tron_Ki_Niem.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Chay Tron Ki Niem"
+    },
+    {
+        "file": "_Buon.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Buồn"
+    },
+    {
+        "file": "_Giot_Nang_Cuoi_Chieu.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Giot Nang Cuoi Chieu"
+    },
+    {
+        "file": "_Cach_Biet_Hai_Phuong_Troi.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Cách Biệt Hai Phương Trời"
+    },
+    {
+        "file": "_Buong_Tay_Lang_Im.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Buông Tay Lặng Im"
+    },
+    {
+        "file": "_Vi_oi_Ta_La_Cua_Nhau.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Vì Đôi Ta Là Của Nhau"
+    },
+    {
+        "file": "_Tha_Rang_Nhu_The.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Tha Rang Nhu The"
+    },
+    {
+        "file": "_Xuan_Ve_Con_Cung_Ve.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Xuân Về Con Cũng Về"
+    },
+    {
+        "file": "_Sau_em_Nay.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Sau Đêm Nay"
+    },
+    {
+        "file": "Khac Hoa Tuong Tu.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Khac Hoa Tuong Tu"
+    },
+    {
+        "file": "_Co_on_Mot_Vi_Sao.mp3",
+        "album": "Ung Hoang Phuc",
+        "title": "Cô Đơn Một Vì Sao"
+    },
+    {
         "file": "Phep_La_Hang_Ngay.mp3",
         "album": "Tre em",
         "title": "Phép Lạ Hằng Ngày"
