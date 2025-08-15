@@ -1,5 +1,435 @@
 [
-        {
+    {
+        "file": "Bang-Gia-Khoi-My.mp3",
+        "album": "Khoi My",
+        "title": "Bang-Gia-Khoi-My"
+    },
+    {
+        "file": "Buong-Tay-Khoi-My-La-Thang.mp3",
+        "album": "Khoi My",
+        "title": "Buong-Tay-Khoi-My-La-Thang"
+    },
+    {
+        "file": "Lau-Roi-Khoi-My.mp3",
+        "album": "Khoi My",
+        "title": "Lau-Roi-Khoi-My"
+    },
+    {
+        "file": "La-Con-Gai-That-Tuyet-Khoi-My.mp3",
+        "album": "Khoi My",
+        "title": "La-Con-Gai-That-Tuyet-Khoi-My"
+    },
+    {
+        "file": "Nguoi-Yeu-Cu-Khoi-My.mp3",
+        "album": "Khoi My",
+        "title": "Nguoi-Yeu-Cu-Khoi-My"
+    },
+    {
+        "file": "I-Don-t-Want-Khoi-My.mp3",
+        "album": "Khoi My",
+        "title": "I-Don-t-Want-Khoi-My"
+    },
+    {
+        "file": "Chuot-Yeu-Gao-Khoi-My-Kelvin-Khanh.mp3",
+        "album": "Khoi My",
+        "title": "Chuot-Yeu-Gao-Khoi-My-Kelvin-Khanh"
+    },
+    {
+        "file": "Alone-Khoi-My.mp3",
+        "album": "Khoi My",
+        "title": "Alone-Khoi-My"
+    },
+    {
+        "file": "Co-Bao-Gio-Anh-Nho-Khoi-My.mp3",
+        "album": "Khoi My",
+        "title": "Co-Bao-Gio-Anh-Nho-Khoi-My"
+    },
+    {
+        "file": "Me-Yeu-Oi-Khoi-My.mp3",
+        "album": "Khoi My",
+        "title": "Me-Yeu-Oi-Khoi-My"
+    },
+    {
+        "file": "Canh-Phi-Yen-Trong-Mua-Khoi-My.mp3",
+        "album": "Khoi My",
+        "title": "Canh-Phi-Yen-Trong-Mua-Khoi-My"
+    },
+    {
+        "file": "Cao-Cao-La-Tre-Khoi-My.mp3",
+        "album": "Khoi My",
+        "title": "Cao-Cao-La-Tre-Khoi-My"
+    },
+    {
+        "file": "Xe-Dap-Teen-Duy-Anh-Khoi-My.mp3",
+        "album": "Khoi My",
+        "title": "Xe-Dap-Teen-Duy-Anh-Khoi-My"
+    },
+    {
+        "file": "Mong-Mot-Hanh-Phuc-Khoi-My.mp3",
+        "album": "Khoi My",
+        "title": "Mong-Mot-Hanh-Phuc-Khoi-My"
+    },
+    {
+        "file": "Khoc-Dem-Khoi-My.mp3",
+        "album": "Khoi My",
+        "title": "Khoc-Dem-Khoi-My"
+    },
+    {
+        "file": "Mua-Roi-Vao-Phong-Khoi-My.mp3",
+        "album": "Khoi My",
+        "title": "Mua-Roi-Vao-Phong-Khoi-My"
+    },
+    {
+        "file": "Gui-Cho-Anh-Khoi-My.mp3",
+        "album": "Khoi My",
+        "title": "Gui-Cho-Anh-Khoi-My"
+    },
+    {
+        "file": "Thuong-Hai-Khoi-My.mp3",
+        "album": "Khoi My",
+        "title": "Thuong-Hai-Khoi-My"
+    },
+    {
+        "file": "De-Thuong-Khoi-My.mp3",
+        "album": "Khoi My",
+        "title": "De-Thuong-Khoi-My"
+    },
+    {
+        "file": "Em-Yeu-Anh-Nhieu-Lam-Bao-Thy.mp3",
+        "album": "Bao Thy",
+        "title": "Em-Yeu-Anh-Nhieu-Lam-Bao-Thy"
+    },
+    {
+        "file": "Tri-Ky-Bao-Thy.mp3",
+        "album": "Bao Thy",
+        "title": "Tri-Ky-Bao-Thy"
+    },
+    {
+        "file": "Khoc-Them-Lan-Nua-Bao-Thy.mp3",
+        "album": "Bao Thy",
+        "title": "Khoc-Them-Lan-Nua-Bao-Thy"
+    },
+    {
+        "file": "Xep-Vao-Qua-Khu-Bao-Thy.mp3",
+        "album": "Bao Thy",
+        "title": "Xep-Vao-Qua-Khu-Bao-Thy"
+    },
+    {
+        "file": "Cong-Chua-Bong-Bong-Bao-Thy-2B.mp3",
+        "album": "Bao Thy",
+        "title": "Cong-Chua-Bong-Bong-Bao-Thy-2B"
+    },
+    {
+        "file": "Gat-Di-Nuoc-Mat-Bao-Thy.mp3",
+        "album": "Bao Thy",
+        "title": "Gat-Di-Nuoc-Mat-Bao-Thy"
+    },
+    {
+        "file": "Ngon-Doi-Chong-Chong-Bao-Thy-Quang-Vinh.mp3",
+        "album": "Bao Thy",
+        "title": "Ngon-Doi-Chong-Chong-Bao-Thy-Quang-Vinh"
+    },
+    {
+        "file": "Mot-Chut-Quen-Anh-Thoi-Bao-Thy.mp3",
+        "album": "Bao Thy",
+        "title": "Mot-Chut-Quen-Anh-Thoi-Bao-Thy"
+    },
+    {
+        "file": "Ngoi-Nha-Hoa-Hong-Bao-Thy-Quang-Vinh.mp3",
+        "album": "Bao Thy",
+        "title": "Ngoi-Nha-Hoa-Hong-Bao-Thy-Quang-Vinh"
+    },
+    {
+        "file": "Bao-Dem-Em-Khoc-Bao-Thy.mp3",
+        "album": "Bao Thy",
+        "title": "Bao-Dem-Em-Khoc-Bao-Thy"
+    },
+    {
+        "file": "Ngoc-Nghech-Bao-Thy.mp3",
+        "album": "Bao Thy",
+        "title": "Ngoc-Nghech-Bao-Thy"
+    },
+    {
+        "file": "Em-Khong-Con-Buon-Bao-Thy.mp3",
+        "album": "Bao Thy",
+        "title": "Em-Khong-Con-Buon-Bao-Thy"
+    },
+    {
+        "file": "Cang-Kho-Cang-Yeu-Bao-Thy.mp3",
+        "album": "Bao Thy",
+        "title": "Cang-Kho-Cang-Yeu-Bao-Thy"
+    },
+    {
+        "file": "Lung-Chung-Hanh-Phuc-Bao-Thy.mp3",
+        "album": "Bao Thy",
+        "title": "Lung-Chung-Hanh-Phuc-Bao-Thy"
+    },
+    {
+        "file": "Cham-Vao-Hanh-Phuc-Bao-Thy.mp3",
+        "album": "Bao Thy",
+        "title": "Cham-Vao-Hanh-Phuc-Bao-Thy"
+    },
+    {
+        "file": "Ngay-Buon-Nhat-Bao-Thy.mp3",
+        "album": "Bao Thy",
+        "title": "Ngay-Buon-Nhat-Bao-Thy"
+    },
+    {
+        "file": "Nho-Rat-Nho-Bao-Thy-Duong-Trieu-Vu.mp3",
+        "album": "Bao Thy",
+        "title": "Nho-Rat-Nho-Bao-Thy-Duong-Trieu-Vu"
+    },
+    {
+        "file": "Van-Tin-Minh-Co-Nhau-Bao-Thy-Quang-Vinh.mp3",
+        "album": "Bao Thy",
+        "title": "Van-Tin-Minh-Co-Nhau-Bao-Thy-Quang-Vinh"
+    },
+    {
+        "file": "Please-Tell-Me-Why-Bao-Thy-Vuong-Khang.mp3",
+        "album": "Bao Thy",
+        "title": "Please-Tell-Me-Why-Bao-Thy-Vuong-Khang"
+    },
+    {
+        "file": "Nuoc-Ngoai-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Nuoc-Ngoai-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Goc-Khuat-Sau-Hanh-Phuc-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Goc-Khuat-Sau-Hanh-Phuc-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Tinh-Yeu-Mua-Giang-Sinh-Quang-Huy-Le-Bao-Binh-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Tinh-Yeu-Mua-Giang-Sinh-Quang-Huy-Le-Bao-Binh-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Hoi-Uc-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Hoi-Uc-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Cau-Chuyen-Dem-Version-2-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Cau-Chuyen-Dem-Version-2-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Anh-Se-Yeu-Nguoi-Ay-Hon-Em-Le-Bao-Binh-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Anh-Se-Yeu-Nguoi-Ay-Hon-Em-Le-Bao-Binh-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Khi-Nguoi-Minh-Yeu-Khoc-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Khi-Nguoi-Minh-Yeu-Khoc-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Vo-Nguoi-Ta-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Vo-Nguoi-Ta-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Xem-Nhau-La-Di-Vang-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Xem-Nhau-La-Di-Vang-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Noi-Ay-Con-Tim-Ve-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Noi-Ay-Con-Tim-Ve-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Cau-Chuyen-Dem-Version-1-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Cau-Chuyen-Dem-Version-1-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Nghi-Lai-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Nghi-Lai-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Tu-Dung-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Tu-Dung-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Yeu-Nhau-Nua-Ngay-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Yeu-Nhau-Nua-Ngay-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Minh-Tung-Yeu-Nhau-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Minh-Tung-Yeu-Nhau-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Nguoi-Yeu-Cu-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Nguoi-Yeu-Cu-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Nang-Mua-Ha-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Nang-Mua-Ha-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Lam-Sao-Giu-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Lam-Sao-Giu-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Hay-Tha-Thu-Neu-Co-The-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Hay-Tha-Thu-Neu-Co-The-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Anh-Ghet-Lam-Ban-Em-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Anh-Ghet-Lam-Ban-Em-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Giac-Mo-Mang-Em-Di-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Giac-Mo-Mang-Em-Di-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Nhat-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Nhat-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Giang-Sinh-Khong-Nha-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Giang-Sinh-Khong-Nha-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Tu-Cmn-Ky-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Tu-Cmn-Ky-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Xa-Ky-Niem-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Xa-Ky-Niem-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Mat-Hy-Vong-Phan-Manh-Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Mat-Hy-Vong-Phan-Manh-Quynh"
+    },
+    {
+        "file": "Vi-Ai-Vi-Anh-Dong-Nhi.mp3",
+        "album": "Dong Nhi",
+        "title": "Vi-Ai-Vi-Anh-Dong-Nhi"
+    },
+    {
+        "file": "Nam-Tay-Anh-Nhe-Dong-Nhi-Ong-Cao-Thang.mp3",
+        "album": "Dong Nhi",
+        "title": "Nam-Tay-Anh-Nhe-Dong-Nhi-Ong-Cao-Thang"
+    },
+    {
+        "file": "Can-Mot-Ai-Do-I-Wanna-Dance-Dong-Nhi.mp3",
+        "album": "Dong Nhi",
+        "title": "Can-Mot-Ai-Do-I-Wanna-Dance-Dong-Nhi"
+    },
+    {
+        "file": "Xin-Anh-Dung-Dong-Nhi.mp3",
+        "album": "Dong Nhi",
+        "title": "Xin-Anh-Dung-Dong-Nhi"
+    },
+    {
+        "file": "Bi-Mat-Cua-Hanh-Phuc-Dong-Nhi-Ngo-Kien-Huy.mp3",
+        "album": "Dong Nhi",
+        "title": "Bi-Mat-Cua-Hanh-Phuc-Dong-Nhi-Ngo-Kien-Huy"
+    },
+    {
+        "file": "Hot-Dong-Nhi.mp3",
+        "album": "Dong Nhi",
+        "title": "Hot-Dong-Nhi"
+    },
+    {
+        "file": "Co-Ba-Sai-Gon-Dong-Nhi.mp3",
+        "album": "Dong Nhi",
+        "title": "Co-Ba-Sai-Gon-Dong-Nhi"
+    },
+    {
+        "file": "Taxi-Dong-Nhi.mp3",
+        "album": "Dong Nhi",
+        "title": "Taxi-Dong-Nhi"
+    },
+    {
+        "file": "Cho-Em-Mot-Lan-Yeu-Dong-Nhi.mp3",
+        "album": "Dong Nhi",
+        "title": "Cho-Em-Mot-Lan-Yeu-Dong-Nhi"
+    },
+    {
+        "file": "Dung-Ngoi-Yen-Trong-Goc-Toi-Dong-Nhi.mp3",
+        "album": "Dong Nhi",
+        "title": "Dung-Ngoi-Yen-Trong-Goc-Toi-Dong-Nhi"
+    },
+    {
+        "file": "Loi-Thu-Toi-Ngot-Ngao-Dong-Nhi.mp3",
+        "album": "Dong Nhi",
+        "title": "Loi-Thu-Toi-Ngot-Ngao-Dong-Nhi"
+    },
+    {
+        "file": "Khoc-Dong-Nhi.mp3",
+        "album": "Dong Nhi",
+        "title": "Khoc-Dong-Nhi"
+    },
+    {
+        "file": "Nghi-Ngo-Dong-Nhi-Ngo-Kien-Huy.mp3",
+        "album": "Dong Nhi",
+        "title": "Nghi-Ngo-Dong-Nhi-Ngo-Kien-Huy"
+    },
+    {
+        "file": "Co-Nhung-Yeu-Thuong-Nao-Dong-Nhi.mp3",
+        "album": "Dong Nhi",
+        "title": "Co-Nhung-Yeu-Thuong-Nao-Dong-Nhi"
+    },
+    {
+        "file": "Baby-One-More-Time-Dong-Nhi.mp3",
+        "album": "Dong Nhi",
+        "title": "Baby-One-More-Time-Dong-Nhi"
+    },
+    {
+        "file": "Ac-Mong-Cua-Nhung-Giac-Mo-Dong-Nhi.mp3",
+        "album": "Dong Nhi",
+        "title": "Ac-Mong-Cua-Nhung-Giac-Mo-Dong-Nhi"
+    },
+    {
+        "file": "Ngot-Ngao-Dong-Nhi.mp3",
+        "album": "Dong Nhi",
+        "title": "Ngot-Ngao-Dong-Nhi"
+    },
+    {
+        "file": "Trach-Ai-Bay-Gio-Dong-Nhi.mp3",
+        "album": "Dong Nhi",
+        "title": "Trach-Ai-Bay-Gio-Dong-Nhi"
+    },
+    {
+        "file": "Cat-Giau-Ky-Uc-Dong-Nhi-Ong-Cao-Thang.mp3",
+        "album": "Dong Nhi",
+        "title": "Cat-Giau-Ky-Uc-Dong-Nhi-Ong-Cao-Thang"
+    },
+    {
+        "file": "Bad-Boy-Dong-Nhi.mp3",
+        "album": "Dong Nhi",
+        "title": "Bad-Boy-Dong-Nhi"
+    },
+    {
+        "file": "Love-Me-Too-Dong-Nhi.mp3",
+        "album": "Dong Nhi",
+        "title": "Love-Me-Too-Dong-Nhi"
+    },
+    {
+        "file": "Boi-Roi-Dong-Nhi.mp3",
+        "album": "Dong Nhi",
+        "title": "Boi-Roi-Dong-Nhi"
+    },
+    {
         "file": "_Em_Re_Trai_Anh_Re_Phai.mp3",
         "album": "Ung Hoang Phuc",
         "title": "Em Rẽ Trái Anh Rẽ Phải"
