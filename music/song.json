@@ -1,5 +1,205 @@
 [
     {
+        "file": "_Be_What_You_Wanna_Be.mp3",
+        "album": "Audition",
+        "title": "Be What You Wanna Be"
+    },
+    {
+        "file": "_Buttons.mp3",
+        "album": "Audition",
+        "title": "Buttons"
+    },
+    {
+        "file": "_Sign.mp3",
+        "album": "Audition",
+        "title": "Sign"
+    },
+    {
+        "file": "_Giot_Suong_Va_Chiec_La.mp3",
+        "album": "Audition",
+        "title": "Giọt Sương Và Chiếc Lá"
+    },
+    {
+        "file": "_Please_dont.mp3",
+        "album": "Audition",
+        "title": "Please don’t…"
+    },
+    {
+        "file": "_Cry_Cry.mp3",
+        "album": "Audition",
+        "title": "Cry Cry"
+    },
+    {
+        "file": "_Neu.mp3",
+        "album": "Audition",
+        "title": "Nếu"
+    },
+    {
+        "file": "_CROOKED.mp3",
+        "album": "Audition",
+        "title": "CROOKED"
+    },
+    {
+        "file": "_Remember_the_Name_feat._Styles_of_Beyond.mp3",
+        "album": "Audition",
+        "title": "Remember the Name (feat. Styles of Beyond)"
+    },
+    {
+        "file": "_Anh_Tin_Minh_a_Cho_Nhau_Ky_Niem_feat._Luong_Bang_Quang.mp3",
+        "album": "Audition",
+        "title": "Anh Tin Mình Đã Cho Nhau Kỷ Niệm (feat. Lương Bằng Quang)"
+    },
+    {
+        "file": "_Big_Big_World.mp3",
+        "album": "Audition",
+        "title": "Big Big World"
+    },
+    {
+        "file": "_My_Humps.mp3",
+        "album": "Audition",
+        "title": "My Humps"
+    },
+    {
+        "file": "_Girlfriend.mp3",
+        "album": "Audition",
+        "title": "Girlfriend"
+    },
+    {
+        "file": "_NU_ABO.mp3",
+        "album": "Audition",
+        "title": "NU ABO"
+    },
+    {
+        "file": "_30_Ngay_Yeu.mp3",
+        "album": "Audition",
+        "title": "30 Ngày Yêu"
+    },
+    {
+        "file": "_Ma_Boy.mp3",
+        "album": "Audition",
+        "title": "Ma Boy"
+    },
+    {
+        "file": "_Thinking_Of_You.mp3",
+        "album": "Audition",
+        "title": "Thinking Of You"
+    },
+    {
+        "file": "_Ngot_Ngao.mp3",
+        "album": "Audition",
+        "title": "Ngọt Ngào"
+    },
+    {
+        "file": "_EM_NHO_ANH_RAT_NHIEU_feat._Orange.mp3",
+        "album": "Audition",
+        "title": "EM NHỚ ANH RẤT NHIỀU (feat. Orange)"
+    },
+    {
+        "file": "__.mp3",
+        "album": "Audition",
+        "title": "우리 사랑했잖아"
+    },
+    {
+        "file": "_Thats_Not_My_Name.mp3",
+        "album": "Audition",
+        "title": "That's Not My Name"
+    },
+    {
+        "file": "_You_Belong_With_Me.mp3",
+        "album": "Audition",
+        "title": "You Belong With Me"
+    },
+    {
+        "file": "_All_Around_the_World_La_La_La.mp3",
+        "album": "Audition",
+        "title": "All Around the World (La La La)"
+    },
+    {
+        "file": "_Love_Love_Love.mp3",
+        "album": "Audition",
+        "title": "Love Love Love"
+    },
+    {
+        "file": "_So_Sick.mp3",
+        "album": "Audition",
+        "title": "So Sick"
+    },
+    {
+        "file": "_S.O.S_Eng_Ver..mp3",
+        "album": "Audition",
+        "title": "S.O.S (Eng Ver.)"
+    },
+    {
+        "file": "_Tieu_Thuyet_Tinh_Yeu.mp3",
+        "album": "Audition",
+        "title": "Tiểu Thuyết Tình Yêu"
+    },
+    {
+        "file": "_Di_Vang_Nhat_Nhoa_-_Remake.mp3",
+        "album": "Audition",
+        "title": "Dĩ Vãng Nhạt Nhòa - Remake"
+    },
+    {
+        "file": "_Maria.mp3",
+        "album": "Audition",
+        "title": "Maria"
+    },
+    {
+        "file": "_In_the_End.mp3",
+        "album": "Audition",
+        "title": "In the End"
+    },
+    {
+        "file": "_Lieu_Thuoc_Cho_Trai_Tim_-_Remake.mp3",
+        "album": "Audition",
+        "title": "Liều Thuốc Cho Trái Tim - Remake"
+    },
+    {
+        "file": "_Apologize.mp3",
+        "album": "Audition",
+        "title": "Apologize"
+    },
+    {
+        "file": "_Lollipop.mp3",
+        "album": "Audition",
+        "title": "Lollipop"
+    },
+    {
+        "file": "_Toxic.mp3",
+        "album": "Audition",
+        "title": "Toxic"
+    },
+    {
+        "file": "_Nho_Lam.mp3",
+        "album": "Audition",
+        "title": "Nhớ Lắm"
+    },
+    {
+        "file": "_I_Love_You_and_Love_you_inst.mp3",
+        "album": "Audition",
+        "title": "I Love You and Love you (inst)"
+    },
+    {
+        "file": "_U_Go_Girl.mp3",
+        "album": "Audition",
+        "title": "U Go Girl"
+    },
+    {
+        "file": "_The_Day_You_Went_Away.mp3",
+        "album": "Audition",
+        "title": "The Day You Went Away"
+    },
+    {
+        "file": "_...Baby_One_More_Time.mp3",
+        "album": "Audition",
+        "title": "...Baby One More Time"
+    },
+    {
+        "file": "___.mp3",
+        "album": "Audition",
+        "title": "너 때문에 미쳐"
+    },
+    {
         "file": "_Chiec_Gay_Truong_Son.mp3",
         "album": "Tu Hao Viet Nam",
         "title": "Chiếc Gậy Trường Sơn"
