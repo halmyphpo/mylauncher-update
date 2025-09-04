@@ -967,7 +967,8 @@
     {
         "file": "_Xuan_Ve_Con_Cung_Ve.mp3",
         "album": "Ung Hoang Phuc",
-        "title": "Xuân Về Con Cũng Về"
+        "title": "Xuân Về Con Cũng Về",
+        "delete": true
     },
     {
         "file": "_Sau_em_Nay.mp3",
