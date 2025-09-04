@@ -1,5 +1,180 @@
 [
     {
+        "file": "_Chiec_Gay_Truong_Son.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Chiếc Gậy Trường Sơn"
+    },
+    {
+        "file": "_Khat_Vong_Tuoi_Tre.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Khát Vọng Tuổi Trẻ"
+    },
+    {
+        "file": "_Niem_Tin_Chien_Thang.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Niềm Tin Chiến Thắng"
+    },
+    {
+        "file": "_Tau_Anh_Qua_Nui.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Tàu Anh Qua Núi"
+    },
+    {
+        "file": "_Rung_Vang_Bien_Bac.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Rừng Vàng Biển Bạc"
+    },
+    {
+        "file": "_Ru_Lai_Cau_Ho.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Ru Lại Câu Hò"
+    },
+    {
+        "file": "_Gap_Nhau_giua_Rung_Mo.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Gặp Nhau giữa Rừng Mơ"
+    },
+    {
+        "file": "_Tinh_ta_bien_bac_ong_xanh.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Tình ta biển bạc đồng xanh"
+    },
+    {
+        "file": "_Viet_Tiep_Cau_Chuyen_Hoa_Binh.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Viết Tiếp Câu Chuyện Hòa Bình"
+    },
+    {
+        "file": "_Co_Gai_Sai_Gon_i_Tai_an.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Cô Gái Sài Gòn Đi Tải Đạn"
+    },
+    {
+        "file": "_Mashup_Nam_Quoc_Son_Ha__at_Nuoc_Loi_Ru.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Mashup: Nam Quốc Sơn Hà & Đất Nước Lời Ru"
+    },
+    {
+        "file": "_Noi_Vong_Tay_Lon.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Nối Vòng Tay Lớn"
+    },
+    {
+        "file": "_i_cung_anh_sang.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Đi cùng ánh sáng"
+    },
+    {
+        "file": "_Con_Thuong_Rau_ang_Moc_Sau_He.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Còn Thương Rau Đắng Mọc Sau Hè"
+    },
+    {
+        "file": "_Tien_Len_Viet_Nam_Oi.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Tiến Lên Việt Nam Ơi"
+    },
+    {
+        "file": "_Con_Gi_ep_Hon_-_Mua_o_Original_Soundtrack.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Còn Gì Đẹp Hơn - Mưa Đỏ Original Soundtrack"
+    },
+    {
+        "file": "_To_quoc_goi_ten_minh.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Tổ quốc gọi tên mình"
+    },
+    {
+        "file": "_Bai_Ca_Tom_Ca.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Bài Ca Tôm Cá"
+    },
+    {
+        "file": "_Ha_Noi_Muoi_Hai_Mua_Hoa.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Hà Nội Mười Hai Mùa Hoa"
+    },
+    {
+        "file": "_Mot_Khuc_Tam_Tinh_Cua_Nguoi_Ha_Tinh.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Một Khúc Tâm Tình Của Người Hà Tĩnh"
+    },
+    {
+        "file": "_VIET_NAM_TOI_O.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "VIỆT NAM TÔI ĐÓ"
+    },
+    {
+        "file": "_Co_gai_vot_chong.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Cô gái vót chông"
+    },
+    {
+        "file": "_Mot_Vong_Viet_Nam.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Một Vòng Việt Nam"
+    },
+    {
+        "file": "_Ho_Vuon_Minh.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Hò Vươn Mình"
+    },
+    {
+        "file": "_Nha_Toi_Co_Treo_Mot_La_Co.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Nhà Tôi Có Treo Một Lá Cờ"
+    },
+    {
+        "file": "_Nguoi_i_xay_ho_Ke_Go.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Người đi xây hồ Kẻ Gỗ"
+    },
+    {
+        "file": "_Dong_song_que_anh_dong_song_que_em.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Dòng sông quê anh, dòng sông quê em"
+    },
+    {
+        "file": "_ieu_Phi_Thuong_Nho_Be.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Điều Phi Thường Nhỏ Bé"
+    },
+    {
+        "file": "_Quang_Binh_que_ta_oi.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Quảng Bình quê ta ơi"
+    },
+    {
+        "file": "_Chiec_Khan_Pieu.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Chiếc Khăn Piêu"
+    },
+    {
+        "file": "_Viet_Nam_Tu_Te.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Việt Nam Tử Tế"
+    },
+    {
+        "file": "_Co_Gai_Mo_uong.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Cô Gái Mở Đường"
+    },
+    {
+        "file": "_Gui_Em_O_Cuoi_Song_Hong.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Gửi Em Ở Cuối Sông Hồng"
+    },
+    {
+        "file": "_Mau_o_Da_Vang.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Máu Đỏ Da Vàng"
+    },
+    {
+        "file": "_Noi_Lua_Len_Em.mp3",
+        "album": "Tu Hao Viet Nam",
+        "title": "Nổi Lửa Lên Em"
+    },
+    {
         "file": "Bang-Gia-Khoi-My.mp3",
         "album": "Khoi My",
         "title": "Bang-Gia-Khoi-My"
@@ -1147,7 +1322,8 @@
     {
         "file": "Me_Oi_Tai_Sao.mp3",
         "album": "Tre em",
-        "title": "Mẹ Ơi Tại Sao"
+        "title": "Mẹ Ơi Tại Sao",
+        "delete": true
     },
     {
         "file": "Em_Di_Choi_Thuyen.mp3",
