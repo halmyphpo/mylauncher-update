@@ -1477,7 +1477,8 @@
     {
         "file": "Rua_Mat_Nhu_Meo.mp3",
         "album": "Tre em",
-        "title": "Rửa Mặt Như Mèo"
+        "title": "Rửa Mặt Như Mèo",
+        "delete": true
     },
     {
         "file": "Qua_Gi.mp3",
