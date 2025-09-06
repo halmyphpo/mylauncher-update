@@ -1,0 +1,9 @@
+2025-09-06 12:22:50 [MusicDownloader] ❌ HTTP error: 416 for Anh_Yeu_Voi_The_Remix.mp3
+2025-09-06 12:22:51 [MusicDownloader] ❌ HTTP error: 416 for Ang_May_Vo_Tinh_-_Zero_Remix.mp3
+2025-09-06 12:22:52 [MusicDownloader] ❌ HTTP error: 416 for Khong_Bang_Remix.mp3
+2025-09-06 12:22:53 [MusicDownloader] ❌ HTTP error: 416 for Noi_Gio_Len_Qinn_Remix.mp3
+2025-09-06 12:22:55 [MusicDownloader] ❌ HTTP error: 416 for Nhuong_Hanh_Phuc_Cho_Anh_Qinn_Remix.mp3
+2025-09-06 12:22:56 [MusicDownloader] ❌ HTTP error: 416 for Vuong_Van_-_Qinn_Remix.mp3
+2025-09-06 12:22:57 [MusicDownloader] ❌ HTTP error: 416 for oan_Xuan_Ca_Remix.mp3
+2025-09-06 12:22:58 [MusicDownloader] ❌ HTTP error: 416 for i_Bao_Xa_-_Cukak_Remix.mp3
+2025-09-06 12:22:59 [MusicDownloader] ❌ HTTP error: 416 for Toi_Duyen_Qinn_Remix.mp3
