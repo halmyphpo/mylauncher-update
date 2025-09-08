@@ -1,5 +1,205 @@
 [
     {
+        "file": "_Co_Be_Mua_ong.mp3",
+        "album": "Audition",
+        "title": "Cô Bé Mùa Đông"
+    },
+    {
+        "file": "_Xin_Hay_Thu_Tha_Feat._Suboi.mp3",
+        "album": "Audition",
+        "title": "Xin Hay Thu Tha (Feat. Suboi)"
+    },
+    {
+        "file": "_Ngoi_Nha_Hoa_Hong.mp3",
+        "album": "Audition",
+        "title": "Ngôi Nhà Hoa Hồng"
+    },
+    {
+        "file": "_Khi_Co_on_Em_Nho_Ai_Lofi_-_From_Chill_With_Vicky_Nhung_-_Season_2_Memory.mp3",
+        "album": "Audition",
+        "title": "Khi Cô Đơn Em Nhớ Ai (Lofi) - From \"Chill With Vicky Nhung - Season 2: Memory\""
+    },
+    {
+        "file": "_Not_A_Single_Day.mp3",
+        "album": "Audition",
+        "title": "Not A Single Day"
+    },
+    {
+        "file": "_She_Neva_Knows.mp3",
+        "album": "Audition",
+        "title": "She Neva Knows"
+    },
+    {
+        "file": "_Hoa_Nang_-_Live.mp3",
+        "album": "Audition",
+        "title": "Hoa Nắng - Live"
+    },
+    {
+        "file": "_Every_Heart--.mp3",
+        "album": "Audition",
+        "title": "Every Heart-ミンナノキモチ-"
+    },
+    {
+        "file": "_Xe_ap.mp3",
+        "album": "Audition",
+        "title": "Xe Đạp"
+    },
+    {
+        "file": "_Hoang_Mang.mp3",
+        "album": "Audition",
+        "title": "Hoang Mang"
+    },
+    {
+        "file": "_Xin_Anh_ung.mp3",
+        "album": "Audition",
+        "title": "Xin Anh Đừng"
+    },
+    {
+        "file": "_Nana_Lonely_-_DJ_Dacian_Remix.mp3",
+        "album": "Audition",
+        "title": "Nana (Lonely) - DJ Dacian Remix"
+    },
+    {
+        "file": "_Sweet_Dream.mp3",
+        "album": "Audition",
+        "title": "Sweet Dream"
+    },
+    {
+        "file": "_Wedding_Dress.mp3",
+        "album": "Audition",
+        "title": "Wedding Dress"
+    },
+    {
+        "file": "_I_Wanna_Fuck_You.mp3",
+        "album": "Audition",
+        "title": "I Wanna Fuck You"
+    },
+    {
+        "file": "_Y_Please_Tell_Me_Why.mp3",
+        "album": "Audition",
+        "title": "Y (Please Tell Me Why)"
+    },
+    {
+        "file": "_10_Minutes.mp3",
+        "album": "Audition",
+        "title": "10 Minutes"
+    },
+    {
+        "file": "_Dilemma.mp3",
+        "album": "Audition",
+        "title": "Dilemma"
+    },
+    {
+        "file": "_Buc_Thu_Tinh_Thu_Hai.mp3",
+        "album": "Audition",
+        "title": "Bức Thư Tình Thứ Hai"
+    },
+    {
+        "file": "_I_Dont_Care.mp3",
+        "album": "Audition",
+        "title": "I Don't Care"
+    },
+    {
+        "file": "_I_LOVE_YOU.mp3",
+        "album": "Audition",
+        "title": "I LOVE YOU"
+    },
+    {
+        "file": "_Abracadabra.mp3",
+        "album": "Audition",
+        "title": "Abracadabra"
+    },
+    {
+        "file": "_Thien_uong_Goi_Ten.mp3",
+        "album": "Audition",
+        "title": "Thiên Đường Gọi Tên"
+    },
+    {
+        "file": "_Dong_Thoi_Gian_Theme_Song_From_Mui_Ngo_Gai.mp3",
+        "album": "Audition",
+        "title": "Dòng Thời Gian (Theme Song From \"Mùi Ngò Gai\")"
+    },
+    {
+        "file": "_We_belong_together.mp3",
+        "album": "Audition",
+        "title": "We belong together"
+    },
+    {
+        "file": "_Tan.mp3",
+        "album": "Audition",
+        "title": "Tan"
+    },
+    {
+        "file": "_Mua.mp3",
+        "album": "Audition",
+        "title": "Mưa"
+    },
+    {
+        "file": "_A_Better_Day.mp3",
+        "album": "Audition",
+        "title": "A Better Day"
+    },
+    {
+        "file": "_Xin_Loi_Anh_Sorry.mp3",
+        "album": "Audition",
+        "title": "Xin Lỗi Anh (Sorry)"
+    },
+    {
+        "file": "_Sick_enough_to_die_Feat._JAMIE.mp3",
+        "album": "Audition",
+        "title": "Sick enough to die (Feat. JAMIE)"
+    },
+    {
+        "file": "_I_Know_What_You_Want_feat._Flipmode_Squad.mp3",
+        "album": "Audition",
+        "title": "I Know What You Want (feat. Flipmode Squad)"
+    },
+    {
+        "file": "_Everybody_Backstreets_Back_-_Radio_Edit.mp3",
+        "album": "Audition",
+        "title": "Everybody (Backstreet's Back) - Radio Edit"
+    },
+    {
+        "file": "_Haru_Haru.mp3",
+        "album": "Audition",
+        "title": "Haru Haru"
+    },
+    {
+        "file": "__Eyes_Nose_Lips.mp3",
+        "album": "Audition",
+        "title": "눈,코,입 (Eyes, Nose, Lips)"
+    },
+    {
+        "file": "_Noi_Nho_ay_Voi.mp3",
+        "album": "Audition",
+        "title": "Nỗi Nhớ Đầy Vơi"
+    },
+    {
+        "file": "_Vi_Sao.mp3",
+        "album": "Audition",
+        "title": "Vì Sao"
+    },
+    {
+        "file": "_Nguoi_Yeu_Cu.mp3",
+        "album": "Audition",
+        "title": "Người Yêu Cũ"
+    },
+    {
+        "file": "_Lonely.mp3",
+        "album": "Audition",
+        "title": "Lonely"
+    },
+    {
+        "file": "_Than_Thoai_Lofi.mp3",
+        "album": "Audition",
+        "title": "Thần Thoại (Lofi)"
+    },
+    {
+        "file": "_Dead_And_Gone.mp3",
+        "album": "Audition",
+        "title": "Dead And Gone"
+    },
+    {
         "file": "_Be_What_You_Wanna_Be.mp3",
         "album": "Audition",
         "title": "Be What You Wanna Be"
@@ -2243,11 +2443,6 @@
         "title": "Chuột Yêu Gạo"
     },
     {
-        "file": "_Mua.mp3",
-        "album": "Khoi My",
-        "title": "Mưa"
-    },
-    {
         "file": "_Vi_Sao_-_Nam_Con_Remix.mp3",
         "album": "Khoi My",
         "title": "Vì Sao - Nam Con Remix"
@@ -2283,11 +2478,6 @@
         "title": "Rùa Con Của Em"
     },
     {
-        "file": "_Vi_Sao.mp3",
-        "album": "Khoi My",
-        "title": "Vì Sao"
-    },
-    {
         "file": "_em_Nho_Anh_Diu_Dang.mp3",
         "album": "Khoi My",
         "title": "Đêm Nhớ Anh Dịu Dàng"
@@ -2311,11 +2501,6 @@
         "file": "_Gui_Cho_Anh.mp3",
         "album": "Khoi My",
         "title": "Gửi Cho Anh"
-    },
-    {
-        "file": "_Nguoi_Yeu_Cu.mp3",
-        "album": "Khoi My",
-        "title": "Người Yêu Cũ"
     },
     {
         "file": "_Tinh_Se_Khong_Am_Tham.mp3",
