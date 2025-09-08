@@ -377,97 +377,116 @@
     {
         "file": "Bang-Gia-Khoi-My.mp3",
         "album": "Khoi My",
-        "title": "Bang-Gia-Khoi-My"
+        "title": "Bang-Gia-Khoi-My",
+        "delete": true
     },
     {
         "file": "Buong-Tay-Khoi-My-La-Thang.mp3",
         "album": "Khoi My",
-        "title": "Buong-Tay-Khoi-My-La-Thang"
+        "title": "Buong-Tay-Khoi-My-La-Thang",
+        "delete": true
     },
     {
         "file": "Lau-Roi-Khoi-My.mp3",
         "album": "Khoi My",
-        "title": "Lau-Roi-Khoi-My"
+        "title": "Lau-Roi-Khoi-My",
+        "delete": true
     },
     {
         "file": "La-Con-Gai-That-Tuyet-Khoi-My.mp3",
         "album": "Khoi My",
-        "title": "La-Con-Gai-That-Tuyet-Khoi-My"
+        "title": "La-Con-Gai-That-Tuyet-Khoi-My",
+        "delete": true
     },
     {
         "file": "Nguoi-Yeu-Cu-Khoi-My.mp3",
         "album": "Khoi My",
-        "title": "Nguoi-Yeu-Cu-Khoi-My"
+        "title": "Nguoi-Yeu-Cu-Khoi-My",
+        "delete": true
     },
     {
         "file": "I-Don-t-Want-Khoi-My.mp3",
         "album": "Khoi My",
-        "title": "I-Don-t-Want-Khoi-My"
+        "title": "I-Don-t-Want-Khoi-My",
+        "delete": true
     },
     {
         "file": "Chuot-Yeu-Gao-Khoi-My-Kelvin-Khanh.mp3",
         "album": "Khoi My",
-        "title": "Chuot-Yeu-Gao-Khoi-My-Kelvin-Khanh"
+        "title": "Chuot-Yeu-Gao-Khoi-My-Kelvin-Khanh",
+        "delete": true
     },
     {
         "file": "Alone-Khoi-My.mp3",
         "album": "Khoi My",
-        "title": "Alone-Khoi-My"
+        "title": "Alone-Khoi-My",
+        "delete": true
     },
     {
         "file": "Co-Bao-Gio-Anh-Nho-Khoi-My.mp3",
         "album": "Khoi My",
-        "title": "Co-Bao-Gio-Anh-Nho-Khoi-My"
+        "title": "Co-Bao-Gio-Anh-Nho-Khoi-My",
+        "delete": true
     },
     {
         "file": "Me-Yeu-Oi-Khoi-My.mp3",
         "album": "Khoi My",
-        "title": "Me-Yeu-Oi-Khoi-My"
+        "title": "Me-Yeu-Oi-Khoi-My",
+        "delete": true
     },
     {
         "file": "Canh-Phi-Yen-Trong-Mua-Khoi-My.mp3",
         "album": "Khoi My",
-        "title": "Canh-Phi-Yen-Trong-Mua-Khoi-My"
+        "title": "Canh-Phi-Yen-Trong-Mua-Khoi-My",
+        "delete": true
     },
     {
         "file": "Cao-Cao-La-Tre-Khoi-My.mp3",
         "album": "Khoi My",
-        "title": "Cao-Cao-La-Tre-Khoi-My"
+        "title": "Cao-Cao-La-Tre-Khoi-My",
+        "delete": true
     },
     {
         "file": "Xe-Dap-Teen-Duy-Anh-Khoi-My.mp3",
         "album": "Khoi My",
-        "title": "Xe-Dap-Teen-Duy-Anh-Khoi-My"
+        "title": "Xe-Dap-Teen-Duy-Anh-Khoi-My",
+        "delete": true
     },
     {
         "file": "Mong-Mot-Hanh-Phuc-Khoi-My.mp3",
         "album": "Khoi My",
-        "title": "Mong-Mot-Hanh-Phuc-Khoi-My"
+        "title": "Mong-Mot-Hanh-Phuc-Khoi-My",
+        "delete": true
     },
     {
         "file": "Khoc-Dem-Khoi-My.mp3",
         "album": "Khoi My",
-        "title": "Khoc-Dem-Khoi-My"
+        "title": "Khoc-Dem-Khoi-My",
+        "delete": true
     },
     {
         "file": "Mua-Roi-Vao-Phong-Khoi-My.mp3",
         "album": "Khoi My",
-        "title": "Mua-Roi-Vao-Phong-Khoi-My"
+        "title": "Mua-Roi-Vao-Phong-Khoi-My",
+        "delete": true
     },
     {
         "file": "Gui-Cho-Anh-Khoi-My.mp3",
         "album": "Khoi My",
-        "title": "Gui-Cho-Anh-Khoi-My"
+        "title": "Gui-Cho-Anh-Khoi-My",
+        "delete": true
     },
     {
         "file": "Thuong-Hai-Khoi-My.mp3",
         "album": "Khoi My",
-        "title": "Thuong-Hai-Khoi-My"
+        "title": "Thuong-Hai-Khoi-My",
+        "delete": true
     },
     {
         "file": "De-Thuong-Khoi-My.mp3",
         "album": "Khoi My",
-        "title": "De-Thuong-Khoi-My"
+        "title": "De-Thuong-Khoi-My",
+        "delete": true
     },
     {
         "file": "Em-Yeu-Anh-Nhieu-Lam-Bao-Thy.mp3",
@@ -963,12 +982,6 @@
         "file": "_Tha_Rang_Nhu_The.mp3",
         "album": "Ung Hoang Phuc",
         "title": "Tha Rang Nhu The"
-    },
-    {
-        "file": "_Xuan_Ve_Con_Cung_Ve.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Xuân Về Con Cũng Về",
-        "delete": true
     },
     {
         "file": "_Sau_em_Nay.mp3",
@@ -1476,12 +1489,6 @@
         "title": "Chú Ếch Con"
     },
     {
-        "file": "Rua_Mat_Nhu_Meo.mp3",
-        "album": "Tre em",
-        "title": "Rửa Mặt Như Mèo",
-        "delete": true
-    },
-    {
         "file": "Qua_Gi.mp3",
         "album": "Tre em",
         "title": "Quả Gì"
@@ -1520,12 +1527,6 @@
         "file": "Lien_khuc_Mot_Con_Vit_Kia_Con_Buom_Vang_Con_Cao_Cao.mp3",
         "album": "Tre em",
         "title": "Liên khúc Một Con Vịt, Kìa Con Bướm Vàng, Con Cào Cào"
-    },
-    {
-        "file": "Me_Oi_Tai_Sao.mp3",
-        "album": "Tre em",
-        "title": "Mẹ Ơi Tại Sao",
-        "delete": true
     },
     {
         "file": "Em_Di_Choi_Thuyen.mp3",
@@ -2131,5 +2132,199 @@
         "file": "Giang_Hai_Khong_o_Nang_Remix.mp3",
         "album": "Remix",
         "title": "Giang Hải Không Độ Nàng (Remix)"
+    },{
+        "file": "_Anh_O_au.mp3",
+        "album": "Khoi My",
+        "title": "Anh Ở Đâu"
+    },
+    {
+        "file": "_Somebody_To_Love.mp3",
+        "album": "Khoi My",
+        "title": "Somebody To Love"
+    },
+    {
+        "file": "_Khoc_em.mp3",
+        "album": "Khoi My",
+        "title": "Khóc Đêm"
+    },
+    {
+        "file": "_La_Con_Gai_That_Tuyet.mp3",
+        "album": "Khoi My",
+        "title": "Là Con Gái Thật Tuyệt"
+    },
+    {
+        "file": "_Cu_Ngu_Say.mp3",
+        "album": "Khoi My",
+        "title": "Cứ Ngủ Say"
+    },
+    {
+        "file": "_Thuong_Hai.mp3",
+        "album": "Khoi My",
+        "title": "Thương Hại"
+    },
+    {
+        "file": "_Ngoi_Sao_Mang_Ten_Em.mp3",
+        "album": "Khoi My",
+        "title": "Ngôi Sao Mang Tên Em"
+    },
+    {
+        "file": "_Vet_Cat.mp3",
+        "album": "Khoi My",
+        "title": "Vết Cắt"
+    },
+    {
+        "file": "_Dont_Leave_Me.mp3",
+        "album": "Khoi My",
+        "title": "Don't Leave Me"
+    },
+    {
+        "file": "_Muoi_Chin_Roi.mp3",
+        "album": "Khoi My",
+        "title": "Mười Chín Rồi"
+    },
+    {
+        "file": "_Xa_Mat_Cach_Long.mp3",
+        "album": "Khoi My",
+        "title": "Xa Mặt Cách Lòng"
+    },
+    {
+        "file": "_Hoa_Nang.mp3",
+        "album": "Khoi My",
+        "title": "Hoa Nắng"
+    },
+    {
+        "file": "_Mong_Mot_Hanh_Phuc.mp3",
+        "album": "Khoi My",
+        "title": "Mong Một Hạnh Phúc"
+    },
+    {
+        "file": "_Sao_om_om.mp3",
+        "album": "Khoi My",
+        "title": "Sao Đom Đóm"
+    },
+    {
+        "file": "_De_Thuong.mp3",
+        "album": "Khoi My",
+        "title": "Dễ Thương"
+    },
+    {
+        "file": "_Phep_Mau_Tinh_Yeu.mp3",
+        "album": "Khoi My",
+        "title": "Phép Màu Tình Yêu"
+    },
+    {
+        "file": "_Nang_Canh_Uoc_Mo.mp3",
+        "album": "Khoi My",
+        "title": "Nâng Cánh Ước Mơ"
+    },
+    {
+        "file": "_Toi_Muon_Yeu_Mot_Nguoi.mp3",
+        "album": "Khoi My",
+        "title": "Tôi Muốn Yêu Một Người"
+    },
+    {
+        "file": "_Canh_Phi_Yen_Trong_Mua.mp3",
+        "album": "Khoi My",
+        "title": "Cành Phi Yến Trong Mưa"
+    },
+    {
+        "file": "_Xuan_Tinh_Yeu.mp3",
+        "album": "Khoi My",
+        "title": "Xuân Tình Yêu"
+    },
+    {
+        "file": "_Xe_ap_Teen.mp3",
+        "album": "Khoi My",
+        "title": "Xe Đạp Teen"
+    },
+    {
+        "file": "_Chuot_Yeu_Gao.mp3",
+        "album": "Khoi My",
+        "title": "Chuột Yêu Gạo"
+    },
+    {
+        "file": "_Mua.mp3",
+        "album": "Khoi My",
+        "title": "Mưa"
+    },
+    {
+        "file": "_Vi_Sao_-_Nam_Con_Remix.mp3",
+        "album": "Khoi My",
+        "title": "Vì Sao - Nam Con Remix"
+    },
+    {
+        "file": "_Alone.mp3",
+        "album": "Khoi My",
+        "title": "Alone"
+    },
+    {
+        "file": "_Buoc_Chan.mp3",
+        "album": "Khoi My",
+        "title": "Bước Chân"
+    },
+    {
+        "file": "_Yeu_Tung_Phut_Tung_Giay.mp3",
+        "album": "Khoi My",
+        "title": "Yêu Từng Phút Từng Giây"
+    },
+    {
+        "file": "_Mua_Roi_Vao_Phong.mp3",
+        "album": "Khoi My",
+        "title": "Mưa Rơi Vào Phòng"
+    },
+    {
+        "file": "_Trong_Tui_Ao_Anh_feat._Bao_Thach.mp3",
+        "album": "Khoi My",
+        "title": "Trong Túi Áo Anh (feat. Bảo Thạch)"
+    },
+    {
+        "file": "_Rua_Con_Cua_Em.mp3",
+        "album": "Khoi My",
+        "title": "Rùa Con Của Em"
+    },
+    {
+        "file": "_Vi_Sao.mp3",
+        "album": "Khoi My",
+        "title": "Vì Sao"
+    },
+    {
+        "file": "_em_Nho_Anh_Diu_Dang.mp3",
+        "album": "Khoi My",
+        "title": "Đêm Nhớ Anh Dịu Dàng"
+    },
+    {
+        "file": "_Chuyen_Co_Gai_Nho_-_Chinese_Version.mp3",
+        "album": "Khoi My",
+        "title": "Chuyện Cô Gái Nhỏ - Chinese Version"
+    },
+    {
+        "file": "_ung_Ban_Tam.mp3",
+        "album": "Khoi My",
+        "title": "Đừng Bận Tâm"
+    },
+    {
+        "file": "_Say_Love_You.mp3",
+        "album": "Khoi My",
+        "title": "Say Love You"
+    },
+    {
+        "file": "_Gui_Cho_Anh.mp3",
+        "album": "Khoi My",
+        "title": "Gửi Cho Anh"
+    },
+    {
+        "file": "_Nguoi_Yeu_Cu.mp3",
+        "album": "Khoi My",
+        "title": "Người Yêu Cũ"
+    },
+    {
+        "file": "_Tinh_Se_Khong_Am_Tham.mp3",
+        "album": "Khoi My",
+        "title": "Tình Sẽ Không Âm Thầm"
+    },
+    {
+        "file": "_Goc_Nho_Trong_Tim.mp3",
+        "album": "Khoi My",
+        "title": "Góc Nhỏ Trong Tim"
     }
 ]
