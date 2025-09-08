@@ -1,2 +1,0 @@
-2025-09-04 21:47:03 [LogHelper] Upload all log and delete
-2025-09-04 21:50:26 [LogHelper] Upload all log and delete
