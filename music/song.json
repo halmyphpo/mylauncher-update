@@ -180,11 +180,6 @@
         "title": "Vì Sao"
     },
     {
-        "file": "_Nguoi_Yeu_Cu.mp3",
-        "album": "Audition",
-        "title": "Người Yêu Cũ"
-    },
-    {
         "file": "_Lonely.mp3",
         "album": "Audition",
         "title": "Lonely"
@@ -2537,5 +2532,140 @@
         "file": "_Goc_Nho_Trong_Tim.mp3",
         "album": "Khoi My",
         "title": "Góc Nhỏ Trong Tim"
+    },
+    {
+        "file": "_Sao_Cha_Khong_From__Bo_Gia__Original_Motion_Picture_Soundtrack.mp3",
+        "album": "PMQuynh",
+        "title": "Sao Cha Không (From _Bố Già_ Original Motion Picture Soundtrack)"
+    },
+    {
+        "file": "_i_e_Tro_Ve_Mashup.mp3",
+        "album": "PMQuynh",
+        "title": "Đi Để Trở Về Mashup"
+    },
+    {
+        "file": "_Tri_Ky.mp3",
+        "album": "PMQuynh",
+        "title": "Tri Kỷ"
+    },
+    {
+        "file": "_Ha_Lan___Tu_o_Mashup.mp3",
+        "album": "PMQuynh",
+        "title": "Hà Lan _ Từ Đó (Mashup)"
+    },
+    {
+        "file": "_Goc_Khuat_Sau_Hanh_Phuc.mp3",
+        "album": "PMQuynh",
+        "title": "Góc Khuất Sau Hạnh Phúc"
+    },
+    {
+        "file": "_Ai_Cung_Co_Ngay_Xua___Chi_Toi_Mashup.mp3",
+        "album": "PMQuynh",
+        "title": "Ai Cũng Có Ngày Xưa _ Chị Tôi (Mashup)"
+    },
+    {
+        "file": "_Khi_Nguoi_Minh_Yeu_Khoc_feat._Phan_Manh_Quynh_Bui_Lan_Huong.mp3",
+        "album": "PMQuynh",
+        "title": "Khi Người Mình Yêu Khóc (feat. Phan Mạnh Quỳnh, Bùi Lan Hương)"
+    },
+    {
+        "file": "_Co_Chang_Trai_Viet_Len_Cay.mp3",
+        "album": "PMQuynh",
+        "title": "Có Chàng Trai Viết Lên Cây"
+    },
+    {
+        "file": "_Tim_Bien_Cua_Hy_Vong_2022_feat._Phan_Manh_Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Tìm (Biển Của Hy Vọng 2022) [feat. Phan Mạnh Quỳnh]"
+    },
+    {
+        "file": "_Loi_Tu_Trai_Tim_Anh.mp3",
+        "album": "PMQuynh",
+        "title": "Lời Từ Trái Tim Anh"
+    },
+    {
+        "file": "_ua_Anh_Ve.mp3",
+        "album": "PMQuynh",
+        "title": "Đưa Anh Về"
+    },
+    {
+        "file": "_Co_Chang_Trai_Viet_Len_Cay___Chuyen_Tinh_Thao_Nguyen_Mashup.mp3",
+        "album": "PMQuynh",
+        "title": "Có Chàng Trai Viết Lên Cây _ Chuyện Tình Thảo Nguyên (Mashup)"
+    },
+    {
+        "file": "_Anh_Ghet_Lam_Ban_Em.mp3",
+        "album": "PMQuynh",
+        "title": "Anh Ghét Làm Bạn Em"
+    },
+    {
+        "file": "_Tu_Ban_Tay_Nay.mp3",
+        "album": "PMQuynh",
+        "title": "Từ Bàn Tay Này"
+    },
+    {
+        "file": "_NHAT.mp3",
+        "album": "PMQuynh",
+        "title": "NHẠT"
+    },
+    {
+        "file": "_a_oan.mp3",
+        "album": "PMQuynh",
+        "title": "Đa Đoan"
+    },
+    {
+        "file": "_Con_Tim_Tan_Vo.mp3",
+        "album": "PMQuynh",
+        "title": "Con Tim Tan Vỡ"
+    },
+    {
+        "file": "_Nuoc_Ngoai.mp3",
+        "album": "PMQuynh",
+        "title": "Nước Ngoài"
+    },
+    {
+        "file": "_Hoi_Uc.mp3",
+        "album": "PMQuynh",
+        "title": "Hồi Ức"
+    },
+    {
+        "file": "_Co_Mot_Noi_Nhu_The.mp3",
+        "album": "PMQuynh",
+        "title": "Có Một Nơi Như Thế"
+    },
+    {
+        "file": "_Sau_Loi_Tu_Khuoc_Theme_Song_From__MAI_.mp3",
+        "album": "PMQuynh",
+        "title": "Sau Lời Từ Khước (Theme Song From _MAI_)"
+    },
+    {
+        "file": "_Huyen_Thoai.mp3",
+        "album": "PMQuynh",
+        "title": "Huyền Thoại"
+    },
+    {
+        "file": "_Loi_Hen_Theme_Song_From_Tham_Tu_Kien.mp3",
+        "album": "PMQuynh",
+        "title": "Lời Hẹn (Theme Song From “Thám Tử Kiên”)"
+    },
+    {
+        "file": "_Thang_4_La_Loi_Noi_Doi_Cua_Em_Bien_Cua_Hy_Vong_2022_feat._Phan_Manh_Quynh.mp3",
+        "album": "PMQuynh",
+        "title": "Tháng 4 Là Lời Nói Dối Của Em (Biển Của Hy Vọng 2022) [feat. Phan Mạnh Quỳnh]"
+    },
+    {
+        "file": "_Khi_Phai_Quen_i.mp3",
+        "album": "PMQuynh",
+        "title": "Khi Phải Quên Đi"
+    },
+    {
+        "file": "_Nguoi_Yeu_Cu.mp3",
+        "album": "PMQuynh",
+        "title": "Người Yêu Cũ"
+    },
+    {
+        "file": "_Nguoi_Khac.mp3",
+        "album": "PMQuynh",
+        "title": "Người Khác"
     }
 ]
