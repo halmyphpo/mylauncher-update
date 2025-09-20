@@ -1,0 +1,18 @@
+2025-09-21 07:28:44 [LogHelper] Upload all log and delete
+2025-09-21 07:29:08 [DBDOWNLOAD] Đã xóa DB cũ
+2025-09-21 07:30:42 [DBDOWNLOAD] Đã xóa DB cũ
+2025-09-21 07:32:16 [Map] Hoàn tất tải (r=50km)
+2025-09-21 07:32:22 [DBDOWNLOAD] Đã xóa DB cũ
+2025-09-21 07:35:49 [LogHelper] Upload all log and delete
+2025-09-21 07:36:05 [DBDOWNLOAD] Đã xóa DB cũ
+2025-09-21 07:40:19 [LogHelper] Upload all log and delete
+2025-09-21 07:40:28 [DBDOWNLOAD] Đã xóa DB cũ
+2025-09-21 07:45:09 [LogHelper] Upload all log and delete
+2025-09-21 07:45:18 [DBDOWNLOAD] Đã xóa DB cũ
+2025-09-21 07:50:26 [LogHelper] Upload all log and delete
+2025-09-21 07:50:39 [DBDOWNLOAD] Đã xóa DB cũ
+2025-09-21 07:52:27 [TileStore] Lỗi tải (r=50km): The tile region '35.1152,132.6364' can't be loaded because it would increase the number of Maps tiles to 819, which is beyond the maximum allowed 750 tiles. Please contact Mapbox if your use case requires a larger region size.
+2025-09-21 07:52:27 [TileStore] Giảm bán kính từ 50 xuống 45
+2025-09-21 07:52:28 [TileStore] Lỗi tải (r=45km): The tile region '35.1152,132.6364' can't be loaded because it would increase the number of Maps tiles to 753, which is beyond the maximum allowed 750 tiles. Please contact Mapbox if your use case requires a larger region size.
+2025-09-21 07:52:28 [TileStore] Giảm bán kính từ 45 xuống 40
+2025-09-21 07:55:03 [LogHelper] Upload all log and delete
