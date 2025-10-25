@@ -1,5 +1,10 @@
 [
     {
+        "file": "Qua_Phu_Tuong.mp3",
+        "album": "Remix",
+        "title": "Quả Phụ Tướng"
+    },
+    {
         "file": "_Co_Be_Mua_ong.mp3",
         "album": "Audition",
         "title": "Cô Bé Mùa Đông"
@@ -60,19 +65,9 @@
         "title": "Nana (Lonely) - DJ Dacian Remix"
     },
     {
-        "file": "_Sweet_Dream.mp3",
-        "album": "Audition",
-        "title": "Sweet Dream"
-    },
-    {
         "file": "_Wedding_Dress.mp3",
         "album": "Audition",
         "title": "Wedding Dress"
-    },
-    {
-        "file": "_I_Wanna_Fuck_You.mp3",
-        "album": "Audition",
-        "title": "I Wanna Fuck You"
     },
     {
         "file": "_Y_Please_Tell_Me_Why.mp3",
@@ -103,11 +98,6 @@
         "file": "_I_LOVE_YOU.mp3",
         "album": "Audition",
         "title": "I LOVE YOU"
-    },
-    {
-        "file": "_Abracadabra.mp3",
-        "album": "Audition",
-        "title": "Abracadabra"
     },
     {
         "file": "_Thien_uong_Goi_Ten.mp3",
@@ -190,11 +180,6 @@
         "title": "Thần Thoại (Lofi)"
     },
     {
-        "file": "_Dead_And_Gone.mp3",
-        "album": "Audition",
-        "title": "Dead And Gone"
-    },
-    {
         "file": "_Be_What_You_Wanna_Be.mp3",
         "album": "Audition",
         "title": "Be What You Wanna Be"
@@ -243,11 +228,6 @@
         "file": "_Anh_Tin_Minh_a_Cho_Nhau_Ky_Niem_feat._Luong_Bang_Quang.mp3",
         "album": "Audition",
         "title": "Anh Tin Mình Đã Cho Nhau Kỷ Niệm (feat. Lương Bằng Quang)"
-    },
-    {
-        "file": "_Big_Big_World.mp3",
-        "album": "Audition",
-        "title": "Big Big World"
     },
     {
         "file": "_My_Humps.mp3",
@@ -300,11 +280,6 @@
         "title": "That's Not My Name"
     },
     {
-        "file": "_You_Belong_With_Me.mp3",
-        "album": "Audition",
-        "title": "You Belong With Me"
-    },
-    {
         "file": "_All_Around_the_World_La_La_La.mp3",
         "album": "Audition",
         "title": "All Around the World (La La La)"
@@ -353,11 +328,6 @@
         "file": "_Apologize.mp3",
         "album": "Audition",
         "title": "Apologize"
-    },
-    {
-        "file": "_Lollipop.mp3",
-        "album": "Audition",
-        "title": "Lollipop"
     },
     {
         "file": "_Toxic.mp3",
@@ -563,11 +533,6 @@
         "file": "_Mau_o_Da_Vang.mp3",
         "album": "Tu Hao Viet Nam",
         "title": "Máu Đỏ Da Vàng"
-    },
-    {
-        "file": "_Noi_Lua_Len_Em.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Nổi Lửa Lên Em"
     },
     {
         "file": "Em-Yeu-Anh-Nhieu-Lam-Bao-Thy.mp3",
@@ -902,7 +867,7 @@
     {
         "file": "_Chay_Tron_Ki_Niem.mp3",
         "album": "Ung Hoang Phuc",
-        "title": "Chay Tron Ki Niem"
+        "title": "Chạy Trốn Kỉ Niệm"
     },
     {
         "file": "_Buon.mp3",
@@ -912,7 +877,7 @@
     {
         "file": "_Giot_Nang_Cuoi_Chieu.mp3",
         "album": "Ung Hoang Phuc",
-        "title": "Giot Nang Cuoi Chieu"
+        "title": "Giọt Nắng Cuối Chiều"
     },
     {
         "file": "_Cach_Biet_Hai_Phuong_Troi.mp3",
@@ -932,7 +897,7 @@
     {
         "file": "_Tha_Rang_Nhu_The.mp3",
         "album": "Ung Hoang Phuc",
-        "title": "Tha Rang Nhu The"
+        "title": "Thà Rằng Như Thế"
     },
     {
         "file": "_Sau_em_Nay.mp3",
@@ -942,7 +907,7 @@
     {
         "file": "Khac Hoa Tuong Tu.mp3",
         "album": "Ung Hoang Phuc",
-        "title": "Khac Hoa Tuong Tu"
+        "title": "Khắc Họa Tương Tư"
     },
     {
         "file": "_Co_on_Mot_Vi_Sao.mp3",
@@ -1225,11 +1190,6 @@
         "title": "Bóng Trăng Đang Dần Trôi"
     },
     {
-        "file": "_Loi_Cua_Trai_Tim.mp3",
-        "album": "Duy Manh",
-        "title": "Lời Của Trái Tim"
-    },
-    {
         "file": "_Mua_ong_Xu_La.mp3",
         "album": "Duy Manh",
         "title": "Mùa Đông Xứ Lạ"
@@ -1238,16 +1198,6 @@
         "file": "_Mai_Chi_La_Nguoi_Tinh.mp3",
         "album": "Duy Manh",
         "title": "Mãi Chỉ Là Người Tình"
-    },
-    {
-        "file": "_Giac_Mo_Cho_Anh.mp3",
-        "album": "Duy Manh",
-        "title": "Giấc Mơ Cho Anh"
-    },
-    {
-        "file": "_Vi_Yeu.mp3",
-        "album": "Duy Manh",
-        "title": "Vì Yêu"
     },
     {
         "file": "_Du_Biet_Ta_Khong_Con_Nhau.mp3",
@@ -1295,11 +1245,6 @@
         "title": "Tôi Yêu Em Nhiều"
     },
     {
-        "file": "_Tinh_on_Phuong.mp3",
-        "album": "Dan Truong",
-        "title": "Tình Đơn Phương"
-    },
-    {
         "file": "_Tinh_Khuc_Vang.mp3",
         "album": "Dan Truong",
         "title": "Tình Khúc Vàng"
@@ -1343,11 +1288,6 @@
         "file": "_Em_Se_La_Nguoi_Ra_i.mp3",
         "album": "Dan Truong",
         "title": "Em Sẽ Là Người Ra Đi"
-    },
-    {
-        "file": "_Hon_Moi_Xa.mp3",
-        "album": "Dan Truong",
-        "title": "Hôn Môi Xa"
     },
     {
         "file": "_Bong_Dang_Thien_Than.mp3",
@@ -1478,11 +1418,6 @@
         "file": "Lien_khuc_Mot_Con_Vit_Kia_Con_Buom_Vang_Con_Cao_Cao.mp3",
         "album": "Tre em",
         "title": "Liên khúc Một Con Vịt, Kìa Con Bướm Vàng, Con Cào Cào"
-    },
-    {
-        "file": "Em_Di_Choi_Thuyen.mp3",
-        "album": "Tre em",
-        "title": "Em Đi Chơi Thuyền"
     },
     {
         "file": "Chau_Yeu_Ba.mp3",
@@ -2137,11 +2072,6 @@
         "file": "_Xa_Mat_Cach_Long.mp3",
         "album": "Khoi My",
         "title": "Xa Mặt Cách Lòng"
-    },
-    {
-        "file": "_Hoa_Nang.mp3",
-        "album": "Khoi My",
-        "title": "Hoa Nắng"
     },
     {
         "file": "_Mong_Mot_Hanh_Phuc.mp3",
