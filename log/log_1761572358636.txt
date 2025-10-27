@@ -1,0 +1,5 @@
+2025-10-27 22:34:38 [LogHelper] Upload all log and delete
+2025-10-27 22:36:16 [DBDOWNLOAD] Đã xóa DB cũ
+2025-10-27 22:38:11 [DBDOWNLOAD] Đã xóa DB cũ
+2025-10-27 22:38:54 [DBDOWNLOAD] Đã xóa DB cũ
+2025-10-27 22:39:18 [LogHelper] Upload all log and delete
