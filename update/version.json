@@ -1,16 +1,16 @@
 {
-  "versionCode": 3.20251028,
+  "versionCode": 3.20251029,
   "apkUrl": "https://github.com/halmyphpo/mylauncher-update/raw/main/update/app-release.apk",
   "patchUrl":"https://github.com/halmyphpo/mylauncher-update/raw/refs/heads/main/update/patch_new.patch",
   "apkUrl1":"https://www.dropbox.com/scl/fi/n9auegmwgfb59sgl99ao8/app-release.apk?rlkey=0e13pv9bxhh3gjizgcno2kndk&st=k4vmxt8z&dl=1",
-  "latest_version": "3.20251028",
-  "base_version": "3.20251027",
+  "latest_version": "3.20251029",
+  "base_version": "3.20251028",
   "patch_file": "patch_new.patch",
-  "patch_size": 3386626,
-  "patch_sha256": "15bf1a4b111b0f30f3398905c8b7e03761a97488ce6969b3d33c7e3ca9a521c4",
+  "patch_size": 3342124,
+  "patch_sha256": "5107b7c3baa0dd8bd770666ce1ab5faf11a3d7580c29f3570b1d30c4335c96ea",
   "new_apk": "app-release.apk",
-  "new_size": 23861024,
-  "new_sha256": "f285f491057ebb7af0de8a4f88891abb048b261f5ca003cc6e05806bc3abe20f",
+  "new_size": 24021942,
+  "new_sha256": "25355bf010d429f404ec05f90a65a67f2a6c306d5fb2f0942cf4289eb804fd96",
   "release_date": "2025-10-28",
-  "notes": "Update patch mới."
+  "notes": "Update patch mới 10/29."
 }
