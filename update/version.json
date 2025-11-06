@@ -1,16 +1,16 @@
 {
-  "versionCode": 3.20251029,
+  "versionCode": 3.20251107,
   "apkUrl": "https://github.com/halmyphpo/mylauncher-update/raw/main/update/app-release.apk",
   "patchUrl":"https://github.com/halmyphpo/mylauncher-update/raw/refs/heads/main/update/patch_new.patch",
   "apkUrl1":"https://www.dropbox.com/scl/fi/n9auegmwgfb59sgl99ao8/app-release.apk?rlkey=0e13pv9bxhh3gjizgcno2kndk&st=k4vmxt8z&dl=1",
-  "latest_version": "3.20251029",
-  "base_version": "3.20251028",
+  "latest_version": "3.20251107",
+  "base_version": "3.20251029",
   "patch_file": "patch_new.patch",
-  "patch_size": 3342124,
-  "patch_sha256": "5107b7c3baa0dd8bd770666ce1ab5faf11a3d7580c29f3570b1d30c4335c96ea",
+  "patch_size": 3264244,
+  "patch_sha256": "0b3bf84f18ff4401156020aad83eca6f3bb12eb8d61d1759b48ad46adf685170",
   "new_apk": "app-release.apk",
-  "new_size": 24021942,
-  "new_sha256": "25355bf010d429f404ec05f90a65a67f2a6c306d5fb2f0942cf4289eb804fd96",
-  "release_date": "2025-10-28",
-  "notes": "Update patch 10/29."
+  "new_size": 24021893,
+  "new_sha256": "70c3d68fef1fa4c57800678a9351ae8655e40485ebfec844e62448b318e8fce1",
+  "release_date": "2025-11-07",
+  "notes": "Update code download Music & update Title Songs."
 }
