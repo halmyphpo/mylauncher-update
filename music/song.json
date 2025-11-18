@@ -1,5 +1,510 @@
 [
     {
+        "file": "Le_uong.mp3",
+        "album": "POP",
+        "title": "Lễ Đường"
+    },
+    {
+        "file": "Tinh_Yeu_Buong_Tha_Cho_Chung_Ta.mp3",
+        "album": "POP",
+        "title": "Tình Yêu Buông Tha Cho Chúng Ta"
+    },
+    {
+        "file": "Anh_a_Cho_Rat_Lau.mp3",
+        "album": "POP",
+        "title": "Anh Đã Chờ Rất Lâu"
+    },
+    {
+        "file": "Bac_Bling_Bac_Ninh_Prod._by_Masew.mp3",
+        "album": "POP",
+        "title": "Bắc Bling (Bắc Ninh) (Prod. by Masew)"
+    },
+    {
+        "file": "binh_yen.mp3",
+        "album": "POP",
+        "title": "bình yên"
+    },
+    {
+        "file": "TRAN_BO_NHO_feat._Duong_Domic.mp3",
+        "album": "POP",
+        "title": "TRÀN BỘ NHỚ (feat. Dương Domic)"
+    },
+    {
+        "file": "Phep_Mau_-_an_Ca_Go_Original_Soundtrack.mp3",
+        "album": "POP",
+        "title": "Phép Màu - Đàn Cá Gỗ Original Soundtrack"
+    },
+    {
+        "file": "mot_loi_on.mp3",
+        "album": "POP",
+        "title": "một lời đồn"
+    },
+    {
+        "file": "Om_Em_That_Lau.mp3",
+        "album": "POP",
+        "title": "Ôm Em Thật Lâu"
+    },
+    {
+        "file": "1000_Anh_Mat.mp3",
+        "album": "POP",
+        "title": "1000 Ánh Mắt"
+    },
+    {
+        "file": "Buoc_Za_i_Xa.mp3",
+        "album": "POP",
+        "title": "Bước Za Đi Xa"
+    },
+    {
+        "file": "Chi_can_ben_anh_Will_you_marry_me.mp3",
+        "album": "POP",
+        "title": "Chỉ cần bên anh (Will you marry me?)"
+    },
+    {
+        "file": "Mat_Ket_Noi.mp3",
+        "album": "POP",
+        "title": "Mất Kết Nối"
+    },
+    {
+        "file": "Bau_Troi_Moi.mp3",
+        "album": "POP",
+        "title": "Bầu Trời Mới"
+    },
+    {
+        "file": "Ai_Ma_Biet_uoc_feat._tlinh.mp3",
+        "album": "POP",
+        "title": "Ai Mà Biết Được (feat. tlinh)"
+    },
+    {
+        "file": "SAU_CON_SUY.mp3",
+        "album": "POP",
+        "title": "SAU CƠN SUY"
+    },
+    {
+        "file": "Tung_La.mp3",
+        "album": "POP",
+        "title": "Từng Là"
+    },
+    {
+        "file": "Bong_Phu_Hoa.mp3",
+        "album": "POP",
+        "title": "Bóng Phù Hoa"
+    },
+    {
+        "file": "Tron_oi.mp3",
+        "album": "POP",
+        "title": "Trọn Đời"
+    },
+    {
+        "file": "Tien_Hay_Lui_Nu_Hon_Bac_Ty_Original_Soundtrack.mp3",
+        "album": "POP",
+        "title": "Tiến Hay Lùi (Nụ Hôn Bạc Tỷ Original Soundtrack)"
+    },
+    {
+        "file": "QUAY_I_QUAY_LAI_feat._HIEUTHUHAI.mp3",
+        "album": "POP",
+        "title": "QUAY ĐI QUAY LẠI (feat. HIEUTHUHAI)"
+    },
+    {
+        "file": "ung_Lam_Trai_Tim_Anh_au.mp3",
+        "album": "POP",
+        "title": "Đừng Làm Trái Tim Anh Đau"
+    },
+    {
+        "file": "e_Y.mp3",
+        "album": "POP",
+        "title": "Để Ý"
+    },
+    {
+        "file": "Khong_Thoi_Gian.mp3",
+        "album": "POP",
+        "title": "Không Thời Gian"
+    },
+    {
+        "file": "Nang_Chen_Tieu_Sau.mp3",
+        "album": "POP",
+        "title": "Nâng Chén Tiêu Sầu"
+    },
+    {
+        "file": "2 4.mp3",
+        "album": "POP",
+        "title": "2 4"
+    },
+    {
+        "file": "Cham_Em_Mot_oi.mp3",
+        "album": "POP",
+        "title": "Chăm Em Một Đời"
+    },
+    {
+        "file": "Nguoi_au_Tien.mp3",
+        "album": "POP",
+        "title": "Người Đầu Tiên"
+    },
+    {
+        "file": "MOT_NGAY_NAO_O.mp3",
+        "album": "POP",
+        "title": "MỘT NGÀY NÀO ĐÓ"
+    },
+    {
+        "file": "Ngan_Nam_Anh_Sang.mp3",
+        "album": "POP",
+        "title": "Ngàn Năm Ánh Sáng"
+    },
+    {
+        "file": "Xoay_Mot_Vong.mp3",
+        "album": "POP",
+        "title": "Xoay Một Vòng"
+    },
+    {
+        "file": "van_vat_nhu_muon_ta_ben_nhau.mp3",
+        "album": "POP",
+        "title": "vạn vật như muốn ta bên nhau"
+    },
+    {
+        "file": "Vua_Han_Vua_Yeu.mp3",
+        "album": "POP",
+        "title": "Vừa Hận Vừa Yêu"
+    },
+    {
+        "file": "Tinh_Co_feat._CHARLES._Brown_KIMLONG__Duy_Son.mp3",
+        "album": "POP",
+        "title": "Tình Cờ (feat. CHARLES., Brown, KIMLONG & Duy Sơn)"
+    },
+    {
+        "file": "SAO_HANG_A_feat._HIEUTHUHAI_Duong_Domic_Song_Luan_Jsol__Tran_ang_Duong.mp3",
+        "album": "POP",
+        "title": "SAO HẠNG A (feat. HIEUTHUHAI, Dương Domic, Song Luân, Jsol & Trần Đăng Dương)"
+    },
+    {
+        "file": "khong_loi.mp3",
+        "album": "POP",
+        "title": "không lời"
+    },
+    {
+        "file": "KHONG_AU_NUA_ROI.mp3",
+        "album": "POP",
+        "title": "KHÔNG ĐAU NỮA RỒI"
+    },
+    {
+        "file": "DANCING IN THE DARK.mp3",
+        "album": "POP",
+        "title": "DANCING IN THE DARK"
+    },
+    {
+        "file": "ieu_Ta_Muon.mp3",
+        "album": "POP",
+        "title": "Điều Ta Muốn"
+    },
+    {
+        "file": "ieu_vo_tri_nhat.mp3",
+        "album": "POP",
+        "title": "điều vô tri nhất"
+    },
+    {
+        "file": "KIM_PHUT_KIM_GIO_feat._HURRYKNG_HIEUTHUHAI_Negav_Phap_Kieu__Isaac.mp3",
+        "album": "POP",
+        "title": "KIM PHÚT, KIM GIỜ (feat. HURRYKNG, HIEUTHUHAI, Negav, Pháp Kiều & Isaac)"
+    },
+    {
+        "file": "Noi_au_Giua_Hoa_Binh.mp3",
+        "album": "POP",
+        "title": "Nỗi Đau Giữa Hòa Bình"
+    },
+    {
+        "file": "a_Lau_Roi.mp3",
+        "album": "POP",
+        "title": "Đã Lâu Rồi"
+    },
+    {
+        "file": "Teen_Sai_Co_Machimix.mp3",
+        "album": "POP",
+        "title": "Teen Sái Cổ (Machimix)"
+    },
+    {
+        "file": "In Love.mp3",
+        "album": "POP",
+        "title": "In Love"
+    },
+    {
+        "file": "Cuoc_goi_luc_nua_em.mp3",
+        "album": "POP",
+        "title": "Cuộc gọi lúc nửa đêm"
+    },
+    {
+        "file": "Ai_cung_phai_lon.mp3",
+        "album": "POP",
+        "title": "Ai cũng phải lớn"
+    },
+    {
+        "file": "Van_Vuong.mp3",
+        "album": "POP",
+        "title": "Vấn Vương"
+    },
+    {
+        "file": "Giac_mo_tung_rat_tho_y_tho_nguoi_vi_em_la_anh_trang_le_loi....mp3",
+        "album": "POP",
+        "title": "Giấc mơ từng rất thơ (ý thơ người ví em là ánh trăng lẻ loi...)"
+    },
+    {
+        "file": "Minh_Anh_Thoi.mp3",
+        "album": "POP",
+        "title": "Mình Anh Thôi"
+    },
+    {
+        "file": "Khong_Buong.mp3",
+        "album": "POP",
+        "title": "Không Buông"
+    },
+    {
+        "file": "The One For Me.mp3",
+        "album": "POP",
+        "title": "The One For Me"
+    },
+    {
+        "file": "Tung_Ngay_Yeu_Em.mp3",
+        "album": "POP",
+        "title": "Từng Ngày Yêu Em"
+    },
+    {
+        "file": "Danh_Het_Xuan_Thi_e_Cho_Nhau.mp3",
+        "album": "POP",
+        "title": "Dành Hết Xuân Thì Để Chờ Nhau"
+    },
+    {
+        "file": "Xin_ung_Lang_Im.mp3",
+        "album": "POP",
+        "title": "Xin Đừng Lặng Im"
+    },
+    {
+        "file": "Khong_Yeu_Em_Thi_Yeu_Ai.mp3",
+        "album": "POP",
+        "title": "Không Yêu Em Thì Yêu Ai?"
+    },
+    {
+        "file": "EN_LUC_NAY_THI....mp3",
+        "album": "POP",
+        "title": "ĐẾN LÚC NÀY THÌ..."
+    },
+    {
+        "file": "Track 06.mp3",
+        "album": "POP",
+        "title": "Track 06"
+    },
+    {
+        "file": "Nam_Ben_Anh.mp3",
+        "album": "POP",
+        "title": "Nằm Bên Anh"
+    },
+    {
+        "file": "mot_bai_hat_khong_vui_may_-_Extended_Version.mp3",
+        "album": "POP",
+        "title": "một bài hát không vui mấy - Extended Version"
+    },
+    {
+        "file": "nhat-fine.mp3",
+        "album": "POP",
+        "title": "nhạt-fine"
+    },
+    {
+        "file": "OA_HOA.mp3",
+        "album": "POP",
+        "title": "ĐOÁ HOA"
+    },
+    {
+        "file": "Ngay_au_Sau_Chia_Tay.mp3",
+        "album": "POP",
+        "title": "Ngày Đầu Sau Chia Tay"
+    },
+    {
+        "file": "NGAO_NGO_feat._HIEUTHUHAI_ERIK_Anh_Tu_Atus_JSOL__Orange.mp3",
+        "album": "POP",
+        "title": "NGÁO NGƠ (feat. HIEUTHUHAI, ERIK, Anh Tú Atus, JSOL & Orange)"
+    },
+    {
+        "file": "Yen_Binh_Co_Qua_at_Khong.mp3",
+        "album": "POP",
+        "title": "Yên Bình Có Quá Đắt Không"
+    },
+    {
+        "file": "that_qua_ang.._e_yeu.mp3",
+        "album": "POP",
+        "title": "thật quá đáng.. để yêu"
+    },
+    {
+        "file": "Finding You.mp3",
+        "album": "POP",
+        "title": "Finding You"
+    },
+    {
+        "file": "Love Game.mp3",
+        "album": "POP",
+        "title": "Love Game"
+    },
+    {
+        "file": "Nuoc_Mat_Ca_Sau.mp3",
+        "album": "POP",
+        "title": "Nước Mắt Cá Sấu"
+    },
+    {
+        "file": "NGUA_O.mp3",
+        "album": "POP",
+        "title": "NGỰA Ô"
+    },
+    {
+        "file": "NEU_KHI_AY.mp3",
+        "album": "POP",
+        "title": "NẾU KHI ẤY"
+    },
+    {
+        "file": "Cay.mp3",
+        "album": "POP",
+        "title": "Cay"
+    },
+    {
+        "file": "MONG_YU.mp3",
+        "album": "POP",
+        "title": "MỘNG YU"
+    },
+    {
+        "file": "Gio_Thi.mp3",
+        "album": "POP",
+        "title": "Giờ Thì"
+    },
+    {
+        "file": "oi_en_thang_13.mp3",
+        "album": "POP",
+        "title": "Đợi đến tháng 13"
+    },
+    {
+        "file": "Co_oi_ieu.mp3",
+        "album": "POP",
+        "title": "Có Đôi Điều"
+    },
+    {
+        "file": "chang_phai_tinh_au_sao_au_en_the.mp3",
+        "album": "POP",
+        "title": "chẳng phải tình đầu sao đau đến thế"
+    },
+    {
+        "file": "Kho_Bau_with_Rhymastic.mp3",
+        "album": "POP",
+        "title": "Kho Báu (with Rhymastic)"
+    },
+    {
+        "file": "TINH_AU_QUA_CHEN_feat._Quang_Hung_MasterD_Negav_Phap_Kieu__Erik.mp3",
+        "album": "POP",
+        "title": "TÌNH ĐẦU QUÁ CHÉN (feat. Quang Hùng MasterD, Negav, Pháp Kiều & Erik)"
+    },
+    {
+        "file": "A_NGHI.mp3",
+        "album": "POP",
+        "title": "ĐA NGHI"
+    },
+    {
+        "file": "tam_tri_lang_thang.mp3",
+        "album": "POP",
+        "title": "tâm trí lang thang"
+    },
+    {
+        "file": "Anh_Mat_Biet_Cuoi.mp3",
+        "album": "POP",
+        "title": "Ánh Mắt Biết Cười"
+    },
+    {
+        "file": "Sau_Ngan_Ay_Nam.mp3",
+        "album": "POP",
+        "title": "Sau Ngần Ấy Năm"
+    },
+    {
+        "file": "HOP ON DA SHOW.mp3",
+        "album": "POP",
+        "title": "HOP ON DA SHOW"
+    },
+    {
+        "file": "Lang.mp3",
+        "album": "POP",
+        "title": "Lặng"
+    },
+    {
+        "file": "Chung_Ta_Cua_Tuong_Lai.mp3",
+        "album": "POP",
+        "title": "Chúng Ta Của Tương Lai"
+    },
+    {
+        "file": "Thien_Menh.mp3",
+        "album": "POP",
+        "title": "Thiên Mệnh"
+    },
+    {
+        "file": "Say_Song.mp3",
+        "album": "POP",
+        "title": "Say Sóng"
+    },
+    {
+        "file": "gia_nhu.mp3",
+        "album": "POP",
+        "title": "giá như"
+    },
+    {
+        "file": "i_Giua_Troi_Ruc_Ro_Original_Soundtrack_from_i_Giua_Troi_Ruc_Ro.mp3",
+        "album": "POP",
+        "title": "Đi Giữa Trời Rực Rỡ (Original Soundtrack from “Đi Giữa Trời Rực Rỡ”)"
+    },
+    {
+        "file": "Vung_An_Toan.mp3",
+        "album": "POP",
+        "title": "Vùng An Toàn"
+    },
+    {
+        "file": "Ngay_ep_Troi_e_Noi_Chia_Tay.mp3",
+        "album": "POP",
+        "title": "Ngày Đẹp Trời Để Nói Chia Tay"
+    },
+    {
+        "file": "Perfect.mp3",
+        "album": "POP",
+        "title": "Perfect"
+    },
+    {
+        "file": "tung_la_Boyfriend_Girlfriend.mp3",
+        "album": "POP",
+        "title": "(từng là) Boyfriend, Girlfriend"
+    },
+    {
+        "file": "REGRET_feat._Quan_A.P_Phap_Kieu_Quang_Trung_Ali_Hoang_Duong__Lam_Bao_Ngoc.mp3",
+        "album": "POP",
+        "title": "REGRET (feat. Quân A.P, Pháp Kiều, Quang Trung, Ali Hoàng Dương & Lâm Bảo Ngọc)"
+    },
+    {
+        "file": "vet_thuong.mp3",
+        "album": "POP",
+        "title": "vết thương"
+    },
+    {
+        "file": "Giu_Anh_Cho_Ngay_Hom_Qua.mp3",
+        "album": "POP",
+        "title": "Giữ Anh Cho Ngày Hôm Qua"
+    },
+    {
+        "file": "Kho_Bau.mp3",
+        "album": "POP",
+        "title": "Kho Báu"
+    },
+    {
+        "file": "Du_Cho_Tan_The.mp3",
+        "album": "POP",
+        "title": "Dù Cho Tận Thế"
+    },
+    {
+        "file": "Ai_Lon_Cung_Phai.mp3",
+        "album": "POP",
+        "title": "Ai Lớn Cũng Phải"
+    },
+    {
+        "file": "PHONG_ZIN_ZIN.mp3",
+        "album": "POP",
+        "title": "PHÓNG ZÌN ZÌN"
+    },
+    {
         "file": "Qua_Phu_Tuong.mp3",
         "album": "Remix",
         "title": "Quả Phụ Tướng"
