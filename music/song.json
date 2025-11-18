@@ -87,7 +87,13 @@
     {
         "file": "Bong_Phu_Hoa.mp3",
         "album": "POP",
-        "title": "Bóng Phù Hoa"
+        "title": "Bóng Phù Hoa",
+        "delete": true
+    },
+    {
+        "file": "Bong_Phu_Hoa__-_Live.mp3",
+        "album": "POP",
+        "title": "Bóng Phù Hoa (浮华之影) - Live"
     },
     {
         "file": "Tron_oi.mp3",
