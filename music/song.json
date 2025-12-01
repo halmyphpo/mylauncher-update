@@ -22,7 +22,7 @@
     {
         "file": "binh_yen.mp3",
         "album": "POP",
-        "title": "bình yên"
+        "title": "Bình Yên"
     },
     {
         "file": "TRAN_BO_NHO_feat._Duong_Domic.mp3",
@@ -83,12 +83,6 @@
         "file": "Tung_La.mp3",
         "album": "POP",
         "title": "Từng Là"
-    },
-    {
-        "file": "Bong_Phu_Hoa.mp3",
-        "album": "POP",
-        "title": "Bóng Phù Hoa",
-        "delete": true
     },
     {
         "file": "Bong_Phu_Hoa__-_Live.mp3",
@@ -248,7 +242,7 @@
     {
         "file": "Giac_mo_tung_rat_tho_y_tho_nguoi_vi_em_la_anh_trang_le_loi....mp3",
         "album": "POP",
-        "title": "Giấc mơ từng rất thơ (ý thơ người ví em là ánh trăng lẻ loi...)"
+        "title": "Giấc mơ từng rất thơ"
     },
     {
         "file": "Minh_Anh_Thoi.mp3",
@@ -323,7 +317,7 @@
     {
         "file": "NGAO_NGO_feat._HIEUTHUHAI_ERIK_Anh_Tu_Atus_JSOL__Orange.mp3",
         "album": "POP",
-        "title": "NGÁO NGƠ (feat. HIEUTHUHAI, ERIK, Anh Tú Atus, JSOL & Orange)"
+        "title": "NGÁO NGƠ"
     },
     {
         "file": "Yen_Binh_Co_Qua_at_Khong.mp3",
@@ -398,7 +392,7 @@
     {
         "file": "TINH_AU_QUA_CHEN_feat._Quang_Hung_MasterD_Negav_Phap_Kieu__Erik.mp3",
         "album": "POP",
-        "title": "TÌNH ĐẦU QUÁ CHÉN (feat. Quang Hùng MasterD, Negav, Pháp Kiều & Erik)"
+        "title": "TÌNH ĐẦU QUÁ CHÉN"
     },
     {
         "file": "A_NGHI.mp3",
@@ -453,7 +447,7 @@
     {
         "file": "i_Giua_Troi_Ruc_Ro_Original_Soundtrack_from_i_Giua_Troi_Ruc_Ro.mp3",
         "album": "POP",
-        "title": "Đi Giữa Trời Rực Rỡ (Original Soundtrack from “Đi Giữa Trời Rực Rỡ”)"
+        "title": "Đi Giữa Trời Rực Rỡ"
     },
     {
         "file": "Vung_An_Toan.mp3",
@@ -478,7 +472,7 @@
     {
         "file": "REGRET_feat._Quan_A.P_Phap_Kieu_Quang_Trung_Ali_Hoang_Duong__Lam_Bao_Ngoc.mp3",
         "album": "POP",
-        "title": "REGRET (feat. Quân A.P, Pháp Kiều, Quang Trung, Ali Hoàng Dương & Lâm Bảo Ngọc)"
+        "title": "REGRET"
     },
     {
         "file": "vet_thuong.mp3",
@@ -573,7 +567,7 @@
     {
         "file": "Minh_Yeu_Tu_Bao_Gio_Em_La_Ba_Noi_Cua_Anh_OST.mp3",
         "album": "POP",
-        "title": "Mình Yêu Từ Bao Giờ (Em Là Bà Nội Của Anh OST)"
+        "title": "Mình Yêu Từ Bao Giờ"
     },
     {
         "file": "ai_Minh_Tinh.mp3",
@@ -703,7 +697,7 @@
     {
         "file": "Ghen_Co_Vy_Vietnamese_Version_feat._Erik__Khac_Hung.mp3",
         "album": "POP",
-        "title": "Ghen Co Vy (Vietnamese Version) (feat. Erik & Khắc Hưng)"
+        "title": "Ghen Co Vy (Vietnamese Version)"
     },
     {
         "file": "Ai_Roi_Cung_Se_Khac.mp3",
@@ -788,7 +782,7 @@
     {
         "file": "_Khi_Co_on_Em_Nho_Ai_Lofi_-_From_Chill_With_Vicky_Nhung_-_Season_2_Memory.mp3",
         "album": "Audition",
-        "title": "Khi Cô Đơn Em Nhớ Ai (Lofi) - From \"Chill With Vicky Nhung - Season 2: Memory\""
+        "title": "Khi Cô Đơn Em Nhớ Ai (Lofi)"
     },
     {
         "file": "_Not_A_Single_Day.mp3",
@@ -873,7 +867,7 @@
     {
         "file": "_Dong_Thoi_Gian_Theme_Song_From_Mui_Ngo_Gai.mp3",
         "album": "Audition",
-        "title": "Dòng Thời Gian (Theme Song From \"Mùi Ngò Gai\")"
+        "title": "Dòng Thời Gian"
     },
     {
         "file": "_We_belong_together.mp3",
@@ -913,7 +907,7 @@
     {
         "file": "_Everybody_Backstreets_Back_-_Radio_Edit.mp3",
         "album": "Audition",
-        "title": "Everybody (Backstreet's Back) - Radio Edit"
+        "title": "Everybody (Backstreet's Back)"
     },
     {
         "file": "_Haru_Haru.mp3",
@@ -993,7 +987,7 @@
     {
         "file": "_Anh_Tin_Minh_a_Cho_Nhau_Ky_Niem_feat._Luong_Bang_Quang.mp3",
         "album": "Audition",
-        "title": "Anh Tin Mình Đã Cho Nhau Kỷ Niệm (feat. Lương Bằng Quang)"
+        "title": "Anh Tin Mình Đã Cho Nhau Kỷ Niệm"
     },
     {
         "file": "_My_Humps.mp3",
@@ -1183,7 +1177,7 @@
     {
         "file": "_Mashup_Nam_Quoc_Son_Ha__at_Nuoc_Loi_Ru.mp3",
         "album": "Tu Hao Viet Nam",
-        "title": "Mashup: Nam Quốc Sơn Hà & Đất Nước Lời Ru"
+        "title": "Nam Quốc Sơn Hà & Đất Nước Lời Ru"
     },
     {
         "file": "_Noi_Vong_Tay_Lon.mp3",
@@ -1208,7 +1202,7 @@
     {
         "file": "_Con_Gi_ep_Hon_-_Mua_o_Original_Soundtrack.mp3",
         "album": "Tu Hao Viet Nam",
-        "title": "Còn Gì Đẹp Hơn - Mưa Đỏ Original Soundtrack"
+        "title": "Còn Gì Đẹp Hơn"
     },
     {
         "file": "_To_quoc_goi_ten_minh.mp3",
@@ -1603,7 +1597,7 @@
     {
         "file": "_Nuoc_Co_Em_Chon_Ong_Trum_Bui_Vien_OST.mp3",
         "album": "Ung Hoang Phuc",
-        "title": "Nước Cờ Em Chọn (Ông Trùm Bùi Viện OST)"
+        "title": "Nước Cờ Em Chọn"
     },
     {
         "file": "_Vang_Trang_Co_on.mp3",
@@ -1863,7 +1857,7 @@
     {
         "file": "Chi_Can_Em_Binh_An_Thoi_Khong_Sai_Lech.mp3",
         "album": "Huong Ly",
-        "title": "Chỉ Cần Em Bình An (Thời Không Sai Lệch)"
+        "title": "Chỉ Cần Em Bình An"
     },
     {
         "file": "Co_Tham_Khong_Ve.mp3",
@@ -2223,7 +2217,7 @@
     {
         "file": "Authentic_x_Hai_The_Gioi_Nam_Duck_Remix.mp3",
         "album": "Remix",
-        "title": "Authentic x Hai Thế Giới (Nam Duck Remix)"
+        "title": "Authentic x Hai Thế Giới"
     },
     {
         "file": "Manh_Ba_-_SS_Remix.mp3",
