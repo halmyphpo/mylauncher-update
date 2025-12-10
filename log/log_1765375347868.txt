@@ -1,0 +1,4 @@
+2025-12-10 22:57:41 [LogHelper] Upload all log and delete
+2025-12-10 23:00:43 [LogHelper] Upload all log and delete
+2025-12-10 23:01:45 [DBDOWNLOAD] Đã xóa DB cũ
+2025-12-10 23:02:27 [LogHelper] Upload all log and delete
