@@ -1,16 +1,16 @@
 {
-  "versionCode": 3.20251209,
+  "versionCode": 3.20251210,
   "apkUrl": "https://github.com/halmyphpo/mylauncher-update/raw/main/update/app-release.apk",
   "patchUrl":"https://github.com/halmyphpo/mylauncher-update/raw/refs/heads/main/update/patch_new.patch",
   "apkUrl1":"https://www.dropbox.com/scl/fi/n9auegmwgfb59sgl99ao8/app-release.apk?rlkey=0e13pv9bxhh3gjizgcno2kndk&st=k4vmxt8z&dl=1",
-  "latest_version": "3.20251209",
-  "base_version": "3.20251107",
+  "latest_version": "3.20251210",
+  "base_version": "3.20251209",
   "patch_file": "patch_new.patch",
-  "patch_size": 5210070,
-  "patch_sha256": "87585ea61b20d11c876655d44ab869fa8d44023c1d6e655735e98c90fcd68135",
+  "patch_size": 5232001,
+  "patch_sha256": "184ba6ca58cf6db4c588f699c4fe2ee94699c745a71391205309ccbe4547398b",
   "new_apk": "app-release.apk",
-  "new_size": 24024313,
-  "new_sha256": "4fc744a96fc5d2f4ac23d8e99edaeb60334fda1f074340e3c3ca9d8f0a6e7515",
-  "release_date": "2025-12-09",
-  "notes": "Update code multi language."
+  "new_size": 24029609,
+  "new_sha256": "7eb7ef004416d04b2faa91f80d534309984a5cf1be13696e31df0beca53332f4",
+  "release_date": "2025-12-10",
+  "notes": "Update weather multi language."
 }
