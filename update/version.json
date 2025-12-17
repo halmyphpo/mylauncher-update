@@ -1,16 +1,16 @@
 {
-  "versionCode": 3.20251210,
+  "versionCode": 3.20251217,
   "apkUrl": "https://github.com/halmyphpo/mylauncher-update/raw/main/update/app-release.apk",
   "patchUrl":"https://github.com/halmyphpo/mylauncher-update/raw/refs/heads/main/update/patch_new.patch",
   "apkUrl1":"https://www.dropbox.com/scl/fi/n9auegmwgfb59sgl99ao8/app-release.apk?rlkey=0e13pv9bxhh3gjizgcno2kndk&st=k4vmxt8z&dl=1",
-  "latest_version": "3.20251210",
-  "base_version": "3.20251209",
+  "latest_version": "3.20251217",
+  "base_version": "3.20251210",
   "patch_file": "patch_new.patch",
-  "patch_size": 5232001,
-  "patch_sha256": "184ba6ca58cf6db4c588f699c4fe2ee94699c745a71391205309ccbe4547398b",
+  "patch_size": 3376865,
+  "patch_sha256": "b7ebffcf5a3204a209f21950446b27ad145c948a22ea8ba01fef5a3419bb990b",
   "new_apk": "app-release.apk",
-  "new_size": 24029609,
-  "new_sha256": "7eb7ef004416d04b2faa91f80d534309984a5cf1be13696e31df0beca53332f4",
-  "release_date": "2025-12-10",
-  "notes": "Update weather multi language."
+  "new_size": 24030331,
+  "new_sha256": "d26c19ffbf0eb4bc73712b4741a76477779265a17fbf9bba17bd90022aac52d0",
+  "release_date": "2025-12-17",
+  "notes": "Update estmate tunnel roads."
 }
