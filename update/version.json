@@ -1,16 +1,16 @@
 {
-  "versionCode": 3.20251218,
+  "versionCode": 3.20260117,
   "apkUrl": "https://github.com/halmyphpo/mylauncher-update/raw/main/update/app-release.apk",
   "patchUrl":"https://github.com/halmyphpo/mylauncher-update/raw/refs/heads/main/update/patch_new.patch",
   "apkUrl1":"https://www.dropbox.com/scl/fi/n9auegmwgfb59sgl99ao8/app-release.apk?rlkey=0e13pv9bxhh3gjizgcno2kndk&st=k4vmxt8z&dl=1",
-  "latest_version": "3.20251218",
-  "base_version": "3.20251217",
+  "latest_version": "3.20260117",
+  "base_version": "3.20251218",
   "patch_file": "patch_new.patch",
-  "patch_size": 3325063,
-  "patch_sha256": "22f49eed9ad7b0aa0e3f1a64b399445ff8b023bc91e313a166430d082cb91847",
+  "patch_size": 3357975,
+  "patch_sha256": "76a27ff64492b88d8a545abb5243f425f2f392ba58965011f2afe34aa93d6b8e",
   "new_apk": "app-release.apk",
-  "new_size": 24030324,
-  "new_sha256": "d3ce5c12ba7504026dac73d713be9b231168acdeff55ea32dc35a35f3de39f7f",
-  "release_date": "2025-12-18",
-  "notes": "Update estmate tunnel roads."
+  "new_size": 24030425,
+  "new_sha256": "7cb772a2bee589f4ce21ac6b93185ee434eee588053a4338244000f3dbffd104",
+  "release_date": "2026-01-17",
+  "notes": "Update permission Android 10"
 }
