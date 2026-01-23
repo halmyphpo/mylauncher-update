@@ -1,16 +1,16 @@
 {
-  "versionCode": 3.20260117,
+  "versionCode": 3.20260124,
   "apkUrl": "https://github.com/halmyphpo/mylauncher-update/raw/main/update/app-release.apk",
   "patchUrl":"https://github.com/halmyphpo/mylauncher-update/raw/refs/heads/main/update/patch_new.patch",
   "apkUrl1":"https://www.dropbox.com/scl/fi/n9auegmwgfb59sgl99ao8/app-release.apk?rlkey=0e13pv9bxhh3gjizgcno2kndk&st=k4vmxt8z&dl=1",
-  "latest_version": "3.20260117",
-  "base_version": "3.20251218",
+  "latest_version": "3.20260124",
+  "base_version": "3.20260117",
   "patch_file": "patch_new.patch",
-  "patch_size": 3357975,
-  "patch_sha256": "76a27ff64492b88d8a545abb5243f425f2f392ba58965011f2afe34aa93d6b8e",
+  "patch_size": 3371557,
+  "patch_sha256": "66fc6e14777df3a49c904bce55c57e0604bcbc70c15c78b1e0a9199fd793b63e",
   "new_apk": "app-release.apk",
-  "new_size": 24030425,
-  "new_sha256": "7cb772a2bee589f4ce21ac6b93185ee434eee588053a4338244000f3dbffd104",
-  "release_date": "2026-01-17",
-  "notes": "Update permission Android 10"
+  "new_size": 24030984,
+  "new_sha256": "409000aa6b640c56627160be5292867b8bd1756bb7dd3e33bb606841c36e3465",
+  "release_date": "2026-01-24",
+  "notes": "Update weather forecast 5 days 3 hours"
 }
