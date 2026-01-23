@@ -1,3 +1,0 @@
-2026-01-17 15:39:27 [LogHelper] Upload all log and delete
-2026-01-17 15:39:38 [LogHelper] Upload all log and delete
-2026-01-17 15:40:01 [LogHelper] Upload all log and delete
