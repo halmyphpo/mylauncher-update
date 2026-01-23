@@ -6,11 +6,11 @@
   "latest_version": "3.20260124",
   "base_version": "3.20260117",
   "patch_file": "patch_new.patch",
-  "patch_size": 3371557,
-  "patch_sha256": "66fc6e14777df3a49c904bce55c57e0604bcbc70c15c78b1e0a9199fd793b63e",
+  "patch_size": 3382984,
+  "patch_sha256": "01c6c336d39159f6c5021befdfb9a6a04b83cb121ae4f406bbf0699915b81017",
   "new_apk": "app-release.apk",
-  "new_size": 24030984,
-  "new_sha256": "409000aa6b640c56627160be5292867b8bd1756bb7dd3e33bb606841c36e3465",
+  "new_size": 24030759,
+  "new_sha256": "42a1cc878f9396606509f8b4f105d21314ef47304468c9cbdb0d000bff495dd0",
   "release_date": "2026-01-24",
   "notes": "Update weather forecast 5 days 3 hours"
 }
