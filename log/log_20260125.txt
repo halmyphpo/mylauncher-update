@@ -1,0 +1,1 @@
+00:06:50 [LogHelper] Upload all log and delete
