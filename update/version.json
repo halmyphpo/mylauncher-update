@@ -1,16 +1,16 @@
 {
-  "versionCode": 3.20260124,
+  "versionCode": 3.20260124v2,
   "apkUrl": "https://github.com/halmyphpo/mylauncher-update/raw/main/update/app-release.apk",
   "patchUrl":"https://github.com/halmyphpo/mylauncher-update/raw/refs/heads/main/update/patch_new.patch",
   "apkUrl1":"https://www.dropbox.com/scl/fi/n9auegmwgfb59sgl99ao8/app-release.apk?rlkey=0e13pv9bxhh3gjizgcno2kndk&st=k4vmxt8z&dl=1",
-  "latest_version": "3.20260124",
-  "base_version": "3.20260117",
+  "latest_version": "3.20260124v2",
+  "base_version": "3.20260124",
   "patch_file": "patch_new.patch",
-  "patch_size": 3382984,
-  "patch_sha256": "01c6c336d39159f6c5021befdfb9a6a04b83cb121ae4f406bbf0699915b81017",
+  "patch_size": 3375426,
+  "patch_sha256": "f50b31516c37eebc11e845282d9b77609fd2976eea57d46de0cb864fa41bfb4e",
   "new_apk": "app-release.apk",
-  "new_size": 24030759,
-  "new_sha256": "42a1cc878f9396606509f8b4f105d21314ef47304468c9cbdb0d000bff495dd0",
+  "new_size": 24030436,
+  "new_sha256": "c7d74089d3512edf68d73a62bb94e458c3ffdf2504acad3301e73cd97ce4fb28",
   "release_date": "2026-01-24",
-  "notes": "Update weather forecast 5 days 3 hours"
+  "notes": "Update fix weather forecast 5 days 3 hours"
 }
