@@ -1,0 +1,98 @@
+07:24:15 [LogHelper] Upload all log and delete
+07:51:16 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.410701751708984,132.4415283203125
+07:51:49 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41060256958008,132.44061279296875
+07:54:53 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Le_uong.mp3
+07:54:54 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Tinh_Yeu_Buong_Tha_Cho_Chung_Ta.mp3
+07:54:55 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Anh_a_Cho_Rat_Lau.mp3
+07:54:56 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Bac_Bling_Bac_Ninh_Prod._by_Masew.mp3
+07:54:57 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: binh_yen.mp3
+07:54:58 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: TRAN_BO_NHO_feat._Duong_Domic.mp3
+07:55:00 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Phep_Mau_-_an_Ca_Go_Original_Soundtrack.mp3
+07:55:01 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: mot_loi_on.mp3
+07:55:02 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Om_Em_That_Lau.mp3
+07:55:03 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: 1000_Anh_Mat.mp3
+07:55:04 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Buoc_Za_i_Xa.mp3
+07:55:05 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Chi_can_ben_anh_Will_you_marry_me.mp3
+07:55:06 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Mat_Ket_Noi.mp3
+07:55:08 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Bau_Troi_Moi.mp3
+07:55:08 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Ai_Ma_Biet_uoc_feat._tlinh.mp3
+07:55:10 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: SAU_CON_SUY.mp3
+07:55:11 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Tung_La.mp3
+07:55:12 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Bong_Phu_Hoa__-_Live.mp3
+07:55:13 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Tron_oi.mp3
+07:55:15 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Tien_Hay_Lui_Nu_Hon_Bac_Ty_Original_Soundtrack.mp3
+07:55:17 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: QUAY_I_QUAY_LAI_feat._HIEUTHUHAI.mp3
+07:55:18 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: ung_Lam_Trai_Tim_Anh_au.mp3
+07:55:19 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: e_Y.mp3
+07:55:20 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Khong_Thoi_Gian.mp3
+07:55:20 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Nang_Chen_Tieu_Sau.mp3
+07:55:22 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: 2 4.mp3
+07:55:23 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Cham_Em_Mot_oi.mp3
+07:55:23 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Nguoi_au_Tien.mp3
+07:55:24 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: MOT_NGAY_NAO_O.mp3
+07:55:26 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Ngan_Nam_Anh_Sang.mp3
+07:55:27 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Xoay_Mot_Vong.mp3
+07:55:28 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: van_vat_nhu_muon_ta_ben_nhau.mp3
+07:55:29 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Vua_Han_Vua_Yeu.mp3
+07:55:30 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Tinh_Co_feat._CHARLES._Brown_KIMLONG__Duy_Son.mp3
+07:55:32 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: SAO_HANG_A_feat._HIEUTHUHAI_Duong_Domic_Song_Luan_Jsol__Tran_ang_Duong.mp3
+07:55:33 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: khong_loi.mp3
+07:55:35 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: KHONG_AU_NUA_ROI.mp3
+07:55:36 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: DANCING IN THE DARK.mp3
+07:55:37 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: ieu_Ta_Muon.mp3
+07:55:38 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: ieu_vo_tri_nhat.mp3
+07:55:39 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: KIM_PHUT_KIM_GIO_feat._HURRYKNG_HIEUTHUHAI_Negav_Phap_Kieu__Isaac.mp3
+07:55:40 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Noi_au_Giua_Hoa_Binh.mp3
+07:55:43 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: a_Lau_Roi.mp3
+07:55:44 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Teen_Sai_Co_Machimix.mp3
+07:55:45 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: In Love.mp3
+07:55:46 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Cuoc_goi_luc_nua_em.mp3
+07:55:47 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Ai_cung_phai_lon.mp3
+07:55:48 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Van_Vuong.mp3
+07:55:49 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Giac_mo_tung_rat_tho_y_tho_nguoi_vi_em_la_anh_trang_le_loi....mp3
+07:55:50 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Minh_Anh_Thoi.mp3
+07:55:52 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Khong_Buong.mp3
+07:55:53 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: The One For Me.mp3
+07:55:53 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Tung_Ngay_Yeu_Em.mp3
+07:55:57 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Danh_Het_Xuan_Thi_e_Cho_Nhau.mp3
+07:55:59 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Xin_ung_Lang_Im.mp3
+07:56:01 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Khong_Yeu_Em_Thi_Yeu_Ai.mp3
+07:56:02 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: EN_LUC_NAY_THI....mp3
+07:56:03 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Track 06.mp3
+07:56:04 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Nam_Ben_Anh.mp3
+07:56:05 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: mot_bai_hat_khong_vui_may_-_Extended_Version.mp3
+07:56:07 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: nhat-fine.mp3
+07:56:09 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: OA_HOA.mp3
+07:56:10 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Ngay_au_Sau_Chia_Tay.mp3
+07:56:12 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: NGAO_NGO_feat._HIEUTHUHAI_ERIK_Anh_Tu_Atus_JSOL__Orange.mp3
+07:56:13 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Yen_Binh_Co_Qua_at_Khong.mp3
+07:56:14 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: that_qua_ang.._e_yeu.mp3
+07:56:15 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Finding You.mp3
+07:56:17 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Love Game.mp3
+07:56:18 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Nuoc_Mat_Ca_Sau.mp3
+07:56:19 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: NGUA_O.mp3
+07:56:20 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: NEU_KHI_AY.mp3
+07:56:22 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Cay.mp3
+07:56:23 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: MONG_YU.mp3
+07:56:24 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Gio_Thi.mp3
+07:56:25 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: oi_en_thang_13.mp3
+07:56:27 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Co_oi_ieu.mp3
+07:56:28 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: chang_phai_tinh_au_sao_au_en_the.mp3
+07:56:29 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Kho_Bau_with_Rhymastic.mp3
+07:56:30 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: TINH_AU_QUA_CHEN_feat._Quang_Hung_MasterD_Negav_Phap_Kieu__Erik.mp3
+07:56:31 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: A_NGHI.mp3
+07:56:32 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: tam_tri_lang_thang.mp3
+07:56:34 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Anh_Mat_Biet_Cuoi.mp3
+07:56:36 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Sau_Ngan_Ay_Nam.mp3
+07:56:38 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: HOP ON DA SHOW.mp3
+07:56:39 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Lang.mp3
+07:56:40 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Chung_Ta_Cua_Tuong_Lai.mp3
+07:56:42 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Thien_Menh.mp3
+07:56:42 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Say_Song.mp3
+07:56:44 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: gia_nhu.mp3
+07:56:44 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: i_Giua_Troi_Ruc_Ro_Original_Soundtrack_from_i_Giua_Troi_Ruc_Ro.mp3
+07:56:45 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Vung_An_Toan.mp3
+07:56:47 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Ngay_ep_Troi_e_Noi_Chia_Tay.mp3
+07:56:48 [MusicDownloader] ⚠️ File đủ dung lượng, bỏ qua: Perfect.mp3
+07:56:49 [WeatherHelper] Đã có forecast hợp lệ gần đó → không gọi API
+07:56:49 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.40549850463867,132.43983459472656
