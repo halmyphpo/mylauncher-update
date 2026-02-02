@@ -1,3091 +1,3710 @@
 [
-    {
-        "file": "Le_uong.mp3",
-        "album": "POP",
-        "title": "Lễ Đường"
-    },
-    {
-        "file": "Tinh_Yeu_Buong_Tha_Cho_Chung_Ta.mp3",
-        "album": "POP",
-        "title": "Tình Yêu Buông Tha Cho Chúng Ta"
-    },
-    {
-        "file": "Anh_a_Cho_Rat_Lau.mp3",
-        "album": "POP",
-        "title": "Anh Đã Chờ Rất Lâu"
-    },
-    {
-        "file": "Bac_Bling_Bac_Ninh_Prod._by_Masew.mp3",
-        "album": "POP",
-        "title": "Bắc Bling (Bắc Ninh) (Prod. by Masew)"
-    },
-    {
-        "file": "binh_yen.mp3",
-        "album": "POP",
-        "title": "Bình Yên"
-    },
-    {
-        "file": "TRAN_BO_NHO_feat._Duong_Domic.mp3",
-        "album": "POP",
-        "title": "TRÀN BỘ NHỚ (feat. Dương Domic)"
-    },
-    {
-        "file": "Phep_Mau_-_an_Ca_Go_Original_Soundtrack.mp3",
-        "album": "POP",
-        "title": "Phép Màu - Đàn Cá Gỗ Original Soundtrack"
-    },
-    {
-        "file": "mot_loi_on.mp3",
-        "album": "POP",
-        "title": "Một lời đồn"
-    },
-    {
-        "file": "Om_Em_That_Lau.mp3",
-        "album": "POP",
-        "title": "Ôm Em Thật Lâu"
-    },
-    {
-        "file": "1000_Anh_Mat.mp3",
-        "album": "POP",
-        "title": "1000 Ánh Mắt"
-    },
-    {
-        "file": "Buoc_Za_i_Xa.mp3",
-        "album": "POP",
-        "title": "Bước Za Đi Xa"
-    },
-    {
-        "file": "Chi_can_ben_anh_Will_you_marry_me.mp3",
-        "album": "POP",
-        "title": "Chỉ cần bên anh (Will you marry me?)"
-    },
-    {
-        "file": "Mat_Ket_Noi.mp3",
-        "album": "POP",
-        "title": "Mất Kết Nối"
-    },
-    {
-        "file": "Bau_Troi_Moi.mp3",
-        "album": "POP",
-        "title": "Bầu Trời Mới"
-    },
-    {
-        "file": "Ai_Ma_Biet_uoc_feat._tlinh.mp3",
-        "album": "POP",
-        "title": "Ai Mà Biết Được (feat. tlinh)"
-    },
-    {
-        "file": "SAU_CON_SUY.mp3",
-        "album": "POP",
-        "title": "SAU CƠN SUY"
-    },
-    {
-        "file": "Tung_La.mp3",
-        "album": "POP",
-        "title": "Từng Là"
-    },
-    {
-        "file": "Bong_Phu_Hoa__-_Live.mp3",
-        "album": "POP",
-        "title": "Bóng Phù Hoa (浮华之影) - Live"
-    },
-    {
-        "file": "Tron_oi.mp3",
-        "album": "POP",
-        "title": "Trọn Đời"
-    },
-    {
-        "file": "Tien_Hay_Lui_Nu_Hon_Bac_Ty_Original_Soundtrack.mp3",
-        "album": "POP",
-        "title": "Tiến Hay Lùi (Nụ Hôn Bạc Tỷ Original Soundtrack)"
-    },
-    {
-        "file": "QUAY_I_QUAY_LAI_feat._HIEUTHUHAI.mp3",
-        "album": "POP",
-        "title": "QUAY ĐI QUAY LẠI (feat. HIEUTHUHAI)"
-    },
-    {
-        "file": "ung_Lam_Trai_Tim_Anh_au.mp3",
-        "album": "POP",
-        "title": "Đừng Làm Trái Tim Anh Đau"
-    },
-    {
-        "file": "e_Y.mp3",
-        "album": "POP",
-        "title": "Để Ý"
-    },
-    {
-        "file": "Khong_Thoi_Gian.mp3",
-        "album": "POP",
-        "title": "Không Thời Gian"
-    },
-    {
-        "file": "Nang_Chen_Tieu_Sau.mp3",
-        "album": "POP",
-        "title": "Nâng Chén Tiêu Sầu"
-    },
-    {
-        "file": "2 4.mp3",
-        "album": "POP",
-        "title": "2 4"
-    },
-    {
-        "file": "Cham_Em_Mot_oi.mp3",
-        "album": "POP",
-        "title": "Chăm Em Một Đời"
-    },
-    {
-        "file": "Nguoi_au_Tien.mp3",
-        "album": "POP",
-        "title": "Người Đầu Tiên"
-    },
-    {
-        "file": "MOT_NGAY_NAO_O.mp3",
-        "album": "POP",
-        "title": "MỘT NGÀY NÀO ĐÓ"
-    },
-    {
-        "file": "Ngan_Nam_Anh_Sang.mp3",
-        "album": "POP",
-        "title": "Ngàn Năm Ánh Sáng"
-    },
-    {
-        "file": "Xoay_Mot_Vong.mp3",
-        "album": "POP",
-        "title": "Xoay Một Vòng"
-    },
-    {
-        "file": "van_vat_nhu_muon_ta_ben_nhau.mp3",
-        "album": "POP",
-        "title": "Vạn vật như muốn ta bên nhau"
-    },
-    {
-        "file": "Vua_Han_Vua_Yeu.mp3",
-        "album": "POP",
-        "title": "Vừa Hận Vừa Yêu"
-    },
-    {
-        "file": "Tinh_Co_feat._CHARLES._Brown_KIMLONG__Duy_Son.mp3",
-        "album": "POP",
-        "title": "Tình Cờ (feat. CHARLES., Brown, KIMLONG & Duy Sơn)"
-    },
-    {
-        "file": "SAO_HANG_A_feat._HIEUTHUHAI_Duong_Domic_Song_Luan_Jsol__Tran_ang_Duong.mp3",
-        "album": "POP",
-        "title": "SAO HẠNG A (feat. HIEUTHUHAI, Dương Domic, Song Luân, Jsol & Trần Đăng Dương)"
-    },
-    {
-        "file": "khong_loi.mp3",
-        "album": "POP",
-        "title": "Không lời"
-    },
-    {
-        "file": "KHONG_AU_NUA_ROI.mp3",
-        "album": "POP",
-        "title": "KHÔNG ĐAU NỮA RỒI"
-    },
-    {
-        "file": "DANCING IN THE DARK.mp3",
-        "album": "POP",
-        "title": "DANCING IN THE DARK"
-    },
-    {
-        "file": "ieu_Ta_Muon.mp3",
-        "album": "POP",
-        "title": "Điều Ta Muốn"
-    },
-    {
-        "file": "ieu_vo_tri_nhat.mp3",
-        "album": "POP",
-        "title": "Điều vô tri nhất"
-    },
-    {
-        "file": "KIM_PHUT_KIM_GIO_feat._HURRYKNG_HIEUTHUHAI_Negav_Phap_Kieu__Isaac.mp3",
-        "album": "POP",
-        "title": "KIM PHÚT, KIM GIỜ (feat. HURRYKNG, HIEUTHUHAI, Negav, Pháp Kiều & Isaac)"
-    },
-    {
-        "file": "Noi_au_Giua_Hoa_Binh.mp3",
-        "album": "POP",
-        "title": "Nỗi Đau Giữa Hòa Bình"
-    },
-    {
-        "file": "a_Lau_Roi.mp3",
-        "album": "POP",
-        "title": "Đã Lâu Rồi"
-    },
-    {
-        "file": "Teen_Sai_Co_Machimix.mp3",
-        "album": "POP",
-        "title": "Teen Sái Cổ (Machimix)"
-    },
-    {
-        "file": "In Love.mp3",
-        "album": "POP",
-        "title": "In Love"
-    },
-    {
-        "file": "Cuoc_goi_luc_nua_em.mp3",
-        "album": "POP",
-        "title": "Cuộc gọi lúc nửa đêm"
-    },
-    {
-        "file": "Ai_cung_phai_lon.mp3",
-        "album": "POP",
-        "title": "Ai cũng phải lớn"
-    },
-    {
-        "file": "Van_Vuong.mp3",
-        "album": "POP",
-        "title": "Vấn Vương"
-    },
-    {
-        "file": "Giac_mo_tung_rat_tho_y_tho_nguoi_vi_em_la_anh_trang_le_loi....mp3",
-        "album": "POP",
-        "title": "Giấc mơ từng rất thơ"
-    },
-    {
-        "file": "Minh_Anh_Thoi.mp3",
-        "album": "POP",
-        "title": "Mình Anh Thôi"
-    },
-    {
-        "file": "Khong_Buong.mp3",
-        "album": "POP",
-        "title": "Không Buông"
-    },
-    {
-        "file": "The One For Me.mp3",
-        "album": "POP",
-        "title": "The One For Me"
-    },
-    {
-        "file": "Tung_Ngay_Yeu_Em.mp3",
-        "album": "POP",
-        "title": "Từng Ngày Yêu Em"
-    },
-    {
-        "file": "Danh_Het_Xuan_Thi_e_Cho_Nhau.mp3",
-        "album": "POP",
-        "title": "Dành Hết Xuân Thì Để Chờ Nhau"
-    },
-    {
-        "file": "Xin_ung_Lang_Im.mp3",
-        "album": "POP",
-        "title": "Xin Đừng Lặng Im"
-    },
-    {
-        "file": "Khong_Yeu_Em_Thi_Yeu_Ai.mp3",
-        "album": "POP",
-        "title": "Không Yêu Em Thì Yêu Ai?"
-    },
-    {
-        "file": "EN_LUC_NAY_THI....mp3",
-        "album": "POP",
-        "title": "ĐẾN LÚC NÀY THÌ..."
-    },
-    {
-        "file": "Track 06.mp3",
-        "album": "POP",
-        "title": "Track 06"
-    },
-    {
-        "file": "Nam_Ben_Anh.mp3",
-        "album": "POP",
-        "title": "Nằm Bên Anh"
-    },
-    {
-        "file": "mot_bai_hat_khong_vui_may_-_Extended_Version.mp3",
-        "album": "POP",
-        "title": "Một bài hát không vui mấy - Extended Version"
-    },
-    {
-        "file": "nhat-fine.mp3",
-        "album": "POP",
-        "title": "Nhạt-fine"
-    },
-    {
-        "file": "OA_HOA.mp3",
-        "album": "POP",
-        "title": "ĐOÁ HOA"
-    },
-    {
-        "file": "Ngay_au_Sau_Chia_Tay.mp3",
-        "album": "POP",
-        "title": "Ngày Đầu Sau Chia Tay"
-    },
-    {
-        "file": "NGAO_NGO_feat._HIEUTHUHAI_ERIK_Anh_Tu_Atus_JSOL__Orange.mp3",
-        "album": "POP",
-        "title": "NGÁO NGƠ"
-    },
-    {
-        "file": "Yen_Binh_Co_Qua_at_Khong.mp3",
-        "album": "POP",
-        "title": "Yên Bình Có Quá Đắt Không"
-    },
-    {
-        "file": "that_qua_ang.._e_yeu.mp3",
-        "album": "POP",
-        "title": "Thật quá đáng.. để yêu"
-    },
-    {
-        "file": "Finding You.mp3",
-        "album": "POP",
-        "title": "Finding You"
-    },
-    {
-        "file": "Love Game.mp3",
-        "album": "POP",
-        "title": "Love Game"
-    },
-    {
-        "file": "Nuoc_Mat_Ca_Sau.mp3",
-        "album": "POP",
-        "title": "Nước Mắt Cá Sấu"
-    },
-    {
-        "file": "NGUA_O.mp3",
-        "album": "POP",
-        "title": "NGỰA Ô"
-    },
-    {
-        "file": "NEU_KHI_AY.mp3",
-        "album": "POP",
-        "title": "NẾU KHI ẤY"
-    },
-    {
-        "file": "Cay.mp3",
-        "album": "POP",
-        "title": "Cay"
-    },
-    {
-        "file": "MONG_YU.mp3",
-        "album": "POP",
-        "title": "MỘNG YU"
-    },
-    {
-        "file": "Gio_Thi.mp3",
-        "album": "POP",
-        "title": "Giờ Thì"
-    },
-    {
-        "file": "oi_en_thang_13.mp3",
-        "album": "POP",
-        "title": "Đợi đến tháng 13"
-    },
-    {
-        "file": "Co_oi_ieu.mp3",
-        "album": "POP",
-        "title": "Có Đôi Điều"
-    },
-    {
-        "file": "chang_phai_tinh_au_sao_au_en_the.mp3",
-        "album": "POP",
-        "title": "Chẳng phải tình đầu sao đau đến thế"
-    },
-    {
-        "file": "Kho_Bau_with_Rhymastic.mp3",
-        "album": "POP",
-        "title": "Kho Báu (with Rhymastic)"
-    },
-    {
-        "file": "TINH_AU_QUA_CHEN_feat._Quang_Hung_MasterD_Negav_Phap_Kieu__Erik.mp3",
-        "album": "POP",
-        "title": "TÌNH ĐẦU QUÁ CHÉN"
-    },
-    {
-        "file": "A_NGHI.mp3",
-        "album": "POP",
-        "title": "ĐA NGHI"
-    },
-    {
-        "file": "tam_tri_lang_thang.mp3",
-        "album": "POP",
-        "title": "Tâm trí lang thang"
-    },
-    {
-        "file": "Anh_Mat_Biet_Cuoi.mp3",
-        "album": "POP",
-        "title": "Ánh Mắt Biết Cười"
-    },
-    {
-        "file": "Sau_Ngan_Ay_Nam.mp3",
-        "album": "POP",
-        "title": "Sau Ngần Ấy Năm"
-    },
-    {
-        "file": "HOP ON DA SHOW.mp3",
-        "album": "POP",
-        "title": "HOP ON DA SHOW"
-    },
-    {
-        "file": "Lang.mp3",
-        "album": "POP",
-        "title": "Lặng"
-    },
-    {
-        "file": "Chung_Ta_Cua_Tuong_Lai.mp3",
-        "album": "POP",
-        "title": "Chúng Ta Của Tương Lai"
-    },
-    {
-        "file": "Thien_Menh.mp3",
-        "album": "POP",
-        "title": "Thiên Mệnh"
-    },
-    {
-        "file": "Say_Song.mp3",
-        "album": "POP",
-        "title": "Say Sóng"
-    },
-    {
-        "file": "gia_nhu.mp3",
-        "album": "POP",
-        "title": "Giá như"
-    },
-    {
-        "file": "i_Giua_Troi_Ruc_Ro_Original_Soundtrack_from_i_Giua_Troi_Ruc_Ro.mp3",
-        "album": "POP",
-        "title": "Đi Giữa Trời Rực Rỡ"
-    },
-    {
-        "file": "Vung_An_Toan.mp3",
-        "album": "POP",
-        "title": "Vùng An Toàn"
-    },
-    {
-        "file": "Ngay_ep_Troi_e_Noi_Chia_Tay.mp3",
-        "album": "POP",
-        "title": "Ngày Đẹp Trời Để Nói Chia Tay"
-    },
-    {
-        "file": "Perfect.mp3",
-        "album": "POP",
-        "title": "Perfect"
-    },
-    {
-        "file": "tung_la_Boyfriend_Girlfriend.mp3",
-        "album": "POP",
-        "title": "(Từng là) Boyfriend, Girlfriend"
-    },
-    {
-        "file": "REGRET_feat._Quan_A.P_Phap_Kieu_Quang_Trung_Ali_Hoang_Duong__Lam_Bao_Ngoc.mp3",
-        "album": "POP",
-        "title": "REGRET"
-    },
-    {
-        "file": "vet_thuong.mp3",
-        "album": "POP",
-        "title": "Vết thương"
-    },
-    {
-        "file": "Giu_Anh_Cho_Ngay_Hom_Qua.mp3",
-        "album": "POP",
-        "title": "Giữ Anh Cho Ngày Hôm Qua"
-    },
-    {
-        "file": "Kho_Bau.mp3",
-        "album": "POP",
-        "title": "Kho Báu"
-    },
-    {
-        "file": "Du_Cho_Tan_The.mp3",
-        "album": "POP",
-        "title": "Dù Cho Tận Thế"
-    },
-    {
-        "file": "Ai_Lon_Cung_Phai.mp3",
-        "album": "POP",
-        "title": "Ai Lớn Cũng Phải"
-    },
-    {
-        "file": "PHONG_ZIN_ZIN.mp3",
-        "album": "POP",
-        "title": "PHÓNG ZÌN ZÌN"
-    },
-    {
-        "file": "Cham_Hoa.mp3",
-        "album": "POP",
-        "title": "Chăm Hoa"
-    },
-    {
-        "file": "Chuyen_oi_Ta_feat._Muoii.mp3",
-        "album": "POP",
-        "title": "Chuyện Đôi Ta (feat. Muộii)"
-    },
-    {
-        "file": "Buon_Thi_Cu_Khoc_i.mp3",
-        "album": "POP",
-        "title": "Buồn Thì Cứ Khóc Đi"
-    },
-    {
-        "file": "Chieu_Hom_Ay.mp3",
-        "album": "POP",
-        "title": "Chiều Hôm Ấy"
-    },
-    {
-        "file": "Anh_Qua_ay_i.mp3",
-        "album": "POP",
-        "title": "Anh Qua Đây Đi"
-    },
-    {
-        "file": "Toi_Cho_Co_Gai_o.mp3",
-        "album": "POP",
-        "title": "Tội Cho Cô Gái Đó"
-    },
-    {
-        "file": "Anh_Chua_Thuong_Em_en_Vay_au.mp3",
-        "album": "POP",
-        "title": "Anh Chưa Thương Em Đến Vậy Đâu"
-    },
-    {
-        "file": "GIAU_NHAT_KHU_PHU_HOA.mp3",
-        "album": "POP",
-        "title": "GIÀU NHẤT KHU PHÙ HOA"
-    },
-    {
-        "file": "Chai_iep_Noong_-_Anh_Yeu_Em.mp3",
-        "album": "POP",
-        "title": "Chài Điếp Noọng - Anh Yêu Em"
-    },
-    {
-        "file": "Lam_Gi_Phai_Hot.mp3",
-        "album": "POP",
-        "title": "Làm Gì Phải Hốt"
-    },
-    {
-        "file": "3107_4_feat._Erik_Nau.mp3",
-        "album": "POP",
-        "title": "3107 4 (feat. Erik, Nâu)"
-    },
-    {
-        "file": "Anh_Nang_Cua_Anh.mp3",
-        "album": "POP",
-        "title": "Ánh Nắng Của Anh"
-    },
-    {
-        "file": "Minh_Yeu_Tu_Bao_Gio_Em_La_Ba_Noi_Cua_Anh_OST.mp3",
-        "album": "POP",
-        "title": "Mình Yêu Từ Bao Giờ"
-    },
-    {
-        "file": "ai_Minh_Tinh.mp3",
-        "album": "POP",
-        "title": "Đại Minh Tinh"
-    },
-    {
-        "file": "Con_Thuong_Thi_Khong_e_Em_Khoc.mp3",
-        "album": "POP",
-        "title": "Còn Thương Thì Không Để Em Khóc"
-    },
-    {
-        "file": "2AM.mp3",
-        "album": "POP",
-        "title": "2AM"
-    },
-    {
-        "file": "Chuc_Tet_Moi_Nha_feat._Noo_Phuoc_Thinh.mp3",
-        "album": "POP",
-        "title": "Chúc Tết Mọi Nhà (feat. Noo Phước Thịnh)"
-    },
-    {
-        "file": "Cho_en_Khi_Troi_at_Sup_o.mp3",
-        "album": "POP",
-        "title": "Cho Đến Khi Trời Đất Sụp Đổ"
-    },
-    {
-        "file": "05_Khong_Phai_-_Remix.mp3",
-        "album": "POP",
-        "title": "05 (Không Phai) - Remix"
-    },
-    {
-        "file": "Chap_Nhan.mp3",
-        "album": "POP",
-        "title": "Chấp Nhận"
-    },
-    {
-        "file": "Roi_Em_Se_Gap_Mot_Chang_Trai_Khac.mp3",
-        "album": "POP",
-        "title": "Rồi Em Sẽ Gặp Một Chàng Trai Khác"
-    },
-    {
-        "file": "Chay_Khoi_The_Gioi_Nay.mp3",
-        "album": "POP",
-        "title": "Chạy Khỏi Thế Giới Này"
-    },
-    {
-        "file": "Ken_Ca_Chon_Canh.mp3",
-        "album": "POP",
-        "title": "Kén Cá Chọn Canh"
-    },
-    {
-        "file": "Chi_La_Tinh_Co_feat._Hoa_Minzy.mp3",
-        "album": "POP",
-        "title": "Chỉ Là Tình Cờ (feat. Hòa Minzy)"
-    },
-    {
-        "file": "Bat_Coc_Con_Tim.mp3",
-        "album": "POP",
-        "title": "Bắt Cóc Con Tim"
-    },
-    {
-        "file": "Tay_Trai_Chi_Trang.mp3",
-        "album": "POP",
-        "title": "Tay Trái Chỉ Trăng"
-    },
-    {
-        "file": "Chua_Quen_Nguoi_Yeu_Cu.mp3",
-        "album": "POP",
-        "title": "Chưa Quên Người Yêu Cũ"
-    },
-    {
-        "file": "Chi_La_Muon_Noi.mp3",
-        "album": "POP",
-        "title": "Chỉ Là Muốn Nói"
-    },
-    {
-        "file": "Hoa_No_Khong_Mau.mp3",
-        "album": "POP",
-        "title": "Hoa Nở Không Màu"
-    },
-    {
-        "file": "Da_Vu.mp3",
-        "album": "POP",
-        "title": "Dạ Vũ"
-    },
-    {
-        "file": "Vi_Me_Anh_Bat_Chia_Tay.mp3",
-        "album": "POP",
-        "title": "Vì Mẹ Anh Bắt Chia Tay"
-    },
-    {
-        "file": "Ca_Phe.mp3",
-        "album": "POP",
-        "title": "Cà Phê"
-    },
-    {
-        "file": "Chuyen_Chung_Ta_Sau_Nay.mp3",
-        "album": "POP",
-        "title": "Chuyện Chúng Ta Sau Này"
-    },
-    {
-        "file": "Su_Tich_Mua_Xuan.mp3",
-        "album": "POP",
-        "title": "Sự Tích Mùa Xuân"
-    },
-    {
-        "file": "Chua_Bao_Gio_Me_Ke.mp3",
-        "album": "POP",
-        "title": "Chưa Bao Giờ Mẹ Kể"
-    },
-    {
-        "file": "Bang_Khuang.mp3",
-        "album": "POP",
-        "title": "Bâng Khuâng"
-    },
-    {
-        "file": "Co_on_Tren_Sofa.mp3",
-        "album": "POP",
-        "title": "Cô Đơn Trên Sofa"
-    },
-    {
-        "file": "Ben_Tren_Tang_Lau.mp3",
-        "album": "POP",
-        "title": "Bên Trên Tầng Lầu"
-    },
-    {
-        "file": "Ghen_Co_Vy_Vietnamese_Version_feat._Erik__Khac_Hung.mp3",
-        "album": "POP",
-        "title": "Ghen Co Vy (Vietnamese Version)"
-    },
-    {
-        "file": "Ai_Roi_Cung_Se_Khac.mp3",
-        "album": "POP",
-        "title": "Ai Rồi Cũng Sẽ Khác"
-    },
-    {
-        "file": "Anh_Oi_O_Lai.mp3",
-        "album": "POP",
-        "title": "Anh Ơi Ở Lại"
-    },
-    {
-        "file": "Cam_Nang_feat._Rtee.mp3",
-        "album": "POP",
-        "title": "Cảm Nắng (feat. Rtee)"
-    },
-    {
-        "file": "Anh_ang_Noi_au.mp3",
-        "album": "POP",
-        "title": "Anh Đang Nơi Đâu"
-    },
-    {
-        "file": "Em_La_Nhat_-_Speed_Up.mp3",
-        "album": "POP",
-        "title": "Em Là Nhất - Speed Up"
-    },
-    {
-        "file": "Buong.mp3",
-        "album": "POP",
-        "title": "Buông"
-    },
-    {
-        "file": "Chay_Ve_Khoc_Voi_Anh.mp3",
-        "album": "POP",
-        "title": "Chạy Về Khóc Với Anh"
-    },
-    {
-        "file": "BADBYE.mp3",
-        "album": "POP",
-        "title": "BADBYE"
-    },
-    {
-        "file": "Ba_Kiep_Tinh_Mot_Kiep_Duyen_Lofi_Ver.mp3",
-        "album": "POP",
-        "title": "Ba Kiếp Tình Một Kiếp Duyên (Lofi Ver)"
-    },
-    {
-        "file": "Anh_Ta_Bo_Em_Roi.mp3",
-        "album": "POP",
-        "title": "Anh Ta Bỏ Em Rồi"
-    },
-    {
-        "file": "052_Khong_Phai_2.mp3",
-        "album": "POP",
-        "title": "052 (Không Phai 2)"
-    },
-    {
-        "file": "Chuyen_Nha_Be_Thoi_Con_ung_Ve.mp3",
-        "album": "POP",
-        "title": "Chuyện Nhà Bé Thôi, Con Đừng Về"
-    },
-    {
-        "file": "Qua_Phu_Tuong.mp3",
-        "album": "Remix",
-        "title": "Quả Phụ Tướng"
-    },
-    {
-        "file": "_Co_Be_Mua_ong.mp3",
-        "album": "Audition",
-        "title": "Cô Bé Mùa Đông"
-    },
-    {
-        "file": "_Xin_Hay_Thu_Tha_Feat._Suboi.mp3",
-        "album": "Audition",
-        "title": "Xin Hay Thu Tha (Feat. Suboi)"
-    },
-    {
-        "file": "_Ngoi_Nha_Hoa_Hong.mp3",
-        "album": "Audition",
-        "title": "Ngôi Nhà Hoa Hồng"
-    },
-    {
-        "file": "_Khi_Co_on_Em_Nho_Ai_Lofi_-_From_Chill_With_Vicky_Nhung_-_Season_2_Memory.mp3",
-        "album": "Audition",
-        "title": "Khi Cô Đơn Em Nhớ Ai (Lofi)"
-    },
-    {
-        "file": "_Not_A_Single_Day.mp3",
-        "album": "Audition",
-        "title": "Not A Single Day"
-    },
-    {
-        "file": "_She_Neva_Knows.mp3",
-        "album": "Audition",
-        "title": "She Neva Knows"
-    },
-    {
-        "file": "_Hoa_Nang_-_Live.mp3",
-        "album": "Audition",
-        "title": "Hoa Nắng - Live"
-    },
-    {
-        "file": "_Every_Heart--.mp3",
-        "album": "Audition",
-        "title": "Every Heart-ミンナノキモチ-"
-    },
-    {
-        "file": "_Xe_ap.mp3",
-        "album": "Audition",
-        "title": "Xe Đạp"
-    },
-    {
-        "file": "_Hoang_Mang.mp3",
-        "album": "Audition",
-        "title": "Hoang Mang"
-    },
-    {
-        "file": "_Xin_Anh_ung.mp3",
-        "album": "Audition",
-        "title": "Xin Anh Đừng"
-    },
-    {
-        "file": "_Nana_Lonely_-_DJ_Dacian_Remix.mp3",
-        "album": "Audition",
-        "title": "Nana (Lonely) - DJ Dacian Remix"
-    },
-    {
-        "file": "_Wedding_Dress.mp3",
-        "album": "Audition",
-        "title": "Wedding Dress"
-    },
-    {
-        "file": "_Y_Please_Tell_Me_Why.mp3",
-        "album": "Audition",
-        "title": "Y (Please Tell Me Why)"
-    },
-    {
-        "file": "_10_Minutes.mp3",
-        "album": "Audition",
-        "title": "10 Minutes"
-    },
-    {
-        "file": "_Dilemma.mp3",
-        "album": "Audition",
-        "title": "Dilemma"
-    },
-    {
-        "file": "_Buc_Thu_Tinh_Thu_Hai.mp3",
-        "album": "Audition",
-        "title": "Bức Thư Tình Thứ Hai"
-    },
-    {
-        "file": "_I_Dont_Care.mp3",
-        "album": "Audition",
-        "title": "I Don't Care"
-    },
-    {
-        "file": "_I_LOVE_YOU.mp3",
-        "album": "Audition",
-        "title": "I LOVE YOU"
-    },
-    {
-        "file": "_Thien_uong_Goi_Ten.mp3",
-        "album": "Audition",
-        "title": "Thiên Đường Gọi Tên"
-    },
-    {
-        "file": "_Dong_Thoi_Gian_Theme_Song_From_Mui_Ngo_Gai.mp3",
-        "album": "Audition",
-        "title": "Dòng Thời Gian"
-    },
-    {
-        "file": "_We_belong_together.mp3",
-        "album": "Audition",
-        "title": "We belong together"
-    },
-    {
-        "file": "_Tan.mp3",
-        "album": "Audition",
-        "title": "Tan"
-    },
-    {
-        "file": "_Mua.mp3",
-        "album": "Audition",
-        "title": "Mưa"
-    },
-    {
-        "file": "_A_Better_Day.mp3",
-        "album": "Audition",
-        "title": "A Better Day"
-    },
-    {
-        "file": "_Xin_Loi_Anh_Sorry.mp3",
-        "album": "Audition",
-        "title": "Xin Lỗi Anh (Sorry)"
-    },
-    {
-        "file": "_Sick_enough_to_die_Feat._JAMIE.mp3",
-        "album": "Audition",
-        "title": "Sick enough to die (Feat. JAMIE)"
-    },
-    {
-        "file": "_I_Know_What_You_Want_feat._Flipmode_Squad.mp3",
-        "album": "Audition",
-        "title": "I Know What You Want (feat. Flipmode Squad)"
-    },
-    {
-        "file": "_Everybody_Backstreets_Back_-_Radio_Edit.mp3",
-        "album": "Audition",
-        "title": "Everybody (Backstreet's Back)"
-    },
-    {
-        "file": "_Haru_Haru.mp3",
-        "album": "Audition",
-        "title": "Haru Haru"
-    },
-    {
-        "file": "__Eyes_Nose_Lips.mp3",
-        "album": "Audition",
-        "title": "눈,코,입 (Eyes, Nose, Lips)"
-    },
-    {
-        "file": "_Noi_Nho_ay_Voi.mp3",
-        "album": "Audition",
-        "title": "Nỗi Nhớ Đầy Vơi"
-    },
-    {
-        "file": "_Vi_Sao.mp3",
-        "album": "Audition",
-        "title": "Vì Sao"
-    },
-    {
-        "file": "_Lonely.mp3",
-        "album": "Audition",
-        "title": "Lonely"
-    },
-    {
-        "file": "_Than_Thoai_Lofi.mp3",
-        "album": "Audition",
-        "title": "Thần Thoại (Lofi)"
-    },
-    {
-        "file": "_Be_What_You_Wanna_Be.mp3",
-        "album": "Audition",
-        "title": "Be What You Wanna Be"
-    },
-    {
-        "file": "_Buttons.mp3",
-        "album": "Audition",
-        "title": "Buttons"
-    },
-    {
-        "file": "_Sign.mp3",
-        "album": "Audition",
-        "title": "Sign"
-    },
-    {
-        "file": "_Giot_Suong_Va_Chiec_La.mp3",
-        "album": "Audition",
-        "title": "Giọt Sương Và Chiếc Lá"
-    },
-    {
-        "file": "_Please_dont.mp3",
-        "album": "Audition",
-        "title": "Please don’t"
-    },
-    {
-        "file": "_Cry_Cry.mp3",
-        "album": "Audition",
-        "title": "Cry Cry"
-    },
-    {
-        "file": "_Neu.mp3",
-        "album": "Audition",
-        "title": "Nếu"
-    },
-    {
-        "file": "_CROOKED.mp3",
-        "album": "Audition",
-        "title": "CROOKED"
-    },
-    {
-        "file": "_Remember_the_Name_feat._Styles_of_Beyond.mp3",
-        "album": "Audition",
-        "title": "Remember the Name (feat. Styles of Beyond)"
-    },
-    {
-        "file": "_Anh_Tin_Minh_a_Cho_Nhau_Ky_Niem_feat._Luong_Bang_Quang.mp3",
-        "album": "Audition",
-        "title": "Anh Tin Mình Đã Cho Nhau Kỷ Niệm"
-    },
-    {
-        "file": "_My_Humps.mp3",
-        "album": "Audition",
-        "title": "My Humps"
-    },
-    {
-        "file": "_Girlfriend.mp3",
-        "album": "Audition",
-        "title": "Girlfriend"
-    },
-    {
-        "file": "_NU_ABO.mp3",
-        "album": "Audition",
-        "title": "NU ABO"
-    },
-    {
-        "file": "_30_Ngay_Yeu.mp3",
-        "album": "Audition",
-        "title": "30 Ngày Yêu"
-    },
-    {
-        "file": "_Ma_Boy.mp3",
-        "album": "Audition",
-        "title": "Ma Boy"
-    },
-    {
-        "file": "_Thinking_Of_You.mp3",
-        "album": "Audition",
-        "title": "Thinking Of You"
-    },
-    {
-        "file": "_Ngot_Ngao.mp3",
-        "album": "Audition",
-        "title": "Ngọt Ngào"
-    },
-    {
-        "file": "_EM_NHO_ANH_RAT_NHIEU_feat._Orange.mp3",
-        "album": "Audition",
-        "title": "EM NHỚ ANH RẤT NHIỀU (feat. Orange)"
-    },
-    {
-        "file": "__.mp3",
-        "album": "Audition",
-        "title": "우리 사랑했잖아"
-    },
-    {
-        "file": "_Thats_Not_My_Name.mp3",
-        "album": "Audition",
-        "title": "That's Not My Name"
-    },
-    {
-        "file": "_All_Around_the_World_La_La_La.mp3",
-        "album": "Audition",
-        "title": "All Around the World (La La La)"
-    },
-    {
-        "file": "_Love_Love_Love.mp3",
-        "album": "Audition",
-        "title": "Love Love Love"
-    },
-    {
-        "file": "_So_Sick.mp3",
-        "album": "Audition",
-        "title": "So Sick"
-    },
-    {
-        "file": "_S.O.S_Eng_Ver..mp3",
-        "album": "Audition",
-        "title": "S.O.S (Eng Ver.)"
-    },
-    {
-        "file": "_Tieu_Thuyet_Tinh_Yeu.mp3",
-        "album": "Audition",
-        "title": "Tiểu Thuyết Tình Yêu"
-    },
-    {
-        "file": "_Di_Vang_Nhat_Nhoa_-_Remake.mp3",
-        "album": "Audition",
-        "title": "Dĩ Vãng Nhạt Nhòa - Remake"
-    },
-    {
-        "file": "_Maria.mp3",
-        "album": "Audition",
-        "title": "Maria"
-    },
-    {
-        "file": "_In_the_End.mp3",
-        "album": "Audition",
-        "title": "In the End"
-    },
-    {
-        "file": "_Lieu_Thuoc_Cho_Trai_Tim_-_Remake.mp3",
-        "album": "Audition",
-        "title": "Liều Thuốc Cho Trái Tim - Remake"
-    },
-    {
-        "file": "_Apologize.mp3",
-        "album": "Audition",
-        "title": "Apologize"
-    },
-    {
-        "file": "_Toxic.mp3",
-        "album": "Audition",
-        "title": "Toxic"
-    },
-    {
-        "file": "_Nho_Lam.mp3",
-        "album": "Audition",
-        "title": "Nhớ Lắm"
-    },
-    {
-        "file": "_I_Love_You_and_Love_you_inst.mp3",
-        "album": "Audition",
-        "title": "I Love You and Love you (inst)"
-    },
-    {
-        "file": "_U_Go_Girl.mp3",
-        "album": "Audition",
-        "title": "U Go Girl"
-    },
-    {
-        "file": "_The_Day_You_Went_Away.mp3",
-        "album": "Audition",
-        "title": "The Day You Went Away"
-    },
-    {
-        "file": "_...Baby_One_More_Time.mp3",
-        "album": "Audition",
-        "title": "Baby One More Time"
-    },
-    {
-        "file": "___.mp3",
-        "album": "Audition",
-        "title": "너 때문에 미쳐"
-    },
-    {
-        "file": "_Chiec_Gay_Truong_Son.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Chiếc Gậy Trường Sơn"
-    },
-    {
-        "file": "_Khat_Vong_Tuoi_Tre.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Khát Vọng Tuổi Trẻ"
-    },
-    {
-        "file": "_Niem_Tin_Chien_Thang.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Niềm Tin Chiến Thắng"
-    },
-    {
-        "file": "_Tau_Anh_Qua_Nui.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Tàu Anh Qua Núi"
-    },
-    {
-        "file": "_Rung_Vang_Bien_Bac.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Rừng Vàng Biển Bạc"
-    },
-    {
-        "file": "_Ru_Lai_Cau_Ho.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Ru Lại Câu Hò"
-    },
-    {
-        "file": "_Gap_Nhau_giua_Rung_Mo.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Gặp Nhau giữa Rừng Mơ"
-    },
-    {
-        "file": "_Tinh_ta_bien_bac_ong_xanh.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Tình ta biển bạc đồng xanh"
-    },
-    {
-        "file": "_Viet_Tiep_Cau_Chuyen_Hoa_Binh.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Viết Tiếp Câu Chuyện Hòa Bình"
-    },
-    {
-        "file": "_Co_Gai_Sai_Gon_i_Tai_an.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Cô Gái Sài Gòn Đi Tải Đạn"
-    },
-    {
-        "file": "_Mashup_Nam_Quoc_Son_Ha__at_Nuoc_Loi_Ru.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Nam Quốc Sơn Hà & Đất Nước Lời Ru"
-    },
-    {
-        "file": "_Noi_Vong_Tay_Lon.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Nối Vòng Tay Lớn"
-    },
-    {
-        "file": "_i_cung_anh_sang.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Đi cùng ánh sáng"
-    },
-    {
-        "file": "_Con_Thuong_Rau_ang_Moc_Sau_He.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Còn Thương Rau Đắng Mọc Sau Hè"
-    },
-    {
-        "file": "_Tien_Len_Viet_Nam_Oi.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Tiến Lên Việt Nam Ơi"
-    },
-    {
-        "file": "_Con_Gi_ep_Hon_-_Mua_o_Original_Soundtrack.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Còn Gì Đẹp Hơn"
-    },
-    {
-        "file": "_To_quoc_goi_ten_minh.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Tổ quốc gọi tên mình"
-    },
-    {
-        "file": "_Bai_Ca_Tom_Ca.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Bài Ca Tôm Cá"
-    },
-    {
-        "file": "_Ha_Noi_Muoi_Hai_Mua_Hoa.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Hà Nội Mười Hai Mùa Hoa"
-    },
-    {
-        "file": "_Mot_Khuc_Tam_Tinh_Cua_Nguoi_Ha_Tinh.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Một Khúc Tâm Tình Của Người Hà Tĩnh"
-    },
-    {
-        "file": "_VIET_NAM_TOI_O.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "VIỆT NAM TÔI ĐÓ"
-    },
-    {
-        "file": "_Co_gai_vot_chong.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Cô gái vót chông"
-    },
-    {
-        "file": "_Mot_Vong_Viet_Nam.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Một Vòng Việt Nam"
-    },
-    {
-        "file": "_Ho_Vuon_Minh.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Hò Vươn Mình"
-    },
-    {
-        "file": "_Nha_Toi_Co_Treo_Mot_La_Co.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Nhà Tôi Có Treo Một Lá Cờ"
-    },
-    {
-        "file": "_Nguoi_i_xay_ho_Ke_Go.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Người đi xây hồ Kẻ Gỗ"
-    },
-    {
-        "file": "_Dong_song_que_anh_dong_song_que_em.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Dòng sông quê anh, dòng sông quê em"
-    },
-    {
-        "file": "_ieu_Phi_Thuong_Nho_Be.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Điều Phi Thường Nhỏ Bé"
-    },
-    {
-        "file": "_Quang_Binh_que_ta_oi.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Quảng Bình quê ta ơi"
-    },
-    {
-        "file": "_Chiec_Khan_Pieu.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Chiếc Khăn Piêu"
-    },
-    {
-        "file": "_Viet_Nam_Tu_Te.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Việt Nam Tử Tế"
-    },
-    {
-        "file": "_Co_Gai_Mo_uong.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Cô Gái Mở Đường"
-    },
-    {
-        "file": "_Gui_Em_O_Cuoi_Song_Hong.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Gửi Em Ở Cuối Sông Hồng"
-    },
-    {
-        "file": "_Mau_o_Da_Vang.mp3",
-        "album": "Tu Hao Viet Nam",
-        "title": "Máu Đỏ Da Vàng"
-    },
-    {
-        "file": "Em-Yeu-Anh-Nhieu-Lam-Bao-Thy.mp3",
-        "album": "Bao Thy",
-        "title": "Em Yêu Anh Nhiều Lắm"
-    },
-    {
-        "file": "Tri-Ky-Bao-Thy.mp3",
-        "album": "Bao Thy",
-        "title": "Tri Kỷ"
-    },
-    {
-        "file": "Khoc-Them-Lan-Nua-Bao-Thy.mp3",
-        "album": "Bao Thy",
-        "title": "Khóc Thêm Lần Nữa"
-    },
-    {
-        "file": "Xep-Vao-Qua-Khu-Bao-Thy.mp3",
-        "album": "Bao Thy",
-        "title": "Xếp Vào Quá Khứ"
-    },
-    {
-        "file": "Cong-Chua-Bong-Bong-Bao-Thy-2B.mp3",
-        "album": "Bao Thy",
-        "title": "Công Chúa Bong Bóng"
-    },
-    {
-        "file": "Gat-Di-Nuoc-Mat-Bao-Thy.mp3",
-        "album": "Bao Thy",
-        "title": "Gạt Đi Nước Mắt"
-    },
-    {
-        "file": "Ngon-Doi-Chong-Chong-Bao-Thy-Quang-Vinh.mp3",
-        "album": "Bao Thy",
-        "title": "Ngọn Đồi Chong Chóng"
-    },
-    {
-        "file": "Mot-Chut-Quen-Anh-Thoi-Bao-Thy.mp3",
-        "album": "Bao Thy",
-        "title": "Một Chút Quên Anh Thôi"
-    },
-    {
-        "file": "Ngoi-Nha-Hoa-Hong-Bao-Thy-Quang-Vinh.mp3",
-        "album": "Bao Thy",
-        "title": "Ngôi Nhà Hoa Hồng"
-    },
-    {
-        "file": "Bao-Dem-Em-Khoc-Bao-Thy.mp3",
-        "album": "Bao Thy",
-        "title": "Bao Đêm Em Khóc"
-    },
-    {
-        "file": "Ngoc-Nghech-Bao-Thy.mp3",
-        "album": "Bao Thy",
-        "title": "Ngốc Nghếch"
-    },
-    {
-        "file": "Em-Khong-Con-Buon-Bao-Thy.mp3",
-        "album": "Bao Thy",
-        "title": "Em Không Còn Buồn"
-    },
-    {
-        "file": "Cang-Kho-Cang-Yeu-Bao-Thy.mp3",
-        "album": "Bao Thy",
-        "title": "Càng Khó Càng Yêu"
-    },
-    {
-        "file": "Lung-Chung-Hanh-Phuc-Bao-Thy.mp3",
-        "album": "Bao Thy",
-        "title": "Lưng Chừng Hạnh Phúc"
-    },
-    {
-        "file": "Cham-Vao-Hanh-Phuc-Bao-Thy.mp3",
-        "album": "Bao Thy",
-        "title": "Chạm Vào Hạnh Phúc"
-    },
-    {
-        "file": "Ngay-Buon-Nhat-Bao-Thy.mp3",
-        "album": "Bao Thy",
-        "title": "Ngày Buồn Nhất"
-    },
-    {
-        "file": "Nho-Rat-Nho-Bao-Thy-Duong-Trieu-Vu.mp3",
-        "album": "Bao Thy",
-        "title": "Nhớ Rất Nhớ"
-    },
-    {
-        "file": "Van-Tin-Minh-Co-Nhau-Bao-Thy-Quang-Vinh.mp3",
-        "album": "Bao Thy",
-        "title": "Vẫn Tin Mình Có Nhau"
-    },
-    {
-        "file": "Please-Tell-Me-Why-Bao-Thy-Vuong-Khang.mp3",
-        "album": "Bao Thy",
-        "title": "Please Tell Me Why"
-    },
-    {
-        "file": "Vi-Ai-Vi-Anh-Dong-Nhi.mp3",
-        "album": "Dong Nhi",
-        "title": "Vì Ai Vì Anh - Đông Nhi"
-    },
-    {
-        "file": "Nam-Tay-Anh-Nhe-Dong-Nhi-Ong-Cao-Thang.mp3",
-        "album": "Dong Nhi",
-        "title": "Nắm Tay Anh Nhé"
-    },
-    {
-        "file": "Can-Mot-Ai-Do-I-Wanna-Dance-Dong-Nhi.mp3",
-        "album": "Dong Nhi",
-        "title": "Cần 1 Ai Đó"
-    },
-    {
-        "file": "Xin-Anh-Dung-Dong-Nhi.mp3",
-        "album": "Dong Nhi",
-        "title": "Xin Anh Đừng"
-    },
-    {
-        "file": "Bi-Mat-Cua-Hanh-Phuc-Dong-Nhi-Ngo-Kien-Huy.mp3",
-        "album": "Dong Nhi",
-        "title": "Bí Mật Của Hạnh Phúc"
-    },
-    {
-        "file": "Hot-Dong-Nhi.mp3",
-        "album": "Dong Nhi",
-        "title": "HOT"
-    },
-    {
-        "file": "Co-Ba-Sai-Gon-Dong-Nhi.mp3",
-        "album": "Dong Nhi",
-        "title": "Cô Ba Sài Gòn"
-    },
-    {
-        "file": "Taxi-Dong-Nhi.mp3",
-        "album": "Dong Nhi",
-        "title": "Taxi"
-    },
-    {
-        "file": "Cho-Em-Mot-Lan-Yeu-Dong-Nhi.mp3",
-        "album": "Dong Nhi",
-        "title": "Cho Em Một Lần Yêu"
-    },
-    {
-        "file": "Dung-Ngoi-Yen-Trong-Goc-Toi-Dong-Nhi.mp3",
-        "album": "Dong Nhi",
-        "title": "Đừng Ngồi Yên Trong Góc Tối"
-    },
-    {
-        "file": "Loi-Thu-Toi-Ngot-Ngao-Dong-Nhi.mp3",
-        "album": "Dong Nhi",
-        "title": "Lời Thú Tội Ngọt Ngào"
-    },
-    {
-        "file": "Khoc-Dong-Nhi.mp3",
-        "album": "Dong Nhi",
-        "title": "Khóc"
-    },
-    {
-        "file": "Nghi-Ngo-Dong-Nhi-Ngo-Kien-Huy.mp3",
-        "album": "Dong Nhi",
-        "title": "Nghi Ngờ"
-    },
-    {
-        "file": "Co-Nhung-Yeu-Thuong-Nao-Dong-Nhi.mp3",
-        "album": "Dong Nhi",
-        "title": "Có Những Yêu Thương Nào"
-    },
-    {
-        "file": "Baby-One-More-Time-Dong-Nhi.mp3",
-        "album": "Dong Nhi",
-        "title": "Baby One More Time"
-    },
-    {
-        "file": "Ac-Mong-Cua-Nhung-Giac-Mo-Dong-Nhi.mp3",
-        "album": "Dong Nhi",
-        "title": "Ác Mộng Của Những Giấc Mơ"
-    },
-    {
-        "file": "Ngot-Ngao-Dong-Nhi.mp3",
-        "album": "Dong Nhi",
-        "title": "Ngọt Ngào"
-    },
-    {
-        "file": "Trach-Ai-Bay-Gio-Dong-Nhi.mp3",
-        "album": "Dong Nhi",
-        "title": "Trách Ai Bây Giờ"
-    },
-    {
-        "file": "Cat-Giau-Ky-Uc-Dong-Nhi-Ong-Cao-Thang.mp3",
-        "album": "Dong Nhi",
-        "title": "Cất Giấu Những Ký Ức"
-    },
-    {
-        "file": "Bad-Boy-Dong-Nhi.mp3",
-        "album": "Dong Nhi",
-        "title": "Bad Boy"
-    },
-    {
-        "file": "Love-Me-Too-Dong-Nhi.mp3",
-        "album": "Dong Nhi",
-        "title": "Love Me Too"
-    },
-    {
-        "file": "Boi-Roi-Dong-Nhi.mp3",
-        "album": "Dong Nhi",
-        "title": "Bối Rối"
-    },
-    {
-        "file": "_Em_Re_Trai_Anh_Re_Phai.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Em Rẽ Trái Anh Rẽ Phải"
-    },
-    {
-        "file": "_Ky_Niem_Bo_Quen.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Kỷ Niệm Bỏ Quên"
-    },
-    {
-        "file": "_Can_Gac_Trong_-_RB.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Căn Giác Trống - R&B"
-    },
-    {
-        "file": "_Giac_Mo_Mot_Cuoc_Tinh.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Giấc Mơ Một Cuộc Tình"
-    },
-    {
-        "file": "_Can_Rut.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Cắn Rứt"
-    },
-    {
-        "file": "_Oanh.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Oanh"
-    },
-    {
-        "file": "_Buoc_Qua_The_Gioi.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Bước Qua Thế Giới"
-    },
-    {
-        "file": "_Noi_Nho_Noi_Con_Tim_Mo_Coi.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Nỗi Nhớ Nơi Con Tim Mồ Côi"
-    },
-    {
-        "file": "_Toi_Khong_Tin.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Tôi Không Tin"
-    },
-    {
-        "file": "_Hua_That_Nhieu_That_Hua_That_Nhieu.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Hứa Thật Nhiều Thất Hứa Thật Nhiều"
-    },
-    {
-        "file": "_Tai_Sao.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Tại Sao"
-    },
-    {
-        "file": "_Phia_Cuoi_Me_Cung.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Phía Cuối Mê Cung"
-    },
-    {
-        "file": "_Buoc_Qua_Niem_au.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Bước Qua Niềm Đau"
-    },
-    {
-        "file": "_Giai_ieu_Mua_Xuan.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Giai Điệu Mùa Xuân"
-    },
-    {
-        "file": "_Chac_Anh_Thua_Nguoi_Ay.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Chắc Anh Thua Người Ấy"
-    },
-    {
-        "file": "_Nguoi_i_Ngang_oi_Toi.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Người Đi Ngang Đời Tôi"
-    },
-    {
-        "file": "_Cho_Vua_Long_Em.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Cho Vừa Lòng Em"
-    },
-    {
-        "file": "_Toi_au_Muon_Khoc.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Tối Đâu Muốn Khóc"
-    },
-    {
-        "file": "_Vi_Mot_Nguoi_Ra_i.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Vì Một Người Ra Đi"
-    },
-    {
-        "file": "_Nuoc_Co_Em_Chon_Ong_Trum_Bui_Vien_OST.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Nước Cờ Em Chọn"
-    },
-    {
-        "file": "_Vang_Trang_Co_on.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Vầng Trăng Cô Đơn"
-    },
-    {
-        "file": "_oa_Hong_Cho_Em.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Đóa Hồng Cho Em"
-    },
-    {
-        "file": "_LK_Ai_Kho_Vi_Ai.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Ai Khổ Vì Ai"
-    },
-    {
-        "file": "Anh_So.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Anh Sợ"
-    },
-    {
-        "file": "_an_Ong_Khong_uoc_Quen_Het_Tinh_Con_Nghia.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Đàn Ông Không Được Quên Hết Tình Còn Nghĩa"
-    },
-    {
-        "file": "_Chay_Tron_Ki_Niem.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Chạy Trốn Kỉ Niệm"
-    },
-    {
-        "file": "_Buon.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Buồn"
-    },
-    {
-        "file": "_Giot_Nang_Cuoi_Chieu.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Giọt Nắng Cuối Chiều"
-    },
-    {
-        "file": "_Cach_Biet_Hai_Phuong_Troi.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Cách Biệt Hai Phương Trời"
-    },
-    {
-        "file": "_Buong_Tay_Lang_Im.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Buông Tay Lặng Im"
-    },
-    {
-        "file": "_Vi_oi_Ta_La_Cua_Nhau.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Vì Đôi Ta Là Của Nhau"
-    },
-    {
-        "file": "_Tha_Rang_Nhu_The.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Thà Rằng Như Thế"
-    },
-    {
-        "file": "_Sau_em_Nay.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Sau Đêm Nay"
-    },
-    {
-        "file": "Khac Hoa Tuong Tu.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Khắc Họa Tương Tư"
-    },
-    {
-        "file": "_Co_on_Mot_Vi_Sao.mp3",
-        "album": "Ung Hoang Phuc",
-        "title": "Cô Đơn Một Vì Sao"
-    },
-    {
-        "file": "_Trai_at_Nay_La_Cua_Chung_Minh.mp3",
-        "album": "Tre em",
-        "title": "Trái Đất Này Là Của Chúng Mình"
-    },
-    {
-        "file": "_Ngay_au_Tien_i_Hoc.mp3",
-        "album": "Tre em",
-        "title": "Ngày Đầu Tiên Đi Học"
-    },
-    {
-        "file": "_Chu_Voi_Con_O_Ban_on.mp3",
-        "album": "Tre em",
-        "title": "Chú Voi Con Ở Bản Đôn"
-    },
-    {
-        "file": "_Bac_Kim_Thang.mp3",
-        "album": "Tre em",
-        "title": "Bắc Kim Thang"
-    },
-    {
-        "file": "_Chim_Chich_Bong.mp3",
-        "album": "Tre em",
-        "title": "Chim Chích Bông"
-    },
-    {
-        "file": "_Ruoc_en_ong_sao.mp3",
-        "album": "Tre em",
-        "title": "Rước đèn ông sao"
-    },
-    {
-        "file": "_Hai_Con_Thang_Lan_Con.mp3",
-        "album": "Tre em",
-        "title": "Hai Con Thằng Lằn Con"
-    },
-    {
-        "file": "_Ban_Tay_Nam_Ngon.mp3",
-        "album": "Tre em",
-        "title": "Bàn Tay Năm Ngón"
-    },
-    {
-        "file": "_Ga_Trong_Thoi_Ken.mp3",
-        "album": "Tre em",
-        "title": "Gà Trống Thổi Kèn"
-    },
-    {
-        "file": "_Hong_Dam_au.mp3",
-        "album": "Tre em",
-        "title": "Hỏng Dám Đâu"
-    },
-    {
-        "file": "_Ca_Nha_Thuong_Nhau.mp3",
-        "album": "Tre em",
-        "title": "Cả Nhà Thương Nhau"
-    },
-    {
-        "file": "_Ba_Cong_i_Cho.mp3",
-        "album": "Tre em",
-        "title": "Bà Còng Đi Chợ"
-    },
-    {
-        "file": "_Be_Khoe_Be_Ngoan.mp3",
-        "album": "Tre em",
-        "title": "Bé Khỏe Bé Ngoan"
-    },
-    {
-        "file": "Khong_Sao_Ma_Em_ay_Roi.mp3",
-        "album": "Huong Ly",
-        "title": "Không Sao Mà Em Đây Rồi"
-    },
-    {
-        "file": "The_Gioi_Trong_Em.mp3",
-        "album": "Huong Ly",
-        "title": "Thế Giới Trong Em"
-    },
-    {
-        "file": "Ngay_Mai_Em_Se_Quen.mp3",
-        "album": "Huong Ly",
-        "title": "Ngày Mai Em Sẽ Quên"
-    },
-    {
-        "file": "E_Khong_Khong_The.mp3",
-        "album": "Huong Ly",
-        "title": "E Là Không Thể"
-    },
-    {
-        "file": "o_Ta_Khong_o_Nang.mp3",
-        "album": "Huong Ly",
-        "title": "Độ Ta Không Độ Nàng"
-    },
-    {
-        "file": "oan_Ca_Xuan.mp3",
-        "album": "Huong Ly",
-        "title": "Đoản Ca Xuân"
-    },
-    {
-        "file": "Nguyen_Yeu.mp3",
-        "album": "Huong Ly",
-        "title": "Nguyện Yêu"
-    },
-    {
-        "file": "Chua_Bao_Gio_Em_Quen.mp3",
-        "album": "Huong Ly",
-        "title": "Chưa Bao Giờ Em Quên"
-    },
-    {
-        "file": "Sau_Nay_Neu_Co_Thuong_Em.mp3",
-        "album": "Huong Ly",
-        "title": "Sau Này Nếu Có Thương Em"
-    },
-    {
-        "file": "Co_Tat_Ca_Nhung_Thieu_Anh.mp3",
-        "album": "Huong Ly",
-        "title": "Có Tất Cả Nhưng Thiếu Anh"
-    },
-    {
-        "file": "Toan_La_Loi_Noi_Doi.mp3",
-        "album": "Huong Ly",
-        "title": "Toàn Là Lời Nói Dối"
-    },
-    {
-        "file": "Khi_Nao_Lofi.mp3",
-        "album": "Huong Ly",
-        "title": "Khi Nào (Lofi)"
-    },
-    {
-        "file": "Thi_Tham_Mua_Xuan_Lofi.mp3",
-        "album": "Huong Ly",
-        "title": "Thì Thầm Mùa Xuân (Lofi)"
-    },
-    {
-        "file": "au_e_Truong_Thanh.mp3",
-        "album": "Huong Ly",
-        "title": "Đau Để Trưởng Thành"
-    },
-    {
-        "file": "Vui_Lam_Nha.mp3",
-        "album": "Huong Ly",
-        "title": "Vui Lắm Nha"
-    },
-    {
-        "file": "Niu_Duyen_Khong_Thanh.mp3",
-        "album": "Huong Ly",
-        "title": "Níu Duyên Không Thành"
-    },
-    {
-        "file": "Trai_Tim_Lon.mp3",
-        "album": "Huong Ly",
-        "title": "Trái Tim Lớn"
-    },
-    {
-        "file": "Nhin_May_Ve_Nguoi.mp3",
-        "album": "Huong Ly",
-        "title": "Nhìn Mây Vẽ Người"
-    },
-    {
-        "file": "Neu_Co_Mot_Ngay.mp3",
-        "album": "Huong Ly",
-        "title": "Nếu Có Một Ngày"
-    },
-    {
-        "file": "ong_Van.mp3",
-        "album": "Huong Ly",
-        "title": "Đông Vân"
-    },
-    {
-        "file": "Chac_Ai_o_Se_Ve.mp3",
-        "album": "Huong Ly",
-        "title": "Chắc Ai Đó Sẽ Về"
-    },
-    {
-        "file": "Nam.mp3",
-        "album": "Huong Ly",
-        "title": "Nắm"
-    },
-    {
-        "file": "Nguyen_Yeu_-_Lofi.mp3",
-        "album": "Huong Ly",
-        "title": "Nguyện Yêu - Lofi"
-    },
-    {
-        "file": "Chi_Can_Em_Binh_An_Thoi_Khong_Sai_Lech.mp3",
-        "album": "Huong Ly",
-        "title": "Chỉ Cần Em Bình An"
-    },
-    {
-        "file": "Co_Tham_Khong_Ve.mp3",
-        "album": "Huong Ly",
-        "title": "Cô Thắm Không Về"
-    },
-    {
-        "file": "Khue_Moc_Lang.mp3",
-        "album": "Huong Ly",
-        "title": "Khuê Mộc Lang"
-    },
-    {
-        "file": "Em_au_Lam_ay.mp3",
-        "album": "Huong Ly",
-        "title": "Em Đau Lắm Đấy"
-    },
-    {
-        "file": "Pho_Xuan_Lofi.mp3",
-        "album": "Huong Ly",
-        "title": "Phố Xuân (Lofi)"
-    },
-    {
-        "file": "The_Thai.mp3",
-        "album": "Huong Ly",
-        "title": "Thế Thái"
-    },
-    {
-        "file": "Buon_Lam_Em_Oi.mp3",
-        "album": "Huong Ly",
-        "title": "Buồn Lắm Em Ơi"
-    },
-    {
-        "file": "Yeu_Ai_e_Khong_Phai_Khoc.mp3",
-        "album": "Huong Ly",
-        "title": "Yêu Ai Để Không Phải Khóc"
-    },
-    {
-        "file": "Song_Gio.mp3",
-        "album": "Huong Ly",
-        "title": "Sóng Gió"
-    },
-    {
-        "file": "Chac_Gi_Anh_Yeu_Co_Ay.mp3",
-        "album": "Huong Ly",
-        "title": "Chắc Gì Anh Yêu Cô Ấy"
-    },
-    {
-        "file": "Tu_Em_Thuong_Minh.mp3",
-        "album": "Huong Ly",
-        "title": "Tự Em Thương Mình"
-    },
-    {
-        "file": "May_Va_Nui_-_Huong_Ly_Version.mp3",
-        "album": "Huong Ly",
-        "title": "Mây Và Núi - Hương Ly Version"
-    },
-    {
-        "file": "Tung_Yeu.mp3",
-        "album": "Huong Ly",
-        "title": "Từng Yêu"
-    },
-    {
-        "file": "Tat_Nhat_Lang_Ruc_Ro_Lofi.mp3",
-        "album": "Huong Ly",
-        "title": "Tát Nhật Lang Rực Rỡ (Lofi)"
-    },
-    {
-        "file": "i_Ve_Nha.mp3",
-        "album": "Den Vau",
-        "title": "Đi Về Nhà"
-    },
-    {
-        "file": "Bai_Nay_Chill_Phet.mp3",
-        "album": "Den Vau",
-        "title": "Bài Này Chill Phết"
-    },
-    {
-        "file": "Vi_Nha.mp3",
-        "album": "Den Vau",
-        "title": "Vị Nhà"
-    },
-    {
-        "file": "_Phai_Chang_Toi_Yeu_Hai_Nguoi.mp3",
-        "album": "Duy Manh",
-        "title": "Phải Chăng Tôi Yêu Hai Người"
-    },
-    {
-        "file": "_Bong_Trang_ang_Dan_Troi.mp3",
-        "album": "Duy Manh",
-        "title": "Bóng Trăng Đang Dần Trôi"
-    },
-    {
-        "file": "_Mua_ong_Xu_La.mp3",
-        "album": "Duy Manh",
-        "title": "Mùa Đông Xứ Lạ"
-    },
-    {
-        "file": "_Mai_Chi_La_Nguoi_Tinh.mp3",
-        "album": "Duy Manh",
-        "title": "Mãi Chỉ Là Người Tình"
-    },
-    {
-        "file": "_Du_Biet_Ta_Khong_Con_Nhau.mp3",
-        "album": "Duy Manh",
-        "title": "Dù Biết Ta Không Còn Nhau"
-    },
-    {
-        "file": "_Con_Se_Khong_Quen.mp3",
-        "album": "Duy Manh",
-        "title": "Con Sẽ Không Quên"
-    },
-    {
-        "file": "_Tinh_Em_La_ai_Duong.mp3",
-        "album": "Duy Manh",
-        "title": "Tình Em Là Đại Dương"
-    },
-    {
-        "file": "_Hay_Ve_ay_Ben_Anh.mp3",
-        "album": "Duy Manh",
-        "title": "Hãy Về Đây Bên Anh"
-    },
-    {
-        "file": "_Bai_Hat_Cho_Nguoi_Thuy_Thu.mp3",
-        "album": "Duy Manh",
-        "title": "Bài Hát Cho Người Thủy Thủ"
-    },
-    {
-        "file": "_Di_Vang_Cuoc_Tinh.mp3",
-        "album": "Duy Manh",
-        "title": "Dĩ Vãng Cuộc Tình"
-    },
-    {
-        "file": "_uong_Ve_Hai_Loi.mp3",
-        "album": "Duy Manh",
-        "title": "Đường Về Hai Lối"
-    },
-    {
-        "file": "_Kiep_o_en.mp3",
-        "album": "Duy Manh",
-        "title": "Kiếp Đỏ Đen"
-    },
-    {
-        "file": "_Toi_Yeu_Em_Nhieu.mp3",
-        "album": "Duy Manh",
-        "title": "Tôi Yêu Em Nhiều"
-    },
-    {
-        "file": "_Tinh_Khuc_Vang.mp3",
-        "album": "Dan Truong",
-        "title": "Tình Khúc Vàng"
-    },
-    {
-        "file": "_Buoc_Chan_Le_Loi.mp3",
-        "album": "Dan Truong",
-        "title": "Bước Chân Lẻ Loi"
-    },
-    {
-        "file": "_Got_Hong.mp3",
-        "album": "Dan Truong",
-        "title": "Gót Hồng"
-    },
-    {
-        "file": "_Mua_Tren_Cuoc_Tinh.mp3",
-        "album": "Dan Truong",
-        "title": "Mưa Trên Cuộc Tình"
-    },
-    {
-        "file": "_Cuoc_Tinh_Cay_ang.mp3",
-        "album": "Dan Truong",
-        "title": "Cuộc Tình Cay Đắng"
-    },
-    {
-        "file": "_Vong_Tay_Nguoi_Ay.mp3",
-        "album": "Dan Truong",
-        "title": "Vòng Tay Người Ấy"
-    },
-    {
-        "file": "_Mua_Buon.mp3",
-        "album": "Dan Truong",
-        "title": "Mưa Buồn"
-    },
-    {
-        "file": "_Cuoc_Tinh_Trong_Con_Mua.mp3",
-        "album": "Dan Truong",
-        "title": "Cuộc Tình Trong Cơn Mưa"
-    },
-    {
-        "file": "_Em_Se_La_Nguoi_Ra_i.mp3",
-        "album": "Dan Truong",
-        "title": "Em Sẽ Là Người Ra Đi"
-    },
-    {
-        "file": "_Bong_Dang_Thien_Than.mp3",
-        "album": "Dan Truong",
-        "title": "Bóng Dáng Thiên Thần"
-    },
-    {
-        "file": "_Con_Song_Yeu_Thuong.mp3",
-        "album": "Dan Truong",
-        "title": "Con Sóng Yêu Thương"
-    },
-    {
-        "file": "_Trang_Vo.mp3",
-        "album": "Dan Truong",
-        "title": "Trăng Vỡ"
-    },
-    {
-        "file": "_Tinh_Hong_Nhu_Mo.mp3",
-        "album": "Dan Truong",
-        "title": "Tình Hồng Như Mơ"
-    },
-    {
-        "file": "_Tinh_Nong.mp3",
-        "album": "Dan Truong",
-        "title": "Tình Nồng"
-    },
-    {
-        "file": "_Kiep_Ve_Sau.mp3",
-        "album": "Dan Truong",
-        "title": "Kiếp Ve Sầu"
-    },
-    {
-        "file": "_Em_La_Hanh_Phuc_oi_Anh.mp3",
-        "album": "Dan Truong",
-        "title": "Em Là Hạnh Phúc Đời Anh"
-    },
-    {
-        "file": "_Ao_Mong_Tinh_Yeu.mp3",
-        "album": "Dan Truong",
-        "title": "Ảo Mộng Tình Yêu"
-    },
-    {
-        "file": "_em_Ganh_Hao_Nghe_ieu_Hoai_Lang.mp3",
-        "album": "Dan Truong",
-        "title": "Đêm Gành Hào Nghe Điệu Hoài Lang"
-    },
-    {
-        "file": "tu_choi_nhe_nhang_thoi.mp3",
-        "album": "Bich Phuong",
-        "title": "Từ chối nhẹ nhàng thôi"
-    },
-    {
-        "file": "Co_Khi_Nao_Roi_Xa.mp3",
-        "album": "Bich Phuong",
-        "title": "Có Khi Nào Rời Xa"
-    },
-    {
-        "file": "Em_Chao_Tet.mp3",
-        "album": "Bich Phuong",
-        "title": "Em Chào Tết"
-    },
-    {
-        "file": "Gui_Anh_Xa_Nho.mp3",
-        "album": "Bich Phuong",
-        "title": "Gửi Anh Xa Nhớ"
-    },
-    {
-        "file": "em_bo_hut_thuoc_chua_feat._traitimtrongvang.mp3",
-        "album": "Bich Phuong",
-        "title": "Em bỏ hút thuốc chưa"
-    },
-    {
-        "file": "Mot_Cu_Lua.mp3",
-        "album": "Bich Phuong",
-        "title": "Một Cú Lừa"
-    },
-    {
-        "file": "Bao_Gio_Lay_Chong.mp3",
-        "album": "Bich Phuong",
-        "title": "Bao Giờ Lấy Chồng"
-    },
-    {
-        "file": "Phep_La_Hang_Ngay.mp3",
-        "album": "Tre em",
-        "title": "Phép Lạ Hằng Ngày"
-    },
-    {
-        "file": "Chu_Ech_Con.mp3",
-        "album": "Tre em",
-        "title": "Chú Ếch Con"
-    },
-    {
-        "file": "Qua_Gi.mp3",
-        "album": "Tre em",
-        "title": "Quả Gì"
-    },
-    {
-        "file": "Up_La_Khoai.mp3",
-        "album": "Tre em",
-        "title": "Úp Lá Khoai"
-    },
-    {
-        "file": "oi_Ken_Ti_Hon.mp3",
-        "album": "Tre em",
-        "title": "Đội Kèn Tí Hon"
-    },
-    {
-        "file": "Chi_Ong_Nau_Va_Em_Be.mp3",
-        "album": "Tre em",
-        "title": "Chị Ong Nâu Và Em Bé"
-    },
-    {
-        "file": "Bac_Kim_Thang.mp3",
-        "album": "Tre em",
-        "title": "Bắc Kim Thang"
-    },
-    {
-        "file": "Con_Co_Be_Be.mp3",
-        "album": "Tre em",
-        "title": "Con Cò Bé Bé"
-    },
-    {
-        "file": "Tap_The_Duc_Buoi_Sang.mp3",
-        "album": "Tre em",
-        "title": "Tập Thể Dục Buổi Sáng"
-    },
-    {
-        "file": "Lien_khuc_Mot_Con_Vit_Kia_Con_Buom_Vang_Con_Cao_Cao.mp3",
-        "album": "Tre em",
-        "title": "Liên khúc Một Con Vịt, Kìa Con Bướm Vàng, Con Cào Cào"
-    },
-    {
-        "file": "Chau_Yeu_Ba.mp3",
-        "album": "Tre em",
-        "title": "Cháu Yêu Bà"
-    },
-    {
-        "file": "Chau_Len_Ba.mp3",
-        "album": "Tre em",
-        "title": "Cháu Lên Ba"
-    },
-    {
-        "file": "Con_Chim_Non.mp3",
-        "album": "Tre em",
-        "title": "Con Chim Non"
-    },
-    {
-        "file": "an_Ga_Trong_San.mp3",
-        "album": "Tre em",
-        "title": "Đàn Gà Trong Sân"
-    },
-    {
-        "file": "Cho_Ngay_Cuoi_Em_Nekko_Remix.mp3",
-        "album": "Remix",
-        "title": "Chờ Ngày Cưới Em (Nekko Remix)"
-    },
-    {
-        "file": "Lo_Yeu_Nguoi_am_Sau_Remix.mp3",
-        "album": "Remix",
-        "title": "Lỡ Yêu Người Đậm Sâu (Remix)"
-    },
-    {
-        "file": "Thuyen_Quyen_Remix.mp3",
-        "album": "Remix",
-        "title": "Thuyền Quyên (Remix)"
-    },
-    {
-        "file": "Authentic_x_Hai_The_Gioi_Nam_Duck_Remix.mp3",
-        "album": "Remix",
-        "title": "Authentic x Hai Thế Giới"
-    },
-    {
-        "file": "Manh_Ba_-_SS_Remix.mp3",
-        "album": "Remix",
-        "title": "Mạnh Bà - SS Remix"
-    },
-    {
-        "file": "Tinh_Ca_Tinh_Ta_-_Cukak_Remix.mp3",
-        "album": "Remix",
-        "title": "Tình Ca Tình Ta - Cukak Remix"
-    },
-    {
-        "file": "Ngay_Trong_Xanh_Remix.mp3",
-        "album": "Remix",
-        "title": "Ngày Trong Xanh (Remix)"
-    },
-    {
-        "file": "Anh_au_Tu_Luc_Em_i_Remix.mp3",
-        "album": "Remix",
-        "title": "Anh Đau Từ Lúc Em Đi (Remix)"
-    },
-    {
-        "file": "Yeu_La_Cuoi_Remix.mp3",
-        "album": "Remix",
-        "title": "Yêu Là Cưới (Remix)"
-    },
-    {
-        "file": "ung_Hoi_Em_On_Khong_Remix.mp3",
-        "album": "Remix",
-        "title": "Đừng Hỏi Em Ổn Không (Remix)"
-    },
-    {
-        "file": "The_Thai_x_Co_Giang_Tinh_Remix.mp3",
-        "album": "Remix",
-        "title": "Thế Thái x Cố Giang Tình (Remix)"
-    },
-    {
-        "file": "Vui_Lam_Nha_Remix.mp3",
-        "album": "Remix",
-        "title": "Vui Lắm Nha (Remix)"
-    },
-    {
-        "file": "Ai_Cung_Co_Mot_Moi_Tinh_Buon_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Ai Cũng Có Một Mối Tình Buồn (Qinn Remix)"
-    },
-    {
-        "file": "The_Tu_-_Phuoc_Lanh_Remix_140.mp3",
-        "album": "Remix",
-        "title": "Thê Tử - Phước Lành Remix 140"
-    },
-    {
-        "file": "Vo_Kich_Cua_Em_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Vở Kịch Của Em (Qinn Remix)"
-    },
-    {
-        "file": "Mashup_e_Anh_Luong_Thien_-_ung_Hoi_Em_On_Khong_-_Anh_Thoi_Nhan_Nhuong_-_HuyPT_Remix.mp3",
-        "album": "Remix",
-        "title": "Mashup Để Anh Lương Thiện - Đừng Hỏi Em Ổn Không - Anh Thôi Nhân Nhượng - HuyPT Remix"
-    },
-    {
-        "file": "Em_va_Hoa_-_Cukak_Remix_Version.mp3",
-        "album": "Remix",
-        "title": "Em và Hoa - Cukak Remix Version"
-    },
-    {
-        "file": "Em_Voi_Quen_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Em Vội Quên (Qinn Remix)"
-    },
-    {
-        "file": "Mong_Mot_Ngay_Anh_Nho_en_Em_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Mong Một Ngày Anh Nhớ Đến Em Qinn Remix"
-    },
-    {
-        "file": "Nhan_Sinh_Quan_-_uc_Louis_Remix.mp3",
-        "album": "Remix",
-        "title": "Nhân Sinh Quán - Đức Louis Remix"
-    },
-    {
-        "file": "Thiep_Hong_Em_Trao_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Thiệp Hồng Em Trao (Qinn Remix)"
-    },
-    {
-        "file": "Cat_oi_Noi_Sau_-_Cukak_Remix.mp3",
-        "album": "Remix",
-        "title": "Cắt Đôi Nỗi Sầu - Cukak Remix"
-    },
-    {
-        "file": "Gia_Nhu_Anh_La_Nguoi_Vo_Tam_-_NT_Remix.mp3",
-        "album": "Remix",
-        "title": "Giá Như Anh Là Người Vô Tâm - NT Remix"
-    },
-    {
-        "file": "Truc_Xinh_-_Ciray_Remix.mp3",
-        "album": "Remix",
-        "title": "Trúc Xinh - Ciray Remix"
-    },
-    {
-        "file": "Gio_Khong_Cuoi_Thi_Nao_Cuoi_Remix.mp3",
-        "album": "Remix",
-        "title": "Giờ Không Cưới Thì Nào Cưới (Remix)"
-    },
-    {
-        "file": "Xuan_Nay_Con_Khong_Ve_Remix.mp3",
-        "album": "Remix",
-        "title": "Xuân Này Con Không Về (Remix)"
-    },
-    {
-        "file": "Go_Cua_Trai_Tim_-_Remix.mp3",
-        "album": "Remix",
-        "title": "Gõ Cửa Trái Tim - Remix"
-    },
-    {
-        "file": "Phan_Tan_Remix.mp3",
-        "album": "Remix",
-        "title": "Phận Tàn (Remix)"
-    },
-    {
-        "file": "Forget_Me_Now_Remix.mp3",
-        "album": "Remix",
-        "title": "Forget Me Now (Remix)"
-    },
-    {
-        "file": "Cu_Noi_Yeu_Lan_Nay_Speed_Up_-_Cukak_Remix.mp3",
-        "album": "Remix",
-        "title": "Cứ Nói Yêu Lần Này (Speed Up) - Cukak Remix"
-    },
-    {
-        "file": "Mot_em_Say_Remix.mp3",
-        "album": "Remix",
-        "title": "Một Đêm Say Remix"
-    },
-    {
-        "file": "Moi_Trau_feat._Tuan_Cry.mp3",
-        "album": "Remix",
-        "title": "Mời Trầu (feat. Tuấn Cry)"
-    },
-    {
-        "file": "Tinh_Sau_Thien_Thu_Muon_Loi_-_ChillKe_Remix.mp3",
-        "album": "Remix",
-        "title": "Tình Sầu Thiên Thu Muôn Lối - ChillKe Remix"
-    },
-    {
-        "file": "Tuong_Quan_-_Remix_Deep_House.mp3",
-        "album": "Remix",
-        "title": "Tướng Quân - Remix Deep House"
-    },
-    {
-        "file": "Co_Duyen_Khong_No_Remix_House.mp3",
-        "album": "Remix",
-        "title": "Có Duyên Không Nợ Remix (House)"
-    },
-    {
-        "file": "Hoa_Bang_Lang_Remix_House.mp3",
-        "album": "Remix",
-        "title": "Hoa Bằng Lăng (Remix House)"
-    },
-    {
-        "file": "Thang_Hau_-_Remix_Deep_House.mp3",
-        "album": "Remix",
-        "title": "Thằng Hầu - Remix Deep House"
-    },
-    {
-        "file": "Mong_Hoa_Sim_-_EDM_Remix.mp3",
-        "album": "Remix",
-        "title": "Mộng Hoa Sim - EDM Remix"
-    },
-    {
-        "file": "Mua_Tuyet_Remix.mp3",
-        "album": "Remix",
-        "title": "Mưa Tuyết (Remix)"
-    },
-    {
-        "file": "o_Ta_Khong_o_Nang_Remix.mp3",
-        "album": "Remix",
-        "title": "Độ Ta Không Độ Nàng (Remix)"
-    },
-    {
-        "file": "Tuy_Am_-_CM1X_Remix.mp3",
-        "album": "Remix",
-        "title": "Túy Âm - CM1X Remix"
-    },
-    {
-        "file": "Vuong_Van_-_Remix.mp3",
-        "album": "Remix",
-        "title": "Vương Vấn - Remix"
-    },
-    {
-        "file": "Phai_Dau_Cuoc_Tinh.mp3",
-        "album": "Remix",
-        "title": "Phai Dấu Cuộc Tình"
-    },
-    {
-        "file": "Khong_Biet_Phai_Lam_Sao_-_uc_Louis_Remix.mp3",
-        "album": "Remix",
-        "title": "Không Biết Phải Làm Sao - Đức Louis Remix"
-    },
-    {
-        "file": "Thien_Ly_Oi_Remix.mp3",
-        "album": "Remix",
-        "title": "Thiên Lý Ơi (Remix)"
-    },
-    {
-        "file": "Em_Co_Biet_Remix.mp3",
-        "album": "Remix",
-        "title": "Em Có Biết (Remix)"
-    },
-    {
-        "file": "Yeu_That_Kho_Xoa_That_au_-_Yang_Remix.mp3",
-        "album": "Remix",
-        "title": "Yêu Thật Khó Xoá Thật Đau - Yang Remix"
-    },
-    {
-        "file": "Ai_Hong_Nhan_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Ải Hồng Nhan (Qinn Remix)"
-    },
-    {
-        "file": "Em_Nam_Anh_Buong_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Em Nắm Anh Buông (Qinn Remix)"
-    },
-    {
-        "file": "Da_Key_Remix.mp3",
-        "album": "Remix",
-        "title": "Da Key (Remix)"
-    },
-    {
-        "file": "Trach_Phan_Vo_Danh_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Trách Phận Vô Danh (Qinn Remix)"
-    },
-    {
-        "file": "Troi_Em_Lai_Remix.mp3",
-        "album": "Remix",
-        "title": "Trói Em Lại (Remix)"
-    },
-    {
-        "file": "Con_Buom_Xuan_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Con Bướm Xuân (Qinn Remix)"
-    },
-    {
-        "file": "Co_Duyen_Khong_No_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Có Duyên Không Nợ (Qinn Remix)"
-    },
-    {
-        "file": "Chua_Bao_Gio_Em_Quen_-_Kendy_T_Remix.mp3",
-        "album": "Remix",
-        "title": "Chưa Bao Giờ Em Quên - Kendy T Remix"
-    },
-    {
-        "file": "Loi_Noi_ieu_Tren_Moi_Em_Remix.mp3",
-        "album": "Remix",
-        "title": "Lời Nói Điêu Trên Môi Em (Remix)"
-    },
-    {
-        "file": "Bat_Tinh_Yeu_Len_-_Cukak_Remix.mp3",
-        "album": "Remix",
-        "title": "Bật Tình Yêu Lên - Cukak Remix"
-    },
-    {
-        "file": "Ly_Do_La_Gi_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Lý Do Là Gì (Qinn Remix)"
-    },
-    {
-        "file": "Tet_en_That_Roi_-_Remix.mp3",
-        "album": "Remix",
-        "title": "Tết Đến Thật Rồi - Remix"
-    },
-    {
-        "file": "Hoa_Su_Nha_Nang_Remix.mp3",
-        "album": "Remix",
-        "title": "Hoa Sứ Nhà Nàng (Remix)"
-    },
-    {
-        "file": "Co_Em_Cho_-_Masew_Remix.mp3",
-        "album": "Remix",
-        "title": "Có Em Chờ - Masew Remix"
-    },
-    {
-        "file": "Em_La_Con_Gai_Ruou_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Em Là Con Gái Rượu (Qinn Remix)"
-    },
-    {
-        "file": "Tinh_au_Qua_Chen_Remix.mp3",
-        "album": "Remix",
-        "title": "Tình Đầu Quá Chén (Remix)"
-    },
-    {
-        "file": "Loi_Tai_Mua_x_Ao_Anh_Remix_ft_Vicky_Nhung.mp3",
-        "album": "Remix",
-        "title": "Lỗi Tại Mưa x Ảo Ảnh Remix (ft Vicky Nhung)"
-    },
-    {
-        "file": "Chuyen_Cu_Bo_Qua_Remix.mp3",
-        "album": "Remix",
-        "title": "Chuyện Cũ Bỏ Qua (Remix)"
-    },
-    {
-        "file": "Keo_Bong_Gon_Remix.mp3",
-        "album": "Remix",
-        "title": "Kẹo Bông Gòn (Remix)"
-    },
-    {
-        "file": "Nguoi_thay_the_em_Qinn_remix.mp3",
-        "album": "Remix",
-        "title": "Người thay thế em (Qinn remix)"
-    },
-    {
-        "file": "Tinh_on_Phuong_Cukak_Remix.mp3",
-        "album": "Remix",
-        "title": "Tình Đơn Phương (Cukak Remix)"
-    },
-    {
-        "file": "Lieu_Thuoc_Cho_Trai_Tim_Remix.mp3",
-        "album": "Remix",
-        "title": "Liều Thuốc Cho Trái Tim (Remix)"
-    },
-    {
-        "file": "Su_That_a_Bo_Quen_-_HD_Remix.mp3",
-        "album": "Remix",
-        "title": "Sự Thật Đã Bỏ Quên - HD Remix"
-    },
-    {
-        "file": "Hy_Vong_Qua_Hoa_au_Long_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Hy Vọng Quá Hóa Đau Lòng (Qinn Remix)"
-    },
-    {
-        "file": "Cho_Em_Duoi_Con_Mua_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Chờ Em Dưới Cơn Mưa (Qinn Remix)"
-    },
-    {
-        "file": "Thay_Long_Noknha_Remix.mp3",
-        "album": "Remix",
-        "title": "Thay Lòng (Noknha Remix)"
-    },
-    {
-        "file": "Mashup_Ngoi_Nha_Hoa_Hong_-_Remix_-_Vicky_Nhung_Version.mp3",
-        "album": "Remix",
-        "title": "Mashup Ngôi Nhà Hoa Hồng - Remix - Vicky Nhung Version"
-    },
-    {
-        "file": "Gu_-_Cukak_Remix.mp3",
-        "album": "Remix",
-        "title": "Gu - Cukak Remix"
-    },
-    {
-        "file": "Duyen_Troi_Lay_2_Remix.mp3",
-        "album": "Remix",
-        "title": "Duyên Trời Lấy 2 (Remix)"
-    },
-    {
-        "file": "Cu_The_Mong_Cho_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Cứ Thế Mong Chờ (Qinn Remix)"
-    },
-    {
-        "file": "Lung_Lay_-_Cukak_Remix.mp3",
-        "album": "Remix",
-        "title": "Lung Lay - Cukak Remix"
-    },
-    {
-        "file": "Le_Luu_Ly_-_Cukak_Remix.mp3",
-        "album": "Remix",
-        "title": "Lệ Lưu Ly - Cukak Remix"
-    },
-    {
-        "file": "Em_Oi_Anh_Phai_Lam_Sao_-_BT_Remix.mp3",
-        "album": "Remix",
-        "title": "Em Ơi Anh Phải Làm Sao - BT Remix"
-    },
-    {
-        "file": "Tell_Ur_Mom_II_Cukak_Remix.mp3",
-        "album": "Remix",
-        "title": "Tell Ur Mom II (Cukak Remix)"
-    },
-    {
-        "file": "Khi_Yeu_Nao_Ai_au_Muon_-_Hoang_uc_Remix.mp3",
-        "album": "Remix",
-        "title": "Khi Yêu Nào Ai Đâu Muốn - Hoàng Đức Remix"
-    },
-    {
-        "file": "Cho_Ngay_Cuoi_Em_-_Cukak_Remix.mp3",
-        "album": "Remix",
-        "title": "Chờ Ngày Cưới Em - Cukak Remix"
-    },
-    {
-        "file": "Hoi_Vo_Ngoai_Thanh_Remix.mp3",
-        "album": "Remix",
-        "title": "Hỏi Vợ Ngoại Thành (Remix)"
-    },
-    {
-        "file": "Cold_Dont_-_Cukak_Remix.mp3",
-        "album": "Remix",
-        "title": "Cold Don't - Cukak Remix"
-    },
-    {
-        "file": "Em_Oi_Len_Pho_-_Tipo_Remix_138.mp3",
-        "album": "Remix",
-        "title": "Em Ơi Lên Phố - Tipo Remix 138"
-    },
-    {
-        "file": "Mot_Thuo_Yeu_Nguoi_Remix.mp3",
-        "album": "Remix",
-        "title": "Một Thuở Yêu Người Remix"
-    },
-    {
-        "file": "Gio_-_Cukak_Remix.mp3",
-        "album": "Remix",
-        "title": "Gió - Cukak Remix"
-    },
-    {
-        "file": "Anh_Thuong_Em_Em_Thuong_Ai_-_uc_Louis_Remix.mp3",
-        "album": "Remix",
-        "title": "Anh Thương Em Em Thương Ai - Đức Louis Remix"
-    },
-    {
-        "file": "Co_Le_Ben_Nhau_La_Sai_-_uc_Louis_Remix.mp3",
-        "album": "Remix",
-        "title": "Có Lẽ Bên Nhau Là Sai - Đức Louis Remix"
-    },
-    {
-        "file": "Mong_Mot_Ngay_Anh_Nho_en_Em_Remix.mp3",
-        "album": "Remix",
-        "title": "Mong Một Ngày Anh Nhớ Đến Em Remix"
-    },
-    {
-        "file": "Cheri_Cheri_Lady_-_Cukak_Remix.mp3",
-        "album": "Remix",
-        "title": "Cheri Cheri Lady - Cukak Remix"
-    },
-    {
-        "file": "Ngay_Tet_Que_Em_Remix.mp3",
-        "album": "Remix",
-        "title": "Ngày Tết Quê Em (Remix)"
-    },
-    {
-        "file": "Em_Ngoc_Qua_-_Zero_Remix.mp3",
-        "album": "Remix",
-        "title": "Em Ngốc Quá - Zero Remix"
-    },
-    {
-        "file": "Anh_Yeu_Voi_The_Remix.mp3",
-        "album": "Remix",
-        "title": "Anh Yêu Vội Thế (Remix)"
-    },
-    {
-        "file": "Ang_May_Vo_Tinh_-_Zero_Remix.mp3",
-        "album": "Remix",
-        "title": "Áng Mây Vô Tình - Zero Remix"
-    },
-    {
-        "file": "Khong_Bang_Remix.mp3",
-        "album": "Remix",
-        "title": "Không Bằng (Remix)"
-    },
-    {
-        "file": "Noi_Gio_Len_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Nổi Gió Lên (Qinn Remix)"
-    },
-    {
-        "file": "Nhuong_Hanh_Phuc_Cho_Anh_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Nhường Hạnh Phúc Cho Anh (Qinn Remix)"
-    },
-    {
-        "file": "Vuong_Van_-_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Vương Vấn - (Qinn Remix)"
-    },
-    {
-        "file": "oan_Xuan_Ca_Remix.mp3",
-        "album": "Remix",
-        "title": "Đoản Xuân Ca (Remix)"
-    },
-    {
-        "file": "i_Bao_Xa_-_Cukak_Remix.mp3",
-        "album": "Remix",
-        "title": "Đi Bao Xa - Cukak Remix"
-    },
-    {
-        "file": "Toi_Duyen_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Tới Duyên (Qinn Remix)"
-    },
-    {
-        "file": "Doi_Lua_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Dối Lừa (Qinn Remix)"
-    },
-    {
-        "file": "Tinh_ep_Khi_Khong_Co_Nguoi_Thu_Ba_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Tình Đẹp Khi Không Có Người Thứ Ba (Qinn Remix)"
-    },
-    {
-        "file": "Ngay_Xuan_Long_Phung_Sum_Vay_Remix.mp3",
-        "album": "Remix",
-        "title": "Ngày Xuân Long Phụng Sum Vầy (Remix)"
-    },
-    {
-        "file": "Ban_Tinh_Oi_-_TVS_Remix.mp3",
-        "album": "Remix",
-        "title": "Bạn Tình Ơi - TVS Remix"
-    },
-    {
-        "file": "Nu_Cuoi_Xuan_-_ai_Meo_Remix.mp3",
-        "album": "Remix",
-        "title": "Nụ Cười Xuân - Đại Mèo Remix"
-    },
-    {
-        "file": "Quen_Cach_Yeu_-_Remix_Version.mp3",
-        "album": "Remix",
-        "title": "Quên Cách Yêu - Remix Version"
-    },
-    {
-        "file": "Mot_Ngay_Chang_Nang_Cukak_Remix.mp3",
-        "album": "Remix",
-        "title": "Một Ngày Chẳng Nắng (Cukak Remix)"
-    },
-    {
-        "file": "Quen_Nguoi_a_Qua_Yeu_-_Qinn_Remix.mp3",
-        "album": "Remix",
-        "title": "Quên Người Đã Quá Yêu - Qinn Remix"
-    },
-    {
-        "file": "Qua_Khu_Anh_Khong_The_Quen_-_Doss_Remix.mp3",
-        "album": "Remix",
-        "title": "Quá Khứ Anh Không Thể Quên - Doss Remix"
-    },
-    {
-        "file": "Chanh_Long_Thuong_Co_2_-_Remix_EDM.mp3",
-        "album": "Remix",
-        "title": "Chạnh Lòng Thương Cô 2 - Remix EDM"
-    },
-    {
-        "file": "The_Gioi_Trong_Em_Remix.mp3",
-        "album": "Remix",
-        "title": "Thế Giới Trong Em (Remix)"
-    },
-    {
-        "file": "e_Vuong_-_Ciray_Vinahouse_Remix.mp3",
-        "album": "Remix",
-        "title": "Đế Vương - Ciray Vinahouse Remix"
-    },
-    {
-        "file": "Giang_Hai_Khong_o_Nang_Remix.mp3",
-        "album": "Remix",
-        "title": "Giang Hải Không Độ Nàng (Remix)"
-    },{
-        "file": "_Anh_O_au.mp3",
-        "album": "Khoi My",
-        "title": "Anh Ở Đâu"
-    },
-    {
-        "file": "_Somebody_To_Love.mp3",
-        "album": "Khoi My",
-        "title": "Somebody To Love"
-    },
-    {
-        "file": "_Khoc_em.mp3",
-        "album": "Khoi My",
-        "title": "Khóc Đêm"
-    },
-    {
-        "file": "_La_Con_Gai_That_Tuyet.mp3",
-        "album": "Khoi My",
-        "title": "Là Con Gái Thật Tuyệt"
-    },
-    {
-        "file": "_Cu_Ngu_Say.mp3",
-        "album": "Khoi My",
-        "title": "Cứ Ngủ Say"
-    },
-    {
-        "file": "_Thuong_Hai.mp3",
-        "album": "Khoi My",
-        "title": "Thương Hại"
-    },
-    {
-        "file": "_Ngoi_Sao_Mang_Ten_Em.mp3",
-        "album": "Khoi My",
-        "title": "Ngôi Sao Mang Tên Em"
-    },
-    {
-        "file": "_Vet_Cat.mp3",
-        "album": "Khoi My",
-        "title": "Vết Cắt"
-    },
-    {
-        "file": "_Dont_Leave_Me.mp3",
-        "album": "Khoi My",
-        "title": "Don't Leave Me"
-    },
-    {
-        "file": "_Muoi_Chin_Roi.mp3",
-        "album": "Khoi My",
-        "title": "Mười Chín Rồi"
-    },
-    {
-        "file": "_Xa_Mat_Cach_Long.mp3",
-        "album": "Khoi My",
-        "title": "Xa Mặt Cách Lòng"
-    },
-    {
-        "file": "_Mong_Mot_Hanh_Phuc.mp3",
-        "album": "Khoi My",
-        "title": "Mong Một Hạnh Phúc"
-    },
-    {
-        "file": "_Sao_om_om.mp3",
-        "album": "Khoi My",
-        "title": "Sao Đom Đóm"
-    },
-    {
-        "file": "_De_Thuong.mp3",
-        "album": "Khoi My",
-        "title": "Dễ Thương"
-    },
-    {
-        "file": "_Phep_Mau_Tinh_Yeu.mp3",
-        "album": "Khoi My",
-        "title": "Phép Màu Tình Yêu"
-    },
-    {
-        "file": "_Nang_Canh_Uoc_Mo.mp3",
-        "album": "Khoi My",
-        "title": "Nâng Cánh Ước Mơ"
-    },
-    {
-        "file": "_Toi_Muon_Yeu_Mot_Nguoi.mp3",
-        "album": "Khoi My",
-        "title": "Tôi Muốn Yêu Một Người"
-    },
-    {
-        "file": "_Canh_Phi_Yen_Trong_Mua.mp3",
-        "album": "Khoi My",
-        "title": "Cành Phi Yến Trong Mưa"
-    },
-    {
-        "file": "_Xuan_Tinh_Yeu.mp3",
-        "album": "Khoi My",
-        "title": "Xuân Tình Yêu"
-    },
-    {
-        "file": "_Xe_ap_Teen.mp3",
-        "album": "Khoi My",
-        "title": "Xe Đạp Teen"
-    },
-    {
-        "file": "_Chuot_Yeu_Gao.mp3",
-        "album": "Khoi My",
-        "title": "Chuột Yêu Gạo"
-    },
-    {
-        "file": "_Vi_Sao_-_Nam_Con_Remix.mp3",
-        "album": "Khoi My",
-        "title": "Vì Sao - Nam Con Remix"
-    },
-    {
-        "file": "_Alone.mp3",
-        "album": "Khoi My",
-        "title": "Alone"
-    },
-    {
-        "file": "_Buoc_Chan.mp3",
-        "album": "Khoi My",
-        "title": "Bước Chân"
-    },
-    {
-        "file": "_Yeu_Tung_Phut_Tung_Giay.mp3",
-        "album": "Khoi My",
-        "title": "Yêu Từng Phút Từng Giây"
-    },
-    {
-        "file": "_Mua_Roi_Vao_Phong.mp3",
-        "album": "Khoi My",
-        "title": "Mưa Rơi Vào Phòng"
-    },
-    {
-        "file": "_Trong_Tui_Ao_Anh_feat._Bao_Thach.mp3",
-        "album": "Khoi My",
-        "title": "Trong Túi Áo Anh (feat. Bảo Thạch)"
-    },
-    {
-        "file": "_Rua_Con_Cua_Em.mp3",
-        "album": "Khoi My",
-        "title": "Rùa Con Của Em"
-    },
-    {
-        "file": "_em_Nho_Anh_Diu_Dang.mp3",
-        "album": "Khoi My",
-        "title": "Đêm Nhớ Anh Dịu Dàng"
-    },
-    {
-        "file": "_Chuyen_Co_Gai_Nho_-_Chinese_Version.mp3",
-        "album": "Khoi My",
-        "title": "Chuyện Cô Gái Nhỏ - Chinese Version"
-    },
-    {
-        "file": "_ung_Ban_Tam.mp3",
-        "album": "Khoi My",
-        "title": "Đừng Bận Tâm"
-    },
-    {
-        "file": "_Say_Love_You.mp3",
-        "album": "Khoi My",
-        "title": "Say Love You"
-    },
-    {
-        "file": "_Gui_Cho_Anh.mp3",
-        "album": "Khoi My",
-        "title": "Gửi Cho Anh"
-    },
-    {
-        "file": "_Tinh_Se_Khong_Am_Tham.mp3",
-        "album": "Khoi My",
-        "title": "Tình Sẽ Không Âm Thầm"
-    },
-    {
-        "file": "_Goc_Nho_Trong_Tim.mp3",
-        "album": "Khoi My",
-        "title": "Góc Nhỏ Trong Tim"
-    },
-    {
-        "file": "_Sao_Cha_Khong_From__Bo_Gia__Original_Motion_Picture_Soundtrack.mp3",
-        "album": "PMQuynh",
-        "title": "Sao Cha Không (From _Bố Già_ Original Motion Picture Soundtrack)"
-    },
-    {
-        "file": "_i_e_Tro_Ve_Mashup.mp3",
-        "album": "PMQuynh",
-        "title": "Đi Để Trở Về Mashup"
-    },
-    {
-        "file": "_Tri_Ky.mp3",
-        "album": "PMQuynh",
-        "title": "Tri Kỷ"
-    },
-    {
-        "file": "_Ha_Lan___Tu_o_Mashup.mp3",
-        "album": "PMQuynh",
-        "title": "Hà Lan _ Từ Đó (Mashup)"
-    },
-    {
-        "file": "_Goc_Khuat_Sau_Hanh_Phuc.mp3",
-        "album": "PMQuynh",
-        "title": "Góc Khuất Sau Hạnh Phúc"
-    },
-    {
-        "file": "_Ai_Cung_Co_Ngay_Xua___Chi_Toi_Mashup.mp3",
-        "album": "PMQuynh",
-        "title": "Ai Cũng Có Ngày Xưa _ Chị Tôi (Mashup)"
-    },
-    {
-        "file": "_Khi_Nguoi_Minh_Yeu_Khoc_feat._Phan_Manh_Quynh_Bui_Lan_Huong.mp3",
-        "album": "PMQuynh",
-        "title": "Khi Người Mình Yêu Khóc (feat. Phan Mạnh Quỳnh, Bùi Lan Hương)"
-    },
-    {
-        "file": "_Co_Chang_Trai_Viet_Len_Cay.mp3",
-        "album": "PMQuynh",
-        "title": "Có Chàng Trai Viết Lên Cây"
-    },
-    {
-        "file": "_Tim_Bien_Cua_Hy_Vong_2022_feat._Phan_Manh_Quynh.mp3",
-        "album": "PMQuynh",
-        "title": "Tìm (Biển Của Hy Vọng 2022) [feat. Phan Mạnh Quỳnh]"
-    },
-    {
-        "file": "_Loi_Tu_Trai_Tim_Anh.mp3",
-        "album": "PMQuynh",
-        "title": "Lời Từ Trái Tim Anh"
-    },
-    {
-        "file": "_ua_Anh_Ve.mp3",
-        "album": "PMQuynh",
-        "title": "Đưa Anh Về"
-    },
-    {
-        "file": "_Co_Chang_Trai_Viet_Len_Cay___Chuyen_Tinh_Thao_Nguyen_Mashup.mp3",
-        "album": "PMQuynh",
-        "title": "Có Chàng Trai Viết Lên Cây _ Chuyện Tình Thảo Nguyên (Mashup)"
-    },
-    {
-        "file": "_Anh_Ghet_Lam_Ban_Em.mp3",
-        "album": "PMQuynh",
-        "title": "Anh Ghét Làm Bạn Em"
-    },
-    {
-        "file": "_Tu_Ban_Tay_Nay.mp3",
-        "album": "PMQuynh",
-        "title": "Từ Bàn Tay Này"
-    },
-    {
-        "file": "_NHAT.mp3",
-        "album": "PMQuynh",
-        "title": "NHẠT"
-    },
-    {
-        "file": "_a_oan.mp3",
-        "album": "PMQuynh",
-        "title": "Đa Đoan"
-    },
-    {
-        "file": "_Con_Tim_Tan_Vo.mp3",
-        "album": "PMQuynh",
-        "title": "Con Tim Tan Vỡ"
-    },
-    {
-        "file": "_Nuoc_Ngoai.mp3",
-        "album": "PMQuynh",
-        "title": "Nước Ngoài"
-    },
-    {
-        "file": "_Hoi_Uc.mp3",
-        "album": "PMQuynh",
-        "title": "Hồi Ức"
-    },
-    {
-        "file": "_Co_Mot_Noi_Nhu_The.mp3",
-        "album": "PMQuynh",
-        "title": "Có Một Nơi Như Thế"
-    },
-    {
-        "file": "_Sau_Loi_Tu_Khuoc_Theme_Song_From__MAI_.mp3",
-        "album": "PMQuynh",
-        "title": "Sau Lời Từ Khước (Theme Song From _MAI_)"
-    },
-    {
-        "file": "_Huyen_Thoai.mp3",
-        "album": "PMQuynh",
-        "title": "Huyền Thoại"
-    },
-    {
-        "file": "_Loi_Hen_Theme_Song_From_Tham_Tu_Kien.mp3",
-        "album": "PMQuynh",
-        "title": "Lời Hẹn (Theme Song From “Thám Tử Kiên”)"
-    },
-    {
-        "file": "_Thang_4_La_Loi_Noi_Doi_Cua_Em_Bien_Cua_Hy_Vong_2022_feat._Phan_Manh_Quynh.mp3",
-        "album": "PMQuynh",
-        "title": "Tháng 4 Là Lời Nói Dối Của Em [feat. Phan Mạnh Quỳnh]"
-    },
-    {
-        "file": "_Khi_Phai_Quen_i.mp3",
-        "album": "PMQuynh",
-        "title": "Khi Phải Quên Đi"
-    },
-    {
-        "file": "_Nguoi_Yeu_Cu.mp3",
-        "album": "PMQuynh",
-        "title": "Người Yêu Cũ"
-    },
-    {
-        "file": "_Nguoi_Khac.mp3",
-        "album": "PMQuynh",
-        "title": "Người Khác"
-    }
+  {
+    "file": "Le_uong.mp3",
+    "album": "POP",
+    "title": "Lễ Đường",
+    "size": 6151465
+  },
+  {
+    "file": "Tinh_Yeu_Buong_Tha_Cho_Chung_Ta.mp3",
+    "album": "POP",
+    "title": "Tình Yêu Buông Tha Cho Chúng Ta",
+    "size": 7058051
+  },
+  {
+    "file": "Anh_a_Cho_Rat_Lau.mp3",
+    "album": "POP",
+    "title": "Anh Đã Chờ Rất Lâu",
+    "size": 5155289
+  },
+  {
+    "file": "Bac_Bling_Bac_Ninh_Prod._by_Masew.mp3",
+    "album": "POP",
+    "title": "Bắc Bling (Bắc Ninh) (Prod. by Masew)",
+    "size": 6400866
+  },
+  {
+    "file": "binh_yen.mp3",
+    "album": "POP",
+    "title": "Bình Yên",
+    "size": 5007632
+  },
+  {
+    "file": "TRAN_BO_NHO_feat._Duong_Domic.mp3",
+    "album": "POP",
+    "title": "TRÀN BỘ NHỚ (feat. Dương Domic)",
+    "size": 7020770
+  },
+  {
+    "file": "Phep_Mau_-_an_Ca_Go_Original_Soundtrack.mp3",
+    "album": "POP",
+    "title": "Phép Màu - Đàn Cá Gỗ Original Soundtrack",
+    "size": 6193374
+  },
+  {
+    "file": "mot_loi_on.mp3",
+    "album": "POP",
+    "title": "Một lời đồn",
+    "size": 6220315
+  },
+  {
+    "file": "Om_Em_That_Lau.mp3",
+    "album": "POP",
+    "title": "Ôm Em Thật Lâu",
+    "size": 8267134
+  },
+  {
+    "file": "1000_Anh_Mat.mp3",
+    "album": "POP",
+    "title": "1000 Ánh Mắt",
+    "size": 3761480
+  },
+  {
+    "file": "Buoc_Za_i_Xa.mp3",
+    "album": "POP",
+    "title": "Bước Za Đi Xa",
+    "size": 4130682
+  },
+  {
+    "file": "Chi_can_ben_anh_Will_you_marry_me.mp3",
+    "album": "POP",
+    "title": "Chỉ cần bên anh (Will you marry me?)",
+    "size": 7253579
+  },
+  {
+    "file": "Mat_Ket_Noi.mp3",
+    "album": "POP",
+    "title": "Mất Kết Nối",
+    "size": 5128829
+  },
+  {
+    "file": "Bau_Troi_Moi.mp3",
+    "album": "POP",
+    "title": "Bầu Trời Mới",
+    "size": 7131425
+  },
+  {
+    "file": "Ai_Ma_Biet_uoc_feat._tlinh.mp3",
+    "album": "POP",
+    "title": "Ai Mà Biết Được (feat. tlinh)",
+    "size": 6234429
+  },
+  {
+    "file": "SAU_CON_SUY.mp3",
+    "album": "POP",
+    "title": "SAU CƠN SUY",
+    "size": 5159933
+  },
+  {
+    "file": "Tung_La.mp3",
+    "album": "POP",
+    "title": "Từng Là",
+    "size": 6698894
+  },
+  {
+    "file": "Bong_Phu_Hoa__-_Live.mp3",
+    "album": "POP",
+    "title": "Bóng Phù Hoa (浮华之影) - Live",
+    "size": 7127639
+  },
+  {
+    "file": "Tron_oi.mp3",
+    "album": "POP",
+    "title": "Trọn Đời",
+    "size": 5494865
+  },
+  {
+    "file": "Tien_Hay_Lui_Nu_Hon_Bac_Ty_Original_Soundtrack.mp3",
+    "album": "POP",
+    "title": "Tiến Hay Lùi (Nụ Hôn Bạc Tỷ Original Soundtrack)",
+    "size": 4658436
+  },
+  {
+    "file": "QUAY_I_QUAY_LAI_feat._HIEUTHUHAI.mp3",
+    "album": "POP",
+    "title": "QUAY ĐI QUAY LẠI (feat. HIEUTHUHAI)",
+    "size": 7125917
+  },
+  {
+    "file": "ung_Lam_Trai_Tim_Anh_au.mp3",
+    "album": "POP",
+    "title": "Đừng Làm Trái Tim Anh Đau",
+    "size": 7895965
+  },
+  {
+    "file": "e_Y.mp3",
+    "album": "POP",
+    "title": "Để Ý",
+    "size": 3939573
+  },
+  {
+    "file": "Khong_Thoi_Gian.mp3",
+    "album": "POP",
+    "title": "Không Thời Gian",
+    "size": 5343810
+  },
+  {
+    "file": "Nang_Chen_Tieu_Sau.mp3",
+    "album": "POP",
+    "title": "Nâng Chén Tiêu Sầu",
+    "size": 6078997
+  },
+  {
+    "file": "2 4.mp3",
+    "album": "POP",
+    "title": "2 4",
+    "size": 5249281
+  },
+  {
+    "file": "Cham_Em_Mot_oi.mp3",
+    "album": "POP",
+    "title": "Chăm Em Một Đời",
+    "size": 6051027
+  },
+  {
+    "file": "Nguoi_au_Tien.mp3",
+    "album": "POP",
+    "title": "Người Đầu Tiên",
+    "size": 5364224
+  },
+  {
+    "file": "MOT_NGAY_NAO_O.mp3",
+    "album": "POP",
+    "title": "MỘT NGÀY NÀO ĐÓ",
+    "size": 7031551
+  },
+  {
+    "file": "Ngan_Nam_Anh_Sang.mp3",
+    "album": "POP",
+    "title": "Ngàn Năm Ánh Sáng",
+    "size": 5335797
+  },
+  {
+    "file": "Xoay_Mot_Vong.mp3",
+    "album": "POP",
+    "title": "Xoay Một Vòng",
+    "size": 4378591
+  },
+  {
+    "file": "van_vat_nhu_muon_ta_ben_nhau.mp3",
+    "album": "POP",
+    "title": "Vạn vật như muốn ta bên nhau",
+    "size": 6305309
+  },
+  {
+    "file": "Vua_Han_Vua_Yeu.mp3",
+    "album": "POP",
+    "title": "Vừa Hận Vừa Yêu",
+    "size": 3976185
+  },
+  {
+    "file": "Tinh_Co_feat._CHARLES._Brown_KIMLONG__Duy_Son.mp3",
+    "album": "POP",
+    "title": "Tình Cờ (feat. CHARLES., Brown, KIMLONG & Duy Sơn)",
+    "size": 5711857
+  },
+  {
+    "file": "SAO_HANG_A_feat._HIEUTHUHAI_Duong_Domic_Song_Luan_Jsol__Tran_ang_Duong.mp3",
+    "album": "POP",
+    "title": "SAO HẠNG A (feat. HIEUTHUHAI, Dương Domic, Song Luân, Jsol & Trần Đăng Dương)",
+    "size": 7457329
+  },
+  {
+    "file": "khong_loi.mp3",
+    "album": "POP",
+    "title": "Không lời",
+    "size": 5542734
+  },
+  {
+    "file": "KHONG_AU_NUA_ROI.mp3",
+    "album": "POP",
+    "title": "KHÔNG ĐAU NỮA RỒI",
+    "size": 11322685
+  },
+  {
+    "file": "DANCING IN THE DARK.mp3",
+    "album": "POP",
+    "title": "DANCING IN THE DARK",
+    "size": 6772937
+  },
+  {
+    "file": "ieu_Ta_Muon.mp3",
+    "album": "POP",
+    "title": "Điều Ta Muốn",
+    "size": 5789019
+  },
+  {
+    "file": "ieu_vo_tri_nhat.mp3",
+    "album": "POP",
+    "title": "Điều vô tri nhất",
+    "size": 5923213
+  },
+  {
+    "file": "KIM_PHUT_KIM_GIO_feat._HURRYKNG_HIEUTHUHAI_Negav_Phap_Kieu__Isaac.mp3",
+    "album": "POP",
+    "title": "KIM PHÚT, KIM GIỜ (feat. HURRYKNG, HIEUTHUHAI, Negav, Pháp Kiều & Isaac)",
+    "size": 9591818
+  },
+  {
+    "file": "Noi_au_Giua_Hoa_Binh.mp3",
+    "album": "POP",
+    "title": "Nỗi Đau Giữa Hòa Bình",
+    "size": 11062343
+  },
+  {
+    "file": "a_Lau_Roi.mp3",
+    "album": "POP",
+    "title": "Đã Lâu Rồi",
+    "size": 5694269
+  },
+  {
+    "file": "Teen_Sai_Co_Machimix.mp3",
+    "album": "POP",
+    "title": "Teen Sái Cổ (Machimix)",
+    "size": 2907513
+  },
+  {
+    "file": "In Love.mp3",
+    "album": "POP",
+    "title": "In Love",
+    "size": 4977663
+  },
+  {
+    "file": "Cuoc_goi_luc_nua_em.mp3",
+    "album": "POP",
+    "title": "Cuộc gọi lúc nửa đêm",
+    "size": 4428524
+  },
+  {
+    "file": "Ai_cung_phai_lon.mp3",
+    "album": "POP",
+    "title": "Ai cũng phải lớn",
+    "size": 6333435
+  },
+  {
+    "file": "Van_Vuong.mp3",
+    "album": "POP",
+    "title": "Vấn Vương",
+    "size": 4293164
+  },
+  {
+    "file": "Giac_mo_tung_rat_tho_y_tho_nguoi_vi_em_la_anh_trang_le_loi....mp3",
+    "album": "POP",
+    "title": "Giấc mơ từng rất thơ",
+    "size": 6847289
+  },
+  {
+    "file": "Minh_Anh_Thoi.mp3",
+    "album": "POP",
+    "title": "Mình Anh Thôi",
+    "size": 5649162
+  },
+  {
+    "file": "Khong_Buong.mp3",
+    "album": "POP",
+    "title": "Không Buông",
+    "size": 5001444
+  },
+  {
+    "file": "The One For Me.mp3",
+    "album": "POP",
+    "title": "The One For Me",
+    "size": 6816548
+  },
+  {
+    "file": "Tung_Ngay_Yeu_Em.mp3",
+    "album": "POP",
+    "title": "Từng Ngày Yêu Em",
+    "size": 5420259
+  },
+  {
+    "file": "Danh_Het_Xuan_Thi_e_Cho_Nhau.mp3",
+    "album": "POP",
+    "title": "Dành Hết Xuân Thì Để Chờ Nhau",
+    "size": 8611247
+  },
+  {
+    "file": "Xin_ung_Lang_Im.mp3",
+    "album": "POP",
+    "title": "Xin Đừng Lặng Im",
+    "size": 6493001
+  },
+  {
+    "file": "Khong_Yeu_Em_Thi_Yeu_Ai.mp3",
+    "album": "POP",
+    "title": "Không Yêu Em Thì Yêu Ai?",
+    "size": 5679936
+  },
+  {
+    "file": "EN_LUC_NAY_THI....mp3",
+    "album": "POP",
+    "title": "ĐẾN LÚC NÀY THÌ...",
+    "size": 5665644
+  },
+  {
+    "file": "Track 06.mp3",
+    "album": "POP",
+    "title": "Track 06",
+    "size": 4009181
+  },
+  {
+    "file": "Nam_Ben_Anh.mp3",
+    "album": "POP",
+    "title": "Nằm Bên Anh",
+    "size": 5104746
+  },
+  {
+    "file": "mot_bai_hat_khong_vui_may_-_Extended_Version.mp3",
+    "album": "POP",
+    "title": "Một bài hát không vui mấy - Extended Version",
+    "size": 5640704
+  },
+  {
+    "file": "nhat-fine.mp3",
+    "album": "POP",
+    "title": "Nhạt-fine",
+    "size": 5433729
+  },
+  {
+    "file": "OA_HOA.mp3",
+    "album": "POP",
+    "title": "ĐOÁ HOA",
+    "size": 4180833
+  },
+  {
+    "file": "Ngay_au_Sau_Chia_Tay.mp3",
+    "album": "POP",
+    "title": "Ngày Đầu Sau Chia Tay",
+    "size": 8110249
+  },
+  {
+    "file": "NGAO_NGO_feat._HIEUTHUHAI_ERIK_Anh_Tu_Atus_JSOL__Orange.mp3",
+    "album": "POP",
+    "title": "NGÁO NGƠ",
+    "size": 8212369
+  },
+  {
+    "file": "Yen_Binh_Co_Qua_at_Khong.mp3",
+    "album": "POP",
+    "title": "Yên Bình Có Quá Đắt Không",
+    "size": 6106669
+  },
+  {
+    "file": "that_qua_ang.._e_yeu.mp3",
+    "album": "POP",
+    "title": "Thật quá đáng.. để yêu",
+    "size": 5002638
+  },
+  {
+    "file": "Finding You.mp3",
+    "album": "POP",
+    "title": "Finding You",
+    "size": 5710314
+  },
+  {
+    "file": "Love Game.mp3",
+    "album": "POP",
+    "title": "Love Game",
+    "size": 5609612
+  },
+  {
+    "file": "Nuoc_Mat_Ca_Sau.mp3",
+    "album": "POP",
+    "title": "Nước Mắt Cá Sấu",
+    "size": 5247387
+  },
+  {
+    "file": "NGUA_O.mp3",
+    "album": "POP",
+    "title": "NGỰA Ô",
+    "size": 5492470
+  },
+  {
+    "file": "NEU_KHI_AY.mp3",
+    "album": "POP",
+    "title": "NẾU KHI ẤY",
+    "size": 5429384
+  },
+  {
+    "file": "Cay.mp3",
+    "album": "POP",
+    "title": "Cay",
+    "size": 6205287
+  },
+  {
+    "file": "MONG_YU.mp3",
+    "album": "POP",
+    "title": "MỘNG YU",
+    "size": 6847943
+  },
+  {
+    "file": "Gio_Thi.mp3",
+    "album": "POP",
+    "title": "Giờ Thì",
+    "size": 5726814
+  },
+  {
+    "file": "oi_en_thang_13.mp3",
+    "album": "POP",
+    "title": "Đợi đến tháng 13",
+    "size": 5039669
+  },
+  {
+    "file": "Co_oi_ieu.mp3",
+    "album": "POP",
+    "title": "Có Đôi Điều",
+    "size": 4289348
+  },
+  {
+    "file": "chang_phai_tinh_au_sao_au_en_the.mp3",
+    "album": "POP",
+    "title": "Chẳng phải tình đầu sao đau đến thế",
+    "size": 6876574
+  },
+  {
+    "file": "Kho_Bau_with_Rhymastic.mp3",
+    "album": "POP",
+    "title": "Kho Báu (with Rhymastic)",
+    "size": 5337180
+  },
+  {
+    "file": "TINH_AU_QUA_CHEN_feat._Quang_Hung_MasterD_Negav_Phap_Kieu__Erik.mp3",
+    "album": "POP",
+    "title": "TÌNH ĐẦU QUÁ CHÉN",
+    "size": 8494241
+  },
+  {
+    "file": "A_NGHI.mp3",
+    "album": "POP",
+    "title": "ĐA NGHI",
+    "size": 8146386
+  },
+  {
+    "file": "tam_tri_lang_thang.mp3",
+    "album": "POP",
+    "title": "Tâm trí lang thang",
+    "size": 6109184
+  },
+  {
+    "file": "Anh_Mat_Biet_Cuoi.mp3",
+    "album": "POP",
+    "title": "Ánh Mắt Biết Cười",
+    "size": 4574213
+  },
+  {
+    "file": "Sau_Ngan_Ay_Nam.mp3",
+    "album": "POP",
+    "title": "Sau Ngần Ấy Năm",
+    "size": 7401355
+  },
+  {
+    "file": "HOP ON DA SHOW.mp3",
+    "album": "POP",
+    "title": "HOP ON DA SHOW",
+    "size": 6237990
+  },
+  {
+    "file": "Lang.mp3",
+    "album": "POP",
+    "title": "Lặng",
+    "size": 4061748
+  },
+  {
+    "file": "Chung_Ta_Cua_Tuong_Lai.mp3",
+    "album": "POP",
+    "title": "Chúng Ta Của Tương Lai",
+    "size": 6745196
+  },
+  {
+    "file": "Thien_Menh.mp3",
+    "album": "POP",
+    "title": "Thiên Mệnh",
+    "size": 6605898
+  },
+  {
+    "file": "Say_Song.mp3",
+    "album": "POP",
+    "title": "Say Sóng",
+    "size": 5137313
+  },
+  {
+    "file": "gia_nhu.mp3",
+    "album": "POP",
+    "title": "Giá như",
+    "size": 7570026
+  },
+  {
+    "file": "i_Giua_Troi_Ruc_Ro_Original_Soundtrack_from_i_Giua_Troi_Ruc_Ro.mp3",
+    "album": "POP",
+    "title": "Đi Giữa Trời Rực Rỡ",
+    "size": 5420111
+  },
+  {
+    "file": "Vung_An_Toan.mp3",
+    "album": "POP",
+    "title": "Vùng An Toàn",
+    "size": 6502167
+  },
+  {
+    "file": "Ngay_ep_Troi_e_Noi_Chia_Tay.mp3",
+    "album": "POP",
+    "title": "Ngày Đẹp Trời Để Nói Chia Tay",
+    "size": 5710779
+  },
+  {
+    "file": "Perfect.mp3",
+    "album": "POP",
+    "title": "Perfect",
+    "size": 4625396
+  },
+  {
+    "file": "tung_la_Boyfriend_Girlfriend.mp3",
+    "album": "POP",
+    "title": "(Từng là) Boyfriend, Girlfriend",
+    "size": 7331285
+  },
+  {
+    "file": "REGRET_feat._Quan_A.P_Phap_Kieu_Quang_Trung_Ali_Hoang_Duong__Lam_Bao_Ngoc.mp3",
+    "album": "POP",
+    "title": "REGRET",
+    "size": 13129526
+  },
+  {
+    "file": "vet_thuong.mp3",
+    "album": "POP",
+    "title": "Vết thương",
+    "size": 6245315
+  },
+  {
+    "file": "Giu_Anh_Cho_Ngay_Hom_Qua.mp3",
+    "album": "POP",
+    "title": "Giữ Anh Cho Ngày Hôm Qua",
+    "size": 8306708
+  },
+  {
+    "file": "Kho_Bau.mp3",
+    "album": "POP",
+    "title": "Kho Báu",
+    "size": 6196022
+  },
+  {
+    "file": "Du_Cho_Tan_The.mp3",
+    "album": "POP",
+    "title": "Dù Cho Tận Thế",
+    "size": 7305808
+  },
+  {
+    "file": "Ai_Lon_Cung_Phai.mp3",
+    "album": "POP",
+    "title": "Ai Lớn Cũng Phải",
+    "size": 5348432
+  },
+  {
+    "file": "PHONG_ZIN_ZIN.mp3",
+    "album": "POP",
+    "title": "PHÓNG ZÌN ZÌN",
+    "size": 4968417
+  },
+  {
+    "file": "Cham_Hoa.mp3",
+    "album": "POP",
+    "title": "Chăm Hoa",
+    "size": 8613025
+  },
+  {
+    "file": "Chuyen_oi_Ta_feat._Muoii.mp3",
+    "album": "POP",
+    "title": "Chuyện Đôi Ta (feat. Muộii)",
+    "size": 8395236
+  },
+  {
+    "file": "Buon_Thi_Cu_Khoc_i.mp3",
+    "album": "POP",
+    "title": "Buồn Thì Cứ Khóc Đi",
+    "size": 9066906
+  },
+  {
+    "file": "Chieu_Hom_Ay.mp3",
+    "album": "POP",
+    "title": "Chiều Hôm Ấy",
+    "size": 12433057
+  },
+  {
+    "file": "Anh_Qua_ay_i.mp3",
+    "album": "POP",
+    "title": "Anh Qua Đây Đi",
+    "size": 8082035
+  },
+  {
+    "file": "Toi_Cho_Co_Gai_o.mp3",
+    "album": "POP",
+    "title": "Tội Cho Cô Gái Đó",
+    "size": 10467453
+  },
+  {
+    "file": "Anh_Chua_Thuong_Em_en_Vay_au.mp3",
+    "album": "POP",
+    "title": "Anh Chưa Thương Em Đến Vậy Đâu",
+    "size": 10973655
+  },
+  {
+    "file": "GIAU_NHAT_KHU_PHU_HOA.mp3",
+    "album": "POP",
+    "title": "GIÀU NHẤT KHU PHÙ HOA",
+    "size": 12990327
+  },
+  {
+    "file": "Chai_iep_Noong_-_Anh_Yeu_Em.mp3",
+    "album": "POP",
+    "title": "Chài Điếp Noọng - Anh Yêu Em",
+    "size": 10522251
+  },
+  {
+    "file": "Lam_Gi_Phai_Hot.mp3",
+    "album": "POP",
+    "title": "Làm Gì Phải Hốt",
+    "size": 7729758
+  },
+  {
+    "file": "3107_4_feat._Erik_Nau.mp3",
+    "album": "POP",
+    "title": "3107 4 (feat. Erik, Nâu)",
+    "size": 8631180
+  },
+  {
+    "file": "Anh_Nang_Cua_Anh.mp3",
+    "album": "POP",
+    "title": "Ánh Nắng Của Anh",
+    "size": 10637417
+  },
+  {
+    "file": "Minh_Yeu_Tu_Bao_Gio_Em_La_Ba_Noi_Cua_Anh_OST.mp3",
+    "album": "POP",
+    "title": "Mình Yêu Từ Bao Giờ",
+    "size": 7830212
+  },
+  {
+    "file": "ai_Minh_Tinh.mp3",
+    "album": "POP",
+    "title": "Đại Minh Tinh",
+    "size": 9965366
+  },
+  {
+    "file": "Con_Thuong_Thi_Khong_e_Em_Khoc.mp3",
+    "album": "POP",
+    "title": "Còn Thương Thì Không Để Em Khóc",
+    "size": 11805495
+  },
+  {
+    "file": "2AM.mp3",
+    "album": "POP",
+    "title": "2AM",
+    "size": 10508718
+  },
+  {
+    "file": "Chuc_Tet_Moi_Nha_feat._Noo_Phuoc_Thinh.mp3",
+    "album": "POP",
+    "title": "Chúc Tết Mọi Nhà (feat. Noo Phước Thịnh)",
+    "size": 10280685
+  },
+  {
+    "file": "Cho_en_Khi_Troi_at_Sup_o.mp3",
+    "album": "POP",
+    "title": "Cho Đến Khi Trời Đất Sụp Đổ",
+    "size": 6402130
+  },
+  {
+    "file": "05_Khong_Phai_-_Remix.mp3",
+    "album": "POP",
+    "title": "05 (Không Phai) - Remix",
+    "size": 8435938
+  },
+  {
+    "file": "Chap_Nhan.mp3",
+    "album": "POP",
+    "title": "Chấp Nhận",
+    "size": 10006184
+  },
+  {
+    "file": "Roi_Em_Se_Gap_Mot_Chang_Trai_Khac.mp3",
+    "album": "POP",
+    "title": "Rồi Em Sẽ Gặp Một Chàng Trai Khác",
+    "size": 12316026
+  },
+  {
+    "file": "Chay_Khoi_The_Gioi_Nay.mp3",
+    "album": "POP",
+    "title": "Chạy Khỏi Thế Giới Này",
+    "size": 10361762
+  },
+  {
+    "file": "Ken_Ca_Chon_Canh.mp3",
+    "album": "POP",
+    "title": "Kén Cá Chọn Canh",
+    "size": 8392777
+  },
+  {
+    "file": "Chi_La_Tinh_Co_feat._Hoa_Minzy.mp3",
+    "album": "POP",
+    "title": "Chỉ Là Tình Cờ (feat. Hòa Minzy)",
+    "size": 11342351
+  },
+  {
+    "file": "Bat_Coc_Con_Tim.mp3",
+    "album": "POP",
+    "title": "Bắt Cóc Con Tim",
+    "size": 8015387
+  },
+  {
+    "file": "Tay_Trai_Chi_Trang.mp3",
+    "album": "POP",
+    "title": "Tay Trái Chỉ Trăng",
+    "size": 11630783
+  },
+  {
+    "file": "Chua_Quen_Nguoi_Yeu_Cu.mp3",
+    "album": "POP",
+    "title": "Chưa Quên Người Yêu Cũ",
+    "size": 12178692
+  },
+  {
+    "file": "Chi_La_Muon_Noi.mp3",
+    "album": "POP",
+    "title": "Chỉ Là Muốn Nói",
+    "size": 11504207
+  },
+  {
+    "file": "Hoa_No_Khong_Mau.mp3",
+    "album": "POP",
+    "title": "Hoa Nở Không Màu",
+    "size": 13261470
+  },
+  {
+    "file": "Da_Vu.mp3",
+    "album": "POP",
+    "title": "Dạ Vũ",
+    "size": 8196448
+  },
+  {
+    "file": "Vi_Me_Anh_Bat_Chia_Tay.mp3",
+    "album": "POP",
+    "title": "Vì Mẹ Anh Bắt Chia Tay",
+    "size": 10547986
+  },
+  {
+    "file": "Ca_Phe.mp3",
+    "album": "POP",
+    "title": "Cà Phê",
+    "size": 7702713
+  },
+  {
+    "file": "Chuyen_Chung_Ta_Sau_Nay.mp3",
+    "album": "POP",
+    "title": "Chuyện Chúng Ta Sau Này",
+    "size": 9985301
+  },
+  {
+    "file": "Su_Tich_Mua_Xuan.mp3",
+    "album": "POP",
+    "title": "Sự Tích Mùa Xuân",
+    "size": 13389642
+  },
+  {
+    "file": "Chua_Bao_Gio_Me_Ke.mp3",
+    "album": "POP",
+    "title": "Chưa Bao Giờ Mẹ Kể",
+    "size": 10433235
+  },
+  {
+    "file": "Bang_Khuang.mp3",
+    "album": "POP",
+    "title": "Bâng Khuâng",
+    "size": 12644208
+  },
+  {
+    "file": "Co_on_Tren_Sofa.mp3",
+    "album": "POP",
+    "title": "Cô Đơn Trên Sofa",
+    "size": 10646454
+  },
+  {
+    "file": "Ben_Tren_Tang_Lau.mp3",
+    "album": "POP",
+    "title": "Bên Trên Tầng Lầu",
+    "size": 7523809
+  },
+  {
+    "file": "Ghen_Co_Vy_Vietnamese_Version_feat._Erik__Khac_Hung.mp3",
+    "album": "POP",
+    "title": "Ghen Co Vy (Vietnamese Version)",
+    "size": 7717777
+  },
+  {
+    "file": "Ai_Roi_Cung_Se_Khac.mp3",
+    "album": "POP",
+    "title": "Ai Rồi Cũng Sẽ Khác",
+    "size": 11320270
+  },
+  {
+    "file": "Anh_Oi_O_Lai.mp3",
+    "album": "POP",
+    "title": "Anh Ơi Ở Lại",
+    "size": 11783580
+  },
+  {
+    "file": "Cam_Nang_feat._Rtee.mp3",
+    "album": "POP",
+    "title": "Cảm Nắng (feat. Rtee)",
+    "size": 9218605
+  },
+  {
+    "file": "Anh_ang_Noi_au.mp3",
+    "album": "POP",
+    "title": "Anh Đang Nơi Đâu",
+    "size": 8127399
+  },
+  {
+    "file": "Em_La_Nhat_-_Speed_Up.mp3",
+    "album": "POP",
+    "title": "Em Là Nhất - Speed Up",
+    "size": 7248065
+  },
+  {
+    "file": "Buong.mp3",
+    "album": "POP",
+    "title": "Buông",
+    "size": 9420852
+  },
+  {
+    "file": "Chay_Ve_Khoc_Voi_Anh.mp3",
+    "album": "POP",
+    "title": "Chạy Về Khóc Với Anh",
+    "size": 9085184
+  },
+  {
+    "file": "BADBYE.mp3",
+    "album": "POP",
+    "title": "BADBYE",
+    "size": 8257716
+  },
+  {
+    "file": "Ba_Kiep_Tinh_Mot_Kiep_Duyen_Lofi_Ver.mp3",
+    "album": "POP",
+    "title": "Ba Kiếp Tình Một Kiếp Duyên (Lofi Ver)",
+    "size": 14567246
+  },
+  {
+    "file": "Anh_Ta_Bo_Em_Roi.mp3",
+    "album": "POP",
+    "title": "Anh Ta Bỏ Em Rồi",
+    "size": 11776083
+  },
+  {
+    "file": "052_Khong_Phai_2.mp3",
+    "album": "POP",
+    "title": "052 (Không Phai 2)",
+    "size": 7953732
+  },
+  {
+    "file": "Chuyen_Nha_Be_Thoi_Con_ung_Ve.mp3",
+    "album": "POP",
+    "title": "Chuyện Nhà Bé Thôi, Con Đừng Về",
+    "size": 10233723
+  },
+  {
+    "file": "Qua_Phu_Tuong.mp3",
+    "album": "Remix",
+    "title": "Quả Phụ Tướng",
+    "size": 5250180
+  },
+  {
+    "file": "_Co_Be_Mua_ong.mp3",
+    "album": "Audition",
+    "title": "Cô Bé Mùa Đông",
+    "size": 6396313
+  },
+  {
+    "file": "_Xin_Hay_Thu_Tha_Feat._Suboi.mp3",
+    "album": "Audition",
+    "title": "Xin Hay Thu Tha (Feat. Suboi)",
+    "size": 6284197
+  },
+  {
+    "file": "_Ngoi_Nha_Hoa_Hong.mp3",
+    "album": "Audition",
+    "title": "Ngôi Nhà Hoa Hồng",
+    "size": 6828355
+  },
+  {
+    "file": "_Khi_Co_on_Em_Nho_Ai_Lofi_-_From_Chill_With_Vicky_Nhung_-_Season_2_Memory.mp3",
+    "album": "Audition",
+    "title": "Khi Cô Đơn Em Nhớ Ai (Lofi)",
+    "size": 6303028
+  },
+  {
+    "file": "_Not_A_Single_Day.mp3",
+    "album": "Audition",
+    "title": "Not A Single Day",
+    "size": 6140212
+  },
+  {
+    "file": "_She_Neva_Knows.mp3",
+    "album": "Audition",
+    "title": "She Neva Knows",
+    "size": 7086234
+  },
+  {
+    "file": "_Hoa_Nang_-_Live.mp3",
+    "album": "Audition",
+    "title": "Hoa Nắng - Live",
+    "size": 6179425
+  },
+  {
+    "file": "_Every_Heart--.mp3",
+    "album": "Audition",
+    "title": "Every Heart-ミンナノキモチ-",
+    "size": 6771924
+  },
+  {
+    "file": "_Xe_ap.mp3",
+    "album": "Audition",
+    "title": "Xe Đạp",
+    "size": 7706836
+  },
+  {
+    "file": "_Hoang_Mang.mp3",
+    "album": "Audition",
+    "title": "Hoang Mang",
+    "size": 6288158
+  },
+  {
+    "file": "_Xin_Anh_ung.mp3",
+    "album": "Audition",
+    "title": "Xin Anh Đừng",
+    "size": 6917175
+  },
+  {
+    "file": "_Nana_Lonely_-_DJ_Dacian_Remix.mp3",
+    "album": "Audition",
+    "title": "Nana (Lonely) - DJ Dacian Remix",
+    "size": 6104267
+  },
+  {
+    "file": "_Wedding_Dress.mp3",
+    "album": "Audition",
+    "title": "Wedding Dress",
+    "size": 7002919
+  },
+  {
+    "file": "_Y_Please_Tell_Me_Why.mp3",
+    "album": "Audition",
+    "title": "Y (Please Tell Me Why)",
+    "size": 6877529
+  },
+  {
+    "file": "_10_Minutes.mp3",
+    "album": "Audition",
+    "title": "10 Minutes",
+    "size": 6776756
+  },
+  {
+    "file": "_Dilemma.mp3",
+    "album": "Audition",
+    "title": "Dilemma",
+    "size": 6975114
+  },
+  {
+    "file": "_Buc_Thu_Tinh_Thu_Hai.mp3",
+    "album": "Audition",
+    "title": "Bức Thư Tình Thứ Hai",
+    "size": 8537388
+  },
+  {
+    "file": "_I_Dont_Care.mp3",
+    "album": "Audition",
+    "title": "I Don't Care",
+    "size": 7310042
+  },
+  {
+    "file": "_I_LOVE_YOU.mp3",
+    "album": "Audition",
+    "title": "I LOVE YOU",
+    "size": 6102060
+  },
+  {
+    "file": "_Thien_uong_Goi_Ten.mp3",
+    "album": "Audition",
+    "title": "Thiên Đường Gọi Tên",
+    "size": 6062893
+  },
+  {
+    "file": "_Dong_Thoi_Gian_Theme_Song_From_Mui_Ngo_Gai.mp3",
+    "album": "Audition",
+    "title": "Dòng Thời Gian",
+    "size": 7151333
+  },
+  {
+    "file": "_We_belong_together.mp3",
+    "album": "Audition",
+    "title": "We belong together",
+    "size": 6891297
+  },
+  {
+    "file": "_Tan.mp3",
+    "album": "Audition",
+    "title": "Tan",
+    "size": 7747908
+  },
+  {
+    "file": "_Mua.mp3",
+    "album": "Audition",
+    "title": "Mưa",
+    "size": 6913912
+  },
+  {
+    "file": "_A_Better_Day.mp3",
+    "album": "Audition",
+    "title": "A Better Day",
+    "size": 6130743
+  },
+  {
+    "file": "_Xin_Loi_Anh_Sorry.mp3",
+    "album": "Audition",
+    "title": "Xin Lỗi Anh (Sorry)",
+    "size": 6371770
+  },
+  {
+    "file": "_Sick_enough_to_die_Feat._JAMIE.mp3",
+    "album": "Audition",
+    "title": "Sick enough to die (Feat. JAMIE)",
+    "size": 6594792
+  },
+  {
+    "file": "_I_Know_What_You_Want_feat._Flipmode_Squad.mp3",
+    "album": "Audition",
+    "title": "I Know What You Want (feat. Flipmode Squad)",
+    "size": 7805062
+  },
+  {
+    "file": "_Everybody_Backstreets_Back_-_Radio_Edit.mp3",
+    "album": "Audition",
+    "title": "Everybody (Backstreet's Back)",
+    "size": 8834957
+  },
+  {
+    "file": "_Haru_Haru.mp3",
+    "album": "Audition",
+    "title": "Haru Haru",
+    "size": 7870688
+  },
+  {
+    "file": "__Eyes_Nose_Lips.mp3",
+    "album": "Audition",
+    "title": "눈,코,입 (Eyes, Nose, Lips)",
+    "size": 6778274
+  },
+  {
+    "file": "_Noi_Nho_ay_Voi.mp3",
+    "album": "Audition",
+    "title": "Nỗi Nhớ Đầy Vơi",
+    "size": 6265946
+  },
+  {
+    "file": "_Vi_Sao.mp3",
+    "album": "Audition",
+    "title": "Vì Sao",
+    "size": 7022105
+  },
+  {
+    "file": "_Lonely.mp3",
+    "album": "Audition",
+    "title": "Lonely",
+    "size": 6397879
+  },
+  {
+    "file": "_Than_Thoai_Lofi.mp3",
+    "album": "Audition",
+    "title": "Thần Thoại (Lofi)",
+    "size": 6786334
+  },
+  {
+    "file": "_Be_What_You_Wanna_Be.mp3",
+    "album": "Audition",
+    "title": "Be What You Wanna Be",
+    "size": 5191240
+  },
+  {
+    "file": "_Buttons.mp3",
+    "album": "Audition",
+    "title": "Buttons",
+    "size": 5806397
+  },
+  {
+    "file": "_Sign.mp3",
+    "album": "Audition",
+    "title": "Sign",
+    "size": 4940621
+  },
+  {
+    "file": "_Giot_Suong_Va_Chiec_La.mp3",
+    "album": "Audition",
+    "title": "Giọt Sương Và Chiếc Lá",
+    "size": 5931219
+  },
+  {
+    "file": "_Please_dont.mp3",
+    "album": "Audition",
+    "title": "Please don’t",
+    "size": 5541017
+  },
+  {
+    "file": "_Cry_Cry.mp3",
+    "album": "Audition",
+    "title": "Cry Cry",
+    "size": 5086399
+  },
+  {
+    "file": "_Neu.mp3",
+    "album": "Audition",
+    "title": "Nếu",
+    "size": 5030823
+  },
+  {
+    "file": "_CROOKED.mp3",
+    "album": "Audition",
+    "title": "CROOKED",
+    "size": 5492591
+  },
+  {
+    "file": "_Remember_the_Name_feat._Styles_of_Beyond.mp3",
+    "album": "Audition",
+    "title": "Remember the Name (feat. Styles of Beyond)",
+    "size": 5700583
+  },
+  {
+    "file": "_Anh_Tin_Minh_a_Cho_Nhau_Ky_Niem_feat._Luong_Bang_Quang.mp3",
+    "album": "Audition",
+    "title": "Anh Tin Mình Đã Cho Nhau Kỷ Niệm",
+    "size": 5033076
+  },
+  {
+    "file": "_My_Humps.mp3",
+    "album": "Audition",
+    "title": "My Humps",
+    "size": 5876297
+  },
+  {
+    "file": "_Girlfriend.mp3",
+    "album": "Audition",
+    "title": "Girlfriend",
+    "size": 5676560
+  },
+  {
+    "file": "_NU_ABO.mp3",
+    "album": "Audition",
+    "title": "NU ABO",
+    "size": 5570708
+  },
+  {
+    "file": "_30_Ngay_Yeu.mp3",
+    "album": "Audition",
+    "title": "30 Ngày Yêu",
+    "size": 5743201
+  },
+  {
+    "file": "_Ma_Boy.mp3",
+    "album": "Audition",
+    "title": "Ma Boy",
+    "size": 5112449
+  },
+  {
+    "file": "_Thinking_Of_You.mp3",
+    "album": "Audition",
+    "title": "Thinking Of You",
+    "size": 5229427
+  },
+  {
+    "file": "_Ngot_Ngao.mp3",
+    "album": "Audition",
+    "title": "Ngọt Ngào",
+    "size": 4461734
+  },
+  {
+    "file": "_EM_NHO_ANH_RAT_NHIEU_feat._Orange.mp3",
+    "album": "Audition",
+    "title": "EM NHỚ ANH RẤT NHIỀU (feat. Orange)",
+    "size": 3231389
+  },
+  {
+    "file": "__.mp3",
+    "album": "Audition",
+    "title": "우리 사랑했잖아",
+    "size": 3574521
+  },
+  {
+    "file": "_Thats_Not_My_Name.mp3",
+    "album": "Audition",
+    "title": "That's Not My Name",
+    "size": 5447853
+  },
+  {
+    "file": "_All_Around_the_World_La_La_La.mp3",
+    "album": "Audition",
+    "title": "All Around the World (La La La)",
+    "size": 3754752
+  },
+  {
+    "file": "_Love_Love_Love.mp3",
+    "album": "Audition",
+    "title": "Love Love Love",
+    "size": 5560203
+  },
+  {
+    "file": "_So_Sick.mp3",
+    "album": "Audition",
+    "title": "So Sick",
+    "size": 5122163
+  },
+  {
+    "file": "_S.O.S_Eng_Ver..mp3",
+    "album": "Audition",
+    "title": "S.O.S (Eng Ver.)",
+    "size": 5800292
+  },
+  {
+    "file": "_Tieu_Thuyet_Tinh_Yeu.mp3",
+    "album": "Audition",
+    "title": "Tiểu Thuyết Tình Yêu",
+    "size": 3561293
+  },
+  {
+    "file": "_Di_Vang_Nhat_Nhoa_-_Remake.mp3",
+    "album": "Audition",
+    "title": "Dĩ Vãng Nhạt Nhòa - Remake",
+    "size": 5350992
+  },
+  {
+    "file": "_Maria.mp3",
+    "album": "Audition",
+    "title": "Maria",
+    "size": 4687156
+  },
+  {
+    "file": "_In_the_End.mp3",
+    "album": "Audition",
+    "title": "In the End",
+    "size": 5398729
+  },
+  {
+    "file": "_Lieu_Thuoc_Cho_Trai_Tim_-_Remake.mp3",
+    "album": "Audition",
+    "title": "Liều Thuốc Cho Trái Tim - Remake",
+    "size": 5395019
+  },
+  {
+    "file": "_Apologize.mp3",
+    "album": "Audition",
+    "title": "Apologize",
+    "size": 4629417
+  },
+  {
+    "file": "_Toxic.mp3",
+    "album": "Audition",
+    "title": "Toxic",
+    "size": 5223261
+  },
+  {
+    "file": "_Nho_Lam.mp3",
+    "album": "Audition",
+    "title": "Nhớ Lắm",
+    "size": 5557980
+  },
+  {
+    "file": "_I_Love_You_and_Love_you_inst.mp3",
+    "album": "Audition",
+    "title": "I Love You and Love you (inst)",
+    "size": 5474556
+  },
+  {
+    "file": "_U_Go_Girl.mp3",
+    "album": "Audition",
+    "title": "U Go Girl",
+    "size": 4733489
+  },
+  {
+    "file": "_The_Day_You_Went_Away.mp3",
+    "album": "Audition",
+    "title": "The Day You Went Away",
+    "size": 5325251
+  },
+  {
+    "file": "_...Baby_One_More_Time.mp3",
+    "album": "Audition",
+    "title": "Baby One More Time",
+    "size": 5807921
+  },
+  {
+    "file": "___.mp3",
+    "album": "Audition",
+    "title": "너 때문에 미쳐",
+    "size": 4778714
+  },
+  {
+    "file": "_Chiec_Gay_Truong_Son.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Chiếc Gậy Trường Sơn",
+    "size": 4830674
+  },
+  {
+    "file": "_Khat_Vong_Tuoi_Tre.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Khát Vọng Tuổi Trẻ",
+    "size": 6686004
+  },
+  {
+    "file": "_Niem_Tin_Chien_Thang.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Niềm Tin Chiến Thắng",
+    "size": 3832318
+  },
+  {
+    "file": "_Tau_Anh_Qua_Nui.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Tàu Anh Qua Núi",
+    "size": 6210198
+  },
+  {
+    "file": "_Rung_Vang_Bien_Bac.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Rừng Vàng Biển Bạc",
+    "size": 6098431
+  },
+  {
+    "file": "_Ru_Lai_Cau_Ho.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Ru Lại Câu Hò",
+    "size": 9505125
+  },
+  {
+    "file": "_Gap_Nhau_giua_Rung_Mo.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Gặp Nhau giữa Rừng Mơ",
+    "size": 5515471
+  },
+  {
+    "file": "_Tinh_ta_bien_bac_ong_xanh.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Tình ta biển bạc đồng xanh",
+    "size": 7640097
+  },
+  {
+    "file": "_Viet_Tiep_Cau_Chuyen_Hoa_Binh.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Viết Tiếp Câu Chuyện Hòa Bình",
+    "size": 7289885
+  },
+  {
+    "file": "_Co_Gai_Sai_Gon_i_Tai_an.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Cô Gái Sài Gòn Đi Tải Đạn",
+    "size": 5985580
+  },
+  {
+    "file": "_Mashup_Nam_Quoc_Son_Ha__at_Nuoc_Loi_Ru.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Nam Quốc Sơn Hà & Đất Nước Lời Ru",
+    "size": 6099334
+  },
+  {
+    "file": "_Noi_Vong_Tay_Lon.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Nối Vòng Tay Lớn",
+    "size": 4131219
+  },
+  {
+    "file": "_i_cung_anh_sang.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Đi cùng ánh sáng",
+    "size": 4502192
+  },
+  {
+    "file": "_Con_Thuong_Rau_ang_Moc_Sau_He.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Còn Thương Rau Đắng Mọc Sau Hè",
+    "size": 7784607
+  },
+  {
+    "file": "_Tien_Len_Viet_Nam_Oi.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Tiến Lên Việt Nam Ơi",
+    "size": 5388118
+  },
+  {
+    "file": "_Con_Gi_ep_Hon_-_Mua_o_Original_Soundtrack.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Còn Gì Đẹp Hơn",
+    "size": 6878217
+  },
+  {
+    "file": "_To_quoc_goi_ten_minh.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Tổ quốc gọi tên mình",
+    "size": 8872531
+  },
+  {
+    "file": "_Bai_Ca_Tom_Ca.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Bài Ca Tôm Cá",
+    "size": 5722921
+  },
+  {
+    "file": "_Ha_Noi_Muoi_Hai_Mua_Hoa.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Hà Nội Mười Hai Mùa Hoa",
+    "size": 8221827
+  },
+  {
+    "file": "_Mot_Khuc_Tam_Tinh_Cua_Nguoi_Ha_Tinh.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Một Khúc Tâm Tình Của Người Hà Tĩnh",
+    "size": 7258710
+  },
+  {
+    "file": "_VIET_NAM_TOI_O.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "VIỆT NAM TÔI ĐÓ",
+    "size": 4836893
+  },
+  {
+    "file": "_Co_gai_vot_chong.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Cô gái vót chông",
+    "size": 4750153
+  },
+  {
+    "file": "_Mot_Vong_Viet_Nam.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Một Vòng Việt Nam",
+    "size": 7410598
+  },
+  {
+    "file": "_Ho_Vuon_Minh.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Hò Vươn Mình",
+    "size": 4922951
+  },
+  {
+    "file": "_Nha_Toi_Co_Treo_Mot_La_Co.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Nhà Tôi Có Treo Một Lá Cờ",
+    "size": 5670246
+  },
+  {
+    "file": "_Nguoi_i_xay_ho_Ke_Go.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Người đi xây hồ Kẻ Gỗ",
+    "size": 7303943
+  },
+  {
+    "file": "_Dong_song_que_anh_dong_song_que_em.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Dòng sông quê anh, dòng sông quê em",
+    "size": 6101059
+  },
+  {
+    "file": "_ieu_Phi_Thuong_Nho_Be.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Điều Phi Thường Nhỏ Bé",
+    "size": 5332953
+  },
+  {
+    "file": "_Quang_Binh_que_ta_oi.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Quảng Bình quê ta ơi",
+    "size": 10128674
+  },
+  {
+    "file": "_Chiec_Khan_Pieu.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Chiếc Khăn Piêu",
+    "size": 7492884
+  },
+  {
+    "file": "_Viet_Nam_Tu_Te.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Việt Nam Tử Tế",
+    "size": 6139180
+  },
+  {
+    "file": "_Co_Gai_Mo_uong.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Cô Gái Mở Đường",
+    "size": 5248798
+  },
+  {
+    "file": "_Gui_Em_O_Cuoi_Song_Hong.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Gửi Em Ở Cuối Sông Hồng",
+    "size": 6545994
+  },
+  {
+    "file": "_Mau_o_Da_Vang.mp3",
+    "album": "Tu Hao Viet Nam",
+    "title": "Máu Đỏ Da Vàng",
+    "size": 5865232
+  },
+  {
+    "file": "Em-Yeu-Anh-Nhieu-Lam-Bao-Thy.mp3",
+    "album": "Bao Thy",
+    "title": "Em Yêu Anh Nhiều Lắm",
+    "size": 11411568
+  },
+  {
+    "file": "Tri-Ky-Bao-Thy.mp3",
+    "album": "Bao Thy",
+    "title": "Tri Kỷ",
+    "size": 10526546
+  },
+  {
+    "file": "Khoc-Them-Lan-Nua-Bao-Thy.mp3",
+    "album": "Bao Thy",
+    "title": "Khóc Thêm Lần Nữa",
+    "size": 11157668
+  },
+  {
+    "file": "Xep-Vao-Qua-Khu-Bao-Thy.mp3",
+    "album": "Bao Thy",
+    "title": "Xếp Vào Quá Khứ",
+    "size": 9961283
+  },
+  {
+    "file": "Cong-Chua-Bong-Bong-Bao-Thy-2B.mp3",
+    "album": "Bao Thy",
+    "title": "Công Chúa Bong Bóng",
+    "size": 11624752
+  },
+  {
+    "file": "Gat-Di-Nuoc-Mat-Bao-Thy.mp3",
+    "album": "Bao Thy",
+    "title": "Gạt Đi Nước Mắt",
+    "size": 11219301
+  },
+  {
+    "file": "Ngon-Doi-Chong-Chong-Bao-Thy-Quang-Vinh.mp3",
+    "album": "Bao Thy",
+    "title": "Ngọn Đồi Chong Chóng",
+    "size": 9247610
+  },
+  {
+    "file": "Mot-Chut-Quen-Anh-Thoi-Bao-Thy.mp3",
+    "album": "Bao Thy",
+    "title": "Một Chút Quên Anh Thôi",
+    "size": 8503656
+  },
+  {
+    "file": "Ngoi-Nha-Hoa-Hong-Bao-Thy-Quang-Vinh.mp3",
+    "album": "Bao Thy",
+    "title": "Ngôi Nhà Hoa Hồng",
+    "size": 13705138
+  },
+  {
+    "file": "Bao-Dem-Em-Khoc-Bao-Thy.mp3",
+    "album": "Bao Thy",
+    "title": "Bao Đêm Em Khóc",
+    "size": 11240263
+  },
+  {
+    "file": "Ngoc-Nghech-Bao-Thy.mp3",
+    "album": "Bao Thy",
+    "title": "Ngốc Nghếch",
+    "size": 11037531
+  },
+  {
+    "file": "Em-Khong-Con-Buon-Bao-Thy.mp3",
+    "album": "Bao Thy",
+    "title": "Em Không Còn Buồn",
+    "size": 12361464
+  },
+  {
+    "file": "Cang-Kho-Cang-Yeu-Bao-Thy.mp3",
+    "album": "Bao Thy",
+    "title": "Càng Khó Càng Yêu",
+    "size": 9197494
+  },
+  {
+    "file": "Lung-Chung-Hanh-Phuc-Bao-Thy.mp3",
+    "album": "Bao Thy",
+    "title": "Lưng Chừng Hạnh Phúc",
+    "size": 11635196
+  },
+  {
+    "file": "Cham-Vao-Hanh-Phuc-Bao-Thy.mp3",
+    "album": "Bao Thy",
+    "title": "Chạm Vào Hạnh Phúc",
+    "size": 10197425
+  },
+  {
+    "file": "Ngay-Buon-Nhat-Bao-Thy.mp3",
+    "album": "Bao Thy",
+    "title": "Ngày Buồn Nhất",
+    "size": 9347902
+  },
+  {
+    "file": "Nho-Rat-Nho-Bao-Thy-Duong-Trieu-Vu.mp3",
+    "album": "Bao Thy",
+    "title": "Nhớ Rất Nhớ",
+    "size": 10539317
+  },
+  {
+    "file": "Van-Tin-Minh-Co-Nhau-Bao-Thy-Quang-Vinh.mp3",
+    "album": "Bao Thy",
+    "title": "Vẫn Tin Mình Có Nhau",
+    "size": 10149847
+  },
+  {
+    "file": "Please-Tell-Me-Why-Bao-Thy-Vuong-Khang.mp3",
+    "album": "Bao Thy",
+    "title": "Please Tell Me Why",
+    "size": 10799285
+  },
+  {
+    "file": "Vi-Ai-Vi-Anh-Dong-Nhi.mp3",
+    "album": "Dong Nhi",
+    "title": "Vì Ai Vì Anh - Đông Nhi",
+    "size": 12151328
+  },
+  {
+    "file": "Nam-Tay-Anh-Nhe-Dong-Nhi-Ong-Cao-Thang.mp3",
+    "album": "Dong Nhi",
+    "title": "Nắm Tay Anh Nhé",
+    "size": 9281047
+  },
+  {
+    "file": "Can-Mot-Ai-Do-I-Wanna-Dance-Dong-Nhi.mp3",
+    "album": "Dong Nhi",
+    "title": "Cần 1 Ai Đó",
+    "size": 7127513
+  },
+  {
+    "file": "Xin-Anh-Dung-Dong-Nhi.mp3",
+    "album": "Dong Nhi",
+    "title": "Xin Anh Đừng",
+    "size": 9681263
+  },
+  {
+    "file": "Bi-Mat-Cua-Hanh-Phuc-Dong-Nhi-Ngo-Kien-Huy.mp3",
+    "album": "Dong Nhi",
+    "title": "Bí Mật Của Hạnh Phúc",
+    "size": 7724159
+  },
+  {
+    "file": "Hot-Dong-Nhi.mp3",
+    "album": "Dong Nhi",
+    "title": "HOT",
+    "size": 10958002
+  },
+  {
+    "file": "Co-Ba-Sai-Gon-Dong-Nhi.mp3",
+    "album": "Dong Nhi",
+    "title": "Cô Ba Sài Gòn",
+    "size": 9262237
+  },
+  {
+    "file": "Taxi-Dong-Nhi.mp3",
+    "album": "Dong Nhi",
+    "title": "Taxi",
+    "size": 6603913
+  },
+  {
+    "file": "Cho-Em-Mot-Lan-Yeu-Dong-Nhi.mp3",
+    "album": "Dong Nhi",
+    "title": "Cho Em Một Lần Yêu",
+    "size": 9034460
+  },
+  {
+    "file": "Dung-Ngoi-Yen-Trong-Goc-Toi-Dong-Nhi.mp3",
+    "album": "Dong Nhi",
+    "title": "Đừng Ngồi Yên Trong Góc Tối",
+    "size": 5430723
+  },
+  {
+    "file": "Loi-Thu-Toi-Ngot-Ngao-Dong-Nhi.mp3",
+    "album": "Dong Nhi",
+    "title": "Lời Thú Tội Ngọt Ngào",
+    "size": 7596675
+  },
+  {
+    "file": "Khoc-Dong-Nhi.mp3",
+    "album": "Dong Nhi",
+    "title": "Khóc",
+    "size": 11303949
+  },
+  {
+    "file": "Nghi-Ngo-Dong-Nhi-Ngo-Kien-Huy.mp3",
+    "album": "Dong Nhi",
+    "title": "Nghi Ngờ",
+    "size": 9246629
+  },
+  {
+    "file": "Co-Nhung-Yeu-Thuong-Nao-Dong-Nhi.mp3",
+    "album": "Dong Nhi",
+    "title": "Có Những Yêu Thương Nào",
+    "size": 7510968
+  },
+  {
+    "file": "Baby-One-More-Time-Dong-Nhi.mp3",
+    "album": "Dong Nhi",
+    "title": "Baby One More Time",
+    "size": 11672887
+  },
+  {
+    "file": "Ac-Mong-Cua-Nhung-Giac-Mo-Dong-Nhi.mp3",
+    "album": "Dong Nhi",
+    "title": "Ác Mộng Của Những Giấc Mơ",
+    "size": 9022967
+  },
+  {
+    "file": "Ngot-Ngao-Dong-Nhi.mp3",
+    "album": "Dong Nhi",
+    "title": "Ngọt Ngào",
+    "size": 7150476
+  },
+  {
+    "file": "Trach-Ai-Bay-Gio-Dong-Nhi.mp3",
+    "album": "Dong Nhi",
+    "title": "Trách Ai Bây Giờ",
+    "size": 10818076
+  },
+  {
+    "file": "Cat-Giau-Ky-Uc-Dong-Nhi-Ong-Cao-Thang.mp3",
+    "album": "Dong Nhi",
+    "title": "Cất Giấu Những Ký Ức",
+    "size": 8287344
+  },
+  {
+    "file": "Bad-Boy-Dong-Nhi.mp3",
+    "album": "Dong Nhi",
+    "title": "Bad Boy",
+    "size": 12022814
+  },
+  {
+    "file": "Love-Me-Too-Dong-Nhi.mp3",
+    "album": "Dong Nhi",
+    "title": "Love Me Too",
+    "size": 7385562
+  },
+  {
+    "file": "Boi-Roi-Dong-Nhi.mp3",
+    "album": "Dong Nhi",
+    "title": "Bối Rối",
+    "size": 8361522
+  },
+  {
+    "file": "_Em_Re_Trai_Anh_Re_Phai.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Em Rẽ Trái Anh Rẽ Phải",
+    "size": 6855798
+  },
+  {
+    "file": "_Ky_Niem_Bo_Quen.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Kỷ Niệm Bỏ Quên",
+    "size": 7624451
+  },
+  {
+    "file": "_Can_Gac_Trong_-_RB.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Căn Giác Trống - R&B",
+    "size": 5853296
+  },
+  {
+    "file": "_Giac_Mo_Mot_Cuoc_Tinh.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Giấc Mơ Một Cuộc Tình",
+    "size": 5649564
+  },
+  {
+    "file": "_Can_Rut.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Cắn Rứt",
+    "size": 6294951
+  },
+  {
+    "file": "_Oanh.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Oanh",
+    "size": 6863579
+  },
+  {
+    "file": "_Buoc_Qua_The_Gioi.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Bước Qua Thế Giới",
+    "size": 5684657
+  },
+  {
+    "file": "_Noi_Nho_Noi_Con_Tim_Mo_Coi.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Nỗi Nhớ Nơi Con Tim Mồ Côi",
+    "size": 6659536
+  },
+  {
+    "file": "_Toi_Khong_Tin.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Tôi Không Tin",
+    "size": 7637632
+  },
+  {
+    "file": "_Hua_That_Nhieu_That_Hua_That_Nhieu.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Hứa Thật Nhiều Thất Hứa Thật Nhiều",
+    "size": 6470333
+  },
+  {
+    "file": "_Tai_Sao.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Tại Sao",
+    "size": 6644783
+  },
+  {
+    "file": "_Phia_Cuoi_Me_Cung.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Phía Cuối Mê Cung",
+    "size": 6160137
+  },
+  {
+    "file": "_Buoc_Qua_Niem_au.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Bước Qua Niềm Đau",
+    "size": 6599966
+  },
+  {
+    "file": "_Giai_ieu_Mua_Xuan.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Giai Điệu Mùa Xuân",
+    "size": 6125108
+  },
+  {
+    "file": "_Chac_Anh_Thua_Nguoi_Ay.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Chắc Anh Thua Người Ấy",
+    "size": 6502183
+  },
+  {
+    "file": "_Nguoi_i_Ngang_oi_Toi.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Người Đi Ngang Đời Tôi",
+    "size": 7210700
+  },
+  {
+    "file": "_Cho_Vua_Long_Em.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Cho Vừa Lòng Em",
+    "size": 6814471
+  },
+  {
+    "file": "_Toi_au_Muon_Khoc.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Tối Đâu Muốn Khóc",
+    "size": 13276561
+  },
+  {
+    "file": "_Vi_Mot_Nguoi_Ra_i.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Vì Một Người Ra Đi",
+    "size": 6161188
+  },
+  {
+    "file": "_Nuoc_Co_Em_Chon_Ong_Trum_Bui_Vien_OST.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Nước Cờ Em Chọn",
+    "size": 7751392
+  },
+  {
+    "file": "_Vang_Trang_Co_on.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Vầng Trăng Cô Đơn",
+    "size": 7522841
+  },
+  {
+    "file": "_oa_Hong_Cho_Em.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Đóa Hồng Cho Em",
+    "size": 5142941
+  },
+  {
+    "file": "_LK_Ai_Kho_Vi_Ai.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Ai Khổ Vì Ai",
+    "size": 10648047
+  },
+  {
+    "file": "Anh_So.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Anh Sợ",
+    "size": 8043837
+  },
+  {
+    "file": "_an_Ong_Khong_uoc_Quen_Het_Tinh_Con_Nghia.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Đàn Ông Không Được Quên Hết Tình Còn Nghĩa",
+    "size": 7413908
+  },
+  {
+    "file": "_Chay_Tron_Ki_Niem.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Chạy Trốn Kỉ Niệm",
+    "size": 5137409
+  },
+  {
+    "file": "_Buon.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Buồn",
+    "size": 6104825
+  },
+  {
+    "file": "_Giot_Nang_Cuoi_Chieu.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Giọt Nắng Cuối Chiều",
+    "size": 6985003
+  },
+  {
+    "file": "_Cach_Biet_Hai_Phuong_Troi.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Cách Biệt Hai Phương Trời",
+    "size": 6880324
+  },
+  {
+    "file": "_Buong_Tay_Lang_Im.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Buông Tay Lặng Im",
+    "size": 6396232
+  },
+  {
+    "file": "_Vi_oi_Ta_La_Cua_Nhau.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Vì Đôi Ta Là Của Nhau",
+    "size": 5217030
+  },
+  {
+    "file": "_Tha_Rang_Nhu_The.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Thà Rằng Như Thế",
+    "size": 5281603
+  },
+  {
+    "file": "_Sau_em_Nay.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Sau Đêm Nay",
+    "size": 6128193
+  },
+  {
+    "file": "Khac Hoa Tuong Tu.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Khắc Họa Tương Tư",
+    "size": 11257009
+  },
+  {
+    "file": "_Co_on_Mot_Vi_Sao.mp3",
+    "album": "Ung Hoang Phuc",
+    "title": "Cô Đơn Một Vì Sao",
+    "size": 7173063
+  },
+  {
+    "file": "_Trai_at_Nay_La_Cua_Chung_Minh.mp3",
+    "album": "Tre em",
+    "title": "Trái Đất Này Là Của Chúng Mình",
+    "size": 6189240
+  },
+  {
+    "file": "_Ngay_au_Tien_i_Hoc.mp3",
+    "album": "Tre em",
+    "title": "Ngày Đầu Tiên Đi Học",
+    "size": 6418160
+  },
+  {
+    "file": "_Chu_Voi_Con_O_Ban_on.mp3",
+    "album": "Tre em",
+    "title": "Chú Voi Con Ở Bản Đôn",
+    "size": 4077195
+  },
+  {
+    "file": "_Bac_Kim_Thang.mp3",
+    "album": "Tre em",
+    "title": "Bắc Kim Thang",
+    "size": 4550808
+  },
+  {
+    "file": "_Chim_Chich_Bong.mp3",
+    "album": "Tre em",
+    "title": "Chim Chích Bông",
+    "size": 4803158
+  },
+  {
+    "file": "_Ruoc_en_ong_sao.mp3",
+    "album": "Tre em",
+    "title": "Rước đèn ông sao",
+    "size": 5195678
+  },
+  {
+    "file": "_Hai_Con_Thang_Lan_Con.mp3",
+    "album": "Tre em",
+    "title": "Hai Con Thằng Lằn Con",
+    "size": 8342648
+  },
+  {
+    "file": "_Ban_Tay_Nam_Ngon.mp3",
+    "album": "Tre em",
+    "title": "Bàn Tay Năm Ngón",
+    "size": 5253980
+  },
+  {
+    "file": "_Ga_Trong_Thoi_Ken.mp3",
+    "album": "Tre em",
+    "title": "Gà Trống Thổi Kèn",
+    "size": 5409409
+  },
+  {
+    "file": "_Hong_Dam_au.mp3",
+    "album": "Tre em",
+    "title": "Hỏng Dám Đâu",
+    "size": 8373614
+  },
+  {
+    "file": "_Ca_Nha_Thuong_Nhau.mp3",
+    "album": "Tre em",
+    "title": "Cả Nhà Thương Nhau",
+    "size": 3476729
+  },
+  {
+    "file": "_Ba_Cong_i_Cho.mp3",
+    "album": "Tre em",
+    "title": "Bà Còng Đi Chợ",
+    "size": 3766846
+  },
+  {
+    "file": "_Be_Khoe_Be_Ngoan.mp3",
+    "album": "Tre em",
+    "title": "Bé Khỏe Bé Ngoan",
+    "size": 5382978
+  },
+  {
+    "file": "Khong_Sao_Ma_Em_ay_Roi.mp3",
+    "album": "Huong Ly",
+    "title": "Không Sao Mà Em Đây Rồi",
+    "size": 10091196
+  },
+  {
+    "file": "The_Gioi_Trong_Em.mp3",
+    "album": "Huong Ly",
+    "title": "Thế Giới Trong Em",
+    "size": 9640234
+  },
+  {
+    "file": "Ngay_Mai_Em_Se_Quen.mp3",
+    "album": "Huong Ly",
+    "title": "Ngày Mai Em Sẽ Quên",
+    "size": 7632999
+  },
+  {
+    "file": "E_Khong_Khong_The.mp3",
+    "album": "Huong Ly",
+    "title": "E Là Không Thể",
+    "size": 13007990
+  },
+  {
+    "file": "o_Ta_Khong_o_Nang.mp3",
+    "album": "Huong Ly",
+    "title": "Độ Ta Không Độ Nàng",
+    "size": 8191613
+  },
+  {
+    "file": "oan_Ca_Xuan.mp3",
+    "album": "Huong Ly",
+    "title": "Đoản Ca Xuân",
+    "size": 6522894
+  },
+  {
+    "file": "Nguyen_Yeu.mp3",
+    "album": "Huong Ly",
+    "title": "Nguyện Yêu",
+    "size": 10201750
+  },
+  {
+    "file": "Chua_Bao_Gio_Em_Quen.mp3",
+    "album": "Huong Ly",
+    "title": "Chưa Bao Giờ Em Quên",
+    "size": 12499870
+  },
+  {
+    "file": "Sau_Nay_Neu_Co_Thuong_Em.mp3",
+    "album": "Huong Ly",
+    "title": "Sau Này Nếu Có Thương Em",
+    "size": 14323350
+  },
+  {
+    "file": "Co_Tat_Ca_Nhung_Thieu_Anh.mp3",
+    "album": "Huong Ly",
+    "title": "Có Tất Cả Nhưng Thiếu Anh",
+    "size": 11518031
+  },
+  {
+    "file": "Toan_La_Loi_Noi_Doi.mp3",
+    "album": "Huong Ly",
+    "title": "Toàn Là Lời Nói Dối",
+    "size": 10030809
+  },
+  {
+    "file": "Khi_Nao_Lofi.mp3",
+    "album": "Huong Ly",
+    "title": "Khi Nào (Lofi)",
+    "size": 9125195
+  },
+  {
+    "file": "Thi_Tham_Mua_Xuan_Lofi.mp3",
+    "album": "Huong Ly",
+    "title": "Thì Thầm Mùa Xuân (Lofi)",
+    "size": 8627836
+  },
+  {
+    "file": "au_e_Truong_Thanh.mp3",
+    "album": "Huong Ly",
+    "title": "Đau Để Trưởng Thành",
+    "size": 12520695
+  },
+  {
+    "file": "Vui_Lam_Nha.mp3",
+    "album": "Huong Ly",
+    "title": "Vui Lắm Nha",
+    "size": 10558990
+  },
+  {
+    "file": "Niu_Duyen_Khong_Thanh.mp3",
+    "album": "Huong Ly",
+    "title": "Níu Duyên Không Thành",
+    "size": 13499817
+  },
+  {
+    "file": "Trai_Tim_Lon.mp3",
+    "album": "Huong Ly",
+    "title": "Trái Tim Lớn",
+    "size": 5899770
+  },
+  {
+    "file": "Nhin_May_Ve_Nguoi.mp3",
+    "album": "Huong Ly",
+    "title": "Nhìn Mây Vẽ Người",
+    "size": 8641596
+  },
+  {
+    "file": "Neu_Co_Mot_Ngay.mp3",
+    "album": "Huong Ly",
+    "title": "Nếu Có Một Ngày",
+    "size": 11962328
+  },
+  {
+    "file": "ong_Van.mp3",
+    "album": "Huong Ly",
+    "title": "Đông Vân",
+    "size": 9611688
+  },
+  {
+    "file": "Chac_Ai_o_Se_Ve.mp3",
+    "album": "Huong Ly",
+    "title": "Chắc Ai Đó Sẽ Về",
+    "size": 11475770
+  },
+  {
+    "file": "Nam.mp3",
+    "album": "Huong Ly",
+    "title": "Nắm",
+    "size": 11316986
+  },
+  {
+    "file": "Nguyen_Yeu_-_Lofi.mp3",
+    "album": "Huong Ly",
+    "title": "Nguyện Yêu - Lofi",
+    "size": 10773484
+  },
+  {
+    "file": "Chi_Can_Em_Binh_An_Thoi_Khong_Sai_Lech.mp3",
+    "album": "Huong Ly",
+    "title": "Chỉ Cần Em Bình An",
+    "size": 8470538
+  },
+  {
+    "file": "Co_Tham_Khong_Ve.mp3",
+    "album": "Huong Ly",
+    "title": "Cô Thắm Không Về",
+    "size": 14161080
+  },
+  {
+    "file": "Khue_Moc_Lang.mp3",
+    "album": "Huong Ly",
+    "title": "Khuê Mộc Lang",
+    "size": 8437424
+  },
+  {
+    "file": "Em_au_Lam_ay.mp3",
+    "album": "Huong Ly",
+    "title": "Em Đau Lắm Đấy",
+    "size": 11545786
+  },
+  {
+    "file": "Pho_Xuan_Lofi.mp3",
+    "album": "Huong Ly",
+    "title": "Phố Xuân (Lofi)",
+    "size": 9760035
+  },
+  {
+    "file": "The_Thai.mp3",
+    "album": "Huong Ly",
+    "title": "Thế Thái",
+    "size": 4996033
+  },
+  {
+    "file": "Buon_Lam_Em_Oi.mp3",
+    "album": "Huong Ly",
+    "title": "Buồn Lắm Em Ơi",
+    "size": 10582689
+  },
+  {
+    "file": "Yeu_Ai_e_Khong_Phai_Khoc.mp3",
+    "album": "Huong Ly",
+    "title": "Yêu Ai Để Không Phải Khóc",
+    "size": 13212337
+  },
+  {
+    "file": "Song_Gio.mp3",
+    "album": "Huong Ly",
+    "title": "Sóng Gió",
+    "size": 11131542
+  },
+  {
+    "file": "Chac_Gi_Anh_Yeu_Co_Ay.mp3",
+    "album": "Huong Ly",
+    "title": "Chắc Gì Anh Yêu Cô Ấy",
+    "size": 11995875
+  },
+  {
+    "file": "Tu_Em_Thuong_Minh.mp3",
+    "album": "Huong Ly",
+    "title": "Tự Em Thương Mình",
+    "size": 13136173
+  },
+  {
+    "file": "May_Va_Nui_-_Huong_Ly_Version.mp3",
+    "album": "Huong Ly",
+    "title": "Mây Và Núi - Hương Ly Version",
+    "size": 4915576
+  },
+  {
+    "file": "Tung_Yeu.mp3",
+    "album": "Huong Ly",
+    "title": "Từng Yêu",
+    "size": 11656662
+  },
+  {
+    "file": "Tat_Nhat_Lang_Ruc_Ro_Lofi.mp3",
+    "album": "Huong Ly",
+    "title": "Tát Nhật Lang Rực Rỡ (Lofi)",
+    "size": 11584103
+  },
+  {
+    "file": "i_Ve_Nha.mp3",
+    "album": "Den Vau",
+    "title": "Đi Về Nhà",
+    "size": 8236502
+  },
+  {
+    "file": "Bai_Nay_Chill_Phet.mp3",
+    "album": "Den Vau",
+    "title": "Bài Này Chill Phết",
+    "size": 11183868
+  },
+  {
+    "file": "Vi_Nha.mp3",
+    "album": "Den Vau",
+    "title": "Vị Nhà",
+    "size": 12144839
+  },
+  {
+    "file": "_Phai_Chang_Toi_Yeu_Hai_Nguoi.mp3",
+    "album": "Duy Manh",
+    "title": "Phải Chăng Tôi Yêu Hai Người",
+    "size": 6880146
+  },
+  {
+    "file": "_Bong_Trang_ang_Dan_Troi.mp3",
+    "album": "Duy Manh",
+    "title": "Bóng Trăng Đang Dần Trôi",
+    "size": 7095822
+  },
+  {
+    "file": "_Mua_ong_Xu_La.mp3",
+    "album": "Duy Manh",
+    "title": "Mùa Đông Xứ Lạ",
+    "size": 7026195
+  },
+  {
+    "file": "_Mai_Chi_La_Nguoi_Tinh.mp3",
+    "album": "Duy Manh",
+    "title": "Mãi Chỉ Là Người Tình",
+    "size": 5681929
+  },
+  {
+    "file": "_Du_Biet_Ta_Khong_Con_Nhau.mp3",
+    "album": "Duy Manh",
+    "title": "Dù Biết Ta Không Còn Nhau",
+    "size": 7180682
+  },
+  {
+    "file": "_Con_Se_Khong_Quen.mp3",
+    "album": "Duy Manh",
+    "title": "Con Sẽ Không Quên",
+    "size": 7106262
+  },
+  {
+    "file": "_Tinh_Em_La_ai_Duong.mp3",
+    "album": "Duy Manh",
+    "title": "Tình Em Là Đại Dương",
+    "size": 7723367
+  },
+  {
+    "file": "_Hay_Ve_ay_Ben_Anh.mp3",
+    "album": "Duy Manh",
+    "title": "Hãy Về Đây Bên Anh",
+    "size": 7982916
+  },
+  {
+    "file": "_Bai_Hat_Cho_Nguoi_Thuy_Thu.mp3",
+    "album": "Duy Manh",
+    "title": "Bài Hát Cho Người Thủy Thủ",
+    "size": 8730655
+  },
+  {
+    "file": "_Di_Vang_Cuoc_Tinh.mp3",
+    "album": "Duy Manh",
+    "title": "Dĩ Vãng Cuộc Tình",
+    "size": 7697618
+  },
+  {
+    "file": "_uong_Ve_Hai_Loi.mp3",
+    "album": "Duy Manh",
+    "title": "Đường Về Hai Lối",
+    "size": 6741535
+  },
+  {
+    "file": "_Kiep_o_en.mp3",
+    "album": "Duy Manh",
+    "title": "Kiếp Đỏ Đen",
+    "size": 8151846
+  },
+  {
+    "file": "_Toi_Yeu_Em_Nhieu.mp3",
+    "album": "Duy Manh",
+    "title": "Tôi Yêu Em Nhiều",
+    "size": 6364014
+  },
+  {
+    "file": "_Tinh_Khuc_Vang.mp3",
+    "album": "Dan Truong",
+    "title": "Tình Khúc Vàng",
+    "size": 7998176
+  },
+  {
+    "file": "_Buoc_Chan_Le_Loi.mp3",
+    "album": "Dan Truong",
+    "title": "Bước Chân Lẻ Loi",
+    "size": 7438705
+  },
+  {
+    "file": "_Got_Hong.mp3",
+    "album": "Dan Truong",
+    "title": "Gót Hồng",
+    "size": 6661943
+  },
+  {
+    "file": "_Mua_Tren_Cuoc_Tinh.mp3",
+    "album": "Dan Truong",
+    "title": "Mưa Trên Cuộc Tình",
+    "size": 6910827
+  },
+  {
+    "file": "_Cuoc_Tinh_Cay_ang.mp3",
+    "album": "Dan Truong",
+    "title": "Cuộc Tình Cay Đắng",
+    "size": 7883836
+  },
+  {
+    "file": "_Vong_Tay_Nguoi_Ay.mp3",
+    "album": "Dan Truong",
+    "title": "Vòng Tay Người Ấy",
+    "size": 6206641
+  },
+  {
+    "file": "_Mua_Buon.mp3",
+    "album": "Dan Truong",
+    "title": "Mưa Buồn",
+    "size": 10394744
+  },
+  {
+    "file": "_Cuoc_Tinh_Trong_Con_Mua.mp3",
+    "album": "Dan Truong",
+    "title": "Cuộc Tình Trong Cơn Mưa",
+    "size": 8443543
+  },
+  {
+    "file": "_Em_Se_La_Nguoi_Ra_i.mp3",
+    "album": "Dan Truong",
+    "title": "Em Sẽ Là Người Ra Đi",
+    "size": 6184703
+  },
+  {
+    "file": "_Bong_Dang_Thien_Than.mp3",
+    "album": "Dan Truong",
+    "title": "Bóng Dáng Thiên Thần",
+    "size": 6773489
+  },
+  {
+    "file": "_Con_Song_Yeu_Thuong.mp3",
+    "album": "Dan Truong",
+    "title": "Con Sóng Yêu Thương",
+    "size": 7037135
+  },
+  {
+    "file": "_Trang_Vo.mp3",
+    "album": "Dan Truong",
+    "title": "Trăng Vỡ",
+    "size": 6744501
+  },
+  {
+    "file": "_Tinh_Hong_Nhu_Mo.mp3",
+    "album": "Dan Truong",
+    "title": "Tình Hồng Như Mơ",
+    "size": 7600658
+  },
+  {
+    "file": "_Tinh_Nong.mp3",
+    "album": "Dan Truong",
+    "title": "Tình Nồng",
+    "size": 7537268
+  },
+  {
+    "file": "_Kiep_Ve_Sau.mp3",
+    "album": "Dan Truong",
+    "title": "Kiếp Ve Sầu",
+    "size": 6433086
+  },
+  {
+    "file": "_Em_La_Hanh_Phuc_oi_Anh.mp3",
+    "album": "Dan Truong",
+    "title": "Em Là Hạnh Phúc Đời Anh",
+    "size": 6689417
+  },
+  {
+    "file": "_Ao_Mong_Tinh_Yeu.mp3",
+    "album": "Dan Truong",
+    "title": "Ảo Mộng Tình Yêu",
+    "size": 8689870
+  },
+  {
+    "file": "_em_Ganh_Hao_Nghe_ieu_Hoai_Lang.mp3",
+    "album": "Dan Truong",
+    "title": "Đêm Gành Hào Nghe Điệu Hoài Lang",
+    "size": 8889246
+  },
+  {
+    "file": "tu_choi_nhe_nhang_thoi.mp3",
+    "album": "Bich Phuong",
+    "title": "Từ chối nhẹ nhàng thôi",
+    "size": 9986229
+  },
+  {
+    "file": "Co_Khi_Nao_Roi_Xa.mp3",
+    "album": "Bich Phuong",
+    "title": "Có Khi Nào Rời Xa",
+    "size": 10730033
+  },
+  {
+    "file": "Em_Chao_Tet.mp3",
+    "album": "Bich Phuong",
+    "title": "Em Chào Tết",
+    "size": 7716651
+  },
+  {
+    "file": "Gui_Anh_Xa_Nho.mp3",
+    "album": "Bich Phuong",
+    "title": "Gửi Anh Xa Nhớ",
+    "size": 10419141
+  },
+  {
+    "file": "em_bo_hut_thuoc_chua_feat._traitimtrongvang.mp3",
+    "album": "Bich Phuong",
+    "title": "Em bỏ hút thuốc chưa",
+    "size": 8753346
+  },
+  {
+    "file": "Mot_Cu_Lua.mp3",
+    "album": "Bich Phuong",
+    "title": "Một Cú Lừa",
+    "size": 8461663
+  },
+  {
+    "file": "Bao_Gio_Lay_Chong.mp3",
+    "album": "Bich Phuong",
+    "title": "Bao Giờ Lấy Chồng",
+    "size": 9200245
+  },
+  {
+    "file": "Phep_La_Hang_Ngay.mp3",
+    "album": "Tre em",
+    "title": "Phép Lạ Hằng Ngày",
+    "size": 5525957
+  },
+  {
+    "file": "Chu_Ech_Con.mp3",
+    "album": "Tre em",
+    "title": "Chú Ếch Con",
+    "size": 5029523
+  },
+  {
+    "file": "Qua_Gi.mp3",
+    "album": "Tre em",
+    "title": "Quả Gì",
+    "size": 5134098
+  },
+  {
+    "file": "Up_La_Khoai.mp3",
+    "album": "Tre em",
+    "title": "Úp Lá Khoai",
+    "size": 4507169
+  },
+  {
+    "file": "oi_Ken_Ti_Hon.mp3",
+    "album": "Tre em",
+    "title": "Đội Kèn Tí Hon",
+    "size": 9970319
+  },
+  {
+    "file": "Chi_Ong_Nau_Va_Em_Be.mp3",
+    "album": "Tre em",
+    "title": "Chị Ong Nâu Và Em Bé",
+    "size": 4380721
+  },
+  {
+    "file": "Bac_Kim_Thang.mp3",
+    "album": "Tre em",
+    "title": "Bắc Kim Thang",
+    "size": 4549158
+  },
+  {
+    "file": "Con_Co_Be_Be.mp3",
+    "album": "Tre em",
+    "title": "Con Cò Bé Bé",
+    "size": 6684078
+  },
+  {
+    "file": "Tap_The_Duc_Buoi_Sang.mp3",
+    "album": "Tre em",
+    "title": "Tập Thể Dục Buổi Sáng",
+    "size": 6488618
+  },
+  {
+    "file": "Lien_khuc_Mot_Con_Vit_Kia_Con_Buom_Vang_Con_Cao_Cao.mp3",
+    "album": "Tre em",
+    "title": "Liên khúc Một Con Vịt, Kìa Con Bướm Vàng, Con Cào Cào",
+    "size": 6592020
+  },
+  {
+    "file": "Chau_Yeu_Ba.mp3",
+    "album": "Tre em",
+    "title": "Cháu Yêu Bà",
+    "size": 5176266
+  },
+  {
+    "file": "Chau_Len_Ba.mp3",
+    "album": "Tre em",
+    "title": "Cháu Lên Ba",
+    "size": 5607681
+  },
+  {
+    "file": "Con_Chim_Non.mp3",
+    "album": "Tre em",
+    "title": "Con Chim Non",
+    "size": 5067203
+  },
+  {
+    "file": "an_Ga_Trong_San.mp3",
+    "album": "Tre em",
+    "title": "Đàn Gà Trong Sân",
+    "size": 20353879
+  },
+  {
+    "file": "Cho_Ngay_Cuoi_Em_Nekko_Remix.mp3",
+    "album": "Remix",
+    "title": "Chờ Ngày Cưới Em (Nekko Remix)",
+    "size": 9322718
+  },
+  {
+    "file": "Lo_Yeu_Nguoi_am_Sau_Remix.mp3",
+    "album": "Remix",
+    "title": "Lỡ Yêu Người Đậm Sâu (Remix)",
+    "size": 7235183
+  },
+  {
+    "file": "Thuyen_Quyen_Remix.mp3",
+    "album": "Remix",
+    "title": "Thuyền Quyên (Remix)",
+    "size": 5974888
+  },
+  {
+    "file": "Authentic_x_Hai_The_Gioi_Nam_Duck_Remix.mp3",
+    "album": "Remix",
+    "title": "Authentic x Hai Thế Giới",
+    "size": 5792625
+  },
+  {
+    "file": "Manh_Ba_-_SS_Remix.mp3",
+    "album": "Remix",
+    "title": "Mạnh Bà - SS Remix",
+    "size": 7228674
+  },
+  {
+    "file": "Tinh_Ca_Tinh_Ta_-_Cukak_Remix.mp3",
+    "album": "Remix",
+    "title": "Tình Ca Tình Ta - Cukak Remix",
+    "size": 8655068
+  },
+  {
+    "file": "Ngay_Trong_Xanh_Remix.mp3",
+    "album": "Remix",
+    "title": "Ngày Trong Xanh (Remix)",
+    "size": 11271274
+  },
+  {
+    "file": "Anh_au_Tu_Luc_Em_i_Remix.mp3",
+    "album": "Remix",
+    "title": "Anh Đau Từ Lúc Em Đi (Remix)",
+    "size": 7843894
+  },
+  {
+    "file": "Yeu_La_Cuoi_Remix.mp3",
+    "album": "Remix",
+    "title": "Yêu Là Cưới (Remix)",
+    "size": 8607695
+  },
+  {
+    "file": "ung_Hoi_Em_On_Khong_Remix.mp3",
+    "album": "Remix",
+    "title": "Đừng Hỏi Em Ổn Không (Remix)",
+    "size": 8739287
+  },
+  {
+    "file": "The_Thai_x_Co_Giang_Tinh_Remix.mp3",
+    "album": "Remix",
+    "title": "Thế Thái x Cố Giang Tình (Remix)",
+    "size": 16842120
+  },
+  {
+    "file": "Vui_Lam_Nha_Remix.mp3",
+    "album": "Remix",
+    "title": "Vui Lắm Nha (Remix)",
+    "size": 10296589
+  },
+  {
+    "file": "Ai_Cung_Co_Mot_Moi_Tinh_Buon_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Ai Cũng Có Một Mối Tình Buồn (Qinn Remix)",
+    "size": 9713618
+  },
+  {
+    "file": "The_Tu_-_Phuoc_Lanh_Remix_140.mp3",
+    "album": "Remix",
+    "title": "Thê Tử - Phước Lành Remix 140",
+    "size": 10614400
+  },
+  {
+    "file": "Vo_Kich_Cua_Em_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Vở Kịch Của Em (Qinn Remix)",
+    "size": 12169387
+  },
+  {
+    "file": "Mashup_e_Anh_Luong_Thien_-_ung_Hoi_Em_On_Khong_-_Anh_Thoi_Nhan_Nhuong_-_HuyPT_Remix.mp3",
+    "album": "Remix",
+    "title": "Mashup Để Anh Lương Thiện - Đừng Hỏi Em Ổn Không - Anh Thôi Nhân Nhượng - HuyPT Remix",
+    "size": 16191725
+  },
+  {
+    "file": "Em_va_Hoa_-_Cukak_Remix_Version.mp3",
+    "album": "Remix",
+    "title": "Em và Hoa - Cukak Remix Version",
+    "size": 9356041
+  },
+  {
+    "file": "Em_Voi_Quen_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Em Vội Quên (Qinn Remix)",
+    "size": 13356669
+  },
+  {
+    "file": "Mong_Mot_Ngay_Anh_Nho_en_Em_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Mong Một Ngày Anh Nhớ Đến Em Qinn Remix",
+    "size": 8533922
+  },
+  {
+    "file": "Nhan_Sinh_Quan_-_uc_Louis_Remix.mp3",
+    "album": "Remix",
+    "title": "Nhân Sinh Quán - Đức Louis Remix",
+    "size": 13185835
+  },
+  {
+    "file": "Thiep_Hong_Em_Trao_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Thiệp Hồng Em Trao (Qinn Remix)",
+    "size": 9820170
+  },
+  {
+    "file": "Cat_oi_Noi_Sau_-_Cukak_Remix.mp3",
+    "album": "Remix",
+    "title": "Cắt Đôi Nỗi Sầu - Cukak Remix",
+    "size": 6275427
+  },
+  {
+    "file": "Gia_Nhu_Anh_La_Nguoi_Vo_Tam_-_NT_Remix.mp3",
+    "album": "Remix",
+    "title": "Giá Như Anh Là Người Vô Tâm - NT Remix",
+    "size": 11541099
+  },
+  {
+    "file": "Truc_Xinh_-_Ciray_Remix.mp3",
+    "album": "Remix",
+    "title": "Trúc Xinh - Ciray Remix",
+    "size": 11304125
+  },
+  {
+    "file": "Gio_Khong_Cuoi_Thi_Nao_Cuoi_Remix.mp3",
+    "album": "Remix",
+    "title": "Giờ Không Cưới Thì Nào Cưới (Remix)",
+    "size": 10695933
+  },
+  {
+    "file": "Xuan_Nay_Con_Khong_Ve_Remix.mp3",
+    "album": "Remix",
+    "title": "Xuân Này Con Không Về (Remix)",
+    "size": 11424568
+  },
+  {
+    "file": "Go_Cua_Trai_Tim_-_Remix.mp3",
+    "album": "Remix",
+    "title": "Gõ Cửa Trái Tim - Remix",
+    "size": 6742262
+  },
+  {
+    "file": "Phan_Tan_Remix.mp3",
+    "album": "Remix",
+    "title": "Phận Tàn (Remix)",
+    "size": 7098160
+  },
+  {
+    "file": "Forget_Me_Now_Remix.mp3",
+    "album": "Remix",
+    "title": "Forget Me Now (Remix)",
+    "size": 9418941
+  },
+  {
+    "file": "Cu_Noi_Yeu_Lan_Nay_Speed_Up_-_Cukak_Remix.mp3",
+    "album": "Remix",
+    "title": "Cứ Nói Yêu Lần Này (Speed Up) - Cukak Remix",
+    "size": 6832233
+  },
+  {
+    "file": "Mot_em_Say_Remix.mp3",
+    "album": "Remix",
+    "title": "Một Đêm Say Remix",
+    "size": 7718439
+  },
+  {
+    "file": "Moi_Trau_feat._Tuan_Cry.mp3",
+    "album": "Remix",
+    "title": "Mời Trầu (feat. Tuấn Cry)",
+    "size": 5261027
+  },
+  {
+    "file": "Tinh_Sau_Thien_Thu_Muon_Loi_-_ChillKe_Remix.mp3",
+    "album": "Remix",
+    "title": "Tình Sầu Thiên Thu Muôn Lối - ChillKe Remix",
+    "size": 4597562
+  },
+  {
+    "file": "Tuong_Quan_-_Remix_Deep_House.mp3",
+    "album": "Remix",
+    "title": "Tướng Quân - Remix Deep House",
+    "size": 5815474
+  },
+  {
+    "file": "Co_Duyen_Khong_No_Remix_House.mp3",
+    "album": "Remix",
+    "title": "Có Duyên Không Nợ Remix (House)",
+    "size": 4554343
+  },
+  {
+    "file": "Hoa_Bang_Lang_Remix_House.mp3",
+    "album": "Remix",
+    "title": "Hoa Bằng Lăng (Remix House)",
+    "size": 5637099
+  },
+  {
+    "file": "Thang_Hau_-_Remix_Deep_House.mp3",
+    "album": "Remix",
+    "title": "Thằng Hầu - Remix Deep House",
+    "size": 5327600
+  },
+  {
+    "file": "Mong_Hoa_Sim_-_EDM_Remix.mp3",
+    "album": "Remix",
+    "title": "Mộng Hoa Sim - EDM Remix",
+    "size": 6948876
+  },
+  {
+    "file": "Mua_Tuyet_Remix.mp3",
+    "album": "Remix",
+    "title": "Mưa Tuyết (Remix)",
+    "size": 7094490
+  },
+  {
+    "file": "o_Ta_Khong_o_Nang_Remix.mp3",
+    "album": "Remix",
+    "title": "Độ Ta Không Độ Nàng (Remix)",
+    "size": 6684207
+  },
+  {
+    "file": "Tuy_Am_-_CM1X_Remix.mp3",
+    "album": "Remix",
+    "title": "Túy Âm - CM1X Remix",
+    "size": 4379521
+  },
+  {
+    "file": "Vuong_Van_-_Remix.mp3",
+    "album": "Remix",
+    "title": "Vương Vấn - Remix",
+    "size": 5973171
+  },
+  {
+    "file": "Phai_Dau_Cuoc_Tinh.mp3",
+    "album": "Remix",
+    "title": "Phai Dấu Cuộc Tình",
+    "size": 6620417
+  },
+  {
+    "file": "Khong_Biet_Phai_Lam_Sao_-_uc_Louis_Remix.mp3",
+    "album": "Remix",
+    "title": "Không Biết Phải Làm Sao - Đức Louis Remix",
+    "size": 13770662
+  },
+  {
+    "file": "Thien_Ly_Oi_Remix.mp3",
+    "album": "Remix",
+    "title": "Thiên Lý Ơi (Remix)",
+    "size": 7000263
+  },
+  {
+    "file": "Em_Co_Biet_Remix.mp3",
+    "album": "Remix",
+    "title": "Em Có Biết (Remix)",
+    "size": 8151363
+  },
+  {
+    "file": "Yeu_That_Kho_Xoa_That_au_-_Yang_Remix.mp3",
+    "album": "Remix",
+    "title": "Yêu Thật Khó Xoá Thật Đau - Yang Remix",
+    "size": 9616696
+  },
+  {
+    "file": "Ai_Hong_Nhan_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Ải Hồng Nhan (Qinn Remix)",
+    "size": 12397424
+  },
+  {
+    "file": "Em_Nam_Anh_Buong_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Em Nắm Anh Buông (Qinn Remix)",
+    "size": 12468053
+  },
+  {
+    "file": "Da_Key_Remix.mp3",
+    "album": "Remix",
+    "title": "Da Key (Remix)",
+    "size": 7183876
+  },
+  {
+    "file": "Trach_Phan_Vo_Danh_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Trách Phận Vô Danh (Qinn Remix)",
+    "size": 12034292
+  },
+  {
+    "file": "Troi_Em_Lai_Remix.mp3",
+    "album": "Remix",
+    "title": "Trói Em Lại (Remix)",
+    "size": 10989918
+  },
+  {
+    "file": "Con_Buom_Xuan_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Con Bướm Xuân (Qinn Remix)",
+    "size": 11207190
+  },
+  {
+    "file": "Co_Duyen_Khong_No_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Có Duyên Không Nợ (Qinn Remix)",
+    "size": 11968045
+  },
+  {
+    "file": "Chua_Bao_Gio_Em_Quen_-_Kendy_T_Remix.mp3",
+    "album": "Remix",
+    "title": "Chưa Bao Giờ Em Quên - Kendy T Remix",
+    "size": 9252909
+  },
+  {
+    "file": "Loi_Noi_ieu_Tren_Moi_Em_Remix.mp3",
+    "album": "Remix",
+    "title": "Lời Nói Điêu Trên Môi Em (Remix)",
+    "size": 7326471
+  },
+  {
+    "file": "Bat_Tinh_Yeu_Len_-_Cukak_Remix.mp3",
+    "album": "Remix",
+    "title": "Bật Tình Yêu Lên - Cukak Remix",
+    "size": 7601795
+  },
+  {
+    "file": "Ly_Do_La_Gi_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Lý Do Là Gì (Qinn Remix)",
+    "size": 13589396
+  },
+  {
+    "file": "Tet_en_That_Roi_-_Remix.mp3",
+    "album": "Remix",
+    "title": "Tết Đến Thật Rồi - Remix",
+    "size": 8554778
+  },
+  {
+    "file": "Hoa_Su_Nha_Nang_Remix.mp3",
+    "album": "Remix",
+    "title": "Hoa Sứ Nhà Nàng (Remix)",
+    "size": 6963968
+  },
+  {
+    "file": "Co_Em_Cho_-_Masew_Remix.mp3",
+    "album": "Remix",
+    "title": "Có Em Chờ - Masew Remix",
+    "size": 9579900
+  },
+  {
+    "file": "Em_La_Con_Gai_Ruou_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Em Là Con Gái Rượu (Qinn Remix)",
+    "size": 11359258
+  },
+  {
+    "file": "Tinh_au_Qua_Chen_Remix.mp3",
+    "album": "Remix",
+    "title": "Tình Đầu Quá Chén (Remix)",
+    "size": 10560291
+  },
+  {
+    "file": "Loi_Tai_Mua_x_Ao_Anh_Remix_ft_Vicky_Nhung.mp3",
+    "album": "Remix",
+    "title": "Lỗi Tại Mưa x Ảo Ảnh Remix (ft Vicky Nhung)",
+    "size": 12577241
+  },
+  {
+    "file": "Chuyen_Cu_Bo_Qua_Remix.mp3",
+    "album": "Remix",
+    "title": "Chuyện Cũ Bỏ Qua (Remix)",
+    "size": 8443326
+  },
+  {
+    "file": "Keo_Bong_Gon_Remix.mp3",
+    "album": "Remix",
+    "title": "Kẹo Bông Gòn (Remix)",
+    "size": 8117967
+  },
+  {
+    "file": "Nguoi_thay_the_em_Qinn_remix.mp3",
+    "album": "Remix",
+    "title": "Người thay thế em (Qinn remix)",
+    "size": 13011506
+  },
+  {
+    "file": "Tinh_on_Phuong_Cukak_Remix.mp3",
+    "album": "Remix",
+    "title": "Tình Đơn Phương (Cukak Remix)",
+    "size": 8147494
+  },
+  {
+    "file": "Lieu_Thuoc_Cho_Trai_Tim_Remix.mp3",
+    "album": "Remix",
+    "title": "Liều Thuốc Cho Trái Tim (Remix)",
+    "size": 10810207
+  },
+  {
+    "file": "Su_That_a_Bo_Quen_-_HD_Remix.mp3",
+    "album": "Remix",
+    "title": "Sự Thật Đã Bỏ Quên - HD Remix",
+    "size": 10634668
+  },
+  {
+    "file": "Hy_Vong_Qua_Hoa_au_Long_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Hy Vọng Quá Hóa Đau Lòng (Qinn Remix)",
+    "size": 9845368
+  },
+  {
+    "file": "Cho_Em_Duoi_Con_Mua_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Chờ Em Dưới Cơn Mưa (Qinn Remix)",
+    "size": 9897890
+  },
+  {
+    "file": "Thay_Long_Noknha_Remix.mp3",
+    "album": "Remix",
+    "title": "Thay Lòng (Noknha Remix)",
+    "size": 9968078
+  },
+  {
+    "file": "Mashup_Ngoi_Nha_Hoa_Hong_-_Remix_-_Vicky_Nhung_Version.mp3",
+    "album": "Remix",
+    "title": "Mashup Ngôi Nhà Hoa Hồng - Remix - Vicky Nhung Version",
+    "size": 11664014
+  },
+  {
+    "file": "Gu_-_Cukak_Remix.mp3",
+    "album": "Remix",
+    "title": "Gu - Cukak Remix",
+    "size": 7222706
+  },
+  {
+    "file": "Duyen_Troi_Lay_2_Remix.mp3",
+    "album": "Remix",
+    "title": "Duyên Trời Lấy 2 (Remix)",
+    "size": 6995496
+  },
+  {
+    "file": "Cu_The_Mong_Cho_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Cứ Thế Mong Chờ (Qinn Remix)",
+    "size": 13217390
+  },
+  {
+    "file": "Lung_Lay_-_Cukak_Remix.mp3",
+    "album": "Remix",
+    "title": "Lung Lay - Cukak Remix",
+    "size": 6136407
+  },
+  {
+    "file": "Le_Luu_Ly_-_Cukak_Remix.mp3",
+    "album": "Remix",
+    "title": "Lệ Lưu Ly - Cukak Remix",
+    "size": 6584870
+  },
+  {
+    "file": "Em_Oi_Anh_Phai_Lam_Sao_-_BT_Remix.mp3",
+    "album": "Remix",
+    "title": "Em Ơi Anh Phải Làm Sao - BT Remix",
+    "size": 15735894
+  },
+  {
+    "file": "Tell_Ur_Mom_II_Cukak_Remix.mp3",
+    "album": "Remix",
+    "title": "Tell Ur Mom II (Cukak Remix)",
+    "size": 10168482
+  },
+  {
+    "file": "Khi_Yeu_Nao_Ai_au_Muon_-_Hoang_uc_Remix.mp3",
+    "album": "Remix",
+    "title": "Khi Yêu Nào Ai Đâu Muốn - Hoàng Đức Remix",
+    "size": 12766525
+  },
+  {
+    "file": "Cho_Ngay_Cuoi_Em_-_Cukak_Remix.mp3",
+    "album": "Remix",
+    "title": "Chờ Ngày Cưới Em - Cukak Remix",
+    "size": 11031623
+  },
+  {
+    "file": "Hoi_Vo_Ngoai_Thanh_Remix.mp3",
+    "album": "Remix",
+    "title": "Hỏi Vợ Ngoại Thành (Remix)",
+    "size": 8338786
+  },
+  {
+    "file": "Cold_Dont_-_Cukak_Remix.mp3",
+    "album": "Remix",
+    "title": "Cold Don't - Cukak Remix",
+    "size": 9118427
+  },
+  {
+    "file": "Em_Oi_Len_Pho_-_Tipo_Remix_138.mp3",
+    "album": "Remix",
+    "title": "Em Ơi Lên Phố - Tipo Remix 138",
+    "size": 14630712
+  },
+  {
+    "file": "Mot_Thuo_Yeu_Nguoi_Remix.mp3",
+    "album": "Remix",
+    "title": "Một Thuở Yêu Người Remix",
+    "size": 8306632
+  },
+  {
+    "file": "Gio_-_Cukak_Remix.mp3",
+    "album": "Remix",
+    "title": "Gió - Cukak Remix",
+    "size": 9299098
+  },
+  {
+    "file": "Anh_Thuong_Em_Em_Thuong_Ai_-_uc_Louis_Remix.mp3",
+    "album": "Remix",
+    "title": "Anh Thương Em Em Thương Ai - Đức Louis Remix",
+    "size": 12021843
+  },
+  {
+    "file": "Co_Le_Ben_Nhau_La_Sai_-_uc_Louis_Remix.mp3",
+    "album": "Remix",
+    "title": "Có Lẽ Bên Nhau Là Sai - Đức Louis Remix",
+    "size": 12432996
+  },
+  {
+    "file": "Mong_Mot_Ngay_Anh_Nho_en_Em_Remix.mp3",
+    "album": "Remix",
+    "title": "Mong Một Ngày Anh Nhớ Đến Em Remix",
+    "size": 5721160
+  },
+  {
+    "file": "Cheri_Cheri_Lady_-_Cukak_Remix.mp3",
+    "album": "Remix",
+    "title": "Cheri Cheri Lady - Cukak Remix",
+    "size": 5665745
+  },
+  {
+    "file": "Ngay_Tet_Que_Em_Remix.mp3",
+    "album": "Remix",
+    "title": "Ngày Tết Quê Em (Remix)",
+    "size": 8342980
+  },
+  {
+    "file": "Em_Ngoc_Qua_-_Zero_Remix.mp3",
+    "album": "Remix",
+    "title": "Em Ngốc Quá - Zero Remix",
+    "size": 11239952
+  },
+  {
+    "file": "Anh_Yeu_Voi_The_Remix.mp3",
+    "album": "Remix",
+    "title": "Anh Yêu Vội Thế (Remix)",
+    "size": 9856535
+  },
+  {
+    "file": "Ang_May_Vo_Tinh_-_Zero_Remix.mp3",
+    "album": "Remix",
+    "title": "Áng Mây Vô Tình - Zero Remix",
+    "size": 11855528
+  },
+  {
+    "file": "Khong_Bang_Remix.mp3",
+    "album": "Remix",
+    "title": "Không Bằng (Remix)",
+    "size": 7400700
+  },
+  {
+    "file": "Noi_Gio_Len_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Nổi Gió Lên (Qinn Remix)",
+    "size": 12471747
+  },
+  {
+    "file": "Nhuong_Hanh_Phuc_Cho_Anh_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Nhường Hạnh Phúc Cho Anh (Qinn Remix)",
+    "size": 13924140
+  },
+  {
+    "file": "Vuong_Van_-_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Vương Vấn - (Qinn Remix)",
+    "size": 10954472
+  },
+  {
+    "file": "oan_Xuan_Ca_Remix.mp3",
+    "album": "Remix",
+    "title": "Đoản Xuân Ca (Remix)",
+    "size": 7828434
+  },
+  {
+    "file": "i_Bao_Xa_-_Cukak_Remix.mp3",
+    "album": "Remix",
+    "title": "Đi Bao Xa - Cukak Remix",
+    "size": 10751266
+  },
+  {
+    "file": "Toi_Duyen_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Tới Duyên (Qinn Remix)",
+    "size": 9421336
+  },
+  {
+    "file": "Doi_Lua_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Dối Lừa (Qinn Remix)",
+    "size": 12070015
+  },
+  {
+    "file": "Tinh_ep_Khi_Khong_Co_Nguoi_Thu_Ba_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Tình Đẹp Khi Không Có Người Thứ Ba (Qinn Remix)",
+    "size": 11807739
+  },
+  {
+    "file": "Ngay_Xuan_Long_Phung_Sum_Vay_Remix.mp3",
+    "album": "Remix",
+    "title": "Ngày Xuân Long Phụng Sum Vầy (Remix)",
+    "size": 6195668
+  },
+  {
+    "file": "Ban_Tinh_Oi_-_TVS_Remix.mp3",
+    "album": "Remix",
+    "title": "Bạn Tình Ơi - TVS Remix",
+    "size": 12006725
+  },
+  {
+    "file": "Nu_Cuoi_Xuan_-_ai_Meo_Remix.mp3",
+    "album": "Remix",
+    "title": "Nụ Cười Xuân - Đại Mèo Remix",
+    "size": 9901954
+  },
+  {
+    "file": "Quen_Cach_Yeu_-_Remix_Version.mp3",
+    "album": "Remix",
+    "title": "Quên Cách Yêu - Remix Version",
+    "size": 10573696
+  },
+  {
+    "file": "Mot_Ngay_Chang_Nang_Cukak_Remix.mp3",
+    "album": "Remix",
+    "title": "Một Ngày Chẳng Nắng (Cukak Remix)",
+    "size": 6460866
+  },
+  {
+    "file": "Quen_Nguoi_a_Qua_Yeu_-_Qinn_Remix.mp3",
+    "album": "Remix",
+    "title": "Quên Người Đã Quá Yêu - Qinn Remix",
+    "size": 13023823
+  },
+  {
+    "file": "Qua_Khu_Anh_Khong_The_Quen_-_Doss_Remix.mp3",
+    "album": "Remix",
+    "title": "Quá Khứ Anh Không Thể Quên - Doss Remix",
+    "size": 10933272
+  },
+  {
+    "file": "Chanh_Long_Thuong_Co_2_-_Remix_EDM.mp3",
+    "album": "Remix",
+    "title": "Chạnh Lòng Thương Cô 2 - Remix EDM",
+    "size": 6118726
+  },
+  {
+    "file": "The_Gioi_Trong_Em_Remix.mp3",
+    "album": "Remix",
+    "title": "Thế Giới Trong Em (Remix)",
+    "size": 8022651
+  },
+  {
+    "file": "e_Vuong_-_Ciray_Vinahouse_Remix.mp3",
+    "album": "Remix",
+    "title": "Đế Vương - Ciray Vinahouse Remix",
+    "size": 4878537
+  },
+  {
+    "file": "Giang_Hai_Khong_o_Nang_Remix.mp3",
+    "album": "Remix",
+    "title": "Giang Hải Không Độ Nàng (Remix)",
+    "size": 4786438
+  },
+  {
+    "file": "_Anh_O_au.mp3",
+    "album": "Khoi My",
+    "title": "Anh Ở Đâu",
+    "size": 9142981
+  },
+  {
+    "file": "_Somebody_To_Love.mp3",
+    "album": "Khoi My",
+    "title": "Somebody To Love",
+    "size": 6495936
+  },
+  {
+    "file": "_Khoc_em.mp3",
+    "album": "Khoi My",
+    "title": "Khóc Đêm",
+    "size": 6151892
+  },
+  {
+    "file": "_La_Con_Gai_That_Tuyet.mp3",
+    "album": "Khoi My",
+    "title": "Là Con Gái Thật Tuyệt",
+    "size": 5560164
+  },
+  {
+    "file": "_Cu_Ngu_Say.mp3",
+    "album": "Khoi My",
+    "title": "Cứ Ngủ Say",
+    "size": 6761654
+  },
+  {
+    "file": "_Thuong_Hai.mp3",
+    "album": "Khoi My",
+    "title": "Thương Hại",
+    "size": 8674774
+  },
+  {
+    "file": "_Ngoi_Sao_Mang_Ten_Em.mp3",
+    "album": "Khoi My",
+    "title": "Ngôi Sao Mang Tên Em",
+    "size": 6723418
+  },
+  {
+    "file": "_Vet_Cat.mp3",
+    "album": "Khoi My",
+    "title": "Vết Cắt",
+    "size": 6042631
+  },
+  {
+    "file": "_Dont_Leave_Me.mp3",
+    "album": "Khoi My",
+    "title": "Don't Leave Me",
+    "size": 7014617
+  },
+  {
+    "file": "_Muoi_Chin_Roi.mp3",
+    "album": "Khoi My",
+    "title": "Mười Chín Rồi",
+    "size": 5487063
+  },
+  {
+    "file": "_Xa_Mat_Cach_Long.mp3",
+    "album": "Khoi My",
+    "title": "Xa Mặt Cách Lòng",
+    "size": 6195957
+  },
+  {
+    "file": "_Mong_Mot_Hanh_Phuc.mp3",
+    "album": "Khoi My",
+    "title": "Mong Một Hạnh Phúc",
+    "size": 6371417
+  },
+  {
+    "file": "_Sao_om_om.mp3",
+    "album": "Khoi My",
+    "title": "Sao Đom Đóm",
+    "size": 7177913
+  },
+  {
+    "file": "_De_Thuong.mp3",
+    "album": "Khoi My",
+    "title": "Dễ Thương",
+    "size": 4893590
+  },
+  {
+    "file": "_Phep_Mau_Tinh_Yeu.mp3",
+    "album": "Khoi My",
+    "title": "Phép Màu Tình Yêu",
+    "size": 8043133
+  },
+  {
+    "file": "_Nang_Canh_Uoc_Mo.mp3",
+    "album": "Khoi My",
+    "title": "Nâng Cánh Ước Mơ",
+    "size": 5887056
+  },
+  {
+    "file": "_Toi_Muon_Yeu_Mot_Nguoi.mp3",
+    "album": "Khoi My",
+    "title": "Tôi Muốn Yêu Một Người",
+    "size": 6349280
+  },
+  {
+    "file": "_Canh_Phi_Yen_Trong_Mua.mp3",
+    "album": "Khoi My",
+    "title": "Cành Phi Yến Trong Mưa",
+    "size": 6677458
+  },
+  {
+    "file": "_Xuan_Tinh_Yeu.mp3",
+    "album": "Khoi My",
+    "title": "Xuân Tình Yêu",
+    "size": 4874397
+  },
+  {
+    "file": "_Xe_ap_Teen.mp3",
+    "album": "Khoi My",
+    "title": "Xe Đạp Teen",
+    "size": 6477011
+  },
+  {
+    "file": "_Chuot_Yeu_Gao.mp3",
+    "album": "Khoi My",
+    "title": "Chuột Yêu Gạo",
+    "size": 5407714
+  },
+  {
+    "file": "_Vi_Sao_-_Nam_Con_Remix.mp3",
+    "album": "Khoi My",
+    "title": "Vì Sao - Nam Con Remix",
+    "size": 5773677
+  },
+  {
+    "file": "_Alone.mp3",
+    "album": "Khoi My",
+    "title": "Alone",
+    "size": 8096714
+  },
+  {
+    "file": "_Buoc_Chan.mp3",
+    "album": "Khoi My",
+    "title": "Bước Chân",
+    "size": 7148115
+  },
+  {
+    "file": "_Yeu_Tung_Phut_Tung_Giay.mp3",
+    "album": "Khoi My",
+    "title": "Yêu Từng Phút Từng Giây",
+    "size": 11680014
+  },
+  {
+    "file": "_Mua_Roi_Vao_Phong.mp3",
+    "album": "Khoi My",
+    "title": "Mưa Rơi Vào Phòng",
+    "size": 5518302
+  },
+  {
+    "file": "_Trong_Tui_Ao_Anh_feat._Bao_Thach.mp3",
+    "album": "Khoi My",
+    "title": "Trong Túi Áo Anh (feat. Bảo Thạch)",
+    "size": 6550266
+  },
+  {
+    "file": "_Rua_Con_Cua_Em.mp3",
+    "album": "Khoi My",
+    "title": "Rùa Con Của Em",
+    "size": 5956015
+  },
+  {
+    "file": "_em_Nho_Anh_Diu_Dang.mp3",
+    "album": "Khoi My",
+    "title": "Đêm Nhớ Anh Dịu Dàng",
+    "size": 5487091
+  },
+  {
+    "file": "_Chuyen_Co_Gai_Nho_-_Chinese_Version.mp3",
+    "album": "Khoi My",
+    "title": "Chuyện Cô Gái Nhỏ - Chinese Version",
+    "size": 6190368
+  },
+  {
+    "file": "_ung_Ban_Tam.mp3",
+    "album": "Khoi My",
+    "title": "Đừng Bận Tâm",
+    "size": 6698040
+  },
+  {
+    "file": "_Say_Love_You.mp3",
+    "album": "Khoi My",
+    "title": "Say Love You",
+    "size": 5272843
+  },
+  {
+    "file": "_Gui_Cho_Anh.mp3",
+    "album": "Khoi My",
+    "title": "Gửi Cho Anh",
+    "size": 6697277
+  },
+  {
+    "file": "_Tinh_Se_Khong_Am_Tham.mp3",
+    "album": "Khoi My",
+    "title": "Tình Sẽ Không Âm Thầm",
+    "size": 5760424
+  },
+  {
+    "file": "_Goc_Nho_Trong_Tim.mp3",
+    "album": "Khoi My",
+    "title": "Góc Nhỏ Trong Tim",
+    "size": 11687855
+  },
+  {
+    "file": "_Sao_Cha_Khong_From__Bo_Gia__Original_Motion_Picture_Soundtrack.mp3",
+    "album": "PMQuynh",
+    "title": "Sao Cha Không (From _Bố Già_ Original Motion Picture Soundtrack)",
+    "size": 6777689
+  },
+  {
+    "file": "_i_e_Tro_Ve_Mashup.mp3",
+    "album": "PMQuynh",
+    "title": "Đi Để Trở Về Mashup",
+    "size": 5716912
+  },
+  {
+    "file": "_Tri_Ky.mp3",
+    "album": "PMQuynh",
+    "title": "Tri Kỷ",
+    "size": 5798475
+  },
+  {
+    "file": "_Ha_Lan___Tu_o_Mashup.mp3",
+    "album": "PMQuynh",
+    "title": "Hà Lan _ Từ Đó (Mashup)",
+    "size": 7546519
+  },
+  {
+    "file": "_Goc_Khuat_Sau_Hanh_Phuc.mp3",
+    "album": "PMQuynh",
+    "title": "Góc Khuất Sau Hạnh Phúc",
+    "size": 5172995
+  },
+  {
+    "file": "_Ai_Cung_Co_Ngay_Xua___Chi_Toi_Mashup.mp3",
+    "album": "PMQuynh",
+    "title": "Ai Cũng Có Ngày Xưa _ Chị Tôi (Mashup)",
+    "size": 7725226
+  },
+  {
+    "file": "_Khi_Nguoi_Minh_Yeu_Khoc_feat._Phan_Manh_Quynh_Bui_Lan_Huong.mp3",
+    "album": "PMQuynh",
+    "title": "Khi Người Mình Yêu Khóc (feat. Phan Mạnh Quỳnh, Bùi Lan Hương)",
+    "size": 7717952
+  },
+  {
+    "file": "_Co_Chang_Trai_Viet_Len_Cay.mp3",
+    "album": "PMQuynh",
+    "title": "Có Chàng Trai Viết Lên Cây",
+    "size": 7412278
+  },
+  {
+    "file": "_Tim_Bien_Cua_Hy_Vong_2022_feat._Phan_Manh_Quynh.mp3",
+    "album": "PMQuynh",
+    "title": "Tìm (Biển Của Hy Vọng 2022) [feat. Phan Mạnh Quỳnh]",
+    "size": 6903183
+  },
+  {
+    "file": "_Loi_Tu_Trai_Tim_Anh.mp3",
+    "album": "PMQuynh",
+    "title": "Lời Từ Trái Tim Anh",
+    "size": 5889787
+  },
+  {
+    "file": "_ua_Anh_Ve.mp3",
+    "album": "PMQuynh",
+    "title": "Đưa Anh Về",
+    "size": 6298396
+  },
+  {
+    "file": "_Co_Chang_Trai_Viet_Len_Cay___Chuyen_Tinh_Thao_Nguyen_Mashup.mp3",
+    "album": "PMQuynh",
+    "title": "Có Chàng Trai Viết Lên Cây _ Chuyện Tình Thảo Nguyên (Mashup)",
+    "size": 9067564
+  },
+  {
+    "file": "_Anh_Ghet_Lam_Ban_Em.mp3",
+    "album": "PMQuynh",
+    "title": "Anh Ghét Làm Bạn Em",
+    "size": 6585063
+  },
+  {
+    "file": "_Tu_Ban_Tay_Nay.mp3",
+    "album": "PMQuynh",
+    "title": "Từ Bàn Tay Này",
+    "size": 5392460
+  },
+  {
+    "file": "_NHAT.mp3",
+    "album": "PMQuynh",
+    "title": "NHẠT",
+    "size": 8045557
+  },
+  {
+    "file": "_a_oan.mp3",
+    "album": "PMQuynh",
+    "title": "Đa Đoan",
+    "size": 5185557
+  },
+  {
+    "file": "_Con_Tim_Tan_Vo.mp3",
+    "album": "PMQuynh",
+    "title": "Con Tim Tan Vỡ",
+    "size": 4880605
+  },
+  {
+    "file": "_Nuoc_Ngoai.mp3",
+    "album": "PMQuynh",
+    "title": "Nước Ngoài",
+    "size": 5271730
+  },
+  {
+    "file": "_Hoi_Uc.mp3",
+    "album": "PMQuynh",
+    "title": "Hồi Ức",
+    "size": 8400712
+  },
+  {
+    "file": "_Co_Mot_Noi_Nhu_The.mp3",
+    "album": "PMQuynh",
+    "title": "Có Một Nơi Như Thế",
+    "size": 5730389
+  },
+  {
+    "file": "_Sau_Loi_Tu_Khuoc_Theme_Song_From__MAI_.mp3",
+    "album": "PMQuynh",
+    "title": "Sau Lời Từ Khước (Theme Song From _MAI_)",
+    "size": 6097967
+  },
+  {
+    "file": "_Huyen_Thoai.mp3",
+    "album": "PMQuynh",
+    "title": "Huyền Thoại",
+    "size": 7085751
+  },
+  {
+    "file": "_Loi_Hen_Theme_Song_From_Tham_Tu_Kien.mp3",
+    "album": "PMQuynh",
+    "title": "Lời Hẹn (Theme Song From “Thám Tử Kiên”)",
+    "size": 4868720
+  },
+  {
+    "file": "_Thang_4_La_Loi_Noi_Doi_Cua_Em_Bien_Cua_Hy_Vong_2022_feat._Phan_Manh_Quynh.mp3",
+    "album": "PMQuynh",
+    "title": "Tháng 4 Là Lời Nói Dối Của Em [feat. Phan Mạnh Quỳnh]",
+    "size": 6903235
+  },
+  {
+    "file": "_Khi_Phai_Quen_i.mp3",
+    "album": "PMQuynh",
+    "title": "Khi Phải Quên Đi",
+    "size": 10169427
+  },
+  {
+    "file": "_Nguoi_Yeu_Cu.mp3",
+    "album": "PMQuynh",
+    "title": "Người Yêu Cũ",
+    "size": 5836484
+  },
+  {
+    "file": "_Nguoi_Khac.mp3",
+    "album": "PMQuynh",
+    "title": "Người Khác",
+    "size": 5599515
+  }
 ]
