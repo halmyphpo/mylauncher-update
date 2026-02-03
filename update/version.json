@@ -1,16 +1,16 @@
 {
-  "versionCode": 3.20260124v2,
+  "versionCode": 3.20260204,
   "apkUrl": "https://github.com/halmyphpo/mylauncher-update/raw/main/update/app-release.apk",
   "patchUrl":"https://github.com/halmyphpo/mylauncher-update/raw/refs/heads/main/update/patch_new.patch",
   "apkUrl1":"https://www.dropbox.com/scl/fi/n9auegmwgfb59sgl99ao8/app-release.apk?rlkey=0e13pv9bxhh3gjizgcno2kndk&st=k4vmxt8z&dl=1",
-  "latest_version": "3.20260124v2",
-  "base_version": "3.20260124",
+  "latest_version": "3.20260204",
+  "base_version": "3.20260124v2",
   "patch_file": "patch_new.patch",
-  "patch_size": 3375426,
-  "patch_sha256": "f50b31516c37eebc11e845282d9b77609fd2976eea57d46de0cb864fa41bfb4e",
+  "patch_size": 5454403,
+  "patch_sha256": "f9e401476f1db52c290f1fb10e0e6c82b0bbc04366ca7ee0c11f50d021430cac",
   "new_apk": "app-release.apk",
-  "new_size": 24030436,
-  "new_sha256": "c7d74089d3512edf68d73a62bb94e458c3ffdf2504acad3301e73cd97ce4fb28",
-  "release_date": "2026-01-24",
-  "notes": "Update fix weather forecast 5 days 3 hours"
+  "new_size": 24026166,
+  "new_sha256": "0497792425a7f423ed6e06b533b1e2a3a5e176997bd033ce971ed2ffd998bb0e",
+  "release_date": "2026-02-04",
+  "notes": "Update music download manager"
 }
