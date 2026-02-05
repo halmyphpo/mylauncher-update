@@ -1,0 +1,7 @@
+22:14:19 [MusicDownloader] 🎧 Hoàn tất: Anh Đã Chờ Rất Lâu
+22:14:19 [MusicDownloader] 🎧 Hoàn tất: Bình Yên
+22:14:21 [MusicDownloader] 🎧 Hoàn tất: Lễ Đường
+22:14:27 [MusicDownloader] 🎧 Hoàn tất: Bắc Bling (Bắc Ninh) (Prod. by Masew)
+22:14:29 [MusicDownloader] 🎧 Hoàn tất: Tình Yêu Buông Tha Cho Chúng Ta
+22:14:29 [MusicDownloader] 🎧 Hoàn tất: TRÀN BỘ NHỚ (feat. Dương Domic)
+22:43:41 [LogHelper] Upload all log and delete
