@@ -3,166 +3,362 @@
         "file": "手をたたきましょう.mp3",
         "album": "Japan",
         "title": "手をたたきましょう",
-        "size": 1993803
+        "size": 1993803,
+        "delete": true
     },
     {
         "file": "いぬのおまわりさん.mp3",
         "album": "Japan",
         "title": "いぬのおまわりさん",
-        "size": 1470718
+        "size": 1470718,
+        "delete": true
     },
     {
         "file": "パプリカ.mp3",
         "album": "Japan",
         "title": "パプリカ",
-        "size": 5105523
+        "size": 5105523,
+        "delete": true
     },
     {
         "file": "ぼよよん行進曲.mp3",
         "album": "Japan",
         "title": "ぼよよん行進曲",
-        "size": 2759581
+        "size": 2759581,
+        "delete": true
     },
     {
         "file": "かえるのがっしょう.mp3",
         "album": "Japan",
         "title": "かえるのがっしょう",
-        "size": 1654566
+        "size": 1654566,
+        "delete": true
     },
     {
         "file": "しあわせならてをたたこう.mp3",
         "album": "Japan",
         "title": "しあわせならてをたたこう",
-        "size": 2111814
+        "size": 2111814,
+        "delete": true
     },
     {
         "file": "すうじのうた.mp3",
         "album": "Japan",
         "title": "すうじのうた",
-        "size": 1578836
+        "size": 1578836,
+        "delete": true
     },
     {
         "file": "オトッペおんど.mp3",
         "album": "Japan",
         "title": "オトッペおんど",
-        "size": 3562014
+        "size": 3562014,
+        "delete": true
     },
     {
         "file": "おはなしゆびさん.mp3",
         "album": "Japan",
         "title": "おはなしゆびさん",
-        "size": 1686920
+        "size": 1686920,
+        "delete": true
     },
     {
         "file": "やきいも グーチーパー.mp3",
         "album": "Japan",
         "title": "やきいも グーチーパー",
-        "size": 1258705
+        "size": 1258705,
+        "delete": true
     },
     {
         "file": "にじ.mp3",
         "album": "Japan",
         "title": "にじ",
-        "size": 3399433
+        "size": 3399433,
+        "delete": true
     },
     {
         "file": "いとまきのうた.mp3",
         "album": "Japan",
         "title": "いとまきのうた",
-        "size": 2123969
+        "size": 2123969,
+        "delete": true
     },
     {
         "file": "おはながわらった.mp3",
         "album": "Japan",
         "title": "おはながわらった",
-        "size": 2209058
+        "size": 2209058,
+        "delete": true
     },
     {
         "file": "どんぐりころころ.mp3",
         "album": "Japan",
         "title": "どんぐりころころ",
-        "size": 1063294
+        "size": 1063294,
+        "delete": true
     },
     {
         "file": "とんとんとんとんひげじいさん.mp3",
         "album": "Japan",
         "title": "とんとんとんとんひげじいさん",
-        "size": 1895774
+        "size": 1895774,
+        "delete": true
     },
     {
         "file": "エビカニクス.mp3",
         "album": "Japan",
         "title": "エビカニクス",
-        "size": 3947681
+        "size": 3947681,
+        "delete": true
     },
     {
         "file": "おにのパンツ.mp3",
         "album": "Japan",
         "title": "おにのパンツ",
-        "size": 2295659
+        "size": 2295659,
+        "delete": true
     },
     {
         "file": "アンパンマンたいそう.mp3",
         "album": "Japan",
         "title": "アンパンマンたいそう",
-        "size": 2065827
+        "size": 2065827,
+        "delete": true
     },
     {
         "file": "はじまるよ.mp3",
         "album": "Japan",
         "title": "はじまるよ",
-        "size": 5020296
+        "size": 5020296,
+        "delete": true
     },
     {
         "file": "グーチョキパーで なに つくろう.mp3",
         "album": "Japan",
         "title": "グーチョキパーで なに つくろう",
-        "size": 1378646
+        "size": 1378646,
+        "delete": true
     },
     {
         "file": "あたま かた ひざ ポン.mp3",
         "album": "Japan",
         "title": "あたま かた ひざ ポン",
-        "size": 1249200
+        "size": 1249200,
+        "delete": true
     },
     {
         "file": "むすんでひらいて.mp3",
         "album": "Japan",
         "title": "むすんでひらいて",
-        "size": 1643629
+        "size": 1643629,
+        "delete": true
     },
     {
         "file": "くじらのとけい.mp3",
         "album": "Japan",
         "title": "くじらのとけい",
-        "size": 1530220
+        "size": 1530220,
+        "delete": true
     },
     {
         "file": "こぶたぬきつねこ.mp3",
         "album": "Japan",
         "title": "こぶたぬきつねこ",
-        "size": 1060065
+        "size": 1060065,
+        "delete": true
     },
     {
         "file": "パンダうさぎコアラ.mp3",
         "album": "Japan",
         "title": "パンダうさぎコアラ",
-        "size": 2430934
+        "size": 2430934,
+        "delete": true
     },
     {
         "file": "サンサンたいそう.mp3",
         "album": "Japan",
         "title": "サンサンたいそう",
-        "size": 2113471
+        "size": 2113471,
+        "delete": true
     },
     {
         "file": "おもちゃのチャチャチャ.mp3",
         "album": "Japan",
         "title": "おもちゃのチャチャチャ",
-        "size": 2299984
+        "size": 2299984,
+        "delete": true
     },
     {
         "file": "アンパンマンのマーチ.mp3",
+        "album": "Japan",
+        "title": "アンパンマンのマーチ",
+        "size": 1234744,
+        "delete": true
+    },
+    {
+        "file": "song__119405.mp3",
+        "album": "Japan",
+        "title": "手をたたきましょう",
+        "size": 1993803
+    },
+    {
+        "file": "song__95ffa9.mp3",
+        "album": "Japan",
+        "title": "いぬのおまわりさん",
+        "size": 1470718
+    },
+    {
+        "file": "song__8f8642.mp3",
+        "album": "Japan",
+        "title": "パプリカ",
+        "size": 5105523
+    },
+    {
+        "file": "song__6d5e4a.mp3",
+        "album": "Japan",
+        "title": "ぼよよん行進曲",
+        "size": 2759581
+    },
+    {
+        "file": "song__b7b2e9.mp3",
+        "album": "Japan",
+        "title": "かえるのがっしょう",
+        "size": 1654566
+    },
+    {
+        "file": "song__91238d.mp3",
+        "album": "Japan",
+        "title": "しあわせならてをたたこう",
+        "size": 2111814
+    },
+    {
+        "file": "song__dff58a.mp3",
+        "album": "Japan",
+        "title": "すうじのうた",
+        "size": 1578836
+    },
+    {
+        "file": "song__9ca82e.mp3",
+        "album": "Japan",
+        "title": "オトッペおんど",
+        "size": 3562014
+    },
+    {
+        "file": "song__bcc928.mp3",
+        "album": "Japan",
+        "title": "おはなしゆびさん",
+        "size": 1686920
+    },
+    {
+        "file": "song__7a881a.mp3",
+        "album": "Japan",
+        "title": "やきいも グーチーパー",
+        "size": 1258705
+    },
+    {
+        "file": "song__049618.mp3",
+        "album": "Japan",
+        "title": "にじ",
+        "size": 3399433
+    },
+    {
+        "file": "song__6f87e3.mp3",
+        "album": "Japan",
+        "title": "いとまきのうた",
+        "size": 2123969
+    },
+    {
+        "file": "song__760dbb.mp3",
+        "album": "Japan",
+        "title": "おはながわらった",
+        "size": 2209058
+    },
+    {
+        "file": "song__e444d4.mp3",
+        "album": "Japan",
+        "title": "どんぐりころころ",
+        "size": 1063294
+    },
+    {
+        "file": "song__849d8c.mp3",
+        "album": "Japan",
+        "title": "とんとんとんとんひげじいさん",
+        "size": 1895774
+    },
+    {
+        "file": "song__751e74.mp3",
+        "album": "Japan",
+        "title": "エビカニクス",
+        "size": 3947681
+    },
+    {
+        "file": "song__ba1d39.mp3",
+        "album": "Japan",
+        "title": "おにのパンツ",
+        "size": 2295659
+    },
+    {
+        "file": "song__0ee56c.mp3",
+        "album": "Japan",
+        "title": "アンパンマンたいそう",
+        "size": 2065827
+    },
+    {
+        "file": "song__b7548f.mp3",
+        "album": "Japan",
+        "title": "はじまるよ",
+        "size": 5020296
+    },
+    {
+        "file": "song__cad53a.mp3",
+        "album": "Japan",
+        "title": "グーチョキパーで なに つくろう",
+        "size": 1378646
+    },
+    {
+        "file": "song__07b98a.mp3",
+        "album": "Japan",
+        "title": "あたま かた ひざ ポン",
+        "size": 1249200
+    },
+    {
+        "file": "song__5c0f6b.mp3",
+        "album": "Japan",
+        "title": "むすんでひらいて",
+        "size": 1643629
+    },
+    {
+        "file": "song__5f312c.mp3",
+        "album": "Japan",
+        "title": "くじらのとけい",
+        "size": 1530220
+    },
+    {
+        "file": "song__73157e.mp3",
+        "album": "Japan",
+        "title": "こぶたぬきつねこ",
+        "size": 1060065
+    },
+    {
+        "file": "song__3d620a.mp3",
+        "album": "Japan",
+        "title": "パンダうさぎコアラ",
+        "size": 2430934
+    },
+    {
+        "file": "song__3496b8.mp3",
+        "album": "Japan",
+        "title": "サンサンたいそう",
+        "size": 2113471
+    },
+    {
+        "file": "song__003ec5.mp3",
+        "album": "Japan",
+        "title": "おもちゃのチャチャチャ",
+        "size": 2299984
+    },
+    {
+        "file": "song__8fec8d.mp3",
         "album": "Japan",
         "title": "アンパンマンのマーチ",
         "size": 1234744
