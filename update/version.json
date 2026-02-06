@@ -1,16 +1,16 @@
 {
-  "versionCode": 3.20260205,
+  "versionCode": 3.20260206,
   "apkUrl": "https://github.com/halmyphpo/mylauncher-update/raw/main/update/app-release.apk",
   "patchUrl":"https://github.com/halmyphpo/mylauncher-update/raw/refs/heads/main/update/patch_new.patch",
   "apkUrl1":"https://www.dropbox.com/scl/fi/n9auegmwgfb59sgl99ao8/app-release.apk?rlkey=0e13pv9bxhh3gjizgcno2kndk&st=k4vmxt8z&dl=1",
-  "latest_version": "3.20260205",
-  "base_version": "3.20260204",
+  "latest_version": "3.20260206",
+  "base_version": "3.20260205",
   "patch_file": "patch_new.patch",
-  "patch_size": 5370324,
-  "patch_sha256": "e3047f300657923b40321f406f25d8cc2206eac11eb35965ea4fac522bb0a468",
+  "patch_size": 3159073,
+  "patch_sha256": "bdb43e81be57bb93ecddb2df1253504226fd3079aeaef4768faded2f7bd38662",
   "new_apk": "app-release.apk",
-  "new_size": 24028129,
-  "new_sha256": "6ed17401f5ea9f34168fa68ded48e9ed41537941c0d64bde1a4cb7b4a7ea35e7",
-  "release_date": "2026-02-05",
-  "notes": "Download 2 song one time, delete song OK"
+  "new_size": 24028338,
+  "new_sha256": "1356f5ebda22d14c258cf62c41df468cfc2c6ab0df81507d5cbdc0dc9b66aa39",
+  "release_date": "2026-02-06",
+  "notes": "Update new code song download"
 }
