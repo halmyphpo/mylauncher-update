@@ -6,11 +6,11 @@
   "latest_version": "3.20260207",
   "base_version": "3.20260206",
   "patch_file": "patch_new.patch",
-  "patch_size": 3165927,
-  "patch_sha256": "2fdafa0ecf4c1c8e7eefd11458dd5dd2a10bbcf9d1b5812af14e5c3548bc3d51",
+  "patch_size": 3252857,
+  "patch_sha256": "0dfe69e42ec45f5d51cb9b87b19e7973bec39a1da4fe26348ba849ca863745e6",
   "new_apk": "app-release.apk",
-  "new_size": 24028299,
-  "new_sha256": "66bdc289df373d802ecd3fe1162677def045dbce19203f61c099976e04fb15d9",
+  "new_size": 24028686,
+  "new_sha256": "2917f84247070b652bba35c6b24b34018832934637d9d150879aa887c368802a",
   "release_date": "2026-02-07",
   "notes": "Update delete song and bypass downloaded"
 }
