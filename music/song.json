@@ -1,199 +1,219 @@
 [
-  {
-        "file": "手をたたきましょう.mp3",
+    {
+        "file": "biri_biri__1d15a3.mp3",
         "album": "Japan",
-        "title": "手をたたきましょう",
-        "size": 1993803,
-        "delete": true
+        "title": "Biri-Biri",
+        "size": 5991091
     },
     {
-        "file": "いぬのおまわりさん.mp3",
+        "file": "song__c7f750.mp3",
         "album": "Japan",
-        "title": "いぬのおまわりさん",
-        "size": 1470718,
-        "delete": true
+        "title": "祝福",
+        "size": 6697991
     },
     {
-        "file": "パプリカ.mp3",
+        "file": "song__fc6375.mp3",
         "album": "Japan",
-        "title": "パプリカ",
-        "size": 5105523,
-        "delete": true
+        "title": "群青",
+        "size": 7430087
     },
     {
-        "file": "ぼよよん行進曲.mp3",
+        "file": "song__79d0b1.mp3",
         "album": "Japan",
-        "title": "ぼよよん行進曲",
-        "size": 2759581,
-        "delete": true
+        "title": "あの夢をなぞって",
+        "size": 6841449
     },
     {
-        "file": "かえるのがっしょう.mp3",
+        "file": "song__8d5838.mp3",
         "album": "Japan",
-        "title": "かえるのがっしょう",
-        "size": 1654566,
-        "delete": true
+        "title": "勇者",
+        "size": 5976170
     },
     {
-        "file": "しあわせならてをたたこう.mp3",
+        "file": "song__bd5c07.mp3",
         "album": "Japan",
-        "title": "しあわせならてをたたこう",
-        "size": 2111814,
-        "delete": true
+        "title": "アドレナ",
+        "size": 5621845
     },
     {
-        "file": "すうじのうた.mp3",
+        "file": "new_me__009918.mp3",
         "album": "Japan",
-        "title": "すうじのうた",
-        "size": 1578836,
-        "delete": true
+        "title": "New me",
+        "size": 6284697
     },
     {
-        "file": "オトッペおんど.mp3",
+        "file": "song__b74d61.mp3",
         "album": "Japan",
-        "title": "オトッペおんど",
-        "size": 3562014,
-        "delete": true
+        "title": "大正浪漫",
+        "size": 4953295
     },
     {
-        "file": "おはなしゆびさん.mp3",
+        "file": "song__2705e6.mp3",
         "album": "Japan",
-        "title": "おはなしゆびさん",
-        "size": 1686920,
-        "delete": true
+        "title": "もしも命が描けたら",
+        "size": 6065291
     },
     {
-        "file": "やきいも グーチーパー.mp3",
+        "file": "song__3845e0.mp3",
         "album": "Japan",
-        "title": "やきいも グーチーパー",
-        "size": 1258705,
-        "delete": true
+        "title": "アドベンチャー",
+        "size": 6110841
     },
     {
-        "file": "にじ.mp3",
+        "file": "song__2d99f8.mp3",
         "album": "Japan",
-        "title": "にじ",
-        "size": 3399433,
-        "delete": true
+        "title": "怪物",
+        "size": 6099100
     },
     {
-        "file": "いとまきのうた.mp3",
+        "file": "song__623258.mp3",
         "album": "Japan",
-        "title": "いとまきのうた",
-        "size": 2123969,
-        "delete": true
+        "title": "セブンティーン",
+        "size": 3482482
     },
     {
-        "file": "おはながわらった.mp3",
+        "file": "song__ab203e.mp3",
         "album": "Japan",
-        "title": "おはながわらった",
-        "size": 2209058,
-        "delete": true
+        "title": "ラブレター",
+        "size": 6095455
     },
     {
-        "file": "どんぐりころころ.mp3",
+        "file": "song__802072.mp3",
         "album": "Japan",
-        "title": "どんぐりころころ",
-        "size": 1063294,
-        "delete": true
+        "title": "三原色",
+        "size": 6590723
     },
     {
-        "file": "とんとんとんとんひげじいさん.mp3",
+        "file": "heart_beat__a1b0de.mp3",
         "album": "Japan",
-        "title": "とんとんとんとんひげじいさん",
-        "size": 1895774,
-        "delete": true
+        "title": "HEART BEAT",
+        "size": 11291134
     },
     {
-        "file": "エビカニクス.mp3",
+        "file": "song__42f738.mp3",
         "album": "Japan",
-        "title": "エビカニクス",
-        "size": 3947681,
-        "delete": true
+        "title": "劇上",
+        "size": 6756381
     },
     {
-        "file": "おにのパンツ.mp3",
+        "file": "song__1e9d96.mp3",
         "album": "Japan",
-        "title": "おにのパンツ",
-        "size": 2295659,
-        "delete": true
+        "title": "ミスター",
+        "size": 5559375
     },
     {
-        "file": "アンパンマンたいそう.mp3",
+        "file": "song__b3171e.mp3",
         "album": "Japan",
-        "title": "アンパンマンたいそう",
-        "size": 2065827,
-        "delete": true
+        "title": "舞台に立って",
+        "size": 6195988
     },
     {
-        "file": "はじまるよ.mp3",
+        "file": "song__3c93e1.mp3",
         "album": "Japan",
-        "title": "はじまるよ",
-        "size": 5020296,
-        "delete": true
+        "title": "もう少しだけ",
+        "size": 3454747
     },
     {
-        "file": "グーチョキパーで なに つくろう.mp3",
+        "file": "song__1c9c53.mp3",
         "album": "Japan",
-        "title": "グーチョキパーで なに つくろう",
-        "size": 1378646,
-        "delete": true
+        "title": "海のまにまに",
+        "size": 7093249
     },
     {
-        "file": "あたま かた ひざ ポン.mp3",
+        "file": "ballade_ver__f249b5.mp3",
         "album": "Japan",
-        "title": "あたま かた ひざ ポン",
-        "size": 1249200,
-        "delete": true
+        "title": "あの夢をなぞって - Ballade Ver.",
+        "size": 3915822
     },
     {
-        "file": "むすんでひらいて.mp3",
+        "file": "song__b49c0d.mp3",
         "album": "Japan",
-        "title": "むすんでひらいて",
-        "size": 1643629,
-        "delete": true
+        "title": "優しい彗星",
+        "size": 6258072
     },
     {
-        "file": "くじらのとけい.mp3",
+        "file": "undead__9c2433.mp3",
         "album": "Japan",
-        "title": "くじらのとけい",
-        "size": 1530220,
-        "delete": true
+        "title": "UNDEAD",
+        "size": 5674383
     },
     {
-        "file": "こぶたぬきつねこ.mp3",
+        "file": "the_noise_contains_a_samples_of__6e8b90.mp3",
         "album": "Japan",
-        "title": "こぶたぬきつねこ",
-        "size": 1060065,
-        "delete": true
+        "title": "the NOISE (Contains a Samples of 夜に駆ける)",
+        "size": 3754339
     },
     {
-        "file": "パンダうさぎコアラ.mp3",
+        "file": "feat__1b331b.mp3",
         "album": "Japan",
-        "title": "パンダうさぎコアラ",
-        "size": 2430934,
-        "delete": true
+        "title": "ツバメ (feat. ミドリーズ)",
+        "size": 3666644
     },
     {
-        "file": "サンサンたいそう.mp3",
+        "file": "song__13fce5.mp3",
         "album": "Japan",
-        "title": "サンサンたいそう",
-        "size": 2113471,
-        "delete": true
+        "title": "モノトーン",
+        "size": 6334535
     },
     {
-        "file": "おもちゃのチャチャチャ.mp3",
+        "file": "players__e334ea.mp3",
         "album": "Japan",
-        "title": "おもちゃのチャチャチャ",
-        "size": 2299984,
-        "delete": true
+        "title": "PLAYERS",
+        "size": 5925922
     },
     {
-        "file": "アンパンマンのマーチ.mp3",
+        "file": "song__45e0b2.mp3",
         "album": "Japan",
-        "title": "アンパンマンのマーチ",
-        "size": 1234744,
-        "delete": true
+        "title": "ハルカ",
+        "size": 7210479
+    },
+    {
+        "file": "song__8cad91.mp3",
+        "album": "Japan",
+        "title": "ハルジオン",
+        "size": 5838766
+    },
+    {
+        "file": "song__5e1db0.mp3",
+        "album": "Japan",
+        "title": "会心の一撃",
+        "size": 3917601
+    },
+    {
+        "file": "song__91c5cb.mp3",
+        "album": "Japan",
+        "title": "夜に駆ける",
+        "size": 7924268
+    },
+    {
+        "file": "song__21b4ab.mp3",
+        "album": "Japan",
+        "title": "好きだ",
+        "size": 6568858
+    },
+    {
+        "file": "song__d7aab2.mp3",
+        "album": "Japan",
+        "title": "アンコール",
+        "size": 4340177
+    },
+    {
+        "file": "watch_me__8c92ed.mp3",
+        "album": "Japan",
+        "title": "Watch me!",
+        "size": 5682398
+    },
+    {
+        "file": "song__c1afba.mp3",
+        "album": "Japan",
+        "title": "たぶん",
+        "size": 7856812
+    },
+    {
+        "file": "song__2116cc.mp3",
+        "album": "Japan",
+        "title": "アイドル",
+        "size": 6526972
     },
     {
         "file": "song__10f963.mp3",
