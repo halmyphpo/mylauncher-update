@@ -1,16 +1,16 @@
 {
-  "versionCode": 3.20260208,
+  "versionCode": 3.20260210,
   "apkUrl": "https://github.com/halmyphpo/mylauncher-update/raw/main/update/app-release.apk",
   "patchUrl":"https://github.com/halmyphpo/mylauncher-update/raw/refs/heads/main/update/patch_new.patch",
   "apkUrl1":"https://www.dropbox.com/scl/fi/n9auegmwgfb59sgl99ao8/app-release.apk?rlkey=0e13pv9bxhh3gjizgcno2kndk&st=k4vmxt8z&dl=1",
-  "latest_version": "3.20260208",
-  "base_version": "3.20260207",
+  "latest_version": "3.20260210",
+  "base_version": "3.20260208",
   "patch_file": "patch_new.patch",
-  "patch_size": 3225030,
-  "patch_sha256": "cda4cc56922a4d8757e32dd64db20ad94ce83dc2e82cfaf5c2eae18b1eef4d77",
+  "patch_size": 3460153,
+  "patch_sha256": "69a4b3739e4b9c2aaf994b705cff342411f6ad1997ec03b58be24b389522d25b",
   "new_apk": "app-release.apk",
-  "new_size": 24028564,
-  "new_sha256": "856421208354ad3f668d626ead4b932e941d455f504ded9f555e7af3ae8523f7",
-  "release_date": "2026-02-08",
-  "notes": "Update delete song"
+  "new_size": 24031601,
+  "new_sha256": "cd9b7271afd2044b66263932eca26b4859c0c5d4934643741e33f3c5b5a6f53d",
+  "release_date": "2026-02-10",
+  "notes": "Update download mini bar"
 }
