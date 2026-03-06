@@ -1,16 +1,16 @@
 {
-  "versionCode": 3.20260210,
+  "versionCode": 3.20260306,
   "apkUrl": "https://github.com/halmyphpo/mylauncher-update/raw/main/update/app-release.apk",
   "patchUrl":"https://github.com/halmyphpo/mylauncher-update/raw/refs/heads/main/update/patch_new.patch",
   "apkUrl1":"https://www.dropbox.com/scl/fi/n9auegmwgfb59sgl99ao8/app-release.apk?rlkey=0e13pv9bxhh3gjizgcno2kndk&st=k4vmxt8z&dl=1",
-  "latest_version": "3.20260210",
-  "base_version": "3.20260208",
+  "latest_version": "3.20260306",
+  "base_version": "3.20260210",
   "patch_file": "patch_new.patch",
-  "patch_size": 3460153,
-  "patch_sha256": "69a4b3739e4b9c2aaf994b705cff342411f6ad1997ec03b58be24b389522d25b",
+  "patch_size": 3276376,
+  "patch_sha256": "25ea674e478675701e5647dc012be853faa9d6c56d2628613fcc9338087100cf",
   "new_apk": "app-release.apk",
-  "new_size": 24031601,
-  "new_sha256": "cd9b7271afd2044b66263932eca26b4859c0c5d4934643741e33f3c5b5a6f53d",
-  "release_date": "2026-02-10",
-  "notes": "Update download mini bar"
+  "new_size": 24030339,
+  "new_sha256": "12923b620e7b94b6ad0458740472b520b0c269f878b865001ae53525be1b7b40",
+  "release_date": "2026-03-06",
+  "notes": "Update weather code + get address online"
 }
