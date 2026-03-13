@@ -1,0 +1,12 @@
+08:02:37 [LogHelper] Upload all log and delete
+07:34:59 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41056442260742,132.44076538085938
+08:04:21 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.410404205322266,132.4399871826172
+08:47:47 [LogHelper] Upload all log and delete
+08:47:49 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.410404205322266,132.4399871826172
+08:52:49 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.40126037597656,132.4325714111328
+08:54:00 [MusicDownloader] 🎧 Hoàn tất: 30 Bài Hát Đánh Rớt Tình Yêu
+08:54:08 [MusicDownloader] 🎧 Hoàn tất: Có công mài _Sắc_ - Remix
+08:54:15 [MusicDownloader] 🎧 Hoàn tất: Cỏ Dại Và Hoa Dành Dành - Lo-Fi Version 2
+08:54:19 [MusicDownloader] 🎧 Hoàn tất: Lão Ông Cưới Vợ (Original Soundtrack from Mùi Phở Movie)
+08:54:26 [MusicDownloader] 🎧 Hoàn tất: Lỗi Lầm Em Mang Đi - ACV Remix
+08:57:49 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.397918701171875,132.4290008544922
