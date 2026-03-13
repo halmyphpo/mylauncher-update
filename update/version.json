@@ -1,16 +1,16 @@
 {
-  "versionCode": 3.20260306,
+  "versionCode": 3.20260313,
   "apkUrl": "https://github.com/halmyphpo/mylauncher-update/raw/main/update/app-release.apk",
   "patchUrl":"https://github.com/halmyphpo/mylauncher-update/raw/refs/heads/main/update/patch_new.patch",
   "apkUrl1":"https://www.dropbox.com/scl/fi/n9auegmwgfb59sgl99ao8/app-release.apk?rlkey=0e13pv9bxhh3gjizgcno2kndk&st=k4vmxt8z&dl=1",
-  "latest_version": "3.20260306",
-  "base_version": "3.20260210",
+  "latest_version": "3.20260313",
+  "base_version": "3.20260306",
   "patch_file": "patch_new.patch",
-  "patch_size": 3285565,
-  "patch_sha256": "7cb1730308eb607a0eff8e06860835ff134e0f75f0c7f2481e43c8d8edb16035",
+  "patch_size": 3261355,
+  "patch_sha256": "5cb9e2faa607e572d58ec864c1fcca91d250cd057fd685573c4569f09ceacaec",
   "new_apk": "app-release.apk",
-  "new_size": 24030201,
-  "new_sha256": "8c25732e06271a5cc46ce10fdc7268bed672306f3500b56cf7f5e58a6addc493",
-  "release_date": "2026-03-06",
-  "notes": "Update weather code + get address online"
+  "new_size": 24030652,
+  "new_sha256": "034614ca725949875f5e312ea6fd7b75b0d8399795345e489e0c29445938a47a",
+  "release_date": "2026-03-13",
+  "notes": "Update tunnel code"
 }
