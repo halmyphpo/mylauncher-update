@@ -1,5 +1,407 @@
 [
     {
+        "file": "open_your_heart__005eb0.mp3",
+        "album": "Westlife",
+        "title": "Open Your Heart",
+        "size": 6434835
+    },
+    {
+        "file": "queen_of_my_heart_radio_edit__367dd9.mp3",
+        "album": "Westlife",
+        "title": "Queen of My Heart - Radio Edit",
+        "size": 8504115
+    },
+    {
+        "file": "somebody_needs_you__93d665.mp3",
+        "album": "Westlife",
+        "title": "Somebody Needs You",
+        "size": 5304685
+    },
+    {
+        "file": "swear_it_again_radio_edit__fcee62.mp3",
+        "album": "Westlife",
+        "title": "Swear It Again - Radio Edit",
+        "size": 3908722
+    },
+    {
+        "file": "my_love__56bdb7.mp3",
+        "album": "Westlife",
+        "title": "My Love",
+        "size": 4112542
+    },
+    {
+        "file": "i_have_a_dream_remix__04b939.mp3",
+        "album": "Westlife",
+        "title": "I Have a Dream - Remix",
+        "size": 4094765
+    },
+    {
+        "file": "i_need_you__118739.mp3",
+        "album": "Westlife",
+        "title": "I Need You",
+        "size": 3884109
+    },
+    {
+        "file": "no_no__48d33a.mp3",
+        "album": "Westlife",
+        "title": "No No",
+        "size": 3411028
+    },
+    {
+        "file": "seasons_in_the_sun__8f1b73.mp3",
+        "album": "Westlife",
+        "title": "Seasons in the Sun",
+        "size": 7219725
+    },
+    {
+        "file": "i_don_t_wanna_fight__9c56f7.mp3",
+        "album": "Westlife",
+        "title": "I Don't Wanna Fight",
+        "size": 4881948
+    },
+    {
+        "file": "can_t_lose_what_you_never_had__5d25ab.mp3",
+        "album": "Westlife",
+        "title": "Can't Lose What You Never Had",
+        "size": 4674430
+    },
+    {
+        "file": "if_i_let_you_go_radio_edit__f0208a.mp3",
+        "album": "Westlife",
+        "title": "If I Let You Go - Radio Edit",
+        "size": 3448815
+    },
+    {
+        "file": "what_i_want_is_what_i_got__08d8d9.mp3",
+        "album": "Westlife",
+        "title": "What I Want Is What I Got",
+        "size": 6490712
+    },
+    {
+        "file": "uptown_girl_radio_edit__79a05a.mp3",
+        "album": "Westlife",
+        "title": "Uptown Girl - Radio Edit",
+        "size": 2982390
+    },
+    {
+        "file": "moments__4d69e8.mp3",
+        "album": "Westlife",
+        "title": "Moments",
+        "size": 4074934
+    },
+    {
+        "file": "soledad__d3f78b.mp3",
+        "album": "Westlife",
+        "title": "Soledad",
+        "size": 6971876
+    },
+    {
+        "file": "close__d3d2e6.mp3",
+        "album": "Westlife",
+        "title": "Close",
+        "size": 7054984
+    },
+    {
+        "file": "more_than_words__6e63e6.mp3",
+        "album": "Westlife",
+        "title": "More than Words",
+        "size": 6739579
+    },
+    {
+        "file": "you_make_me_feel__0200aa.mp3",
+        "album": "Westlife",
+        "title": "You Make Me Feel",
+        "size": 6484491
+    },
+    {
+        "file": "dreams_come_true__16bed5.mp3",
+        "album": "Westlife",
+        "title": "Dreams Come True",
+        "size": 5533781
+    },
+    {
+        "file": "angels_wings__32e570.mp3",
+        "album": "Westlife",
+        "title": "Angels Wings",
+        "size": 7051570
+    },
+    {
+        "file": "loneliness_knows_me_by_name__7bdd68.mp3",
+        "album": "Westlife",
+        "title": "Loneliness Knows Me By Name",
+        "size": 5297433
+    },
+    {
+        "file": "we_are_one__d66152.mp3",
+        "album": "Westlife",
+        "title": "We Are One",
+        "size": 3597212
+    },
+    {
+        "file": "change_the_world__951b94.mp3",
+        "album": "Westlife",
+        "title": "Change the World",
+        "size": 3124454
+    },
+    {
+        "file": "mandy__ebb486.mp3",
+        "album": "Westlife",
+        "title": "Mandy",
+        "size": 5789190
+    },
+    {
+        "file": "fragile_heart__758db7.mp3",
+        "album": "Westlife",
+        "title": "Fragile Heart",
+        "size": 5286695
+    },
+    {
+        "file": "my_girl__d5cf7a.mp3",
+        "album": "Westlife",
+        "title": "My Girl",
+        "size": 5104487
+    },
+    {
+        "file": "puzzle_of_my_heart__f67d19.mp3",
+        "album": "Westlife",
+        "title": "Puzzle of My Heart",
+        "size": 6334933
+    },
+    {
+        "file": "i_lay_my_love_on_you__5198f7.mp3",
+        "album": "Westlife",
+        "title": "I Lay My Love on You",
+        "size": 3271370
+    },
+    {
+        "file": "flying_without_wings__3d978d.mp3",
+        "album": "Westlife",
+        "title": "Flying Without Wings",
+        "size": 3669351
+    },
+    {
+        "file": "when_you_re_looking_like_that_single_remix__69db25.mp3",
+        "album": "Westlife",
+        "title": "When You're Looking Like That - Single Remix",
+        "size": 6709234
+    },
+    {
+        "file": "fool_again__8f2bfe.mp3",
+        "album": "Westlife",
+        "title": "Fool Again",
+        "size": 6978662
+    },
+    {
+        "file": "nothing_s_going_to_change_my_love_for_you__53fff6.mp3",
+        "album": "Westlife",
+        "title": "Nothing's Going To Change My Love For You",
+        "size": 3879063
+    },
+    {
+        "file": "you_raise_me_up__0915a5.mp3",
+        "album": "Westlife",
+        "title": "You Raise Me Up",
+        "size": 6746172
+    },
+    {
+        "file": "miss_you__448634.mp3",
+        "album": "Westlife",
+        "title": "Miss You",
+        "size": 6886953
+    },
+    {
+        "file": "try_again__d876a9.mp3",
+        "album": "Westlife",
+        "title": "Try Again",
+        "size": 6433290
+    },
+    {
+        "file": "i_still__4ead8b.mp3",
+        "album": "BackStreetBoys",
+        "title": "I Still...",
+        "size": 6757821
+    },
+    {
+        "file": "the_call__c14601.mp3",
+        "album": "BackStreetBoys",
+        "title": "The Call",
+        "size": 6176223
+    },
+    {
+        "file": "bigger__a2890f.mp3",
+        "album": "BackStreetBoys",
+        "title": "Bigger",
+        "size": 5748461
+    },
+    {
+        "file": "everybody_backstreet_s_back_extended_version__aecee7.mp3",
+        "album": "BackStreetBoys",
+        "title": "Everybody (Backstreet's Back) - Extended Version",
+        "size": 8091233
+    },
+    {
+        "file": "lose_it_all__e552b5.mp3",
+        "album": "BackStreetBoys",
+        "title": "Lose It All",
+        "size": 7074082
+    },
+    {
+        "file": "the_one__0ad612.mp3",
+        "album": "BackStreetBoys",
+        "title": "The One",
+        "size": 7264292
+    },
+    {
+        "file": "we_ve_got_it_goin_on_radio_edit__9217d9.mp3",
+        "album": "BackStreetBoys",
+        "title": "We've Got It Goin' On - Radio Edit",
+        "size": 6287420
+    },
+    {
+        "file": "quit_playing_games_with_my_heart__c30f6d.mp3",
+        "album": "BackStreetBoys",
+        "title": "Quit Playing Games (With My Heart)",
+        "size": 6829287
+    },
+    {
+        "file": "weird_world__8f1a80.mp3",
+        "album": "BackStreetBoys",
+        "title": "Weird World",
+        "size": 7494541
+    },
+    {
+        "file": "matches__a61bbf.mp3",
+        "album": "BackStreetBoys",
+        "title": "Matches",
+        "size": 5249431
+    },
+    {
+        "file": "larger_than_life__642a11.mp3",
+        "album": "BackStreetBoys",
+        "title": "Larger Than Life",
+        "size": 6677130
+    },
+    {
+        "file": "i_ll_never_break_your_heart__ac691e.mp3",
+        "album": "BackStreetBoys",
+        "title": "I'll Never Break Your Heart",
+        "size": 8262211
+    },
+    {
+        "file": "show_me_the_meaning_of_being_lonely__fca088.mp3",
+        "album": "BackStreetBoys",
+        "title": "Show Me the Meaning of Being Lonely",
+        "size": 4310062
+    },
+    {
+        "file": "get_down_you_re_the_one_for_me_lp_edit_no_rap__4c2fdc.mp3",
+        "album": "BackStreetBoys",
+        "title": "Get Down (You're the One for Me) - LP Edit No Rap",
+        "size": 3868333
+    },
+    {
+        "file": "helpless_when_she_smiles_radio_version__3fd3de.mp3",
+        "album": "BackStreetBoys",
+        "title": "Helpless When She Smiles - Radio Version",
+        "size": 7145491
+    },
+    {
+        "file": "don_t_go_breaking_my_heart__b12c2d.mp3",
+        "album": "BackStreetBoys",
+        "title": "Don't Go Breaking My Heart",
+        "size": 6317199
+    },
+    {
+        "file": "inconsolable__654d13.mp3",
+        "album": "BackStreetBoys",
+        "title": "Inconsolable",
+        "size": 6336584
+    },
+    {
+        "file": "shape_of_my_heart__ffef35.mp3",
+        "album": "BackStreetBoys",
+        "title": "Shape of My Heart",
+        "size": 6483681
+    },
+    {
+        "file": "all_i_have_to_give__a185cf.mp3",
+        "album": "BackStreetBoys",
+        "title": "All I Have to Give",
+        "size": 8846327
+    },
+    {
+        "file": "more_than_that__e93ea5.mp3",
+        "album": "BackStreetBoys",
+        "title": "More Than That",
+        "size": 7211516
+    },
+    {
+        "file": "straight_through_my_heart__48967d.mp3",
+        "album": "BackStreetBoys",
+        "title": "Straight Through My Heart",
+        "size": 6043119
+    },
+    {
+        "file": "let_it_be_me__be9b2e.mp3",
+        "album": "BackStreetBoys",
+        "title": "Let It Be Me",
+        "size": 3705694
+    },
+    {
+        "file": "crawling_back_to_you__05cb92.mp3",
+        "album": "BackStreetBoys",
+        "title": "Crawling Back to You",
+        "size": 6515331
+    },
+    {
+        "file": "i_want_it_that_way__81566e.mp3",
+        "album": "BackStreetBoys",
+        "title": "I Want It That Way",
+        "size": 6192768
+    },
+    {
+        "file": "anywhere_for_you__4cfd05.mp3",
+        "album": "BackStreetBoys",
+        "title": "Anywhere for You",
+        "size": 4361006
+    },
+    {
+        "file": "drowning__6bea72.mp3",
+        "album": "BackStreetBoys",
+        "title": "Drowning",
+        "size": 7487795
+    },
+    {
+        "file": "incomplete__4307e7.mp3",
+        "album": "BackStreetBoys",
+        "title": "Incomplete",
+        "size": 7014179
+    },
+    {
+        "file": "one_in_a_million__6f6c3b.mp3",
+        "album": "BackStreetBoys",
+        "title": "One in a Million",
+        "size": 6213597
+    },
+    {
+        "file": "hey__d0eedb.mp3",
+        "album": "BackStreetBoys",
+        "title": "Hey",
+        "size": 5807820
+    },
+    {
+        "file": "just_want_you_to_know__213287.mp3",
+        "album": "BackStreetBoys",
+        "title": "Just Want You to Know",
+        "size": 6762169
+    },
+    {
+        "file": "as_long_as_you_love_me__f60b84.mp3",
+        "album": "BackStreetBoys",
+        "title": "As Long as You Love Me",
+        "size": 6494204
+    },
+    {
         "file": "co_cong_mai_sac_remix__b9e7e0.mp3",
         "album": "Remix",
         "title": "Có công mài _Sắc_ - Remix",
