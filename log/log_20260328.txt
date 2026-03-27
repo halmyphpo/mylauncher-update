@@ -1,0 +1,3 @@
+08:12:39 [LogHelper] Upload all log and delete
+08:12:44 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.410011291503906,132.4413299560547
+08:47:27 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.40230178833008,132.4333038330078
