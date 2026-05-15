@@ -1,0 +1,7 @@
+18:17:22 [LogHelper] Upload all log and delete
+14:35:05 [LogHelper] Upload all log and delete
+14:35:14 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41031265258789,132.44024658203125
+14:40:14 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41031265258789,132.44024658203125
+14:42:24 [GPS] Mất GPS, đang ước lượng quãng đường ...
+14:42:37 [GPS] Mất GPS, đang ước lượng quãng đường ...
+18:29:11 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41933822631836,132.4559783935547
