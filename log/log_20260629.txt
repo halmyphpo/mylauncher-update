@@ -1,0 +1,40 @@
+11:14:46 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41032028198242,132.44805908203125
+11:19:46 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.407405853271484,132.4576873779297
+11:24:46 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.40134048461914,132.47288513183594
+11:29:46 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.400203704833984,132.4789276123047
+11:56:27 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.408748626708984,132.45730590820312
+12:38:51 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.411312103271484,132.44894409179688
+15:21:59 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41135025024414,132.449951171875
+15:24:40 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41135025024414,132.449951171875
+15:26:38 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41135025024414,132.449951171875
+15:31:37 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41135025024414,132.449951171875
+15:34:10 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41119384765625,132.45213317871094
+15:47:31 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.40467834472656,132.4510955810547
+15:52:31 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.410335540771484,132.4467010498047
+17:11:21 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.419673919677734,132.4552764892578
+17:16:08 [LogHelper] Upload all log and delete
+17:16:09 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.418800354003906,132.45343017578125
+18:18:15 [LogHelper] Upload all log and delete
+18:18:16 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41242980957031,132.44810485839844
+18:18:46 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41362380981445,132.44883728027344
+18:18:54 [UncaughtException] java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.get(ArrayList.java:437)
+	at com.jewelry.mylauncher.MusicPlayerManager.getNextShuffleIndex(MusicPlayerManager.java:143)
+	at com.jewelry.mylauncher.MusicPlayerManager.next(MusicPlayerManager.java:232)
+	at com.jewelry.mylauncher.MainActivity.lambda$onCreate$12(MainActivity.java:501)
+	at com.jewelry.mylauncher.MainActivity$$ExternalSyntheticLambda41.onClick(D8$$SyntheticClass:0)
+	at android.view.View.performClick(View.java:7142)
+	at android.view.View.performClickInternal(View.java:7119)
+	at android.view.View.access$3500(View.java:803)
+	at android.view.View$PerformClick.run(View.java:27369)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7474)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1072)
+
+18:18:56 [LogHelper] Upload all log and delete
+18:18:57 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41362380981445,132.44883728027344
+18:20:07 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41762924194336,132.45228576660156
