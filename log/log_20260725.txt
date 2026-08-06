@@ -1,0 +1,12 @@
+09:05:10 [LogHelper] Upload all log and delete
+09:05:11 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.410850524902344,132.44175720214844
+09:28:41 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.40877151489258,132.45223999023438
+12:36:39 [LogHelper] Upload all log and delete
+12:36:41 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.40877151489258,132.45223999023438
+12:41:37 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.40827560424805,132.45285034179688
+12:46:37 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41069412231445,132.45578002929688
+12:49:31 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.412109375,132.45887756347656
+13:13:55 [LogHelper] Upload all log and delete
+13:13:57 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.412109375,132.45887756347656
+13:18:57 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41164779663086,132.44815063476562
+13:22:11 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41067123413086,132.44056701660156

@@ -1,0 +1,26 @@
+08:13:18 [LogHelper] Upload all log and delete
+08:13:20 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.410709381103516,132.44061279296875
+08:50:55 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.399070739746094,132.43894958496094
+08:55:55 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.39593505859375,132.45547485351562
+09:00:55 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.39213562011719,132.46385192871094
+09:05:55 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.39640426635742,132.45269775390625
+09:10:55 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.39933776855469,132.43838500976562
+09:15:55 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.40717315673828,132.438720703125
+09:18:28 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41038513183594,132.4407958984375
+09:18:38 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41038513183594,132.4407958984375
+09:19:25 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41038513183594,132.4407958984375
+09:21:18 [LogHelper] Upload all log and delete
+09:21:21 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41038513183594,132.4407958984375
+10:55:13 [LogHelper] Upload all log and delete
+10:58:03 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.410648345947266,132.44154357910156
+11:03:03 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41340255737305,132.44857788085938
+11:08:03 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.42042541503906,132.4564971923828
+11:08:23 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.42042541503906,132.4564971923828
+11:09:02 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.42042541503906,132.4564971923828
+11:26:47 [LogHelper] Upload all log and delete
+11:26:49 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.42042541503906,132.4564971923828
+11:31:49 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.414588928222656,132.44947814941406
+11:34:40 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41099166870117,132.4415740966797
+16:42:19 [LogHelper] Upload all log and delete
+16:42:21 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.41099166870117,132.4415740966797
+16:54:28 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.40251159667969,132.43882751464844
