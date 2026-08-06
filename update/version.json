@@ -1,16 +1,16 @@
 {
-  "versionCode": 3.20260313,
+  "versionCode": 3.20260806,
   "apkUrl": "https://github.com/halmyphpo/mylauncher-update/raw/main/update/app-release.apk",
   "patchUrl":"https://github.com/halmyphpo/mylauncher-update/raw/refs/heads/main/update/patch_new.patch",
   "apkUrl1":"https://www.dropbox.com/scl/fi/n9auegmwgfb59sgl99ao8/app-release.apk?rlkey=0e13pv9bxhh3gjizgcno2kndk&st=k4vmxt8z&dl=1",
-  "latest_version": "3.20260313",
-  "base_version": "3.20260306",
+  "latest_version": "3.20260806",
+  "base_version": "3.20260313",
   "patch_file": "patch_new.patch",
-  "patch_size": 3261355,
-  "patch_sha256": "5cb9e2faa607e572d58ec864c1fcca91d250cd057fd685573c4569f09ceacaec",
+  "patch_size": 5364528,
+  "patch_sha256": "1899f065d81c042cb95d420f73f5c7442711633a4334b76cb32c3043095eadf1",
   "new_apk": "app-release.apk",
-  "new_size": 24030652,
-  "new_sha256": "034614ca725949875f5e312ea6fd7b75b0d8399795345e489e0c29445938a47a",
-  "release_date": "2026-03-13",
-  "notes": "Update tunnel code"
+  "new_size": 24032612,
+  "new_sha256": "f80c81989e7eb504d5a3b526d55173a98fb5348d56a236fefbf5f3bba205ffbe",
+  "release_date": "2026-08-06",
+  "notes": "Update tunnel code & brightness change btn"
 }
