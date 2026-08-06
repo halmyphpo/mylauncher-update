@@ -1,16 +1,16 @@
 {
-  "versionCode": 3.20260806,
+  "versionCode": 3.20260807,
   "apkUrl": "https://github.com/halmyphpo/mylauncher-update/raw/main/update/app-release.apk",
   "patchUrl":"https://github.com/halmyphpo/mylauncher-update/raw/refs/heads/main/update/patch_new.patch",
   "apkUrl1":"https://www.dropbox.com/scl/fi/n9auegmwgfb59sgl99ao8/app-release.apk?rlkey=0e13pv9bxhh3gjizgcno2kndk&st=k4vmxt8z&dl=1",
-  "latest_version": "3.20260806",
-  "base_version": "3.20260313",
+  "latest_version": "3.20260807",
+  "base_version": "3.20260806",
   "patch_file": "patch_new.patch",
-  "patch_size": 5364528,
-  "patch_sha256": "1899f065d81c042cb95d420f73f5c7442711633a4334b76cb32c3043095eadf1",
+  "patch_size": 5385722,
+  "patch_sha256": "a0fd6ca40d40b1c6164338d5cc369a6d9766d1287c0ce4eef6ea3fddb2e77261",
   "new_apk": "app-release.apk",
-  "new_size": 24032612,
-  "new_sha256": "f80c81989e7eb504d5a3b526d55173a98fb5348d56a236fefbf5f3bba205ffbe",
-  "release_date": "2026-08-06",
-  "notes": "Update tunnel code & brightness change btn"
+  "new_size": 24043093,
+  "new_sha256": "e0d90e596e0803df5cc77bc5a89fd709618a2f2d61ad6d4285bed1a99c044b5a",
+  "release_date": "2026-08-07",
+  "notes": "Update code, icon car"
 }
