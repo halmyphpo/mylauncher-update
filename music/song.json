@@ -1,5 +1,581 @@
 [
     {
+        "file": "bat_qua_nhan_gian__dbe5a2.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Bất Quá Nhân Gian",
+        "size": 9732706
+    },
+    {
+        "file": "nguoi_yeu_cu__88b89d.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Người Yêu Cũ",
+        "size": 9440488
+    },
+    {
+        "file": "gap_nhung_khong_o_lai__28ddf9.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Gặp Nhưng Không Ở Lại",
+        "size": 11243785
+    },
+    {
+        "file": "tay_trai_chi_trang_lofi__44e083.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Tay Trái Chỉ Trăng - Lofi",
+        "size": 8836401
+    },
+    {
+        "file": "nen_cho_hay_nen_quen__1b373c.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Nên Chờ Hay Nên Quên",
+        "size": 9480424
+    },
+    {
+        "file": "em_ung_i__ad3951.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Em Đừng Đi",
+        "size": 8349205
+    },
+    {
+        "file": "lang_quen_chieu_thu__4699ca.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Lãng Quên Chiều Thu",
+        "size": 11931449
+    },
+    {
+        "file": "loi_chua_noi__0d4452.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Lời Chưa Nói",
+        "size": 17159717
+    },
+    {
+        "file": "noi_tinh_yeu_ket_thuc__f18625.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Nơi Tình Yêu Kết Thúc",
+        "size": 5174697
+    },
+    {
+        "file": "hua_that_nhieu_that_hua_that_nhieu__cb7cea.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Hứa Thật Nhiều Thất Hứa Thật Nhiều",
+        "size": 10746021
+    },
+    {
+        "file": "vo_tan__7dd8bb.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Vỡ Tan",
+        "size": 10539055
+    },
+    {
+        "file": "gio_nguoc_chieu__80d039.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Gió Ngược Chiều",
+        "size": 11575415
+    },
+    {
+        "file": "con_thuong_thi_khong_e_em_khoc__c177da.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Còn Thương Thì Không Để Em Khóc",
+        "size": 11804124
+    },
+    {
+        "file": "cho_en_khi_troi_at_sup_o__4472d3.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Cho Đến Khi Trời Đất Sụp Đổ",
+        "size": 6401485
+    },
+    {
+        "file": "xem_nhu_em_chang_may__ae1809.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Xem Như Em Chẳng May",
+        "size": 8488521
+    },
+    {
+        "file": "khi_giac_mo_ve__ae1d5a.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Khi Giấc Mơ Về",
+        "size": 5143999
+    },
+    {
+        "file": "gia_vo_nhung_em_yeu_anh__60b832.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Giả Vờ Nhưng Em Yêu Anh",
+        "size": 10262481
+    },
+    {
+        "file": "viet_nen_chuyen_tinh__771d30.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Viết Nên Chuyện Tình",
+        "size": 6121123
+    },
+    {
+        "file": "kho_co_uoc_nguoi_from_dickson_acoustic__8af63e.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Khó Có Được Người - From \"Dickson Acoustic\"",
+        "size": 11266826
+    },
+    {
+        "file": "tay_trai_chi_trang__5433f2.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Tay Trái Chỉ Trăng",
+        "size": 9420347
+    },
+    {
+        "file": "ung_khien_trai_tim_em_khoc__f21097.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Đừng Khiến Trái Tim Em Khóc",
+        "size": 8212731
+    },
+    {
+        "file": "yes_i_do_feat_bui_anh_tuan_hien_ho__da652c.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Yes I Do (feat. Bùi Anh Tuấn, Hiền Hồ)",
+        "size": 10525475
+    },
+    {
+        "file": "khac_biet_to_lon__8d4d57.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Khác Biệt To Lớn",
+        "size": 9372483
+    },
+    {
+        "file": "xem_nhu_em_chang_may_edm__3e104c.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Xem Như Em Chẳng May - EDM",
+        "size": 9352492
+    },
+    {
+        "file": "hoi_uc__45ecca.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Hồi Ức",
+        "size": 13957809
+    },
+    {
+        "file": "xem_nhu_em_chang_may_vinahouse__8714b6.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Xem Như Em Chẳng May - Vinahouse",
+        "size": 11898127
+    },
+    {
+        "file": "dung_lai_ay_thoi__dd2039.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Dừng Lại Đây Thôi",
+        "size": 10360264
+    },
+    {
+        "file": "it_nhung_dai_lau__27b43b.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Ít Nhưng Dài Lâu",
+        "size": 12254484
+    },
+    {
+        "file": "nho_oi__02df8e.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Nhỏ Ơi",
+        "size": 10160833
+    },
+    {
+        "file": "khoang_cach_xa_nhat_lofi__579cb8.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Khoảng Cách Xa Nhất (Lofi)",
+        "size": 8868469
+    },
+    {
+        "file": "em_nen_dung_lai__95f439.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Em Nên Dừng Lại",
+        "size": 14284662
+    },
+    {
+        "file": "yeu_3_nam_dai_1_gio__32c44c.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Yêu 3 Năm Dại 1 Giờ",
+        "size": 13792485
+    },
+    {
+        "file": "cho_em_en_hoa_cung_tan__7b3e87.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Chờ Em Đến Hoa Cũng Tàn",
+        "size": 11368644
+    },
+    {
+        "file": "mua_roi_lang_tham__1f0220.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Mưa Rơi Lặng Thầm",
+        "size": 9418327
+    },
+    {
+        "file": "co_mot_noi_nhu_the__842380.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Có Một Nơi Như Thế",
+        "size": 4220304
+    },
+    {
+        "file": "tinh_yeu_mang_theo__1e9142.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Tình Yêu Mang Theo",
+        "size": 4761708
+    },
+    {
+        "file": "can_dong_nuoc_mat_mashup__7dcbea.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Cạn dòng nước mắt (Mashup)",
+        "size": 15065948
+    },
+    {
+        "file": "nguoi_khac__3fc45d.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Người Khác",
+        "size": 9228666
+    },
+    {
+        "file": "canh_buom_trong_mua__f7b738.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Cánh Bướm Trong Mưa",
+        "size": 9224705
+    },
+    {
+        "file": "hoai_cong__17a72a.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Hoài Công",
+        "size": 5932526
+    },
+    {
+        "file": "ai_thien_bong__f0434e.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Đại Thiên Bồng",
+        "size": 3931222
+    },
+    {
+        "file": "cha__9bc155.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Cha",
+        "size": 13846391
+    },
+    {
+        "file": "nhat__22ea70.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "NHẠT",
+        "size": 13012289
+    },
+    {
+        "file": "ai_ngo_em_gio_choi_voi__d18290.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Ai Ngờ Em Giờ Chơi Vơi",
+        "size": 8553698
+    },
+    {
+        "file": "a_biet_se_co_ngay_hom_qua__c46522.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Đã Biết Sẽ Có Ngày Hôm Qua",
+        "size": 10911161
+    },
+    {
+        "file": "mot_giac_mong_xua_lofi__36a0e3.mp3",
+        "album": "Chu Thuy Quynh",
+        "title": "Một Giấc Mộng Xưa - Lofi",
+        "size": 7467012
+    },
+    {
+        "file": "dung_yeu_feat_negav__e3671a.mp3",
+        "album": "Ha Nhi",
+        "title": "Dừng Yêu (feat. Negav)",
+        "size": 8871764
+    },
+    {
+        "file": "toi_cho_em__3d96fa.mp3",
+        "album": "Ha Nhi",
+        "title": "Tội Cho Em",
+        "size": 12738197
+    },
+    {
+        "file": "mashup_a_sai_tu_luc_au_can_dong_nuoc_mat__2635d2.mp3",
+        "album": "Ha Nhi",
+        "title": "Mashup Đã sai từ lúc đầu, Cạn dòng nước mắt",
+        "size": 15630654
+    },
+    {
+        "file": "tang_anh_cho_co_ay__4a22f0.mp3",
+        "album": "Ha Nhi",
+        "title": "Tặng Anh Cho Cô Ấy",
+        "size": 10038159
+    },
+    {
+        "file": "nguoi_nhu_anh__91da36.mp3",
+        "album": "Ha Nhi",
+        "title": "Người Như Anh",
+        "size": 4542246
+    },
+    {
+        "file": "van_nho__94e6d9.mp3",
+        "album": "Ha Nhi",
+        "title": "Vẫn Nhớ",
+        "size": 9844280
+    },
+    {
+        "file": "em_ngay_xua_khac_roi__d19a72.mp3",
+        "album": "Ha Nhi",
+        "title": "Em Ngày Xưa Khác Rồi",
+        "size": 11615004
+    },
+    {
+        "file": "sau_loi_tu_khuoc__009e22.mp3",
+        "album": "Ha Nhi",
+        "title": "Sau Lời Từ Khước",
+        "size": 18242196
+    },
+    {
+        "file": "tam_su_voi_nguoi_la__fffe55.mp3",
+        "album": "Ha Nhi",
+        "title": "Tâm Sự Với Người Lạ",
+        "size": 10436708
+    },
+    {
+        "file": "anh_chua_thuong_em_en_vay_au__316a90.mp3",
+        "album": "Ha Nhi",
+        "title": "Anh Chưa Thương Em Đến Vậy Đâu",
+        "size": 11860724
+    },
+    {
+        "file": "tinh_yeu_la__e77bd0.mp3",
+        "album": "Ha Nhi",
+        "title": "Tình Yêu Là",
+        "size": 11232324
+    },
+    {
+        "file": "lau_lau_nhac_lai__fee8bf.mp3",
+        "album": "Ha Nhi",
+        "title": "Lâu Lâu Nhắc Lại",
+        "size": 11122413
+    },
+    {
+        "file": "ngoc__869c18.mp3",
+        "album": "Ha Nhi",
+        "title": "Ngốc",
+        "size": 11816657
+    },
+    {
+        "file": "luc_em_can_anh_ang_o_au__176d4d.mp3",
+        "album": "Ha Nhi",
+        "title": "Lúc Em Cần Anh Đang Ở Đâu",
+        "size": 12910180
+    },
+    {
+        "file": "ung_noi_toi_ien__d9a27f.mp3",
+        "album": "Ha Nhi",
+        "title": "Đừng Nói Tôi Điên",
+        "size": 4352380
+    },
+    {
+        "file": "duyen_minh_lo__c27e66.mp3",
+        "album": "Ha Nhi",
+        "title": "Duyên Mình Lỡ",
+        "size": 13296060
+    },
+    {
+        "file": "nhu_nhung_phut_ban_au__31b198.mp3",
+        "album": "Ha Nhi",
+        "title": "Như Những Phút Ban Đầu",
+        "size": 5127959
+    },
+    {
+        "file": "sau_lung_anh_co_ai_kia__a0999e.mp3",
+        "album": "Ha Nhi",
+        "title": "Sau Lưng Anh Có Ai Kìa",
+        "size": 5081663
+    },
+    {
+        "file": "nam_thang_voi_va__8da4af.mp3",
+        "album": "Ha Nhi",
+        "title": "Năm Tháng Vội Vã",
+        "size": 4111018
+    },
+    {
+        "file": "hoa_bang_lang__634e0e.mp3",
+        "album": "Ha Nhi",
+        "title": "Hoa Bằng Lăng",
+        "size": 3945733
+    },
+    {
+        "file": "ta_la_cua_nhau__c0642f.mp3",
+        "album": "Ha Nhi",
+        "title": "Ta Là Của Nhau",
+        "size": 2992584
+    },
+    {
+        "file": "ung_ai_nhac_ve_anh_ay__4703bd.mp3",
+        "album": "Ha Nhi",
+        "title": "Đừng Ai Nhắc Về Anh Ấy",
+        "size": 14419956
+    },
+    {
+        "file": "yeu_nhu_ngay_yeu_cuoi__6bee63.mp3",
+        "album": "Ha Nhi",
+        "title": "Yêu Như Ngày Yêu Cuối",
+        "size": 11042947
+    },
+    {
+        "file": "chua_quen_nguoi_yeu_cu__eec991.mp3",
+        "album": "Ha Nhi",
+        "title": "Chưa Quên Người Yêu Cũ",
+        "size": 12177598
+    },
+    {
+        "file": "xin_loi__502683.mp3",
+        "album": "Ha Nhi",
+        "title": "Xin Lỗi",
+        "size": 4269379
+    },
+    {
+        "file": "di_vang_nhat_nhoa_remake__41e9c6.mp3",
+        "album": "Ha Nhi",
+        "title": "Dĩ Vãng Nhạt Nhòa - Remake",
+        "size": 8859940
+    },
+    {
+        "file": "roi_nguoi_thuong_cung_hoa_nguoi_dung__d3ea70.mp3",
+        "album": "Ha Nhi",
+        "title": "Rồi Người Thương Cũng Hóa Người Dưng",
+        "size": 11528958
+    },
+    {
+        "file": "giua_em_bat_khoc__a01494.mp3",
+        "album": "Ha Nhi",
+        "title": "Giữa Đêm Bật Khóc",
+        "size": 12171042
+    },
+    {
+        "file": "co_nhu_khong_co__4d7677.mp3",
+        "album": "Ha Nhi",
+        "title": "Có Như Không Có",
+        "size": 11063697
+    },
+    {
+        "file": "tinh_yeu_en_sau__09585f.mp3",
+        "album": "Ha Nhi",
+        "title": "Tình Yêu Đến Sau",
+        "size": 10953409
+    },
+    {
+        "file": "e_mai_co_nhau__c9622b.mp3",
+        "album": "Ha Nhi",
+        "title": "Để Mãi Có Nhau",
+        "size": 10552276
+    },
+    {
+        "file": "em_khong_la_duy_nhat__eab6d1.mp3",
+        "album": "Ha Nhi",
+        "title": "Em Không Là Duy Nhất",
+        "size": 11673156
+    },
+    {
+        "file": "tat_ca_se_thay_em__22242b.mp3",
+        "album": "Ha Nhi",
+        "title": "Tất Cả Sẽ Thay Em",
+        "size": 12642636
+    },
+    {
+        "file": "sau_nay_hay_gap_lai_nhau_khi_hoa_no__dda8e8.mp3",
+        "album": "Ha Nhi",
+        "title": "Sau Này, Hãy Gặp Lại Nhau Khi Hoa Nở",
+        "size": 11117341
+    },
+    {
+        "file": "tu_su_original_soundtrack_from_qua_ben_lam_chi__12b52c.mp3",
+        "album": "Ha Nhi",
+        "title": "Tự Sự - Original Soundtrack from \"Qua Bển Làm Chi\"",
+        "size": 10428242
+    },
+    {
+        "file": "em_a_thay_anh_cung_nguoi_ay__4cf069.mp3",
+        "album": "Ha Nhi",
+        "title": "Em Đã Thấy Anh Cùng Người Ấy",
+        "size": 8718308
+    },
+    {
+        "file": "khoc__5d0094.mp3",
+        "album": "Ha Nhi",
+        "title": "Khóc",
+        "size": 11429875
+    },
+    {
+        "file": "sau_ngan_ay_nam__dcdef6.mp3",
+        "album": "Ha Nhi",
+        "title": "Sau Ngần Ấy Năm",
+        "size": 4689173
+    },
+    {
+        "file": "ta_con_thuoc_ve_nhau__061616.mp3",
+        "album": "Ha Nhi",
+        "title": "Ta Còn Thuộc Về Nhau",
+        "size": 10756760
+    },
+    {
+        "file": "uoc_anh_nhieu_noi_buon__68d4cf.mp3",
+        "album": "Ha Nhi",
+        "title": "Ước anh nhiều nỗi buồn",
+        "size": 10981468
+    },
+    {
+        "file": "ai_roi_cung_se_khac__aa3e4a.mp3",
+        "album": "Ha Nhi",
+        "title": "Ai Rồi Cũng Sẽ Khác",
+        "size": 11318557
+    },
+    {
+        "file": "anh_oi_o_lai__eca9e5.mp3",
+        "album": "Ha Nhi",
+        "title": "Anh Ơi Ở Lại",
+        "size": 11782621
+    },
+    {
+        "file": "chi_con_nhung_mua_nho__78adf3.mp3",
+        "album": "Ha Nhi",
+        "title": "Chỉ Còn Những Mùa Nhớ",
+        "size": 13256172
+    },
+    {
+        "file": "cho_em_mot_lan_yeu__d82be8.mp3",
+        "album": "Ha Nhi",
+        "title": "Cho Em Một Lần Yêu",
+        "size": 3682868
+    },
+    {
+        "file": "vi_em_chua_bao_gio_khoc__deff4e.mp3",
+        "album": "Ha Nhi",
+        "title": "Vì Em Chưa Bao Giờ Khóc",
+        "size": 10800231
+    },
+    {
+        "file": "anh_ta_bo_em_roi__e61530.mp3",
+        "album": "Ha Nhi",
+        "title": "Anh Ta Bỏ Em Rồi",
+        "size": 30436776
+    },
+    {
+        "file": "nguoi_ay_version_2__16c9ce.mp3",
+        "album": "Ha Nhi",
+        "title": "Người Ấy - Version 2",
+        "size": 10519229
+    },
+    {
+        "file": "anh_ang_o_au_ay_anh__36d812.mp3",
+        "album": "Ha Nhi",
+        "title": "Anh Đang Ở Đâu Đấy Anh",
+        "size": 9394682
+    },
+    {
+        "file": "ung_nhu_thoi_quen__7e7f6e.mp3",
+        "album": "Ha Nhi",
+        "title": "Đừng Như Thói Quen",
+        "size": 10911695
+    },
+    {
+        "file": "ngay_mai_nguoi_ta_lay_chong__072092.mp3",
+        "album": "Ha Nhi",
+        "title": "Ngày Mai Người Ta Lấy Chồng",
+        "size": 14627685
+    },
+    {
         "file": "invu__ecbb3a.mp3",
         "album": "SNSD",
         "title": "INVU",
