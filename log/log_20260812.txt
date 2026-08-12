@@ -1,0 +1,24 @@
+07:56:26 [LogHelper] Upload all log and delete
+07:56:28 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.714351654052734,135.51248168945312
+09:51:26 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.71467208862305,135.51239013671875
+09:56:26 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.71467208862305,135.51239013671875
+09:58:24 [LogHelper] Upload all log and delete
+09:58:25 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.71467208862305,135.51239013671875
+09:58:34 [UncaughtException] java.lang.NullPointerException: Attempt to invoke virtual method 'void com.jewelry.mylauncher.MusicPlayerManager.togglePlayPause()' on a null object reference
+	at com.jewelry.mylauncher.MainActivity.updatePlayState(MainActivity.java:544)
+	at com.jewelry.mylauncher.MainActivity.lambda$onCreate$12$com-jewelry-mylauncher-MainActivity(MainActivity.java:518)
+	at com.jewelry.mylauncher.MainActivity$$ExternalSyntheticLambda38.onClick(D8$$SyntheticClass:0)
+	at android.view.View.performClick(View.java:6301)
+	at android.view.View$PerformClick.run(View.java:24993)
+	at android.os.Handler.handleCallback(Handler.java:790)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at android.os.Looper.loop(Looper.java:164)
+	at android.app.ActivityThread.main(ActivityThread.java:6523)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:438)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:940)
+
+09:58:38 [LogHelper] Upload all log and delete
+09:58:40 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.71471405029297,135.5126190185547
+10:03:40 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.71471405029297,135.5126190185547
+10:08:40 [Weather] Lấy dữ liệu thời tiết tọa độ: 34.72333526611328,135.52777099609375
