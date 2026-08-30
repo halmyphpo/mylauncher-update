@@ -1,16 +1,16 @@
 {
-  "versionCode": 3.20260828,
+  "versionCode": 3.20260831,
   "apkUrl": "https://github.com/halmyphpo/mylauncher-update/raw/main/update/app-release.apk",
   "patchUrl":"https://github.com/halmyphpo/mylauncher-update/raw/refs/heads/main/update/patch_new.patch",
   "apkUrl1":"https://www.dropbox.com/scl/fi/n9auegmwgfb59sgl99ao8/app-release.apk?rlkey=0e13pv9bxhh3gjizgcno2kndk&st=k4vmxt8z&dl=1",
-  "latest_version": "3.20260828",
-  "base_version": "3.20260827",
+  "latest_version": "3.20260831",
+  "base_version": "3.20260828",
   "patch_file": "patch_new.patch",
-  "patch_size": 3209727,
-  "patch_sha256": "fec1fb111bcf55d00fecb358daa8f7293846737a1e26dd700cb2302b64c1867a",
+  "patch_size": 3193999,
+  "patch_sha256": "733aebfcf3a2f9dae320923c39b1a63c758b91adfaaf700b05d5b9ea1e9a28fe",
   "new_apk": "app-release.apk",
-  "new_size": 24044365,
-  "new_sha256": "f6fdc0ac290d22ad3afed1c748e2e8bfc7752b1e6c8cfb173934a88a145bb48c",
-  "release_date": "2026-08-28",
-  "notes": "Update new code tunnel"
+  "new_size": 24044473,
+  "new_sha256": "a1a7c9ccda2df4a838b700a36b6bb2b07dff3d4f6d7934c4ba037ac423b51ae6",
+  "release_date": "2026-08-31",
+  "notes": "Update weather and music player"
 }
