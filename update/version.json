@@ -6,11 +6,11 @@
   "latest_version": "3.20260831",
   "base_version": "3.20260828",
   "patch_file": "patch_new.patch",
-  "patch_size": 3193999,
-  "patch_sha256": "733aebfcf3a2f9dae320923c39b1a63c758b91adfaaf700b05d5b9ea1e9a28fe",
+  "patch_size": 3302480,
+  "patch_sha256": "10f1b2a717a82a03886a44c0920a1d0bd026925d3a9f394f85b2934979d6dc72",
   "new_apk": "app-release.apk",
-  "new_size": 24044473,
-  "new_sha256": "a1a7c9ccda2df4a838b700a36b6bb2b07dff3d4f6d7934c4ba037ac423b51ae6",
+  "new_size": 24047288,
+  "new_sha256": "0a1eb7685f2ced55017c0cc2e73ef3f329540f8e2cfef8fadc48f4930f139993",
   "release_date": "2026-08-31",
   "notes": "Update weather and music player"
 }
