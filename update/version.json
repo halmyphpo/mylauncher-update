@@ -1,16 +1,16 @@
 {
-  "versionCode": 3.20260920,
+  "versionCode": 4.20260920,
   "apkUrl": "https://github.com/halmyphpo/mylauncher-update/raw/main/update/app-release.apk",
   "patchUrl":"https://github.com/halmyphpo/mylauncher-update/raw/refs/heads/main/update/patch_new.patch",
   "apkUrl1":"https://www.dropbox.com/scl/fi/n9auegmwgfb59sgl99ao8/app-release.apk?rlkey=0e13pv9bxhh3gjizgcno2kndk&st=k4vmxt8z&dl=1",
-  "latest_version": "3.20260920",
-  "base_version": "3.20260831",
+  "latest_version": "4.20260920",
+  "base_version": "3.20260920",
   "patch_file": "patch_new.patch",
-  "patch_size": 3301183,
-  "patch_sha256": "3cd661fc38a8ef0883fe3c6ee631e73d9bcca0c815a3dfe74d942d6ad252a59f",
+  "patch_size": 3237308,
+  "patch_sha256": "c60f70529386dcefa35265032d00d7bc754154bb0f21ab013b6ae410a3365909",
   "new_apk": "app-release.apk",
-  "new_size": 24047031,
-  "new_sha256": "0ee1ac76a1dd4e3fbde5a90872a85301c3808f48addca8be2aa08868b6ce2d5f",
+  "new_size": 24047096,
+  "new_sha256": "a990948865ddd3a2e53af63b9c47e1ea873822b5ee0b2313353367e7af87055a",
   "release_date": "2026-09-20",
-  "notes": "Update tunnel"
+  "notes": "Update fix tunnel"
 }
