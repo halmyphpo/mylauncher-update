@@ -1,0 +1,2 @@
+07:57:58 [LogHelper] Upload all log and delete
+08:28:47 [LogHelper] Upload all log and delete
