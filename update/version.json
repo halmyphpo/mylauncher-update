@@ -1,16 +1,16 @@
 {
-  "versionCode": 3.20260922,
+  "versionCode": 5.20260922,
   "apkUrl": "https://github.com/halmyphpo/mylauncher-update/raw/main/update/app-release.apk",
   "patchUrl":"https://github.com/halmyphpo/mylauncher-update/raw/refs/heads/main/update/patch_new.patch",
   "apkUrl1":"https://www.dropbox.com/scl/fi/n9auegmwgfb59sgl99ao8/app-release.apk?rlkey=0e13pv9bxhh3gjizgcno2kndk&st=k4vmxt8z&dl=1",
-  "latest_version": "3.20260922",
+  "latest_version": "5.20260922",
   "base_version": "4.20260920",
   "patch_file": "patch_new.patch",
-  "patch_size": 3287526,
-  "patch_sha256": "fa39e46d88f3d9c56f9f8de67221e9c5357803f1f0ac3bd9a60952767c007d0b",
+  "patch_size": 3479824,
+  "patch_sha256": "418aff97d66130dd393238db9cde165e2062247238e631421af0418260fdc102",
   "new_apk": "app-release.apk",
-  "new_size": 24048213,
-  "new_sha256": "3b4b05c5287ebce1f316d159ac16f842251132ba0c39b87c1aa09e12d040a487",
+  "new_size": 24052966,
+  "new_sha256": "067aee92fb3711300872110146cd5323ceff8bab5b79124196b18063a0ead608",
   "release_date": "2026-09-22",
   "notes": "Update fix and log gps"
 }
