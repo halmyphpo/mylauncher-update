@@ -1,0 +1,317 @@
+08:49:09 [LocCtrl] VÀO_HẦM lockSpeed=46km/h brg=229 start=34.408707,132.440711 total=293880m
+08:49:09 [LocCtrl] TUNNEL_EST +23.1m dt=1.80s @46km/h brg=229 -> 34.408571,132.440520 total=293903m
+08:49:11 [LocCtrl] WATCHDOG_TUNNEL silent=604817041ms @46km/h total=293903m est=34.408571,132.440520 brg=229
+08:49:11 [LocCtrl] ACTION=EXIT_TUNNEL reason=POS
+08:49:11 [LocCtrl] #4 lat=34.407874 lon=132.439748 raw=51.7km/h filt=47.1 good=51.7(prev=46.3) acc=8m age=9269ms brg=225 | dPos=128.0m dSpd=1.52 posCh=true spdCh=true stale=0ms frozen=false fast=true drift=128.0m lost=false
+08:49:11 [LocCtrl] ACTION=GPS_OK mapUpdate spd=47km/h total=294008m moving=true
+08:49:14 [LocCtrl] VÀO_HẦM lockSpeed=52km/h brg=225 start=34.407874,132.439748 total=294008m
+08:49:14 [LocCtrl] TUNNEL_EST +25.9m dt=1.80s @52km/h brg=225 -> 34.407711,132.439547 total=294034m
+08:49:14 [LocCtrl] WATCHDOG_TUNNEL silent=3084ms @52km/h total=294034m est=34.407711,132.439547 brg=225
+08:49:15 [LocCtrl] TUNNEL_EST +15.2m dt=1.06s @52km/h brg=225 -> 34.407615,132.439429 total=294049m
+08:49:15 [LocCtrl] WATCHDOG_TUNNEL silent=4140ms @52km/h total=294049m est=34.407615,132.439429 brg=225
+08:49:16 [LocCtrl] TUNNEL_EST +14.9m dt=1.03s @52km/h brg=225 -> 34.407521,132.439313 total=294064m
+08:49:16 [LocCtrl] WATCHDOG_TUNNEL silent=5175ms @52km/h total=294064m est=34.407521,132.439313 brg=225
+08:49:17 [LocCtrl] TUNNEL_EST +15.1m dt=1.05s @52km/h brg=225 -> 34.407426,132.439196 total=294079m
+08:49:17 [LocCtrl] WATCHDOG_TUNNEL silent=6225ms @52km/h total=294079m est=34.407426,132.439196 brg=225
+08:49:18 [LocCtrl] TUNNEL_EST +14.8m dt=1.03s @52km/h brg=225 -> 34.407332,132.439081 total=294094m
+08:49:18 [LocCtrl] WATCHDOG_TUNNEL silent=7255ms @52km/h total=294094m est=34.407332,132.439081 brg=225
+08:49:19 [LocCtrl] TUNNEL_EST +15.1m dt=1.05s @52km/h brg=225 -> 34.407237,132.438964 total=294109m
+08:49:19 [LocCtrl] WATCHDOG_TUNNEL silent=8305ms @52km/h total=294109m est=34.407237,132.438964 brg=225
+08:49:20 [LocCtrl] TUNNEL_EST +15.1m dt=1.05s @52km/h brg=225 -> 34.407142,132.438847 total=294124m
+08:49:20 [LocCtrl] WATCHDOG_TUNNEL silent=9354ms @52km/h total=294124m est=34.407142,132.438847 brg=225
+08:49:21 [LocCtrl] TUNNEL_EST +15.0m dt=1.04s @52km/h brg=225 -> 34.407047,132.438730 total=294139m
+08:49:21 [LocCtrl] WATCHDOG_TUNNEL silent=10399ms @52km/h total=294139m est=34.407047,132.438730 brg=225
+08:49:23 [LocCtrl] TUNNEL_EST +15.0m dt=1.04s @52km/h brg=225 -> 34.406953,132.438614 total=294154m
+08:49:23 [LocCtrl] WATCHDOG_TUNNEL silent=11441ms @52km/h total=294154m est=34.406953,132.438614 brg=225
+08:49:24 [LocCtrl] TUNNEL_EST +15.0m dt=1.04s @52km/h brg=225 -> 34.406858,132.438497 total=294169m
+08:49:24 [LocCtrl] WATCHDOG_TUNNEL silent=12485ms @52km/h total=294169m est=34.406858,132.438497 brg=225
+08:49:25 [LocCtrl] TUNNEL_EST +14.9m dt=1.04s @52km/h brg=225 -> 34.406764,132.438382 total=294184m
+08:49:25 [LocCtrl] WATCHDOG_TUNNEL silent=13521ms @52km/h total=294184m est=34.406764,132.438382 brg=225
+08:49:26 [LocCtrl] TUNNEL_EST +14.8m dt=1.03s @52km/h brg=225 -> 34.406671,132.438267 total=294199m
+08:49:26 [LocCtrl] WATCHDOG_TUNNEL silent=14548ms @52km/h total=294199m est=34.406671,132.438267 brg=225
+08:49:27 [LocCtrl] TUNNEL_EST +14.9m dt=1.04s @52km/h brg=225 -> 34.406577,132.438151 total=294214m
+08:49:27 [LocCtrl] WATCHDOG_TUNNEL silent=15587ms @52km/h total=294214m est=34.406577,132.438151 brg=225
+08:49:28 [LocCtrl] TUNNEL_EST +15.1m dt=1.05s @52km/h brg=225 -> 34.406482,132.438034 total=294229m
+08:49:29 [LocCtrl] WATCHDOG_TUNNEL silent=16635ms @52km/h total=294229m est=34.406482,132.438034 brg=225
+08:49:30 [LocCtrl] TUNNEL_EST +25.9m dt=1.80s @52km/h brg=225 -> 34.406319,132.437833 total=294255m
+08:49:30 [LocCtrl] WATCHDOG_TUNNEL silent=19045ms @52km/h total=294255m est=34.406319,132.437833 brg=225
+08:49:31 [LocCtrl] TUNNEL_EST +15.1m dt=1.05s @52km/h brg=225 -> 34.406223,132.437716 total=294270m
+08:49:31 [LocCtrl] WATCHDOG_TUNNEL silent=20099ms @52km/h total=294270m est=34.406223,132.437716 brg=225
+08:49:32 [LocCtrl] TUNNEL_EST +14.9m dt=1.03s @52km/h brg=225 -> 34.406129,132.437600 total=294285m
+08:49:32 [LocCtrl] WATCHDOG_TUNNEL silent=21134ms @52km/h total=294285m est=34.406129,132.437600 brg=225
+08:49:33 [LocCtrl] TUNNEL_EST +15.0m dt=1.04s @52km/h brg=225 -> 34.406035,132.437484 total=294300m
+08:49:33 [LocCtrl] WATCHDOG_TUNNEL silent=22175ms @52km/h total=294300m est=34.406035,132.437484 brg=225
+08:49:34 [LocCtrl] TUNNEL_EST +15.1m dt=1.05s @52km/h brg=225 -> 34.405939,132.437367 total=294315m
+08:49:34 [LocCtrl] WATCHDOG_TUNNEL silent=23226ms @52km/h total=294315m est=34.405939,132.437367 brg=225
+08:49:35 [LocCtrl] TUNNEL_EST +15.2m dt=1.05s @52km/h brg=225 -> 34.405844,132.437249 total=294330m
+08:49:35 [LocCtrl] WATCHDOG_TUNNEL silent=24281ms @52km/h total=294330m est=34.405844,132.437249 brg=225
+08:49:36 [LocCtrl] TUNNEL_EST +15.1m dt=1.05s @52km/h brg=225 -> 34.405749,132.437132 total=294345m
+08:49:36 [LocCtrl] WATCHDOG_TUNNEL silent=25330ms @52km/h total=294345m est=34.405749,132.437132 brg=225
+08:49:37 [LocCtrl] TUNNEL_EST +15.1m dt=1.05s @52km/h brg=225 -> 34.405653,132.437015 total=294360m
+08:49:37 [LocCtrl] WATCHDOG_TUNNEL silent=26379ms @52km/h total=294360m est=34.405653,132.437015 brg=225
+08:49:39 [LocCtrl] TUNNEL_EST +15.1m dt=1.05s @52km/h brg=225 -> 34.405558,132.436898 total=294375m
+08:49:39 [LocCtrl] WATCHDOG_TUNNEL silent=27430ms @52km/h total=294375m est=34.405558,132.436898 brg=225
+08:49:40 [LocCtrl] TUNNEL_EST +14.8m dt=1.03s @52km/h brg=225 -> 34.405465,132.436783 total=294390m
+08:49:40 [LocCtrl] WATCHDOG_TUNNEL silent=28460ms @52km/h total=294390m est=34.405465,132.436783 brg=225
+08:49:41 [LocCtrl] TUNNEL_EST +14.9m dt=1.04s @52km/h brg=225 -> 34.405371,132.436667 total=294405m
+08:49:41 [LocCtrl] WATCHDOG_TUNNEL silent=29496ms @52km/h total=294405m est=34.405371,132.436667 brg=225
+08:49:42 [LocCtrl] TUNNEL_EST +14.7m dt=1.03s @52km/h brg=225 -> 34.405278,132.436553 total=294420m
+08:49:42 [LocCtrl] WATCHDOG_TUNNEL silent=30522ms @52km/h total=294420m est=34.405278,132.436553 brg=225
+08:49:43 [LocCtrl] TUNNEL_EST +15.0m dt=1.04s @52km/h brg=225 -> 34.405183,132.436436 total=294435m
+08:49:43 [LocCtrl] WATCHDOG_TUNNEL silent=31566ms @52km/h total=294435m est=34.405183,132.436436 brg=225
+08:49:44 [LocCtrl] TUNNEL_EST +14.8m dt=1.03s @52km/h brg=225 -> 34.405090,132.436321 total=294450m
+08:49:44 [LocCtrl] WATCHDOG_TUNNEL silent=32597ms @52km/h total=294450m est=34.405090,132.436321 brg=225
+08:49:45 [LocCtrl] TUNNEL_EST +14.6m dt=1.01s @52km/h brg=225 -> 34.404998,132.436208 total=294464m
+08:49:45 [LocCtrl] WATCHDOG_TUNNEL silent=33611ms @52km/h total=294464m est=34.404998,132.436208 brg=225
+08:49:46 [LocCtrl] TUNNEL_EST +14.7m dt=1.02s @52km/h brg=225 -> 34.404905,132.436094 total=294479m
+08:49:46 [LocCtrl] WATCHDOG_TUNNEL silent=34631ms @52km/h total=294479m est=34.404905,132.436094 brg=225
+08:49:47 [LocCtrl] TUNNEL_EST +14.6m dt=1.02s @52km/h brg=225 -> 34.404813,132.435981 total=294493m
+08:49:47 [LocCtrl] WATCHDOG_TUNNEL silent=35647ms @52km/h total=294493m est=34.404813,132.435981 brg=225
+08:49:48 [LocCtrl] TUNNEL_EST +14.7m dt=1.02s @52km/h brg=225 -> 34.404721,132.435867 total=294508m
+08:49:48 [LocCtrl] WATCHDOG_TUNNEL silent=36667ms @52km/h total=294508m est=34.404721,132.435867 brg=225
+08:49:49 [LocCtrl] TUNNEL_EST +14.6m dt=1.02s @52km/h brg=225 -> 34.404628,132.435753 total=294523m
+08:49:49 [LocCtrl] WATCHDOG_TUNNEL silent=37684ms @52km/h total=294523m est=34.404628,132.435753 brg=225
+08:49:50 [LocCtrl] TUNNEL_EST +15.1m dt=1.05s @52km/h brg=225 -> 34.404533,132.435636 total=294538m
+08:49:50 [LocCtrl] WATCHDOG_TUNNEL silent=38735ms @52km/h total=294538m est=34.404533,132.435636 brg=225
+08:49:51 [LocCtrl] TUNNEL_EST +14.6m dt=1.01s @52km/h brg=225 -> 34.404441,132.435523 total=294552m
+08:49:51 [LocCtrl] WATCHDOG_TUNNEL silent=39749ms @52km/h total=294552m est=34.404441,132.435523 brg=225
+08:49:52 [LocCtrl] TUNNEL_EST +14.8m dt=1.03s @52km/h brg=225 -> 34.404347,132.435408 total=294567m
+08:49:52 [LocCtrl] WATCHDOG_TUNNEL silent=40781ms @52km/h total=294567m est=34.404347,132.435408 brg=225
+08:49:53 [LocCtrl] TUNNEL_EST +14.7m dt=1.02s @52km/h brg=225 -> 34.404255,132.435294 total=294582m
+08:49:53 [LocCtrl] WATCHDOG_TUNNEL silent=41803ms @52km/h total=294582m est=34.404255,132.435294 brg=225
+08:49:54 [LocCtrl] TUNNEL_EST +14.8m dt=1.03s @52km/h brg=225 -> 34.404161,132.435178 total=294597m
+08:49:54 [LocCtrl] WATCHDOG_TUNNEL silent=42836ms @52km/h total=294597m est=34.404161,132.435178 brg=225
+08:49:55 [LocCtrl] TUNNEL_EST +14.7m dt=1.02s @52km/h brg=225 -> 34.404068,132.435064 total=294611m
+08:49:55 [LocCtrl] WATCHDOG_TUNNEL silent=43858ms @52km/h total=294611m est=34.404068,132.435064 brg=225
+08:49:56 [LocCtrl] TUNNEL_EST +14.6m dt=1.01s @52km/h brg=225 -> 34.403977,132.434951 total=294626m
+08:49:56 [LocCtrl] WATCHDOG_TUNNEL silent=44871ms @52km/h total=294626m est=34.403977,132.434951 brg=225
+08:49:57 [LocCtrl] TUNNEL_EST +14.7m dt=1.02s @52km/h brg=225 -> 34.403884,132.434837 total=294641m
+08:49:57 [LocCtrl] WATCHDOG_TUNNEL silent=45891ms @52km/h total=294641m est=34.403884,132.434837 brg=225
+08:49:58 [LocCtrl] TUNNEL_EST +14.6m dt=1.02s @52km/h brg=225 -> 34.403792,132.434724 total=294655m
+08:49:58 [LocCtrl] WATCHDOG_TUNNEL silent=46908ms @52km/h total=294655m est=34.403792,132.434724 brg=225
+08:49:59 [LocCtrl] TUNNEL_EST +14.6m dt=1.02s @52km/h brg=225 -> 34.403700,132.434610 total=294670m
+08:49:59 [LocCtrl] WATCHDOG_TUNNEL silent=47924ms @52km/h total=294670m est=34.403700,132.434610 brg=225
+08:50:00 [LocCtrl] TUNNEL_EST +14.6m dt=1.02s @52km/h brg=225 -> 34.403607,132.434497 total=294684m
+08:50:00 [LocCtrl] WATCHDOG_TUNNEL silent=48941ms @52km/h total=294684m est=34.403607,132.434497 brg=225
+08:50:01 [LocCtrl] TUNNEL_EST +14.6m dt=1.02s @52km/h brg=225 -> 34.403515,132.434383 total=294699m
+08:50:03 [LocCtrl] WATCHDOG_TUNNEL silent=49960ms @52km/h total=294699m est=34.403515,132.434383 brg=225
+08:50:04 [LocCtrl] TUNNEL_EST +25.9m dt=1.80s @52km/h brg=225 -> 34.403352,132.434182 total=294725m
+08:50:04 [LocCtrl] WATCHDOG_TUNNEL silent=52586ms @52km/h total=294725m est=34.403352,132.434182 brg=225
+08:50:05 [LocCtrl] TUNNEL_EST +14.9m dt=1.03s @52km/h brg=225 -> 34.403258,132.434067 total=294740m
+08:50:05 [LocCtrl] WATCHDOG_TUNNEL silent=53620ms @52km/h total=294740m est=34.403258,132.434067 brg=225
+08:50:06 [LocCtrl] TUNNEL_EST +14.9m dt=1.03s @52km/h brg=225 -> 34.403164,132.433952 total=294755m
+08:50:06 [LocCtrl] WATCHDOG_TUNNEL silent=54655ms @52km/h total=294755m est=34.403164,132.433952 brg=225
+08:50:07 [LocCtrl] TUNNEL_EST +14.8m dt=1.03s @52km/h brg=225 -> 34.403071,132.433837 total=294770m
+08:50:07 [LocCtrl] WATCHDOG_TUNNEL silent=55685ms @52km/h total=294770m est=34.403071,132.433837 brg=225
+08:50:08 [LocCtrl] TUNNEL_EST +14.7m dt=1.02s @52km/h brg=225 -> 34.402978,132.433723 total=294784m
+08:50:08 [LocCtrl] WATCHDOG_TUNNEL silent=56705ms @52km/h total=294784m est=34.402978,132.433723 brg=225
+08:50:09 [LocCtrl] TUNNEL_EST +14.6m dt=1.02s @52km/h brg=225 -> 34.402886,132.433609 total=294799m
+08:50:09 [LocCtrl] WATCHDOG_TUNNEL silent=57723ms @52km/h total=294799m est=34.402886,132.433609 brg=225
+08:50:10 [LocCtrl] TUNNEL_EST +14.6m dt=1.02s @52km/h brg=225 -> 34.402794,132.433496 total=294813m
+08:50:10 [LocCtrl] WATCHDOG_TUNNEL silent=58740ms @52km/h total=294813m est=34.402794,132.433496 brg=225
+08:50:11 [LocCtrl] TUNNEL_EST +15.8m dt=1.10s @52km/h brg=225 -> 34.402694,132.433373 total=294829m
+08:50:11 [LocCtrl] WATCHDOG_TUNNEL silent=59839ms @52km/h total=294829m est=34.402694,132.433373 brg=225
+08:50:12 [LocCtrl] TUNNEL_EST +14.6m dt=1.02s @52km/h brg=225 -> 34.402602,132.433260 total=294844m
+08:50:12 [LocCtrl] WATCHDOG_TUNNEL silent=60855ms @52km/h total=294844m est=34.402602,132.433260 brg=225
+08:50:13 [LocCtrl] TUNNEL_EST +14.6m dt=1.02s @52km/h brg=225 -> 34.402510,132.433146 total=294858m
+08:50:13 [LocCtrl] WATCHDOG_TUNNEL silent=61874ms @52km/h total=294858m est=34.402510,132.433146 brg=225
+08:50:14 [LocCtrl] TUNNEL_EST +14.7m dt=1.02s @52km/h brg=225 -> 34.402417,132.433031 total=294873m
+08:50:14 [LocCtrl] WATCHDOG_TUNNEL silent=62899ms @52km/h total=294873m est=34.402417,132.433031 brg=225
+08:50:15 [LocCtrl] TUNNEL_EST +14.8m dt=1.03s @52km/h brg=225 -> 34.402323,132.432917 total=294888m
+08:50:15 [LocCtrl] WATCHDOG_TUNNEL silent=63928ms @52km/h total=294888m est=34.402323,132.432917 brg=225
+08:50:16 [LocCtrl] TUNNEL_EST +14.9m dt=1.04s @52km/h brg=225 -> 34.402229,132.432801 total=294903m
+08:50:16 [LocCtrl] WATCHDOG_TUNNEL silent=64967ms @52km/h total=294903m est=34.402229,132.432801 brg=225
+08:50:17 [LocCtrl] TUNNEL_EST +15.4m dt=1.07s @52km/h brg=225 -> 34.402132,132.432681 total=294918m
+08:50:17 [LocCtrl] WATCHDOG_TUNNEL silent=66038ms @52km/h total=294918m est=34.402132,132.432681 brg=225
+08:50:18 [LocCtrl] ACTION=EXIT_TUNNEL reason=POS
+08:50:18 [LocCtrl] #5 lat=34.401378 lon=132.432798 raw=23.8km/h filt=47.5 good=23.8(prev=51.7) acc=3m age=4944ms brg=214 | dPos=963.0m dSpd=7.75 posCh=true spdCh=true stale=0ms frozen=false fast=false drift=963.0m lost=false
+08:50:18 [LocCtrl] ACTION=GPS_OK mapUpdate spd=48km/h total=295003m moving=true
+08:50:18 [LocCtrl] #6 lat=34.401334 lon=132.432759 raw=22.7km/h filt=43.8 good=22.7(prev=23.8) acc=3m age=3961ms brg=215 | dPos=6.1m dSpd=0.32 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=6.1m lost=false
+08:50:18 [LocCtrl] ACTION=GPS_OK mapUpdate spd=44km/h total=295009m moving=true
+08:50:18 [LocCtrl] #7 lat=34.401301 lon=132.432724 raw=20.7km/h filt=40.3 good=20.7(prev=22.7) acc=3m age=2965ms brg=218 | dPos=4.9m dSpd=0.55 posCh=true spdCh=true stale=0ms frozen=false fast=false drift=4.9m lost=false
+08:50:18 [LocCtrl] ACTION=GPS_OK mapUpdate spd=40km/h total=295014m moving=true
+08:50:18 [LocCtrl] #8 lat=34.401274 lon=132.432689 raw=19.1km/h filt=37.2 good=19.1(prev=20.7) acc=3m age=1984ms brg=220 | dPos=4.4m dSpd=0.45 posCh=true spdCh=true stale=0ms frozen=false fast=false drift=4.4m lost=false
+08:50:18 [LocCtrl] ACTION=GPS_OK mapUpdate spd=37km/h total=295018m moving=true
+08:50:33 [LocCtrl] #9 lat=34.400858 lon=132.432400 raw=17.9km/h filt=34.3 good=17.9(prev=19.1) acc=3m age=1033ms brg=210 | dPos=53.2m dSpd=0.34 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=53.2m lost=false
+08:32:39 [LogHelper] Upload all log and delete
+08:32:50 [LocCtrl] START location + watchdog
+08:32:53 [LocCtrl] WATCHDOG silent=3170ms speed=0km/h — skip (not fast enough)
+08:32:54 [LocCtrl] WATCHDOG silent=4195ms speed=0km/h — skip (not fast enough)
+08:32:55 [LocCtrl] #1 lat=34.410512 lon=132.441287 raw=10.3km/h filt=1.5 good=10.3(prev=0.0) acc=3m age=1733ms brg=232 | dPos=-1.0m dSpd=-1.00 posCh=true spdCh=true stale=0ms frozen=false fast=false drift=0.0m lost=false
+08:32:55 [LocCtrl] ACTION=GPS_OK mapUpdate spd=2km/h total=343523m moving=true
+08:32:55 [LocCtrl] #2 lat=34.410482 lon=132.441241 raw=11.7km/h filt=3.1 good=11.7(prev=10.3) acc=3m age=995ms brg=231 | dPos=5.3m dSpd=0.39 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=5.3m lost=false
+08:32:55 [LocCtrl] ACTION=GPS_OK mapUpdate spd=3km/h total=343523m moving=true
+08:33:05 [LocCtrl] #3 lat=34.410426 lon=132.441156 raw=11.6km/h filt=4.3 good=11.6(prev=11.7) acc=67m age=7419ms brg=231 | dPos=10.0m dSpd=0.03 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=10.0m lost=false
+08:33:05 [LocCtrl] ACTION=GPS_OK mapUpdate spd=4km/h total=343523m moving=true
+08:33:06 [LocCtrl] #4 lat=34.410575 lon=132.440788 raw=13.3km/h filt=5.7 good=13.3(prev=11.6) acc=4m age=531ms brg=290 | dPos=37.6m dSpd=0.48 posCh=true spdCh=true stale=0ms frozen=false fast=false drift=37.6m lost=false
+08:33:06 [LocCtrl] ACTION=GPS_OK mapUpdate spd=6km/h total=343523m moving=true
+08:33:08 [LocCtrl] #5 lat=34.410595 lon=132.440754 raw=13.1km/h filt=6.8 good=13.1(prev=13.3) acc=4m age=610ms brg=294 | dPos=3.9m dSpd=0.06 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=3.9m lost=false
+08:33:08 [LocCtrl] ACTION=GPS_OK mapUpdate spd=7km/h total=343523m moving=true
+08:33:09 [LocCtrl] #6 lat=34.410616 lon=132.440655 raw=15.1km/h filt=8.1 good=15.1(prev=13.1) acc=4m age=107ms brg=291 | dPos=9.4m dSpd=0.57 posCh=true spdCh=true stale=0ms frozen=false fast=false drift=9.4m lost=false
+08:33:09 [LocCtrl] ACTION=GPS_OK mapUpdate spd=8km/h total=343523m moving=true
+08:33:11 [LocCtrl] #7 lat=34.410627 lon=132.440610 raw=15.7km/h filt=9.2 good=15.7(prev=15.1) acc=4m age=501ms brg=289 | dPos=4.3m dSpd=0.16 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=4.3m lost=false
+08:33:11 [LocCtrl] ACTION=GPS_OK mapUpdate spd=9km/h total=343523m moving=true
+08:33:19 [LocCtrl] #8 lat=34.410612 lon=132.440269 raw=13.6km/h filt=9.9 good=13.6(prev=15.7) acc=4m age=509ms brg=279 | dPos=31.4m dSpd=0.58 posCh=true spdCh=true stale=0ms frozen=false fast=false drift=31.4m lost=false
+08:33:19 [LocCtrl] ACTION=GPS_OK mapUpdate spd=10km/h total=343523m moving=true
+08:33:20 [LocCtrl] #9 lat=34.410617 lon=132.440245 raw=12.4km/h filt=10.3 good=12.4(prev=13.6) acc=4m age=589ms brg=283 | dPos=2.3m dSpd=0.33 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=2.3m lost=false
+08:33:20 [LocCtrl] ACTION=GPS_OK mapUpdate spd=10km/h total=343523m moving=true
+08:33:25 [LocCtrl] #10 lat=34.410633 lon=132.440227 raw=3.4km/h filt=9.2 good=0.0(prev=12.4) acc=4m age=4793ms brg=277 | dPos=2.4m dSpd=2.51 posCh=true spdCh=true stale=0ms frozen=false fast=false drift=2.4m lost=false
+08:33:25 [LocCtrl] ACTION=GPS_OK mapUpdate spd=9km/h total=343523m moving=true
+08:33:25 [LocCtrl] #11 lat=34.410652 lon=132.440217 raw=1.4km/h filt=8.1 good=0.0(prev=0.0) acc=4m age=3852ms brg=129 | dPos=2.3m dSpd=0.56 posCh=true spdCh=true stale=0ms frozen=false fast=false drift=2.3m lost=false
+08:33:25 [LocCtrl] ACTION=GPS_OK mapUpdate spd=8km/h total=343523m moving=true
+08:33:57 [LocCtrl] #12 lat=34.410617 lon=132.440350 raw=0.0km/h filt=6.8 good=0.0(prev=0.0) acc=5m age=1297ms brg=129 | dPos=12.8m dSpd=0.39 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=12.8m lost=false
+08:33:58 [LocCtrl] ACTION=GPS_OK mapUpdate spd=7km/h total=343523m moving=true
+08:33:58 [LocCtrl] #13 lat=34.410623 lon=132.440362 raw=0.1km/h filt=5.8 good=0.0(prev=0.0) acc=5m age=523ms brg=129 | dPos=1.3m dSpd=0.02 posCh=false spdCh=false stale=259ms frozen=false fast=false drift=1.3m lost=false
+08:33:58 [LocCtrl] ACTION=GPS_OK mapUpdate spd=6km/h total=343523m moving=true
+08:33:58 [LocCtrl] #14 lat=34.410632 lon=132.440370 raw=2.4km/h filt=5.3 good=0.0(prev=0.0) acc=5m age=233ms brg=13 | dPos=2.5m dSpd=0.67 posCh=true spdCh=true stale=0ms frozen=false fast=false drift=2.5m lost=false
+08:33:58 [LocCtrl] ACTION=GPS_OK mapUpdate spd=5km/h total=343523m moving=true
+08:33:59 [LocCtrl] #15 lat=34.410640 lon=132.440378 raw=3.6km/h filt=5.1 good=0.0(prev=0.0) acc=5m age=284ms brg=15 | dPos=1.2m dSpd=0.34 posCh=false spdCh=false stale=1054ms frozen=false fast=false drift=1.2m lost=false
+08:33:59 [LocCtrl] ACTION=GPS_OK mapUpdate spd=5km/h total=343523m moving=true
+08:34:03 [LocCtrl] WATCHDOG silent=3360ms speed=0km/h — skip (not fast enough)
+08:34:04 [LocCtrl] WATCHDOG silent=4396ms speed=0km/h — skip (not fast enough)
+08:34:05 [LocCtrl] WATCHDOG silent=5400ms speed=0km/h — skip (not fast enough)
+08:34:06 [LocCtrl] WATCHDOG silent=6402ms speed=0km/h — skip (not fast enough)
+08:34:07 [LocCtrl] WATCHDOG silent=7406ms speed=0km/h — skip (not fast enough)
+08:34:08 [LocCtrl] WATCHDOG silent=8410ms speed=0km/h — skip (not fast enough)
+08:34:09 [LocCtrl] WATCHDOG silent=9416ms speed=0km/h — skip (not fast enough)
+08:34:10 [LocCtrl] WATCHDOG silent=10421ms speed=0km/h — skip (not fast enough)
+08:34:11 [LocCtrl] WATCHDOG silent=12086ms speed=0km/h — skip (not fast enough)
+08:34:12 [LocCtrl] WATCHDOG silent=13098ms speed=0km/h — skip (not fast enough)
+08:34:13 [LocCtrl] WATCHDOG silent=14111ms speed=0km/h — skip (not fast enough)
+08:34:14 [LocCtrl] WATCHDOG silent=15114ms speed=0km/h — skip (not fast enough)
+08:34:15 [LocCtrl] WATCHDOG silent=16118ms speed=0km/h — skip (not fast enough)
+08:34:16 [LocCtrl] WATCHDOG silent=17121ms speed=0km/h — skip (not fast enough)
+08:34:17 [LocCtrl] WATCHDOG silent=18123ms speed=0km/h — skip (not fast enough)
+08:34:18 [LocCtrl] WATCHDOG silent=19128ms speed=0km/h — skip (not fast enough)
+08:34:19 [LocCtrl] WATCHDOG silent=20135ms speed=0km/h — skip (not fast enough)
+08:34:20 [LocCtrl] WATCHDOG silent=21138ms speed=0km/h — skip (not fast enough)
+08:34:21 [LocCtrl] WATCHDOG silent=22146ms speed=0km/h — skip (not fast enough)
+08:34:22 [LocCtrl] #16 lat=34.410553 lon=132.440355 raw=0.0km/h filt=4.3 good=0.0(prev=0.0) acc=4m age=3031ms brg=129 | dPos=8.8m dSpd=0.67 posCh=true spdCh=true stale=0ms frozen=false fast=false drift=8.8m lost=false
+08:34:22 [LocCtrl] ACTION=GPS_OK mapUpdate spd=4km/h total=343523m moving=true
+08:34:22 [LocCtrl] #17 lat=34.410553 lon=132.440352 raw=0.0km/h filt=3.7 good=0.0(prev=0.0) acc=4m age=2243ms brg=129 | dPos=0.2m dSpd=0.00 posCh=false spdCh=false stale=226ms frozen=false fast=false drift=0.2m lost=false
+08:34:22 [LocCtrl] ACTION=GPS_OK mapUpdate spd=4km/h total=343523m moving=true
+08:34:22 [LocCtrl] #18 lat=34.410556 lon=132.440354 raw=0.0km/h filt=3.1 good=0.0(prev=0.0) acc=4m age=1263ms brg=129 | dPos=0.3m dSpd=0.01 posCh=false spdCh=false stale=241ms frozen=false fast=false drift=0.3m lost=false
+08:34:22 [LocCtrl] ACTION=GPS_OK mapUpdate spd=3km/h total=343523m moving=true
+08:34:22 [LocCtrl] #19 lat=34.410557 lon=132.440355 raw=0.0km/h filt=2.7 good=0.0(prev=0.0) acc=4m age=324ms brg=129 | dPos=0.4m dSpd=0.01 posCh=false spdCh=false stale=319ms frozen=false fast=false drift=0.4m lost=false
+08:34:22 [LocCtrl] ACTION=GPS_OK mapUpdate spd=3km/h total=343523m moving=true
+08:34:23 [LocCtrl] #20 lat=34.410534 lon=132.440344 raw=0.2km/h filt=2.3 good=0.0(prev=0.0) acc=4m age=182ms brg=129 | dPos=2.4m dSpd=0.05 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=2.4m lost=false
+08:34:23 [LocCtrl] ACTION=GPS_OK mapUpdate spd=2km/h total=343523m moving=true
+08:34:25 [LocCtrl] #21 lat=34.410512 lon=132.440338 raw=0.3km/h filt=2.0 good=0.0(prev=0.0) acc=4m age=527ms brg=129 | dPos=2.5m dSpd=0.03 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=2.5m lost=false
+08:34:25 [LocCtrl] ACTION=GPS_OK mapUpdate spd=2km/h total=343523m moving=true
+08:34:25 [LocCtrl] #22 lat=34.410502 lon=132.440333 raw=0.3km/h filt=1.7 good=0.0(prev=0.0) acc=4m age=312ms brg=129 | dPos=1.1m dSpd=0.01 posCh=false spdCh=false stale=780ms frozen=false fast=false drift=1.1m lost=false
+08:34:25 [LocCtrl] ACTION=GPS_OK mapUpdate spd=2km/h total=343523m moving=true
+08:34:26 [LocCtrl] #23 lat=34.410499 lon=132.440332 raw=0.2km/h filt=1.5 good=0.0(prev=0.0) acc=4m age=313ms brg=129 | dPos=1.5m dSpd=0.04 posCh=false spdCh=false stale=1773ms frozen=false fast=false drift=1.5m lost=false
+08:34:26 [LocCtrl] ACTION=GPS_OK mapUpdate spd=1km/h total=343523m moving=true
+08:34:27 [LocCtrl] #24 lat=34.410498 lon=132.440332 raw=0.1km/h filt=1.3 good=0.0(prev=0.0) acc=4m age=130ms brg=129 | dPos=1.5m dSpd=0.06 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=1.5m lost=false
+08:34:29 [LocCtrl] ACTION=GPS_OK mapUpdate spd=1km/h total=343523m moving=true
+08:34:30 [LocCtrl] #25 lat=34.410498 lon=132.440332 raw=0.1km/h filt=1.1 good=0.0(prev=0.0) acc=4m age=2001ms brg=129 | dPos=0.0m dSpd=0.01 posCh=false spdCh=false stale=2819ms frozen=false fast=false drift=0.0m lost=false
+08:34:30 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=true
+08:34:30 [LocCtrl] #26 lat=34.410498 lon=132.440332 raw=0.0km/h filt=0.9 good=0.0(prev=0.0) acc=3m age=1029ms brg=129 | dPos=0.0m dSpd=0.02 posCh=false spdCh=false stale=2853ms frozen=false fast=false drift=0.0m lost=false
+08:34:30 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=true
+08:34:30 [LocCtrl] #27 lat=34.410498 lon=132.440332 raw=0.0km/h filt=0.8 good=0.0(prev=0.0) acc=3m age=223ms brg=129 | dPos=0.0m dSpd=0.02 posCh=false spdCh=false stale=3089ms frozen=true fast=false drift=0.0m lost=false
+08:34:30 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=true
+08:34:32 [LocCtrl] #28 lat=34.410498 lon=132.440332 raw=0.0km/h filt=0.7 good=0.0(prev=0.0) acc=2m age=681ms brg=129 | dPos=0.0m dSpd=0.03 posCh=false spdCh=false stale=4520ms frozen=true fast=false drift=0.0m lost=false
+08:34:32 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=true
+08:34:32 [LocCtrl] #29 lat=34.410498 lon=132.440332 raw=0.0km/h filt=0.6 good=0.0(prev=0.0) acc=2m age=94ms brg=129 | dPos=0.0m dSpd=0.03 posCh=false spdCh=false stale=4969ms frozen=true fast=false drift=0.0m lost=false
+08:34:32 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=true
+08:34:33 [LocCtrl] #30 lat=34.410498 lon=132.440332 raw=0.0km/h filt=0.5 good=0.0(prev=0.0) acc=2m age=422ms brg=129 | dPos=0.0m dSpd=0.03 posCh=false spdCh=false stale=6237ms frozen=true fast=false drift=0.0m lost=false
+08:34:33 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=true
+08:34:34 [LocCtrl] #31 lat=34.410498 lon=132.440332 raw=0.0km/h filt=0.4 good=0.0(prev=0.0) acc=3m age=254ms brg=129 | dPos=0.0m dSpd=0.03 posCh=false spdCh=false stale=7120ms frozen=true fast=false drift=0.0m lost=false
+08:34:34 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=true
+08:34:35 [LocCtrl] #32 lat=34.410498 lon=132.440332 raw=0.0km/h filt=0.4 good=0.0(prev=0.0) acc=2m age=379ms brg=129 | dPos=0.0m dSpd=0.03 posCh=false spdCh=false stale=8230ms frozen=true fast=false drift=0.0m lost=false
+08:34:35 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=true
+08:34:36 [LocCtrl] #33 lat=34.410498 lon=132.440332 raw=0.0km/h filt=0.3 good=0.0(prev=0.0) acc=2m age=311ms brg=129 | dPos=0.0m dSpd=0.03 posCh=false spdCh=false stale=9157ms frozen=true fast=false drift=0.0m lost=false
+08:34:36 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=true
+08:36:23 [LogHelper] Upload all log and delete
+08:36:31 [LocCtrl] START location + watchdog
+08:36:34 [LocCtrl] WATCHDOG silent=3041ms speed=0km/h — skip (not fast enough)
+08:36:35 [LocCtrl] WATCHDOG silent=4077ms speed=0km/h — skip (not fast enough)
+08:36:36 [LocCtrl] WATCHDOG silent=5132ms speed=0km/h — skip (not fast enough)
+08:36:37 [LocCtrl] WATCHDOG silent=6231ms speed=0km/h — skip (not fast enough)
+08:36:38 [LocCtrl] WATCHDOG silent=7258ms speed=0km/h — skip (not fast enough)
+08:36:39 [LocCtrl] WATCHDOG silent=8276ms speed=0km/h — skip (not fast enough)
+08:36:40 [LocCtrl] WATCHDOG silent=9310ms speed=0km/h — skip (not fast enough)
+08:36:41 [LocCtrl] WATCHDOG silent=10519ms speed=0km/h — skip (not fast enough)
+08:36:42 [LocCtrl] WATCHDOG silent=11527ms speed=0km/h — skip (not fast enough)
+08:36:43 [LocCtrl] WATCHDOG silent=12534ms speed=0km/h — skip (not fast enough)
+08:36:45 [LocCtrl] WATCHDOG silent=13876ms speed=0km/h — skip (not fast enough)
+08:36:46 [LocCtrl] WATCHDOG silent=14945ms speed=0km/h — skip (not fast enough)
+08:36:47 [LocCtrl] WATCHDOG silent=15965ms speed=0km/h — skip (not fast enough)
+08:36:48 [LocCtrl] WATCHDOG silent=17004ms speed=0km/h — skip (not fast enough)
+08:36:49 [LocCtrl] WATCHDOG silent=18023ms speed=0km/h — skip (not fast enough)
+08:36:50 [LocCtrl] WATCHDOG silent=19041ms speed=0km/h — skip (not fast enough)
+08:36:51 [LocCtrl] WATCHDOG silent=20076ms speed=0km/h — skip (not fast enough)
+08:36:52 [LocCtrl] WATCHDOG silent=21096ms speed=0km/h — skip (not fast enough)
+08:36:53 [LocCtrl] WATCHDOG silent=22164ms speed=0km/h — skip (not fast enough)
+08:36:54 [LocCtrl] WATCHDOG silent=23180ms speed=0km/h — skip (not fast enough)
+08:36:55 [LocCtrl] WATCHDOG silent=24201ms speed=0km/h — skip (not fast enough)
+08:36:56 [LocCtrl] WATCHDOG silent=25230ms speed=0km/h — skip (not fast enough)
+08:36:57 [LocCtrl] WATCHDOG silent=26249ms speed=0km/h — skip (not fast enough)
+08:36:58 [LocCtrl] WATCHDOG silent=27262ms speed=0km/h — skip (not fast enough)
+08:36:59 [LocCtrl] WATCHDOG silent=28280ms speed=0km/h — skip (not fast enough)
+08:37:00 [LocCtrl] WATCHDOG silent=29303ms speed=0km/h — skip (not fast enough)
+08:37:01 [LocCtrl] WATCHDOG silent=30330ms speed=0km/h — skip (not fast enough)
+08:37:02 [LocCtrl] WATCHDOG silent=31368ms speed=0km/h — skip (not fast enough)
+08:37:03 [LocCtrl] WATCHDOG silent=32386ms speed=0km/h — skip (not fast enough)
+08:37:04 [LocCtrl] #1 lat=34.410586 lon=132.440208 raw=0.0km/h filt=0.0 good=0.0(prev=0.0) acc=25m age=5005ms brg=129 | dPos=-1.0m dSpd=-1.00 posCh=true spdCh=true stale=0ms frozen=false fast=false drift=0.0m lost=false
+08:37:04 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=true
+08:37:09 [LocCtrl] #2 lat=34.410600 lon=132.440194 raw=0.6km/h filt=0.1 good=0.0(prev=0.0) acc=23m age=3484ms brg=321 | dPos=2.0m dSpd=0.18 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=2.0m lost=false
+08:37:09 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=true
+08:37:18 [LocCtrl] #3 lat=34.410615 lon=132.440207 raw=0.8km/h filt=0.2 good=0.0(prev=0.0) acc=16m age=6008ms brg=19 | dPos=2.0m dSpd=0.05 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=2.0m lost=false
+08:37:18 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=true
+08:37:25 [LocCtrl] #4 lat=34.410577 lon=132.440185 raw=1.1km/h filt=0.3 good=0.0(prev=0.0) acc=25m age=5297ms brg=206 | dPos=4.6m dSpd=0.09 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=4.6m lost=false
+08:37:25 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=true
+08:38:12 [LocCtrl] #5 lat=34.411138 lon=132.440092 raw=6.4km/h filt=1.3 good=6.4(prev=0.0) acc=8m age=2266ms brg=329 | dPos=62.9m dSpd=1.47 posCh=true spdCh=true stale=0ms frozen=false fast=false drift=62.9m lost=false
+08:38:13 [LocCtrl] ACTION=GPS_OK mapUpdate spd=1km/h total=343523m moving=true
+08:38:16 [LocCtrl] #6 lat=34.410994 lon=132.440050 raw=5.6km/h filt=1.9 good=5.6(prev=6.4) acc=8m age=4157ms brg=319 | dPos=16.5m dSpd=0.24 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=16.5m lost=false
+08:38:16 [LocCtrl] ACTION=GPS_OK mapUpdate spd=2km/h total=343523m moving=false
+08:38:16 [LocCtrl] #7 lat=34.410950 lon=132.440034 raw=5.4km/h filt=2.4 good=5.4(prev=5.6) acc=8m age=3368ms brg=318 | dPos=5.1m dSpd=0.04 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=5.1m lost=false
+08:38:16 [LocCtrl] ACTION=GPS_OK mapUpdate spd=2km/h total=343523m moving=false
+08:38:16 [LocCtrl] #8 lat=34.410916 lon=132.440020 raw=5.3km/h filt=2.9 good=0.0(prev=5.4) acc=7m age=2516ms brg=314 | dPos=4.0m dSpd=0.04 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=4.0m lost=false
+08:38:16 [LocCtrl] ACTION=GPS_OK mapUpdate spd=3km/h total=343523m moving=true
+08:38:17 [LocCtrl] #9 lat=34.410891 lon=132.440006 raw=5.1km/h filt=3.2 good=0.0(prev=0.0) acc=7m age=1863ms brg=311 | dPos=3.0m dSpd=0.05 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=3.0m lost=false
+08:38:17 [LocCtrl] ACTION=GPS_OK mapUpdate spd=3km/h total=343523m moving=true
+08:38:17 [LocCtrl] #10 lat=34.410867 lon=132.439993 raw=4.8km/h filt=3.4 good=0.0(prev=0.0) acc=7m age=1060ms brg=304 | dPos=3.0m dSpd=0.08 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=3.0m lost=false
+08:38:17 [LocCtrl] ACTION=GPS_OK mapUpdate spd=3km/h total=343523m moving=true
+08:38:20 [LocCtrl] WATCHDOG silent=3528ms speed=0km/h — skip (not fast enough)
+08:38:22 [LocCtrl] WATCHDOG silent=4755ms speed=0km/h — skip (not fast enough)
+08:38:24 [LocCtrl] WATCHDOG silent=6776ms speed=0km/h — skip (not fast enough)
+08:38:25 [LocCtrl] WATCHDOG silent=7789ms speed=0km/h — skip (not fast enough)
+08:38:26 [LocCtrl] #11 lat=34.410704 lon=132.439957 raw=0.7km/h filt=3.0 good=0.0(prev=0.0) acc=6m age=1806ms brg=275 | dPos=18.4m dSpd=1.15 posCh=true spdCh=true stale=0ms frozen=false fast=false drift=18.4m lost=false
+08:38:26 [LocCtrl] ACTION=GPS_OK mapUpdate spd=3km/h total=343523m moving=true
+08:38:26 [LocCtrl] #12 lat=34.410686 lon=132.439959 raw=0.3km/h filt=2.6 good=0.0(prev=0.0) acc=6m age=1001ms brg=129 | dPos=2.0m dSpd=0.11 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=2.0m lost=false
+08:38:26 [LocCtrl] ACTION=GPS_OK mapUpdate spd=3km/h total=343523m moving=true
+08:38:26 [LocCtrl] #13 lat=34.410673 lon=132.439958 raw=0.2km/h filt=2.2 good=0.0(prev=0.0) acc=6m age=244ms brg=129 | dPos=1.4m dSpd=0.04 posCh=false spdCh=false stale=219ms frozen=false fast=false drift=1.4m lost=false
+08:38:26 [LocCtrl] ACTION=GPS_OK mapUpdate spd=2km/h total=343523m moving=true
+08:38:29 [LocCtrl] #14 lat=34.410659 lon=132.439962 raw=0.1km/h filt=1.9 good=0.0(prev=0.0) acc=6m age=1104ms brg=129 | dPos=3.0m dSpd=0.06 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=3.0m lost=false
+08:38:29 [LocCtrl] ACTION=GPS_OK mapUpdate spd=2km/h total=343523m moving=true
+08:38:29 [LocCtrl] #15 lat=34.410646 lon=132.439961 raw=0.1km/h filt=1.6 good=0.0(prev=0.0) acc=6m age=201ms brg=129 | dPos=1.5m dSpd=0.00 posCh=false spdCh=false stale=101ms frozen=false fast=false drift=1.5m lost=false
+08:38:37 [LocCtrl] ACTION=GPS_OK mapUpdate spd=2km/h total=343523m moving=true
+08:38:37 [LocCtrl] WATCHDOG silent=8211ms speed=0km/h — skip (not fast enough)
+08:38:37 [LocCtrl] #16 lat=34.410642 lon=132.439960 raw=0.0km/h filt=1.4 good=0.0(prev=0.0) acc=6m age=7433ms brg=129 | dPos=1.9m dSpd=0.01 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=1.9m lost=false
+08:38:37 [LocCtrl] ACTION=GPS_OK mapUpdate spd=1km/h total=343523m moving=true
+08:38:37 [LocCtrl] #17 lat=34.410641 lon=132.439960 raw=0.0km/h filt=1.2 good=0.0(prev=0.0) acc=6m age=6446ms brg=129 | dPos=0.1m dSpd=0.01 posCh=false spdCh=false stale=14ms frozen=false fast=false drift=0.1m lost=false
+08:38:37 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=true
+08:38:37 [LocCtrl] #18 lat=34.410640 lon=132.439960 raw=0.0km/h filt=1.0 good=0.0(prev=0.0) acc=6m age=5467ms brg=129 | dPos=0.2m dSpd=0.01 posCh=false spdCh=false stale=33ms frozen=false fast=false drift=0.2m lost=false
+08:38:37 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=true
+08:38:51 [LocCtrl] #19 lat=34.410529 lon=132.440038 raw=0.1km/h filt=0.9 good=0.0(prev=0.0) acc=5m age=4890ms brg=129 | dPos=14.4m dSpd=0.02 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=14.4m lost=false
+08:38:51 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=false
+08:38:51 [LocCtrl] #20 lat=34.410525 lon=132.440040 raw=0.0km/h filt=0.8 good=0.0(prev=0.0) acc=5m age=982ms brg=129 | dPos=0.4m dSpd=0.02 posCh=false spdCh=false stale=85ms frozen=false fast=false drift=0.4m lost=false
+08:38:51 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=false
+08:38:51 [LocCtrl] #21 lat=34.410525 lon=132.440040 raw=0.0km/h filt=0.6 good=0.0(prev=0.0) acc=5m age=212ms brg=129 | dPos=0.4m dSpd=0.02 posCh=false spdCh=false stale=328ms frozen=false fast=false drift=0.4m lost=false
+08:38:51 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=false
+08:38:52 [LocCtrl] #22 lat=34.410525 lon=132.440040 raw=0.0km/h filt=0.5 good=0.0(prev=0.0) acc=5m age=226ms brg=129 | dPos=0.5m dSpd=0.03 posCh=false spdCh=false stale=1393ms frozen=false fast=false drift=0.5m lost=false
+08:38:52 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=false
+08:38:53 [LocCtrl] #23 lat=34.410525 lon=132.440040 raw=0.0km/h filt=0.5 good=0.0(prev=0.0) acc=5m age=462ms brg=129 | dPos=0.5m dSpd=0.03 posCh=false spdCh=false stale=2557ms frozen=false fast=false drift=0.5m lost=false
+08:38:53 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=true
+08:38:54 [LocCtrl] #24 lat=34.410525 lon=132.440040 raw=0.0km/h filt=0.4 good=0.0(prev=0.0) acc=5m age=61ms brg=129 | dPos=0.5m dSpd=0.03 posCh=false spdCh=false stale=3211ms frozen=true fast=false drift=0.5m lost=false
+08:38:54 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=true
+08:38:55 [LocCtrl] #25 lat=34.410525 lon=132.440040 raw=0.0km/h filt=0.3 good=0.0(prev=0.0) acc=5m age=294ms brg=129 | dPos=0.5m dSpd=0.03 posCh=false spdCh=false stale=4404ms frozen=true fast=false drift=0.5m lost=false
+08:38:55 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=true
+08:38:56 [LocCtrl] #26 lat=34.410525 lon=132.440040 raw=0.0km/h filt=0.3 good=0.0(prev=0.0) acc=5m age=271ms brg=129 | dPos=0.5m dSpd=0.03 posCh=false spdCh=false stale=5396ms frozen=true fast=false drift=0.5m lost=false
+08:38:56 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=true
+08:38:57 [LocCtrl] #27 lat=34.410498 lon=132.440110 raw=0.3km/h filt=0.3 good=0.0(prev=0.0) acc=5m age=68ms brg=129 | dPos=7.5m dSpd=0.07 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=7.5m lost=false
+08:38:57 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=true
+08:38:58 [LocCtrl] #28 lat=34.410490 lon=132.440135 raw=0.3km/h filt=0.3 good=0.0(prev=0.0) acc=5m age=217ms brg=129 | dPos=2.4m dSpd=0.01 posCh=true spdCh=false stale=0ms frozen=false fast=false drift=2.4m lost=false
+08:38:58 [LocCtrl] ACTION=GPS_OK mapUpdate spd=0km/h total=343523m moving=true
+08:39:14 [LogHelper] Upload all log and delete
